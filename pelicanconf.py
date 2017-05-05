@@ -50,7 +50,7 @@ PLUGIN_PATHS = ['pelican-plugins']
 PLUGINS = ['i18n_subsites', 'tipue_search', 'pelican-toc']
 
 TOC = {
-    'TOC_HEADERS' : '^h[1-6]',  # What headers should be included in the generated toc
+    'TOC_HEADERS' : '^h[2-6]',  # What headers should be included in the generated toc
                                 # Expected format is a regular expression
 
     'TOC_RUN'     : 'true'      # Default value for toc generation, if it does not evaluate
