@@ -10,7 +10,7 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-SITEURL = 'http://yichuans.github.io/datasheet/output'
+SITEURL = 'https://yichuans.github.io/datasheet/output'
 # SITEURL = 'http://human-footprint.yichuans.me/output'
 SEARCH_URL = SITEURL + '/search'
 
