@@ -2,7 +2,7 @@ Title: DANUBE DELTA
 Tags: ROMANIA
 Author: UNEP-WCMC
 Year: 1991
-Date: 2017-04-20 14:28:41
+Date: 2017-05-18 15:38:42
 
 DANUBE DELTA
 ============
@@ -298,7 +298,7 @@ Roman, R. (1990a). *S.O.S. Danube Delta! An Open letter to Prime Minister Petre 
 
 Salathé, T. (2008), *Navigation and Wetlands*. Follow Up to Ramsar Advisory Misson 53 Danube Delta / Kyliiske Mouth Ramsar Site, Ukraine. Ramsar Secretariat, Gland, Switzerland.
 
-*[Schiermeier,](http://www.nature.com/news/about/aboutus.html#Schiermeier) Q. (2005). Ukraine deluged by protests over plans for Danube delta.* Nature, *13 October.*
+[*Schiermeier,* ](http://www.nature.com/news/about/aboutus.html#Schiermeier) *Q. (2005). Ukraine deluged by protests over plans for Danube delta.* Nature, *13 October.*
 
 Schneider, E. (1990). *The Wet Grasslands in the Catchment Area of the Lower Danube*. International Wet-Pasture Symposium, Rastatt, 1988.
 
@@ -325,56 +325,56 @@ Various conflicting names and areas for the component core protected areas of th
 <table>
 <thead>
 <tr class="header">
-<th>Rosca-Buhaiova</th>
-<th></th>
-<th>Ia</th>
+<th align="left">Rosca-Buhaiova</th>
+<th align="left"></th>
+<th align="left">Ia</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>+ Letea Forest +Lake Hrecisca</td>
-<td>18,145 ha</td>
-<td>Ia</td>
+<td align="left">+ Letea Forest +Lake Hrecisca</td>
+<td align="left">18,145 ha</td>
+<td align="left">Ia</td>
 </tr>
 <tr class="even">
-<td>Sfintu Gheorghe-Perisor-Zatoane</td>
-<td>16,400 ha</td>
-<td></td>
+<td align="left">Sfintu Gheorghe-Perisor-Zatoane</td>
+<td align="left">16,400 ha</td>
+<td align="left"></td>
 </tr>
 <tr class="odd">
-<td>Perisor-Zatoane-Sacalin</td>
-<td>15,400 ha</td>
-<td>Unassigned</td>
+<td align="left">Perisor-Zatoane-Sacalin</td>
+<td align="left">15,400 ha</td>
+<td align="left">Unassigned</td>
 </tr>
 <tr class="even">
-<td>Istria</td>
-<td>8,000 ha</td>
-<td></td>
+<td align="left">Istria</td>
+<td align="left">8,000 ha</td>
+<td align="left"></td>
 </tr>
 <tr class="odd">
-<td>Periteasca-Leahova-Gura Portita</td>
-<td>3,900 ha</td>
-<td>Unassigned</td>
+<td align="left">Periteasca-Leahova-Gura Portita</td>
+<td align="left">3,900 ha</td>
+<td align="left">Unassigned</td>
 </tr>
 <tr class="even">
-<td>Carorman Forest</td>
-<td>840 ha</td>
-<td></td>
+<td align="left">Carorman Forest</td>
+<td align="left">840 ha</td>
+<td align="left"></td>
 </tr>
 <tr class="odd">
-<td>Hasmacul Mare</td>
-<td>800 ha</td>
-<td></td>
+<td align="left">Hasmacul Mare</td>
+<td align="left">800 ha</td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td>Popina Island</td>
-<td>98 ha</td>
-<td>Ia</td>
+<td align="left">Popina Island</td>
+<td align="left">98 ha</td>
+<td align="left">Ia</td>
 </tr>
 <tr class="odd">
-<td>Erenciuc Forest</td>
-<td>41 ha</td>
-<td></td>
+<td align="left">Erenciuc Forest</td>
+<td align="left">41 ha</td>
+<td align="left"></td>
 </tr>
 </tbody>
 </table>
@@ -384,66 +384,66 @@ Various conflicting names and areas for the component core protected areas of th
 <table>
 <thead>
 <tr class="header">
-<th>Sahalin-Zatoane</th>
-<th>24,250 ha</th>
-<th>Ia</th>
+<th align="left">Sahalin-Zatoane</th>
+<th align="left">24,250 ha</th>
+<th align="left">Ia</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Sf. Gheorghe- Perisor-Palade</td>
-<td>15,000 ha</td>
-<td>Unassigned</td>
+<td align="left">Sf. Gheorghe- Perisor-Palade</td>
+<td align="left">15,000 ha</td>
+<td align="left">Unassigned</td>
 </tr>
 <tr class="even">
-<td>Rosca-Buhaiova</td>
-<td>9,625 ha</td>
-<td>Ia</td>
+<td align="left">Rosca-Buhaiova</td>
+<td align="left">9,625 ha</td>
+<td align="left">Ia</td>
 </tr>
 <tr class="odd">
-<td>Padurea-Letea</td>
-<td>5,212 ha</td>
-<td>Unassigned</td>
+<td align="left">Padurea-Letea</td>
+<td align="left">5,212 ha</td>
+<td align="left">Unassigned</td>
 </tr>
 <tr class="even">
-<td>Periteasca-Biscericuta Portita</td>
-<td>4,125 ha</td>
-<td>Ia</td>
+<td align="left">Periteasca-Biscericuta Portita</td>
+<td align="left">4,125 ha</td>
+<td align="left">Ia</td>
 </tr>
 <tr class="odd">
-<td>Carorman</td>
-<td>2,250 ha</td>
-<td>Ia</td>
+<td align="left">Carorman</td>
+<td align="left">2,250 ha</td>
+<td align="left">Ia</td>
 </tr>
 <tr class="even">
-<td>Histria (Grindul Lupilor Marchelul)</td>
-<td>1,410 ha</td>
-<td></td>
+<td align="left">Histria (Grindul Lupilor Marchelul)</td>
+<td align="left">1,410 ha</td>
+<td align="left"></td>
 </tr>
 <tr class="odd">
-<td>Letea-Hasmacul Mare</td>
-<td>701 ha</td>
-<td>IV</td>
+<td align="left">Letea-Hasmacul Mare</td>
+<td align="left">701 ha</td>
+<td align="left">IV</td>
 </tr>
 <tr class="even">
-<td>Murighiol</td>
-<td>600 ha</td>
-<td>IV</td>
+<td align="left">Murighiol</td>
+<td align="left">600 ha</td>
+<td align="left">IV</td>
 </tr>
 <tr class="odd">
-<td>Erenciuc</td>
-<td>400 ha</td>
-<td>Ia</td>
+<td align="left">Erenciuc</td>
+<td align="left">400 ha</td>
+<td align="left">Ia</td>
 </tr>
 <tr class="even">
-<td>Istria-Sinoe</td>
-<td>350 ha</td>
-<td>Ia</td>
+<td align="left">Istria-Sinoe</td>
+<td align="left">350 ha</td>
+<td align="left">Ia</td>
 </tr>
 <tr class="odd">
-<td>Saraturile-Murighiol</td>
-<td>87 ha</td>
-<td>Ia</td>
+<td align="left">Saraturile-Murighiol</td>
+<td align="left">87 ha</td>
+<td align="left">Ia</td>
 </tr>
 </tbody>
 </table>
@@ -453,78 +453,78 @@ Various conflicting names and areas for the component core protected areas of th
 <table>
 <thead>
 <tr class="header">
-<th>Sacalin Zatoane</th>
-<th>21,410 ha</th>
+<th align="left">Sacalin Zatoane</th>
+<th align="left">21,410 ha</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Potcoava</td>
-<td>625 ha</td>
+<td align="left">Potcoava</td>
+<td align="left">625 ha</td>
 </tr>
 <tr class="even">
-<td>Rosca-Buhaiova</td>
-<td>9,625 ha</td>
+<td align="left">Rosca-Buhaiova</td>
+<td align="left">9,625 ha</td>
 </tr>
 <tr class="odd">
-<td>Istria Sinoe</td>
-<td>400 ha</td>
+<td align="left">Istria Sinoe</td>
+<td align="left">400 ha</td>
 </tr>
 <tr class="even">
-<td>Periteasca Biscericuta Portija</td>
-<td>4,125 ha</td>
+<td align="left">Periteasca Biscericuta Portija</td>
+<td align="left">4,125 ha</td>
 </tr>
 <tr class="odd">
-<td>Rotundu</td>
-<td>228 ha</td>
+<td align="left">Rotundu</td>
+<td align="left">228 ha</td>
 </tr>
 <tr class="even">
-<td>Letea</td>
-<td>2,825 ha</td>
+<td align="left">Letea</td>
+<td align="left">2,825 ha</td>
 </tr>
 <tr class="odd">
-<td>Capul Dolosman</td>
-<td>125 ha</td>
+<td align="left">Capul Dolosman</td>
+<td align="left">125 ha</td>
 </tr>
 <tr class="even">
-<td>Raducu</td>
-<td>2,500 ha</td>
+<td align="left">Raducu</td>
+<td align="left">2,500 ha</td>
 </tr>
 <tr class="odd">
-<td>Nebunu</td>
-<td>115 ha</td>
+<td align="left">Nebunu</td>
+<td align="left">115 ha</td>
 </tr>
 <tr class="even">
-<td>Grindul Chituc</td>
-<td>2,300 ha</td>
+<td align="left">Grindul Chituc</td>
+<td align="left">2,300 ha</td>
 </tr>
 <tr class="odd">
-<td>Belciug</td>
-<td>110 ha</td>
+<td align="left">Belciug</td>
+<td align="left">110 ha</td>
 </tr>
 <tr class="even">
-<td>Carorman</td>
-<td>2,250 ha</td>
+<td align="left">Carorman</td>
+<td align="left">2,250 ha</td>
 </tr>
 <tr class="odd">
-<td>Popina</td>
-<td>98 ha</td>
+<td align="left">Popina</td>
+<td align="left">98 ha</td>
 </tr>
 <tr class="even">
-<td>Grindu Lupilor</td>
-<td>2,075 ha</td>
+<td align="left">Grindu Lupilor</td>
+<td align="left">2,075 ha</td>
 </tr>
 <tr class="odd">
-<td>Saraturile-Murighiol</td>
-<td>87 ha</td>
+<td align="left">Saraturile-Murighiol</td>
+<td align="left">87 ha</td>
 </tr>
 <tr class="even">
-<td>Vatafu-Lungulet</td>
-<td>1,625 ha</td>
+<td align="left">Vatafu-Lungulet</td>
+<td align="left">1,625 ha</td>
 </tr>
 <tr class="odd">
-<td>Erenciuc</td>
-<td>50 ha</td>
+<td align="left">Erenciuc</td>
+<td align="left">50 ha</td>
 </tr>
 </tbody>
 </table>

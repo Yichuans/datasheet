@@ -2,7 +2,7 @@ Title: NANDA DEVI & VALLEY OF FLOWERS NATIONAL PARKS
 Tags: INDIA
 Author: UNEP-WCMC
 Year: 1988
-Date: 2017-04-20 14:28:33
+Date: 2017-05-18 15:38:37
 
 NANDA DEVI & VALLEY OF FLOWERS NATIONAL PARKS
 =============================================
@@ -53,14 +53,14 @@ IUCN MANAGEMENT CATEGORY
 <table>
 <thead>
 <tr class="header">
-<th>Nanda Devi National Park:</th>
-<th>Ia Strict Nature Reserve</th>
+<th align="left">Nanda Devi National Park:</th>
+<th align="left">Ia Strict Nature Reserve</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Valley Of Flowers National Park:</td>
-<td>II National Park</td>
+<td align="left">Valley Of Flowers National Park:</td>
+<td align="left">II National Park</td>
 </tr>
 </tbody>
 </table>

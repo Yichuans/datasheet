@@ -2,7 +2,7 @@ Title: Western Tien-Shan
 Tags: Kazakhstan; Kyrgyzstan; Uzbekistan
 Author: UNEP-WCMC
 Year: 2016
-Date: 2017-04-20 14:28:49
+Date: 2017-05-18 15:38:47
 
 Western Tien-Shan
 =================
@@ -65,18 +65,18 @@ IUCN MANAGEMENT CATEGORY
 <table>
 <thead>
 <tr class="header">
-<th>Ia Strict Nature Reserve</th>
-<th>Aksu-Jabagly State Nature Reserve</th>
+<th align="left">Ia Strict Nature Reserve</th>
+<th align="left">Aksu-Jabagly State Nature Reserve</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Ia Strict Nature Reserve</td>
-<td>Besh-Aral State Nature Reserve</td>
+<td align="left">Ia Strict Nature Reserve</td>
+<td align="left">Besh-Aral State Nature Reserve</td>
 </tr>
 <tr class="even">
-<td>II National Park</td>
-<td>Sairam-Ugam National Park</td>
+<td align="left">II National Park</td>
+<td align="left">Sairam-Ugam National Park</td>
 </tr>
 </tbody>
 </table>
@@ -124,110 +124,121 @@ The property consists of 13 distinct component parts that cumulatively cover 528
 <table>
 <thead>
 <tr class="header">
-<th><strong>State Party</strong></th>
-<th><strong>Protected Area</strong></th>
-<th><strong>Component</strong></th>
-<th><strong>Property (ha)</strong></th>
+<th align="left"><strong>State Party</strong></th>
+<th align="left"><strong>Protected Area</strong></th>
+<th align="left"><strong>Component</strong></th>
+<th align="left"><strong>Property (ha)</strong></th>
+<th align="left"><strong>Buffer zone (ha)</strong></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Kazakhstan</td>
-<td>Karatau</td>
-<td>34,300</td>
-<td>17,490</td>
+<td align="left">Kazakhstan</td>
+<td align="left">Karatau</td>
+<td align="left">34,300</td>
+<td align="left">17,490</td>
 </tr>
 <tr class="even">
-<td></td>
-<td>Aksu-Jabagly</td>
-<td>Core/Main area</td>
-<td>131,704</td>
+<td align="left"></td>
+<td align="left">Aksu-Jabagly</td>
+<td align="left">Core/Main area</td>
+<td align="left">131,704</td>
+<td align="left">25,800</td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td>Karabastau area</td>
-<td>100</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left">Karabastau area</td>
+<td align="left">100</td>
+<td align="left">0</td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
-<td>Aulie area</td>
-<td>130</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left">Aulie area</td>
+<td align="left">130</td>
+<td align="left">0</td>
 </tr>
 <tr class="odd">
-<td></td>
-<td>Sairam-Ugam</td>
-<td>Boraldaitau area</td>
-<td>26,971</td>
+<td align="left"></td>
+<td align="left">Sairam-Ugam</td>
+<td align="left">Boraldaitau area</td>
+<td align="left">26,971</td>
+<td align="left">4,900</td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
-<td>Irsu-Daubabin area</td>
-<td>45,509</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left">Irsu-Daubabin area</td>
+<td align="left">45,509</td>
+<td align="left">8,200</td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td>Sairam-Ugam area</td>
-<td>76,573</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left">Sairam-Ugam area</td>
+<td align="left">76,573</td>
+<td align="left">13,900</td>
 </tr>
 <tr class="even">
-<td><strong>Sub total</strong></td>
-<td><strong>315,287</strong></td>
-<td><strong>70,290</strong></td>
+<td align="left"><strong>Sub total</strong></td>
+<td align="left"><strong>315,287</strong></td>
+<td align="left"><strong>70,290</strong></td>
 </tr>
 <tr class="odd">
-<td>Kyrgyzstan</td>
-<td>Sary-Chelek</td>
-<td>23,868</td>
-<td>18,080</td>
+<td align="left">Kyrgyzstan</td>
+<td align="left">Sary-Chelek</td>
+<td align="left">23,868</td>
+<td align="left">18,080</td>
 </tr>
 <tr class="even">
-<td></td>
-<td>Besh-Aral</td>
-<td>Core area</td>
-<td>112,018</td>
+<td align="left"></td>
+<td align="left">Besh-Aral</td>
+<td align="left">Core area</td>
+<td align="left">112,018</td>
+<td align="left">0</td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td>Shandalash area</td>
-<td>25,270</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left">Shandalash area</td>
+<td align="left">25,270</td>
+<td align="left">0</td>
 </tr>
 <tr class="even">
-<td></td>
-<td>Padysha-Ata</td>
-<td>16,010</td>
-<td>14,545</td>
+<td align="left"></td>
+<td align="left">Padysha-Ata</td>
+<td align="left">16,010</td>
+<td align="left">14,545</td>
 </tr>
 <tr class="odd">
-<td><strong>Sub total</strong></td>
-<td><strong>177,166</strong></td>
-<td><strong>32,625</strong></td>
+<td align="left"><strong>Sub total</strong></td>
+<td align="left"><strong>177,166</strong></td>
+<td align="left"><strong>32,625</strong></td>
 </tr>
 <tr class="even">
-<td>Uzbekistan</td>
-<td>Chatkal</td>
-<td>Maidantal area</td>
-<td>24,706</td>
+<td align="left">Uzbekistan</td>
+<td align="left">Chatkal</td>
+<td align="left">Maidantal area</td>
+<td align="left">24,706</td>
+<td align="left">0</td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td>Bashkizilsay area</td>
-<td>11,018</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left">Bashkizilsay area</td>
+<td align="left">11,018</td>
+<td align="left">0</td>
 </tr>
 <tr class="even">
-<td><strong>Sub total</strong></td>
-<td><strong>35,724</strong></td>
-<td><strong>0</strong></td>
+<td align="left"><strong>Sub total</strong></td>
+<td align="left"><strong>35,724</strong></td>
+<td align="left"><strong>0</strong></td>
 </tr>
 <tr class="odd">
-<td><strong>Total</strong></td>
-<td><strong>528,177</strong></td>
-<td><strong>102,915</strong></td>
+<td align="left"><strong>Total</strong></td>
+<td align="left"><strong>528,177</strong></td>
+<td align="left"><strong>102,915</strong></td>
 </tr>
 </tbody>
 </table>

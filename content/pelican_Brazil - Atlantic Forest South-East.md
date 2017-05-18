@@ -2,7 +2,7 @@ Title: ATLANTIC FOREST SOUTH-EAST RESERVES
 Tags: BRAZIL
 Author: UNEP-WCMC
 Year: 1999
-Date: 2017-04-20 14:28:25
+Date: 2017-05-18 15:38:32
 
  ATLANTIC FOREST SOUTH-EAST RESERVES
 ====================================
@@ -49,144 +49,144 @@ IUCN MANAGEMENT CATEGORY
 <table>
 <tbody>
 <tr class="odd">
-<td>Estaçao Ecologica Juréia-Itatins</td>
-<td>Ia Strict nature Reserve: Ecological Station</td>
+<td align="left">Estaçao Ecologica Juréia-Itatins</td>
+<td align="left">Ia Strict nature Reserve: Ecological Station</td>
 </tr>
 <tr class="even">
-<td>Estaçao Ecologica Guarequeçaba</td>
-<td>Ia Strict nature Reserve: Ecological Station</td>
+<td align="left">Estaçao Ecologica Guarequeçaba</td>
+<td align="left">Ia Strict nature Reserve: Ecological Station</td>
 </tr>
 <tr class="odd">
-<td>Estaçao Ecológica Xituê</td>
-<td>Ia Strict nature Reserve: Ecological Station</td>
+<td align="left">Estaçao Ecológica Xituê</td>
+<td align="left">Ia Strict nature Reserve: Ecological Station</td>
 </tr>
 <tr class="even">
-<td>Estaçao Ecologica Chauás</td>
-<td>Ia Strict nature Reserve: Ecological Station</td>
+<td align="left">Estaçao Ecologica Chauás</td>
+<td align="left">Ia Strict nature Reserve: Ecological Station</td>
 </tr>
 <tr class="odd">
-<td>Estaçao Ecologica Ilha do Mel</td>
-<td>Ia Strict nature Reserve: Ecological Station</td>
+<td align="left">Estaçao Ecologica Ilha do Mel</td>
+<td align="left">Ia Strict nature Reserve: Ecological Station</td>
 </tr>
 <tr class="even">
-<td>Estaçao Ecologica Guaraguaçu</td>
-<td>Ia Strict nature Reserve: Ecological Station</td>
+<td align="left">Estaçao Ecologica Guaraguaçu</td>
+<td align="left">Ia Strict nature Reserve: Ecological Station</td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td>Parque Estadual Jacupiranga</td>
-<td>II State Park</td>
+<td align="left">Parque Estadual Jacupiranga</td>
+<td align="left">II State Park</td>
 </tr>
 <tr class="odd">
-<td>Parque Estadual Intervales</td>
-<td>II State Park</td>
+<td align="left">Parque Estadual Intervales</td>
+<td align="left">II State Park</td>
 </tr>
 <tr class="even">
-<td>Parque Estadual Carlos Botelho</td>
-<td>II State Park</td>
+<td align="left">Parque Estadual Carlos Botelho</td>
+<td align="left">II State Park</td>
 </tr>
 <tr class="odd">
-<td>Parque Nacional Superagüi</td>
-<td>II National Park</td>
+<td align="left">Parque Nacional Superagüi</td>
+<td align="left">II National Park</td>
 </tr>
 <tr class="even">
-<td>Parque Estadual Turístico do Alto Ribeira</td>
-<td>II State Tourist Park</td>
+<td align="left">Parque Estadual Turístico do Alto Ribeira</td>
+<td align="left">II State Tourist Park</td>
 </tr>
 <tr class="odd">
-<td>Parque Estadual Lauraceas</td>
-<td>II State Park</td>
+<td align="left">Parque Estadual Lauraceas</td>
+<td align="left">II State Park</td>
 </tr>
 <tr class="even">
-<td>Parque Estadual Ilha do Cardoso</td>
-<td>II State Park</td>
+<td align="left">Parque Estadual Ilha do Cardoso</td>
+<td align="left">II State Park</td>
 </tr>
 <tr class="odd">
-<td>Parque Estadual Roberto E. Lange</td>
-<td>II State Park</td>
+<td align="left">Parque Estadual Roberto E. Lange</td>
+<td align="left">II State Park</td>
 </tr>
 <tr class="even">
-<td>Parque Estadual Pariquera-Abaxio</td>
-<td>II State Park</td>
+<td align="left">Parque Estadual Pariquera-Abaxio</td>
+<td align="left">II State Park</td>
 </tr>
 <tr class="odd">
-<td>Parque Estadual Pico do Marumbi</td>
-<td>II State Park</td>
+<td align="left">Parque Estadual Pico do Marumbi</td>
+<td align="left">II State Park</td>
 </tr>
 <tr class="even">
-<td>Parque Estadual Serra do Graciosa</td>
-<td>II State Park</td>
+<td align="left">Parque Estadual Serra do Graciosa</td>
+<td align="left">II State Park</td>
 </tr>
 <tr class="odd">
-<td>Parque Estadual Pau Oco</td>
-<td>II State Park</td>
+<td align="left">Parque Estadual Pau Oco</td>
+<td align="left">II State Park</td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="odd">
-<td>Ilha Comprida</td>
-<td>II Wildlife Zone in Environmental Protection Area</td>
+<td align="left">Ilha Comprida</td>
+<td align="left">II Wildlife Zone in Environmental Protection Area</td>
 </tr>
 <tr class="even">
-<td>Serras de Arrepiado e Tombador</td>
-<td>II Wildlife Zone in Environmental Protection Area</td>
+<td align="left">Serras de Arrepiado e Tombador</td>
+<td align="left">II Wildlife Zone in Environmental Protection Area</td>
 </tr>
 <tr class="odd">
-<td>Serras do Cordeiro, Paratiu, Itapuã e Itinga</td>
-<td>II Wildlife Zone in Environmental Protection Area</td>
+<td align="left">Serras do Cordeiro, Paratiu, Itapuã e Itinga</td>
+<td align="left">II Wildlife Zone in Environmental Protection Area</td>
 </tr>
 <tr class="even">
-<td>Serra do Itapitangui e Mandira</td>
-<td>II Wildlife Zone in Environmental Protection Area</td>
+<td align="left">Serra do Itapitangui e Mandira</td>
+<td align="left">II Wildlife Zone in Environmental Protection Area</td>
 </tr>
 <tr class="odd">
-<td>Mangues</td>
-<td>II Wildlife Zone in Environmental Protection Area</td>
+<td align="left">Mangues</td>
+<td align="left">II Wildlife Zone in Environmental Protection Area</td>
 </tr>
 <tr class="even">
-<td>Ilhas Oceânicas</td>
-<td>II Wildlife Zone in Environmental Protection Area</td>
+<td align="left">Ilhas Oceânicas</td>
+<td align="left">II Wildlife Zone in Environmental Protection Area</td>
 </tr>
 <tr class="odd">
-<td> </td>
-<td> </td>
+<td align="left"> </td>
+<td align="left"> </td>
 </tr>
 <tr class="even">
-<td>Salto Morato Reserva Particular de Patrimônio Natural</td>
-<td>II Private Natural Heritage Reserve</td>
+<td align="left">Salto Morato Reserva Particular de Patrimônio Natural</td>
+<td align="left">II Private Natural Heritage Reserve</td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td>Area de Proteçao Ambiental Cananéia-Iguape-Peruibe</td>
-<td>V Prot.Landscape: Environmental Protection Area</td>
+<td align="left">Area de Proteçao Ambiental Cananéia-Iguape-Peruibe</td>
+<td align="left">V Prot.Landscape: Environmental Protection Area</td>
 </tr>
 <tr class="odd">
-<td>Area de Proteçao Ambiental da Serra do Mar</td>
-<td>V Prot.Landscape: Environmental Protection Area</td>
+<td align="left">Area de Proteçao Ambiental da Serra do Mar</td>
+<td align="left">V Prot.Landscape: Environmental Protection Area</td>
 </tr>
 <tr class="even">
-<td>Area de Proteçao Ambiental Guaraqueçaba</td>
-<td>V Prot.Landscape: Environmental Protection Area</td>
+<td align="left">Area de Proteçao Ambiental Guaraqueçaba</td>
+<td align="left">V Prot.Landscape: Environmental Protection Area</td>
 </tr>
 <tr class="odd">
-<td>Area de Proteçao Ambiental Ilha Comprida</td>
-<td>V Prot.Landscape: Environmental Protection Area</td>
+<td align="left">Area de Proteçao Ambiental Ilha Comprida</td>
+<td align="left">V Prot.Landscape: Environmental Protection Area</td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="odd">
-<td>Area de Proteçao Ambiental Marumbi</td>
-<td>V Tourist Preservation Zone: Env’l Protection Area</td>
+<td align="left">Area de Proteçao Ambiental Marumbi</td>
+<td align="left">V Tourist Preservation Zone: Env’l Protection Area</td>
 </tr>
 </tbody>
 </table>
@@ -217,306 +217,306 @@ DATES AND HISTORY OF ESTABLISHMENT
 <table>
 <thead>
 <tr class="header">
-<th><strong>Site</strong></th>
-<th><strong>Area (ha)</strong></th>
-<th><strong>Date</strong></th>
-<th><strong>Decree/Law</strong></th>
+<th align="left"><strong>Site</strong></th>
+<th align="left"><strong>Area (ha)</strong></th>
+<th align="left"><strong>Date</strong></th>
+<th align="left"><strong>Decree/Law</strong></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Jacupiranga State Park (part)</td>
-<td>119,000</td>
-<td>1969</td>
-<td>São Paulo State Decree / Law 145</td>
+<td align="left">Jacupiranga State Park (part)</td>
+<td align="left">119,000</td>
+<td align="left">1969</td>
+<td align="left">São Paulo State Decree / Law 145</td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="odd">
-<td>Intervales State Park</td>
-<td>42,926</td>
-<td>1995</td>
-<td>São Paulo State Decrees 4926 &amp;40135</td>
+<td align="left">Intervales State Park</td>
+<td align="left">42,926</td>
+<td align="left">1995</td>
+<td align="left">São Paulo State Decrees 4926 &amp;40135</td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="odd">
-<td>Carlos Botelho State Park</td>
-<td>37,644</td>
-<td>1982</td>
-<td>São Paulo State Decree 19499</td>
+<td align="left">Carlos Botelho State Park</td>
+<td align="left">37,644</td>
+<td align="left">1982</td>
+<td align="left">São Paulo State Decree 19499</td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="odd">
-<td>Superagüi National Park</td>
-<td>37,000</td>
-<td>1997</td>
-<td>Federal Decree 97688</td>
+<td align="left">Superagüi National Park</td>
+<td align="left">37,000</td>
+<td align="left">1997</td>
+<td align="left">Federal Decree 97688</td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="odd">
-<td>Alto Ribeira State Tourist Park</td>
-<td>35,884</td>
-<td>1958/1960</td>
-<td>São Paulo State Law 5973 / Decree 32283</td>
+<td align="left">Alto Ribeira State Tourist Park</td>
+<td align="left">35,884</td>
+<td align="left">1958/1960</td>
+<td align="left">São Paulo State Law 5973 / Decree 32283</td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="odd">
-<td>Lauraceas State Park</td>
-<td>27,524</td>
-<td>1979/1989</td>
-<td>Paraná State Decrees 10729 &amp; 5894</td>
+<td align="left">Lauraceas State Park</td>
+<td align="left">27,524</td>
+<td align="left">1979/1989</td>
+<td align="left">Paraná State Decrees 10729 &amp; 5894</td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="odd">
-<td>Ilha do Cardoso State Park</td>
-<td>22,500</td>
-<td>1962</td>
-<td>São Paulo State Decree 40319</td>
+<td align="left">Ilha do Cardoso State Park</td>
+<td align="left">22,500</td>
+<td align="left">1962</td>
+<td align="left">São Paulo State Decree 40319</td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="odd">
-<td><p>Roberto E.Lange State Park/</p>
+<td align="left"><p>Roberto E.Lange State Park/</p>
 <p>Tourist Preservation Zone</p></td>
-<td>2,698</td>
-<td>1984 /1985</td>
-<td>Paraná State Decrees 5308 &amp; 4627</td>
+<td align="left">2,698</td>
+<td align="left">1984 /1985</td>
+<td align="left">Paraná State Decrees 5308 &amp; 4627</td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="odd">
-<td>Pariquera-Abaxio State Park</td>
-<td>2,360</td>
-<td>1994</td>
-<td>São Paulo State Law 8873</td>
+<td align="left">Pariquera-Abaxio State Park</td>
+<td align="left">2,360</td>
+<td align="left">1994</td>
+<td align="left">São Paulo State Law 8873</td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="odd">
-<td>Pico do Marumbi State Park</td>
-<td>2,342</td>
-<td>1990</td>
-<td>Paraná State Decree 7300</td>
+<td align="left">Pico do Marumbi State Park</td>
+<td align="left">2,342</td>
+<td align="left">1990</td>
+<td align="left">Paraná State Decree 7300</td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="odd">
-<td><p>Serra da Graciosa State Park/</p>
+<td align="left"><p>Serra da Graciosa State Park/</p>
 <p>Tourist Preservation Zone</p></td>
-<td>1,189</td>
-<td>1985/1990</td>
-<td>Paraná State Decrees 5308 &amp; 7302</td>
+<td align="left">1,189</td>
+<td align="left">1985/1990</td>
+<td align="left">Paraná State Decrees 5308 &amp; 7302</td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="odd">
-<td><p>Pau Oco State Park/</p>
+<td align="left"><p>Pau Oco State Park/</p>
 <p>Tourist Preservation Zone</p></td>
-<td>905</td>
-<td>1985/1994</td>
-<td>Paraná State Decrees 5308 &amp; 74266</td>
+<td align="left">905</td>
+<td align="left">1985/1994</td>
+<td align="left">Paraná State Decrees 5308 &amp; 74266</td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="odd">
-<td>Juréia-Itatins Ecological Station</td>
-<td>119,270</td>
-<td>1986/1987</td>
-<td>São Paulo State Law 5649 / Decree 24646</td>
+<td align="left">Juréia-Itatins Ecological Station</td>
+<td align="left">119,270</td>
+<td align="left">1986/1987</td>
+<td align="left">São Paulo State Law 5649 / Decree 24646</td>
 </tr>
 <tr class="even">
-<td>Guarequeçaba Ecological Station</td>
-<td>13,638</td>
-<td>1982/1992</td>
-<td>Federal Decree 87222</td>
+<td align="left">Guarequeçaba Ecological Station</td>
+<td align="left">13,638</td>
+<td align="left">1982/1992</td>
+<td align="left">Federal Decree 87222</td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td>Xituê Ecological Station</td>
-<td>3,095</td>
-<td>1987</td>
-<td>São Paulo State Decree 26890</td>
+<td align="left">Xituê Ecological Station</td>
+<td align="left">3,095</td>
+<td align="left">1987</td>
+<td align="left">São Paulo State Decree 26890</td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td>Chauás Ecological Station</td>
-<td>2,699</td>
-<td>1987</td>
-<td>São Paulo State Decree 26719</td>
+<td align="left">Chauás Ecological Station</td>
+<td align="left">2,699</td>
+<td align="left">1987</td>
+<td align="left">São Paulo State Decree 26719</td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td>Ilha do Mel Ecological Station</td>
-<td>2,241</td>
-<td>1982</td>
-<td>Paraná State Decree 5454</td>
+<td align="left">Ilha do Mel Ecological Station</td>
+<td align="left">2,241</td>
+<td align="left">1982</td>
+<td align="left">Paraná State Decree 5454</td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td>Guaraguaçu Ecological Station</td>
-<td>1,150</td>
-<td>1992</td>
-<td>Paraná State Decree 1230</td>
+<td align="left">Guaraguaçu Ecological Station</td>
+<td align="left">1,150</td>
+<td align="left">1992</td>
+<td align="left">Paraná State Decree 1230</td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td>Ilha Comprida Wildlife Zone</td>
-<td>7,687</td>
-<td>1989</td>
-<td>São Paulo State Decree 30817</td>
+<td align="left">Ilha Comprida Wildlife Zone</td>
+<td align="left">7,687</td>
+<td align="left">1989</td>
+<td align="left">São Paulo State Decree 30817</td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td><p>Serras de Arrepiado e Tombador</p>
+<td align="left"><p>Serras de Arrepiado e Tombador</p>
 <p>Wildlife Zone</p></td>
-<td>5,125</td>
-<td>1984 /1985</td>
-<td>Federal Decrees 90347 &amp; 91892</td>
+<td align="left">5,125</td>
+<td align="left">1984 /1985</td>
+<td align="left">Federal Decrees 90347 &amp; 91892</td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td><p>Serras do Cordeiro, Paratiu,</p>
+<td align="left"><p>Serras do Cordeiro, Paratiu,</p>
 <p>Itapuã e Itinga Wildlife Zone</p></td>
-<td>5,000</td>
-<td>1984 /1985</td>
-<td>Federal Decrees 90347 &amp; 91892</td>
+<td align="left">5,000</td>
+<td align="left">1984 /1985</td>
+<td align="left">Federal Decrees 90347 &amp; 91892</td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td><p>Serra do Itapitangui e Mandira</p>
+<td align="left"><p>Serra do Itapitangui e Mandira</p>
 <p>Wildlife Zone</p></td>
-<td>3,437</td>
-<td>1984 /1985</td>
-<td>Federal Decrees 90347 &amp; 91892</td>
+<td align="left">3,437</td>
+<td align="left">1984 /1985</td>
+<td align="left">Federal Decrees 90347 &amp; 91892</td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td>Mangues Wildlife Zone</td>
-<td>1,070#</td>
-<td>1984 /1985</td>
-<td>Federal Decrees 90347 &amp; 91892</td>
+<td align="left">Mangues Wildlife Zone</td>
+<td align="left">1,070#</td>
+<td align="left">1984 /1985</td>
+<td align="left">Federal Decrees 90347 &amp; 91892</td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td>Ilhas Oceânicas Wildlife Zone</td>
-<td>93</td>
-<td>1984 /1985</td>
-<td>Federal Decrees 90347 &amp; 91892</td>
+<td align="left">Ilhas Oceânicas Wildlife Zone</td>
+<td align="left">93</td>
+<td align="left">1984 /1985</td>
+<td align="left">Federal Decrees 90347 &amp; 91892</td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td>Salto Morato Private Natural Reserve</td>
-<td>1,716</td>
-<td>1994</td>
-<td>Port. 132/94</td>
+<td align="left">Salto Morato Private Natural Reserve</td>
+<td align="left">1,716</td>
+<td align="left">1994</td>
+<td align="left">Port. 132/94</td>
 </tr>
 </tbody>
 </table>
@@ -528,58 +528,58 @@ These Environmental Protection Areas form the buffer zone and UNESCO MAB Biosphe
 <table>
 <tbody>
 <tr class="odd">
-<td>Cananéia-Iuape-Peruibe EPA</td>
-<td>441,037</td>
-<td>1984 /1985</td>
-<td>Federal Decrees 90347 &amp; 91892</td>
+<td align="left">Cananéia-Iuape-Peruibe EPA</td>
+<td align="left">441,037</td>
+<td align="left">1984 /1985</td>
+<td align="left">Federal Decrees 90347 &amp; 91892</td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="odd">
-<td>Serra do Mar EPA</td>
-<td>419,562</td>
-<td>1984</td>
-<td>Federal Decree 22717</td>
+<td align="left">Serra do Mar EPA</td>
+<td align="left">419,562</td>
+<td align="left">1984</td>
+<td align="left">Federal Decree 22717</td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="odd">
-<td>Guaraqueçaba EPA</td>
-<td>289,782</td>
-<td>1985 /1990</td>
-<td>Federal Decree 90883</td>
+<td align="left">Guaraqueçaba EPA</td>
+<td align="left">289,782</td>
+<td align="left">1985 /1990</td>
+<td align="left">Federal Decree 90883</td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="odd">
-<td>Ilha Comprida EPA</td>
-<td>11,236</td>
-<td></td>
-<td>São Paulo State Decree 30817</td>
+<td align="left">Ilha Comprida EPA</td>
+<td align="left">11,236</td>
+<td align="left"></td>
+<td align="left">São Paulo State Decree 30817</td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="odd">
-<td>Marumbi EPA</td>
-<td>61,940</td>
-<td>1990</td>
-<td>Paraná State Law 7919</td>
+<td align="left">Marumbi EPA</td>
+<td align="left">61,940</td>
+<td align="left">1990</td>
+<td align="left">Paraná State Law 7919</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@ Title: MOSI-OA-TUNYA / VICTORIA FALLS
 Tags: ZAMBIA,ZIMBABWE
 Author: UNEP-WCMC
 Year: 1989
-Date: 2017-04-20 14:28:49
+Date: 2017-05-18 15:38:47
 
 MOSI-OA-TUNYA / VICTORIA FALLS 
 ===============================
@@ -36,18 +36,18 @@ IUCN MANAGEMENT CATEGORY
 <table>
 <thead>
 <tr class="header">
-<th>Mosi-oa-Tunya National Park:</th>
-<th>II National Park</th>
+<th align="left">Mosi-oa-Tunya National Park:</th>
+<th align="left">II National Park</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Victoria Falls National Monument:</td>
-<td>III National Monument</td>
+<td align="left">Victoria Falls National Monument:</td>
+<td align="left">III National Monument</td>
 </tr>
 <tr class="even">
-<td>Zambezi National Park (part):</td>
-<td>II National Park</td>
+<td align="left">Zambezi National Park (part):</td>
+<td align="left">II National Park</td>
 </tr>
 </tbody>
 </table>

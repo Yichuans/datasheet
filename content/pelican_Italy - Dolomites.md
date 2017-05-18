@@ -2,7 +2,7 @@ Title: THE DOLOMITES
 Tags: ITALY
 Author: UNEP-WCMC
 Year: 2009
-Date: 2017-04-20 14:28:34
+Date: 2017-05-18 15:38:38
 
 THE DOLOMITES
 =============
@@ -63,58 +63,58 @@ These protected areas are included within or overlap the nominated sites:
 <table>
 <thead>
 <tr class="header">
-<th>Parco Nationale Dolomiti Bellunesi:</th>
-<th>II National Park</th>
+<th align="left">Parco Nationale Dolomiti Bellunesi:</th>
+<th align="left">II National Park</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Parco Naturale Provinciale Adamello Brenta:</td>
-<td>V Protected Landscape</td>
+<td align="left">Parco Naturale Provinciale Adamello Brenta:</td>
+<td align="left">V Protected Landscape</td>
 </tr>
 <tr class="even">
-<td>Parco Naturale Regionale Dolomiti d’Ampezzo:</td>
-<td>V Protected Landscape</td>
+<td align="left">Parco Naturale Regionale Dolomiti d’Ampezzo:</td>
+<td align="left">V Protected Landscape</td>
 </tr>
 <tr class="odd">
-<td>Parco Naturale Regionale Dolomiti Friulane:</td>
-<td>V Protected Landscape</td>
+<td align="left">Parco Naturale Regionale Dolomiti Friulane:</td>
+<td align="left">V Protected Landscape</td>
 </tr>
 <tr class="even">
-<td>Parco Naturale Dolomiti di Sesto:</td>
-<td>V Protected Landscape</td>
+<td align="left">Parco Naturale Dolomiti di Sesto:</td>
+<td align="left">V Protected Landscape</td>
 </tr>
 <tr class="odd">
-<td>Parco Naturale Fanes-Serres-Braies:</td>
-<td>V Protected Landscape</td>
+<td align="left">Parco Naturale Fanes-Serres-Braies:</td>
+<td align="left">V Protected Landscape</td>
 </tr>
 <tr class="even">
-<td>Parco Naturale Prov. Panareggio &amp; Pale di San Martino:</td>
-<td>V Protected Landscape</td>
+<td align="left">Parco Naturale Prov. Panareggio &amp; Pale di San Martino:</td>
+<td align="left">V Protected Landscape</td>
 </tr>
 <tr class="odd">
-<td>Parco Naturale Püez Odle:</td>
-<td>V Protected Landscape</td>
+<td align="left">Parco Naturale Püez Odle:</td>
+<td align="left">V Protected Landscape</td>
 </tr>
 <tr class="even">
-<td>Parco Naturale dello Sciliar:</td>
-<td>V Protected Landscape</td>
+<td align="left">Parco Naturale dello Sciliar:</td>
+<td align="left">V Protected Landscape</td>
 </tr>
 <tr class="odd">
-<td>Riserva Nationale Vette Feltrine:</td>
-<td>IV Habitat/Species Management Area</td>
+<td align="left">Riserva Nationale Vette Feltrine:</td>
+<td align="left">IV Habitat/Species Management Area</td>
 </tr>
 <tr class="even">
-<td>Riserva Nationale Monte Pavione:</td>
-<td>IV Habitat/Species Management Area</td>
+<td align="left">Riserva Nationale Monte Pavione:</td>
+<td align="left">IV Habitat/Species Management Area</td>
 </tr>
 <tr class="odd">
-<td>Riserva Naturale Somadida:</td>
-<td>IV Habitat/Species Management Area</td>
+<td align="left">Riserva Naturale Somadida:</td>
+<td align="left">IV Habitat/Species Management Area</td>
 </tr>
 <tr class="even">
-<td>Riserva Naturale Monte Pelmo:</td>
-<td>Unassigned</td>
+<td align="left">Riserva Naturale Monte Pelmo:</td>
+<td align="left">Unassigned</td>
 </tr>
 </tbody>
 </table>
@@ -132,165 +132,147 @@ The site is a series of nine related mountain massifs in northeastern Italy near
 <table>
 <thead>
 <tr class="header">
-<th><strong>Site</strong></th>
-<th><strong>Longitude</strong></th>
-<th><strong>Latitude</strong></th>
-<th><strong>Province </strong></th>
-<th><strong>Region</strong></th>
+<th align="left"><strong>Site</strong></th>
+<th align="left"><strong>Longitude</strong></th>
+<th align="left"><strong>Latitude</strong></th>
+<th align="left"><strong>Province </strong></th>
+<th align="left"><strong>Region</strong></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td>1.</td>
-<td>Pelmo Croda da Lago</td>
-<td>N 12°06’49”</td>
-<td>E 46°26’52”</td>
-<td>Belluno</td>
-<td>Veneto</td>
+<td align="left">1.</td>
+<td align="left">Pelmo Croda da Lago</td>
+<td align="left">N 12°06’49”</td>
+<td align="left">E 46°26’52”</td>
+<td align="left">Belluno</td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td>2,</td>
-<td>Marmolada</td>
-<td>N 11°51’23”</td>
-<td>E 46°25’54”</td>
-<td><p>Trento,</p>
+<td align="left">2,</td>
+<td align="left">Marmolada</td>
+<td align="left">N 11°51’23”</td>
+<td align="left">E 46°25’54”</td>
+<td align="left"><p>Trento,</p>
 <p>Belluno</p></td>
-<td>Trentino-Alto Adige / Sudtirol Veneto</td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td>3.</td>
-<td>Pale di San Martino – San Lucano Dolomiti Bellunesi - Vette Feltrine</td>
-<td>N 11°59’39”</td>
-<td>E 46°14’51”</td>
-<td><p>Trento,</p>
+<td align="left">3.</td>
+<td align="left">Pale di San Martino – San Lucano Dolomiti Bellunesi - Vette Feltrine</td>
+<td align="left">N 11°59’39”</td>
+<td align="left">E 46°14’51”</td>
+<td align="left"><p>Trento,</p>
 <p>Belluno</p></td>
-<td>Trentino-Alto Adige / Sudtirol Veneto</td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td>4.</td>
-<td><p>Dolomiti Friulane /</p>
+<td align="left">4.</td>
+<td align="left"><p>Dolomiti Friulane /</p>
 <p>Dolomitis Furlanis e d’Oltre Piave</p></td>
-<td>N 12°30’13”</td>
-<td>E 46°20’48”</td>
-<td>Pordenone, Udine Belluno</td>
-<td>Friuli-Venezia Giulia Veneto</td>
+<td align="left">N 12°30’13”</td>
+<td align="left">E 46°20’48”</td>
+<td align="left">Pordenone, Udine Belluno</td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td>5.</td>
-<td><p>Dolomiti Settentrionali /</p>
+<td align="left">5.</td>
+<td align="left"><p>Dolomiti Settentrionali /</p>
 <p>Nördliche Dolomiten</p></td>
-<td>N 12°09’47”</td>
-<td>E 46°36’47”</td>
-<td><p>Trento, Bolzano</p>
+<td align="left">N 12°09’47”</td>
+<td align="left">E 46°36’47”</td>
+<td align="left"><p>Trento, Bolzano</p>
 <p>Belluno</p></td>
-<td>Trentino-Alto Adige / Sudtirol Veneto</td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td>6.</td>
-<td><p>Puez - Odle / Puez - Geisler /</p>
+<td align="left">6.</td>
+<td align="left"><p>Puez - Odle / Puez - Geisler /</p>
 <p>Pöz - Odles</p></td>
-<td>N 11°48’24”</td>
-<td>E 46°36’13</td>
-<td>Bolzano</td>
-<td>Trentino-Alto Adige / Sudtirol</td>
+<td align="left">N 11°48’24”</td>
+<td align="left">E 46°36’13</td>
+<td align="left">Bolzano</td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td>7.</td>
-<td><p>Sciliar - Catinaccio /</p>
+<td align="left">7.</td>
+<td align="left"><p>Sciliar - Catinaccio /</p>
 <p>Schlern - Rosengarten - Latemar</p></td>
-<td>N 11°36’10”</td>
-<td>E 46°27’16”</td>
-<td><p>Trento,</p>
+<td align="left">N 11°36’10”</td>
+<td align="left">E 46°27’16”</td>
+<td align="left"><p>Trento,</p>
 <p>Bolzano</p></td>
-<td>Trentino-Alto Adige / Sudtirol</td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td>8.</td>
-<td>Rio delle Foglie / Bletterbach</td>
-<td>N 11°25’14”</td>
-<td>E 46°21’37”</td>
-<td>Bolzano</td>
-<td>Trentino-Alto Adige / Sudtirol</td>
+<td align="left">8.</td>
+<td align="left">Rio delle Foglie / Bletterbach</td>
+<td align="left">N 11°25’14”</td>
+<td align="left">E 46°21’37”</td>
+<td align="left">Bolzano</td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td>9.</td>
-<td>Dolomiti di Brenta</td>
-<td>N 10°54’09”</td>
-<td>E 46°09’51”</td>
-<td>Trento</td>
-<td>Trentino-Alto Adige / Sudtirol</td>
+<td align="left">9.</td>
+<td align="left">Dolomiti di Brenta</td>
+<td align="left">N 10°54’09”</td>
+<td align="left">E 46°09’51”</td>
+<td align="left">Trento</td>
 </tr>
 </tbody>
 </table>
@@ -371,67 +353,67 @@ The total area of the core zones is 141,902.8 ha. The buffer zones total 89.266.
 <table>
 <thead>
 <tr class="header">
-<th><strong>Component Sites</strong></th>
-<th><strong>Area of Core Zone (ha)</strong></th>
-<th><strong>Area of Buffer Zone (ha) </strong></th>
+<th align="left"><strong>Component Sites</strong></th>
+<th align="left"><strong>Area of Core Zone (ha)</strong></th>
+<th align="left"><strong>Area of Buffer Zone (ha) </strong></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>1. Pelmo Croda da Lago</td>
-<td>4,343.6</td>
-<td>2,427.3</td>
+<td align="left">1. Pelmo Croda da Lago</td>
+<td align="left">4,343.6</td>
+<td align="left">2,427.3</td>
 </tr>
 <tr class="even">
-<td>2. Marmolada</td>
-<td>2,207.5</td>
-<td>578.0</td>
+<td align="left">2. Marmolada</td>
+<td align="left">2,207.5</td>
+<td align="left">578.0</td>
 </tr>
 <tr class="odd">
-<td><p>3. Pale di San Martino - San Lucano -</p>
+<td align="left"><p>3. Pale di San Martino - San Lucano -</p>
 <p>Dolomiti Bellunesi - Vette Feltrine</p></td>
-<td>31,665.7</td>
-<td>23,668.9</td>
+<td align="left">31,665.7</td>
+<td align="left">23,668.9</td>
 </tr>
 <tr class="even">
-<td>4. Dolomiti Friulane / Dolomitis Furlanis e d’Oltre Piave</td>
-<td>21,460.6</td>
-<td>25,027.6</td>
+<td align="left">4. Dolomiti Friulane / Dolomitis Furlanis e d’Oltre Piave</td>
+<td align="left">21,460.6</td>
+<td align="left">25,027.6</td>
 </tr>
 <tr class="odd">
-<td>5. Dolomiti Settentrionali / Nördliche Dolomiten</td>
-<td>53,586.0</td>
-<td>25,182.3</td>
+<td align="left">5. Dolomiti Settentrionali / Nördliche Dolomiten</td>
+<td align="left">53,586.0</td>
+<td align="left">25,182.3</td>
 </tr>
 <tr class="even">
-<td>6. Puez-Odle / Puez- Geisler / Pöz-Odles</td>
-<td>7,930.3</td>
-<td>2,863.5</td>
+<td align="left">6. Puez-Odle / Puez- Geisler / Pöz-Odles</td>
+<td align="left">7,930.3</td>
+<td align="left">2,863.5</td>
 </tr>
 <tr class="odd">
-<td>7. Sciliar-Catinaccio / Schlern-Rosengarten - Latemar</td>
-<td>9,302.1</td>
-<td>4,770.7</td>
+<td align="left">7. Sciliar-Catinaccio / Schlern-Rosengarten - Latemar</td>
+<td align="left">9,302.1</td>
+<td align="left">4,770.7</td>
 </tr>
 <tr class="even">
-<td>8. Rio delle Foglie / Bletterbach</td>
-<td>271,6</td>
-<td>547,4</td>
+<td align="left">8. Rio delle Foglie / Bletterbach</td>
+<td align="left">271,6</td>
+<td align="left">547,4</td>
 </tr>
 <tr class="odd">
-<td>9. Dolomiti di Brenta</td>
-<td>11,135.4</td>
-<td>4,201.0</td>
+<td align="left">9. Dolomiti di Brenta</td>
+<td align="left">11,135.4</td>
+<td align="left">4,201.0</td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
-<td></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="odd">
-<td><strong>TOTAL AREA (ha)</strong></td>
-<td><strong>141,902.8</strong></td>
-<td><strong>89.266.7</strong></td>
+<td align="left"><strong>TOTAL AREA (ha)</strong></td>
+<td align="left"><strong>141,902.8</strong></td>
+<td align="left"><strong>89.266.7</strong></td>
 </tr>
 </tbody>
 </table>
@@ -453,62 +435,62 @@ The area’s geomorphology is celebrated for its wide variety of types of terrai
 <table>
 <thead>
 <tr class="header">
-<th><strong>Site</strong></th>
-<th><strong>Key Features</strong></th>
+<th align="left"><strong>Site</strong></th>
+<th align="left"><strong>Key Features</strong></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>1. Pelmo -</p>
+<td align="left"><p>1. Pelmo -</p>
 <p>Croda da Lago</p></td>
-<td><p>• Dramatic landscape with wide range of landforms including towers, plateaux, ledges and landslides, and evidence of the last glacial maximum.</p>
+<td align="left"><p>• Dramatic landscape with wide range of landforms including towers, plateaux, ledges and landslides, and evidence of the last glacial maximum.</p>
 <p>• Late Permian to early Jurassic succession, with rock and fossil records, tectonic and sedimentological, across an interval of c.100 million years</p></td>
 </tr>
 <tr class="even">
-<td>2. Marmolada</td>
-<td><p>• Includes the highest summit of the Dolomites (3,343m), known as the Queen of the Dolomites”, a rocky massif with high relief and vertical walls.</p>
+<td align="left">2. Marmolada</td>
+<td align="left"><p>• Includes the highest summit of the Dolomites (3,343m), known as the Queen of the Dolomites”, a rocky massif with high relief and vertical walls.</p>
 <p>• Geological record of the Triassic sedimentary platform and overlying volcanic sediments</p></td>
 </tr>
 <tr class="odd">
-<td><p>3. Pale di San Martino- San Lucano-</p>
+<td align="left"><p>3. Pale di San Martino- San Lucano-</p>
 <p>Dolomiti Bellunesi- Vette Feltrine</p></td>
-<td><p>• Horseshoe-shaped site with typical dolomite landscapes including cliffs, plateaux, valleys, pinnacles and walls.</p>
+<td align="left"><p>• Horseshoe-shaped site with typical dolomite landscapes including cliffs, plateaux, valleys, pinnacles and walls.</p>
 <p>• One of the most complete stratigraphic series of the Dolomites from early Palaeozoic to the Cretaceous.</p></td>
 </tr>
 <tr class="even">
-<td><p>4. Dolomiti Friulane /</p>
+<td align="left"><p>4. Dolomiti Friulane /</p>
 <p>Dolomitis Furlanis</p>
 <p>e d’Oltre Piave</p></td>
-<td><p>• Many sheer rock walls, pinnacles, towers and valleys.</p>
+<td align="left"><p>• Many sheer rock walls, pinnacles, towers and valleys.</p>
 <p>• Stratigraphic succession dominated by dolomitic-calcareous rocks with repeated stratigraphy due to faulting.</p></td>
 </tr>
 <tr class="odd">
-<td><p>5. Dolomiti Settentrionali /</p>
+<td align="left"><p>5. Dolomiti Settentrionali /</p>
 <p>Nördliche Dolomiten</p></td>
-<td><p>• Extensive areas of mountainous topography. Three main mountain groups, with major plateaux in the northwestern part and rocky cliffs further south.</p>
+<td align="left"><p>• Extensive areas of mountainous topography. Three main mountain groups, with major plateaux in the northwestern part and rocky cliffs further south.</p>
 <p>• The most complete stratigraphic sequence of the Dolomites, with three-dimensional exposures of carbonate platforms.</p>
 <p>• Fossil records of international significance documenting recovery of life after the Permian-Triassic extinction; includes important reef and plant fossil remains.</p></td>
 </tr>
 <tr class="even">
-<td>6. Puez-Odle / Puez- Geisler/ Pöz-Odles</td>
-<td><p>• Two large dolomite plateaux isolated by sheer escarpments having some of the highest peaks of the Dolomites, and displaying a typical dolomite landscape.</p>
+<td align="left">6. Puez-Odle / Puez- Geisler/ Pöz-Odles</td>
+<td align="left"><p>• Two large dolomite plateaux isolated by sheer escarpments having some of the highest peaks of the Dolomites, and displaying a typical dolomite landscape.</p>
 <p>• Well preserved stratigraphic succession with little deformation, and internationally important stratigraphic and fossil-bearing horizons.</p></td>
 </tr>
 <tr class="odd">
-<td><p>7. Sciliar-Catinaccio /</p>
+<td align="left"><p>7. Sciliar-Catinaccio /</p>
 <p>Schlern-Rosengarten Latemar</p></td>
-<td><p>• Wide variety of landforms with sheer dolomite peaks and high relief.</p>
+<td align="left"><p>• Wide variety of landforms with sheer dolomite peaks and high relief.</p>
 <p>• Key Triassic stratigraphic and palaeontological localities, including the Latemar Reef exposure of an isolated carbonate platform, subject of many international studies.</p></td>
 </tr>
 <tr class="even">
-<td><p>8. Rio delle Foglie /</p>
+<td align="left"><p>8. Rio delle Foglie /</p>
 <p>Bletterbach</p></td>
-<td><p>• Deep and meandering gorge, creating the important geological exposure that is the key value of this component.</p>
+<td align="left"><p>• Deep and meandering gorge, creating the important geological exposure that is the key value of this component.</p>
 <p>• Well exposed succession of Permian-Triassic rocks, particularly important for documenting Permian palaeoenvironments, with trace fossil remains of vertebrate life at that time.</p></td>
 </tr>
 <tr class="odd">
-<td>9. Dolomiti di Brenta</td>
-<td><p>• Spectacular structural and climatic landforms including rock towers, steeples, ledges, cirques, landslides and a well developed karst system.</p>
+<td align="left">9. Dolomiti di Brenta</td>
+<td align="left"><p>• Spectacular structural and climatic landforms including rock towers, steeples, ledges, cirques, landslides and a well developed karst system.</p>
 <p>• Extensive exposures document the structural and stratigraphic evolution of the south alpine passive margin and the tectonic history of the Dolomites.</p></td>
 </tr>
 </tbody>

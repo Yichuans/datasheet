@@ -2,7 +2,7 @@ Title: KINABULU PARK
 Tags: MALAYSIA
 Author: UNEP-WCMC
 Year: 2000
-Date: 2017-04-20 14:28:37
+Date: 2017-05-18 15:38:40
 
 KINABULU PARK
 =============
@@ -178,9 +178,9 @@ Anon.(1998). *Memorandum of Understanding Between the Royal Botanical Gardens Ke
 
 Ancrenaz, M. *et al.* (2003). Aerial surveys give new estimates for orangutans in Sabah. *PLos Biology* 3, e3.
 
-Beaman, J. (2001). *[The Plants of Mount Kinabalu, Volume 5: Dicotyledon Families Magnoliaceae to Winteraceae](http://www.nhbs.com/the_plants_of_mount_kinabalu_volume_5_dicotyledon_tefno_139459.html).* Natural History Publications (Borneo) Sdn. Bhd., Kota Kinabalu, Sabah Malaysia / Royal Botanic Gardens, Kew, England.
+Beaman, J. (2001). [*The Plants of Mount Kinabalu, Volume 5: Dicotyledon Families Magnoliaceae to Winteraceae*](http://www.nhbs.com/the_plants_of_mount_kinabalu_volume_5_dicotyledon_tefno_139459.html). Natural History Publications (Borneo) Sdn. Bhd., Kota Kinabalu, Sabah Malaysia / Royal Botanic Gardens, Kew, England.
 
-Beaman, J., Anderson, C. & Beaman, R.(2001). *[The Plants of Mount Kinabalu, Volume 4: Dicotyledon Families Acanthaceae to Lythraceae](http://www.nhbs.com/the_plants_of_mount_kinabalu_volume_4_dicotyledon_tefno_27390.html).* Natural History Publications (Borneo) Sdn. Bhd., Kota Kinabalu, Sabah Malaysia / Royal Botanic Gardens, Kew, England.
+Beaman, J., Anderson, C. & Beaman, R.(2001). [*The Plants of Mount Kinabalu, Volume 4: Dicotyledon Families Acanthaceae to Lythraceae*](http://www.nhbs.com/the_plants_of_mount_kinabalu_volume_4_dicotyledon_tefno_27390.html). Natural History Publications (Borneo) Sdn. Bhd., Kota Kinabalu, Sabah Malaysia / Royal Botanic Gardens, Kew, England.
 
 Beaman, J. & Beaman, R (1998). [*The Plants of Mount Kinabalu, Volume 3: Gymnosperms and Non-Orchid Monocotyledons*](http://www.nhbs.com/the_plants_of_mount_kinabalu_volume_3_gymnosperms_tefno_27389.html). Natural History Publications (Borneo) Sdn. Bhd., Kota Kinabalu, Sabah Malaysia / Royal Botanic Gardens, Kew, England.
 
@@ -226,7 +226,7 @@ Mackinnon, J. & Philips, A. (1994). *A Field Guide to the Birds of Borneo, Sumat
 
 Nais, J. (1996). *Kinabalu Park and the Surrounding Indigenous Communities*. Working Paper No. 17, 1996. UNESCO, Paris.
 
-Parris, B., Beaman, R. & Beaman, J. (1992). *[The Plants of Mount Kinabalu, Volume 1: Ferns](http://www.nhbs.com/the_plants_of_mount_kinabalu_volume_1_ferns_tefno_27387.html).* Natural History Publications (Borneo) Sdn. Bhd.,Kota Kinabalu, Sabah Malaysia / Royal Botanic Gardens, Kew, U.K.
+Parris, B., Beaman, R. & Beaman, J. (1992). [*The Plants of Mount Kinabalu, Volume 1: Ferns*](http://www.nhbs.com/the_plants_of_mount_kinabalu_volume_1_ferns_tefno_27387.html). Natural History Publications (Borneo) Sdn. Bhd.,Kota Kinabalu, Sabah Malaysia / Royal Botanic Gardens, Kew, U.K.
 
 Phillipps, A.,Liew, F.& Bowden, D. (n.d.).*Kinabalu Park.* Globetrotter Visitor's Guides, New Holland, London, U.K.
 
@@ -244,7 +244,7 @@ Wikramanayake, E., Dinerstein, E. & Loucks, C. (2001). *Terrestrial Ecosystems o
 
 Wong, K. & Philips, A. (eds.) *Kinabalu Summit of Borneo*. Sabah Society, Koto Kinabalu, Sabah. 437 pp.
 
-Wood, J., Beaman, R. & Beaman,J. (1993).*[The Plants of Mount Kinabalu, Volume 2: Orchids](http://www.nhbs.com/the_plants_of_mount_kinabalu_volume_2_orchids_tefno_27388.html).* Natural History Publications (Borneo) Sdn. Bhd., Kota Kinabalu, Sabah Malaysia / Royal Botanic Gardens, Kew, England.
+Wood, J., Beaman, R. & Beaman,J. (1993).[*The Plants of Mount Kinabalu, Volume 2: Orchids*](http://www.nhbs.com/the_plants_of_mount_kinabalu_volume_2_orchids_tefno_27388.html). Natural History Publications (Borneo) Sdn. Bhd., Kota Kinabalu, Sabah Malaysia / Royal Botanic Gardens, Kew, England.
 
 WWF & IUCN. (1994-1995). *Centres of Plant Diversity - A Guide and Strategy for their Conservation*. 3 Volumes. IUCN Publication Unit, Cambridge.
 

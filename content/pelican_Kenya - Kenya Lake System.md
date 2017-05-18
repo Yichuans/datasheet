@@ -2,7 +2,7 @@ Title: KENYA LAKE SYSTEM IN THE GREAT RIFT VALLEY
 Tags: KENYA
 Author: UNEP-WCMC
 Year: 2011
-Date: 2017-04-20 14:28:35
+Date: 2017-05-18 15:38:39
 
 KENYA LAKE SYSTEM IN THE GREAT RIFT VALLEY
 ==========================================
@@ -75,51 +75,51 @@ The Kenya Lake System in the Great Rift Valley includes three lakes in the Rift 
 <table>
 <thead>
 <tr class="header">
-<th><blockquote>
+<th align="left"><blockquote>
 <p><strong>Name </strong></p>
 </blockquote></th>
-<th><blockquote>
+<th align="left"><blockquote>
 <p><strong>Location or Municipality </strong></p>
 </blockquote></th>
-<th><blockquote>
+<th align="left"><blockquote>
 <p><strong>Coordinates of centre point </strong></p>
 </blockquote></th>
-<th></th>
+<th align="left"></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><blockquote>
+<td align="left"><blockquote>
 <p>Lake Nakuru National Park</p>
 </blockquote></td>
-<td><blockquote>
+<td align="left"><blockquote>
 <p>Nakuru</p>
 </blockquote></td>
-<td><blockquote>
+<td align="left"><blockquote>
 <p>36°05’ 07.96” E, 0° 21’ 32.48” S</p>
 </blockquote></td>
-<td></td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td><blockquote>
+<td align="left"><blockquote>
 <p>Lake Bogoria National Reserve</p>
 </blockquote></td>
-<td><blockquote>
+<td align="left"><blockquote>
 <p>Baringo/Koibatek</p>
 </blockquote></td>
-<td><blockquote>
+<td align="left"><blockquote>
 <p>36°05’ 51.82” E, 0°15’ 30.12” N</p>
 </blockquote></td>
-<td></td>
+<td align="left"></td>
 </tr>
 <tr class="odd">
-<td><blockquote>
+<td align="left"><blockquote>
 <p>Lake Elementaita National Wildlife Sanctuary</p>
 </blockquote></td>
-<td><blockquote>
+<td align="left"><blockquote>
 <p>Gilgil</p>
 </blockquote></td>
-<td><blockquote>
+<td align="left"><blockquote>
 <p>36°14’ 23.92” E, 0° 26’ 33.47” S</p>
 </blockquote></td>
 </tr>
@@ -159,37 +159,37 @@ The inscribed World Heritage property combines a total area of 32,034 ha, which 
 <table>
 <thead>
 <tr class="header">
-<th><strong>Name </strong></th>
-<th><strong>Area of property (ha)</strong></th>
-<th><strong>Area of buffer zone (ha)</strong></th>
+<th align="left"><strong>Name </strong></th>
+<th align="left"><strong>Area of property (ha)</strong></th>
+<th align="left"><strong>Area of buffer zone (ha)</strong></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><blockquote>
+<td align="left"><blockquote>
 <p>Lake Nakuru National Park</p>
 </blockquote></td>
-<td>18,800</td>
-<td>0</td>
+<td align="left">18,800</td>
+<td align="left">0</td>
 </tr>
 <tr class="even">
-<td><blockquote>
+<td align="left"><blockquote>
 <p>Lake Bogoria National Reserve</p>
 </blockquote></td>
-<td>10,700</td>
-<td>0</td>
+<td align="left">10,700</td>
+<td align="left">0</td>
 </tr>
 <tr class="odd">
-<td><blockquote>
+<td align="left"><blockquote>
 <p>Lake Elementaita National Wildlife Sanctuary</p>
 </blockquote></td>
-<td>2,534</td>
-<td>3,581</td>
+<td align="left">2,534</td>
+<td align="left">3,581</td>
 </tr>
 <tr class="even">
-<td><strong>TOTAL</strong></td>
-<td><strong>32,034</strong></td>
-<td><strong>3,581</strong></td>
+<td align="left"><strong>TOTAL</strong></td>
+<td align="left"><strong>32,034</strong></td>
+<td align="left"><strong>3,581</strong></td>
 </tr>
 </tbody>
 </table>
@@ -209,22 +209,22 @@ The three lakes lie on the floor of the Great Rift Valley with surrounding highl
 <table>
 <thead>
 <tr class="header">
-<th><strong>Name </strong></th>
-<th><strong>Altitude (m) </strong></th>
+<th align="left"><strong>Name </strong></th>
+<th align="left"><strong>Altitude (m) </strong></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Lake Nakuru</td>
-<td>1,800</td>
+<td align="left">Lake Nakuru</td>
+<td align="left">1,800</td>
 </tr>
 <tr class="even">
-<td>Lake Elementaita</td>
-<td>1,776</td>
+<td align="left">Lake Elementaita</td>
+<td align="left">1,776</td>
 </tr>
 <tr class="odd">
-<td>Lake Bogoria</td>
-<td>960</td>
+<td align="left">Lake Bogoria</td>
+<td align="left">960</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@ Title: PANTANAL CONSERVATION AREA
 Tags: BRAZIL
 Author: UNEP-WCMC
 Year: 2000
-Date: 2017-04-20 14:28:26
+Date: 2017-05-18 15:38:32
 
 PANTANAL CONSERVATION AREA
 ==========================
@@ -53,22 +53,22 @@ IUCN MANAGEMENT CATEGORY
 <table>
 <thead>
 <tr class="header">
-<th>Pantanal Matogrossense National Park</th>
-<th>II National Park</th>
+<th align="left">Pantanal Matogrossense National Park</th>
+<th align="left">II National Park</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Dorochê Private Natural Heritage Reserves</td>
-<td>Ia Private Reserve</td>
+<td align="left">Dorochê Private Natural Heritage Reserves</td>
+<td align="left">Ia Private Reserve</td>
 </tr>
 <tr class="even">
-<td>Acuziral Private Natural Heritage Reserves</td>
-<td>Ia Private Reserve</td>
+<td align="left">Acuziral Private Natural Heritage Reserves</td>
+<td align="left">Ia Private Reserve</td>
 </tr>
 <tr class="odd">
-<td>Penha Private Natural Heritage Reserves</td>
-<td>Ia Private Reserve</td>
+<td align="left">Penha Private Natural Heritage Reserves</td>
+<td align="left">Ia Private Reserve</td>
 </tr>
 </tbody>
 </table>
@@ -107,22 +107,22 @@ The Complex totals 187,818 ha, 1.3% of the Brazilian Pantanal, 98% of which is p
 <table>
 <thead>
 <tr class="header">
-<th>Pantanal Matogrossense National Park</th>
-<th>135,000 ha;</th>
+<th align="left">Pantanal Matogrossense National Park</th>
+<th align="left">135,000 ha;</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Dorochê Private Natural Heritage Reserve</td>
-<td>26,518 ha;</td>
+<td align="left">Dorochê Private Natural Heritage Reserve</td>
+<td align="left">26,518 ha;</td>
 </tr>
 <tr class="even">
-<td>Acuziral Private Natural Heritage Reserve</td>
-<td>13,200 ha.</td>
+<td align="left">Acuziral Private Natural Heritage Reserve</td>
+<td align="left">13,200 ha.</td>
 </tr>
 <tr class="odd">
-<td>Penha Private Natural Heritage Reserve</td>
-<td>13,100 ha;</td>
+<td align="left">Penha Private Natural Heritage Reserve</td>
+<td align="left">13,100 ha;</td>
 </tr>
 </tbody>
 </table>
@@ -305,7 +305,7 @@ Willink,P.*et al*. (2000). A Biological Assessment of the Aquatic Ecosystems of 
 
 World Wildlife Fund (WWF) (1999). *Project Conservation of Biodiversity in the Pantanal.* WWF Web page: http://www.wwf.org.br/wwfeng/wwfpr36.htm
 
---------- (WWF) (2002). World Wildlife Fund. Living Waters Campaign Newsroom. Bolivian Pantanal. *<http://www.panda.org/> livingwaters/fact3.htm*.
+--------- (WWF) (2002). World Wildlife Fund. Living Waters Campaign Newsroom. Bolivian Pantanal. [*http://www.panda.org/*](http://www.panda.org/) *livingwaters/fact3.htm*.
 
 World Wildlife Fund Bolivia (2007). *Pantanal Programme: Promoting Sustainable Development.* Gland, Switzerland.
 

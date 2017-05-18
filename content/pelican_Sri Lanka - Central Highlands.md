@@ -2,7 +2,7 @@ Title: CENTRAL HIGHLANDS OF SRI LANKA
 Tags: SRI LANKA
 Author: UNEP-WCMC
 Year: 2010
-Date: 2017-04-20 14:28:44
+Date: 2017-05-18 15:38:44
 
 CENTRAL HIGHLANDS OF SRI LANKA
 ==============================
@@ -68,26 +68,26 @@ The sites are located in the south centre of the island approximately 90 km due 
 <table>
 <thead>
 <tr class="header">
-<th><strong>Component area</strong></th>
-<th><strong>Coordinates of centre point</strong></th>
+<th align="left"><strong>Component area</strong></th>
+<th align="left"><strong>Coordinates of centre point</strong></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td></td>
-<td></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td>Peak Wilderness Protected Area</td>
-<td>N 6° 48’ 04 96’’</td>
+<td align="left">Peak Wilderness Protected Area</td>
+<td align="left">N 6° 48’ 04 96’’</td>
 </tr>
 <tr class="odd">
-<td>Horton Plains National Park</td>
-<td>N 6° 48’ 22 07‘’</td>
+<td align="left">Horton Plains National Park</td>
+<td align="left">N 6° 48’ 22 07‘’</td>
 </tr>
 <tr class="even">
-<td>Knuckles Conservation Forest</td>
-<td>N 7° 27’ 08 82’’</td>
+<td align="left">Knuckles Conservation Forest</td>
+<td align="left">N 7° 27’ 08 82’’</td>
 </tr>
 </tbody>
 </table>
@@ -109,31 +109,31 @@ The inscribed World Heritage property is 56,844 ha. The buffer zone is 72,645 ha
 <table>
 <thead>
 <tr class="header">
-<th><strong>Component part</strong></th>
-<th><strong>Property</strong></th>
-<th><strong>Buffer zone</strong></th>
+<th align="left"><strong>Component part</strong></th>
+<th align="left"><strong>Property</strong></th>
+<th align="left"><strong>Buffer zone</strong></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Peak Wilderness Protected Area (PWPA)</td>
-<td>22,379 ha</td>
-<td>37,571 ha</td>
+<td align="left">Peak Wilderness Protected Area (PWPA)</td>
+<td align="left">22,379 ha</td>
+<td align="left">37,571 ha</td>
 </tr>
 <tr class="even">
-<td>Horton Plains National Park (HPNP)</td>
-<td>3,160 ha</td>
-<td>no buffer</td>
+<td align="left">Horton Plains National Park (HPNP)</td>
+<td align="left">3,160 ha</td>
+<td align="left">no buffer</td>
 </tr>
 <tr class="odd">
-<td>Knuckles Conservation Forest (KCF)</td>
-<td>31,305 ha</td>
-<td>35,074 ha</td>
+<td align="left">Knuckles Conservation Forest (KCF)</td>
+<td align="left">31,305 ha</td>
+<td align="left">35,074 ha</td>
 </tr>
 <tr class="even">
-<td><strong>TOTAL</strong></td>
-<td><strong>56,844 ha</strong></td>
-<td><strong>72,645 ha</strong></td>
+<td align="left"><strong>TOTAL</strong></td>
+<td align="left"><strong>56,844 ha</strong></td>
+<td align="left"><strong>72,645 ha</strong></td>
 </tr>
 </tbody>
 </table>

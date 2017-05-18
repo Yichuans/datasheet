@@ -2,7 +2,7 @@ Title: BIAŁOWIEŻA FOREST
 Tags: BELARUS AND POLAND
 Author: UNEP-WCMC
 Year: 1979
-Date: 2017-04-20 14:28:24
+Date: 2017-05-18 15:38:32
 
 BIAŁOWIEŻA FOREST
 =================
@@ -75,22 +75,22 @@ IUCN MANAGEMENT CATEGORY
 <table>
 <thead>
 <tr class="header">
-<th>Belovezhskaya Pushcha National Park, Belarus:</th>
-<th>II National Park</th>
+<th align="left">Belovezhskaya Pushcha National Park, Belarus:</th>
+<th align="left">II National Park</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Bialowieza National Park, Poland:</td>
-<td>II National Park</td>
+<td align="left">Bialowieza National Park, Poland:</td>
+<td align="left">II National Park</td>
 </tr>
 <tr class="even">
-<td>Puszcza Bialowieska, Poland</td>
-<td>Not Reported</td>
+<td align="left">Puszcza Bialowieska, Poland</td>
+<td align="left">Not Reported</td>
 </tr>
 <tr class="odd">
-<td>OChK Puszcza Bialowieska</td>
-<td>Not Reported</td>
+<td align="left">OChK Puszcza Bialowieska</td>
+<td align="left">Not Reported</td>
 </tr>
 </tbody>
 </table>
@@ -205,11 +205,11 @@ FAUNA
 
 The Bialowieza Forest is an exceptionally diverse and highly important area for a wide range of species, from top predators such as the wolf to thousands of invertebrate and fungi species. The Bialowieza Forest functions as a stronghold habitat for the European bison *Bison bonasus* and can also be considered one of the best sites in the boreo-nemoral region for large-cap fungi (macromycete) species.
 
-**Belarus:** The Pushcha forest has typical European forest faunal communities with 59 mammal, 250 bird, 13 amphibian, 7 reptile and 26 fish species and some 8,500 insect species have been recorded in the adjacent Polish park (Society for Conservation Biology, 2003). The Belarus Red Book lists 11 mammal, 52 bird, 2 reptile, 1 amphibian, 8 fish and 38 insect species. Notable mammals include the wolf [*Canis lupus*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Canis&SpcName=lupus), Eurasian lynx *[Lynx](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Felis&SpcName=lynx) lynx*, Eurasian otter [*Lutra lutra*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Lutra&SpcName=lutra) and European beaver *Castor fiber,* as well as the reintroduced bison [*Bison bonasus*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Bison&SpcName=bonasus) (VU) (IUCN Red List, 2015). There are large populations of red deer [*Cervus elaphus*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Cervus&SpcName=elaphus), roe deer *[Capreolus capreolus](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Capreolus&SpcName=capreolus),* and wild boar [*Sus scrofa*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Sus&SpcName=scrofa), and about 300 elk *[Alces alces](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Alces&SpcName=alces),* introduced in 1864. The bison were reintroduced in 1929, and now number over 315 animals on the Belorussian side. The tarpan, the European wild forest horse *Equus caballini gmelini* used to live in the forest, became extinct, but was genetically reconstituted and reintroduced. The avifauna includes black stork *Ciconia nigra*, white stork [*Ciconia ciconia*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Ciconia&SpcName=ciconia), golden eagle *Aquila chrysaetos,* greater spotted eagle *A. clanga* (VU), white-tailed eagle [*Haliaetus albicilla*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Haliaetus&SpcName=albicilla), great snipe *Gallinaga media*, corncrake [*Crex crex*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Crex&SpcName=crex), eagle owl, great grey owl *Strix nebulosa* and Eurasian curlew *Numenius arquata.* The forest also hosts 9 species of woodpecker (MAB-Belarus, 1993; Tomialojc & Wesolowski, 2005).
+**Belarus:** The Pushcha forest has typical European forest faunal communities with 59 mammal, 250 bird, 13 amphibian, 7 reptile and 26 fish species and some 8,500 insect species have been recorded in the adjacent Polish park (Society for Conservation Biology, 2003). The Belarus Red Book lists 11 mammal, 52 bird, 2 reptile, 1 amphibian, 8 fish and 38 insect species. Notable mammals include the wolf [*Canis lupus*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Canis&SpcName=lupus), Eurasian lynx [*Lynx*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Felis&SpcName=lynx) *lynx*, Eurasian otter [*Lutra lutra*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Lutra&SpcName=lutra) and European beaver *Castor fiber,* as well as the reintroduced bison [*Bison bonasus*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Bison&SpcName=bonasus) (VU) (IUCN Red List, 2015). There are large populations of red deer [*Cervus elaphus*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Cervus&SpcName=elaphus), roe deer [*Capreolus capreolus*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Capreolus&SpcName=capreolus), and wild boar [*Sus scrofa*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Sus&SpcName=scrofa), and about 300 elk [*Alces alces*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Alces&SpcName=alces), introduced in 1864. The bison were reintroduced in 1929, and now number over 315 animals on the Belorussian side. The tarpan, the European wild forest horse *Equus caballini gmelini* used to live in the forest, became extinct, but was genetically reconstituted and reintroduced. The avifauna includes black stork *Ciconia nigra*, white stork [*Ciconia ciconia*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Ciconia&SpcName=ciconia), golden eagle *Aquila chrysaetos,* greater spotted eagle *A. clanga* (VU), white-tailed eagle [*Haliaetus albicilla*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Haliaetus&SpcName=albicilla), great snipe *Gallinaga media*, corncrake [*Crex crex*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Crex&SpcName=crex), eagle owl, great grey owl *Strix nebulosa* and Eurasian curlew *Numenius arquata.* The forest also hosts 9 species of woodpecker (MAB-Belarus, 1993; Tomialojc & Wesolowski, 2005).
 
 **Poland:** There are over 11,500 different species of animals (Society for Conservation Biology, 2003) including 59 species of mammal: the reintroduced European bison [(VU)](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Bison&SpcName=bonasus), grey wolf and lynx, common otter, and reintroduced European beaver. Common mammals are wild boar, elk, red deer and roe deer. Also recorded are northern birch mouse [*Sicista betulina*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Sicista&SpcName=betulina) and masked shrew [*Sorex caecutiens*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Sorex&SpcName=caecutiens) (the only known population in Poland). The bison, exterminated in the forest in 1919, [was](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Bison&SpcName=bonasus) re-established in 1929, initially in a 297 ha fenced reserve which is part of the Park. Within the whole property there are 900 bison, which represents around 25% of the world’s total population.
 
-Some 254 species of birds have been noted in the Bialowieza region. Between 170 and 180 nest in the Park and include black stork, crane [*Grus grus*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Grus&SpcName=grus), pygmy owl *Glaucidium passerinum* and eagle owl, a large number of raptors such as Pomeranian eagle *Aquila pomerina*, greater spotted eagle *A.clanga* (VU), three-toed woodpecker [*Picoides tridactylus*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Picoides&SpcName=tridactylus), redwing [*Turdus iliacus*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Turdus&SpcName=iliacus), nutcracker [*Nucifraga caryocatactes*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Nucifraga&SpcName=caryocatactes) and red-breasted flycatcher [*Muscicapa parva*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Muscicapa&SpcName=parva). The property is considered to harbour an exceptional diversity of avian species, such as the white-backed woodpecker [*Dendrocopus* leucotos](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Dendrocopus&SpcName=leucotos) (LC) and the booted eagle [*Hieraeetus pennatus*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Hieraeetus&SpcName=pennatus), (LC). 13 species of amphibians, seven reptiles and 31 species of fish have been noted. Some 12,000 species of insects have been recorded including the beetles *[Carabus menetriesi](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Carabus&SpcName=menetriesi), [Orthothomicus longicollis](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Orthothomicus&SpcName=longicollis), [Pytho kolwensis](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Pytho&SpcName=kolwensis)* and *[Boros schneideri](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Boros&SpcName=schneideri)* (Okolow,1994; Reklamowo & Grzegorczyk, 1997), although it is thought there could be as many as 20,000.
+Some 254 species of birds have been noted in the Bialowieza region. Between 170 and 180 nest in the Park and include black stork, crane [*Grus grus*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Grus&SpcName=grus), pygmy owl *Glaucidium passerinum* and eagle owl, a large number of raptors such as Pomeranian eagle *Aquila pomerina*, greater spotted eagle *A.clanga* (VU), three-toed woodpecker [*Picoides tridactylus*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Picoides&SpcName=tridactylus), redwing [*Turdus iliacus*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Turdus&SpcName=iliacus), nutcracker [*Nucifraga caryocatactes*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Nucifraga&SpcName=caryocatactes) and red-breasted flycatcher [*Muscicapa parva*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Muscicapa&SpcName=parva). The property is considered to harbour an exceptional diversity of avian species, such as the white-backed woodpecker [*Dendrocopus* leucotos](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Dendrocopus&SpcName=leucotos) (LC) and the booted eagle [*Hieraeetus pennatus*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Hieraeetus&SpcName=pennatus), (LC). 13 species of amphibians, seven reptiles and 31 species of fish have been noted. Some 12,000 species of insects have been recorded including the beetles [*Carabus menetriesi*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Carabus&SpcName=menetriesi), [*Orthothomicus longicollis*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Orthothomicus&SpcName=longicollis), [*Pytho kolwensis*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Pytho&SpcName=kolwensis) and [*Boros schneideri*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Boros&SpcName=schneideri) (Okolow,1994; Reklamowo & Grzegorczyk, 1997), although it is thought there could be as many as 20,000.
 
 CONSERVATION VALUE 
 -------------------
@@ -370,7 +370,7 @@ Paczoski, J. (1930). *Forest of Bialowieza*, Poznan.
 
 Pachlewski, R. (1960). *The Bialowicza National Park*. State Council for Conservation of Nature. 25 pp.
 
-Polish Academy Of Sciences, Committee For Nature Conservation, (2003). *[The](http://www.republika.pl/bialowieza_forest/teksty/pan.htm) Tragedy of the Bielowieza Forest,* University of Wroclaw.
+Polish Academy Of Sciences, Committee For Nature Conservation, (2003). [*The*](http://www.republika.pl/bialowieza_forest/teksty/pan.htm) *Tragedy of the Bielowieza Forest,* University of Wroclaw.
 
 Reklamowo, A. & Grzegorczyk, W. (1997). *Biosphere Reserves in Poland.* Polish National MAB Committee, Warsaw. Pp. 71-97.
 

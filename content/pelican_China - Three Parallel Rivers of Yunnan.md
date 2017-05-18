@@ -2,7 +2,7 @@ Title: THREE PARALLEL RIVERS OF YUNNAN PROTECTED AREAS
 Tags: CHINA
 Author: UNEP-WCMC
 Year: 2003
-Date: 2017-04-20 14:28:28
+Date: 2017-05-18 15:38:34
 
 THREE PARALLEL RIVERS OF YUNNAN PROTECTED AREAS
 ===============================================
@@ -69,96 +69,96 @@ IUCN MANAGEMENT CATEGORY
 <table>
 <thead>
 <tr class="header">
-<th><strong>Site Name</strong></th>
-<th><strong>Core</strong></th>
-<th><strong>Buffer</strong></th>
-<th><strong>Site Type</strong></th>
+<th align="left"><strong>Site Name</strong></th>
+<th align="left"><strong>Core</strong></th>
+<th align="left"><strong>Buffer</strong></th>
+<th align="left"><strong>Site Type</strong></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Gaoligongshan National Nature Reserve</td>
-<td>I</td>
-<td>II</td>
-<td>Strict Nature Reserve / National Park</td>
+<td align="left">Gaoligongshan National Nature Reserve</td>
+<td align="left">I</td>
+<td align="left">II</td>
+<td align="left">Strict Nature Reserve / National Park</td>
 </tr>
 <tr class="even">
-<td>-- Gongshan Scenic Area</td>
-<td>-</td>
-<td>-</td>
-<td>Unassigned</td>
+<td align="left">-- Gongshan Scenic Area</td>
+<td align="left">-</td>
+<td align="left">-</td>
+<td align="left">Unassigned</td>
 </tr>
 <tr class="odd">
-<td>-- Yueliangshan Scenic Area</td>
-<td>-</td>
-<td>-</td>
-<td>Unassigned</td>
+<td align="left">-- Yueliangshan Scenic Area</td>
+<td align="left">-</td>
+<td align="left">-</td>
+<td align="left">Unassigned</td>
 </tr>
 <tr class="even">
-<td>-- Pianma Scenic Area</td>
-<td>-</td>
-<td>-</td>
-<td>Unassigned</td>
+<td align="left">-- Pianma Scenic Area</td>
+<td align="left">-</td>
+<td align="left">-</td>
+<td align="left">Unassigned</td>
 </tr>
 <tr class="odd">
-<td>Julong Lake Scenic Area</td>
-<td>I</td>
-<td>-</td>
-<td>Strict Nature Reserve</td>
+<td align="left">Julong Lake Scenic Area</td>
+<td align="left">I</td>
+<td align="left">-</td>
+<td align="left">Strict Nature Reserve</td>
 </tr>
 <tr class="even">
-<td>Baimang Xueshan Nature Reserve</td>
-<td>II</td>
-<td>IV</td>
-<td>SNR/ Nat’l Park/ Habitat-Species Manag’t Area</td>
+<td align="left">Baimang Xueshan Nature Reserve</td>
+<td align="left">II</td>
+<td align="left">IV</td>
+<td align="left">SNR/ Nat’l Park/ Habitat-Species Manag’t Area</td>
 </tr>
 <tr class="odd">
-<td>Meili Xueshan Scenic Area</td>
-<td>II</td>
-<td>-</td>
-<td>National Park</td>
+<td align="left">Meili Xueshan Scenic Area</td>
+<td align="left">II</td>
+<td align="left">-</td>
+<td align="left">National Park</td>
 </tr>
 <tr class="even">
-<td>Hongshan Scenic Area</td>
-<td>II</td>
-<td>IV</td>
-<td>National Park / Habitat-Species Manag’t Area</td>
+<td align="left">Hongshan Scenic Area</td>
+<td align="left">II</td>
+<td align="left">IV</td>
+<td align="left">National Park / Habitat-Species Manag’t Area</td>
 </tr>
 <tr class="odd">
-<td>Bita Lake Nature Reserve</td>
-<td>I, II</td>
-<td>II</td>
-<td>Strict Nature Reserve / National Park</td>
+<td align="left">Bita Lake Nature Reserve</td>
+<td align="left">I, II</td>
+<td align="left">II</td>
+<td align="left">Strict Nature Reserve / National Park</td>
 </tr>
 <tr class="even">
-<td>Haba Xueshan Nature Reserve</td>
-<td>I, II</td>
-<td>III</td>
-<td>SNR / Nat’l Park/ Habitat-Species Manag’t Area</td>
+<td align="left">Haba Xueshan Nature Reserve</td>
+<td align="left">I, II</td>
+<td align="left">III</td>
+<td align="left">SNR / Nat’l Park/ Habitat-Species Manag’t Area</td>
 </tr>
 <tr class="odd">
-<td>Laojunshan Scenic Area</td>
-<td>II</td>
-<td>III</td>
-<td>SNR / Habitat-Species Management Area</td>
+<td align="left">Laojunshan Scenic Area</td>
+<td align="left">II</td>
+<td align="left">III</td>
+<td align="left">SNR / Habitat-Species Management Area</td>
 </tr>
 <tr class="even">
-<td>Qianhushan Scenic Area</td>
-<td>II</td>
-<td>-</td>
-<td>SNR / Habitat-Species Management Area</td>
+<td align="left">Qianhushan Scenic Area</td>
+<td align="left">II</td>
+<td align="left">-</td>
+<td align="left">SNR / Habitat-Species Management Area</td>
 </tr>
 <tr class="odd">
-<td>Yunling Shan Nature Reserve Area</td>
-<td>I</td>
-<td>IV</td>
-<td>SNR / Habitat-Species Management Area</td>
+<td align="left">Yunling Shan Nature Reserve Area</td>
+<td align="left">I</td>
+<td align="left">IV</td>
+<td align="left">SNR / Habitat-Species Management Area</td>
 </tr>
 <tr class="even">
-<td>Laowoshan Scenic Area</td>
-<td>II</td>
-<td>III</td>
-<td>National Park / Natural Monument</td>
+<td align="left">Laowoshan Scenic Area</td>
+<td align="left">II</td>
+<td align="left">III</td>
+<td align="left">National Park / Natural Monument</td>
 </tr>
 </tbody>
 </table>
@@ -205,79 +205,79 @@ AREAS
 <table>
 <tbody>
 <tr class="odd">
-<td><strong>Protected Area </strong></td>
-<td><p><strong>Core area</strong></p>
+<td align="left"><strong>Protected Area </strong></td>
+<td align="left"><p><strong>Core area</strong></p>
 <p><strong>[ha]</strong></p></td>
-<td><p><strong>Buffer area</strong></p>
+<td align="left"><p><strong>Buffer area</strong></p>
 <p><strong>[ha]</strong></p></td>
-<td><strong>Coordinates</strong></td>
+<td align="left"><strong>Coordinates</strong></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="odd">
-<td>Gaoligong Shan Nature Reserve + Pienma,Yueliang Shan &amp; Gongshan Scenic Areas</td>
-<td>344,386.5</td>
-<td>173,135.1</td>
-<td>27º 53’ N 98º 24’ E</td>
+<td align="left">Gaoligong Shan Nature Reserve + Pienma,Yueliang Shan &amp; Gongshan Scenic Areas</td>
+<td align="left">344,386.5</td>
+<td align="left">173,135.1</td>
+<td align="left">27º 53’ N 98º 24’ E</td>
 </tr>
 <tr class="even">
-<td>Baima-Meili Xueshan Nature Reserve + Julong Lake Scenic Area</td>
-<td>249,870.0</td>
-<td>127,590.7</td>
-<td>28º 00’ N 99º 10’ E</td>
+<td align="left">Baima-Meili Xueshan Nature Reserve + Julong Lake Scenic Area</td>
+<td align="left">249,870.0</td>
+<td align="left">127,590.7</td>
+<td align="left">28º 00’ N 99º 10’ E</td>
 </tr>
 <tr class="odd">
-<td><p>Hong Shan Scenic Area</p>
+<td align="left"><p>Hong Shan Scenic Area</p>
 <p>+ Bita Lake Nature Reserve</p></td>
-<td>142,604.8</td>
-<td>260,864.8</td>
-<td>28º 12’ N 100º 07’ E</td>
+<td align="left">142,604.8</td>
+<td align="left">260,864.8</td>
+<td align="left">28º 12’ N 100º 07’ E</td>
 </tr>
 <tr class="even">
-<td>Haba Xueshan Nature Reserve</td>
-<td>79,698.0</td>
-<td>37,414.1</td>
-<td>27º 30’ N 100º 10 E</td>
+<td align="left">Haba Xueshan Nature Reserve</td>
+<td align="left">79,698.0</td>
+<td align="left">37,414.1</td>
+<td align="left">27º 30’ N 100º 10 E</td>
 </tr>
 <tr class="odd">
-<td>Laojun Shan Scenic Area</td>
-<td>59,325.8</td>
-<td>68,903.5</td>
-<td>26º 45’ N 99º 45’ E</td>
+<td align="left">Laojun Shan Scenic Area</td>
+<td align="left">59,325.8</td>
+<td align="left">68,903.5</td>
+<td align="left">26º 45’ N 99º 45’ E</td>
 </tr>
 <tr class="even">
-<td>Qianhu Shan Scenic Area</td>
-<td>38,905.9</td>
-<td>58,910.4</td>
-<td></td>
+<td align="left">Qianhu Shan Scenic Area</td>
+<td align="left">38,905.9</td>
+<td align="left">58,910.4</td>
+<td align="left"></td>
 </tr>
 <tr class="odd">
-<td>Yunling Shan Nature Reserve</td>
-<td>27,907.0</td>
-<td>60,331.3</td>
-<td>26º 40 ’N 99º 15’ E</td>
+<td align="left">Yunling Shan Nature Reserve</td>
+<td align="left">27,907.0</td>
+<td align="left">60,331.3</td>
+<td align="left">26º 40 ’N 99º 15’ E</td>
 </tr>
 <tr class="even">
-<td>Laowo Shan Scenic Area</td>
-<td>17,394.6</td>
-<td>25,603.1</td>
-<td>27º 00’ N 99º 00 ’E</td>
+<td align="left">Laowo Shan Scenic Area</td>
+<td align="left">17,394.6</td>
+<td align="left">25,603.1</td>
+<td align="left">27º 00’ N 99º 00 ’E</td>
 </tr>
 <tr class="odd">
-<td><strong>Totals:</strong></td>
-<td><strong>960,083.5</strong></td>
-<td><strong>783,198.4</strong></td>
-<td></td>
+<td align="left"><strong>Totals:</strong></td>
+<td align="left"><strong>960,083.5</strong></td>
+<td align="left"><strong>783,198.4</strong></td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 </tbody>
 </table>

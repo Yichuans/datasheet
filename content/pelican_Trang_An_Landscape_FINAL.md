@@ -2,7 +2,7 @@ Title: TRANG AN LANDSCAPE COMPLEX
 Tags: VIETNAM
 Author: UNEP-WCMC
 Year: 2014
-Date: 2017-04-20 14:28:46
+Date: 2017-05-18 15:38:45
 
 TRANG AN LANDSCAPE COMPLEX
 ==========================
@@ -68,18 +68,18 @@ IUCN MANAGEMENT CATEGORY
 <table>
 <thead>
 <tr class="header">
-<th>Hoa Lu Ancient Capital:</th>
-<th>Unassigned</th>
+<th align="left">Hoa Lu Ancient Capital:</th>
+<th align="left">Unassigned</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Trang An Coc - Bich Dong Scenic Area:</td>
-<td>Unassigned</td>
+<td align="left">Trang An Coc - Bich Dong Scenic Area:</td>
+<td align="left">Unassigned</td>
 </tr>
 <tr class="even">
-<td>Hoa Lu Special Use Primary Forest:</td>
-<td>Unassigned</td>
+<td align="left">Hoa Lu Special Use Primary Forest:</td>
+<td align="left">Unassigned</td>
 </tr>
 </tbody>
 </table>

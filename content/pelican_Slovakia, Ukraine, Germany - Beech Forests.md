@@ -2,7 +2,7 @@ Title: PRIMEVAL BEECH FORESTS OF THE CARPATHIANS AND THE ANCIENT BEECH FORESTS O
 Tags: SLOVAKIA, UKRAINE,GERMANY
 Author: UNEP-WCMC
 Year: 2007
-Date: 2017-04-20 14:28:43
+Date: 2017-05-18 15:38:43
 
 PRIMEVAL BEECH FORESTS OF THE CARPATHIANS AND THE ANCIENT BEECH FORESTS OF GERMANY
 ==================================================================================
@@ -63,18 +63,18 @@ IUCN MANAGEMENT CATEGORIES
 <table>
 <thead>
 <tr class="header">
-<th>Karpatskiy Biosphere Reserve</th>
-<th>Ia Strict Nature Reserve</th>
+<th align="left">Karpatskiy Biosphere Reserve</th>
+<th align="left">Ia Strict Nature Reserve</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Poloniny National Park</td>
-<td>II National Park</td>
+<td align="left">Poloniny National Park</td>
+<td align="left">II National Park</td>
 </tr>
 <tr class="even">
-<td>Stuzhytsia–Uzhok Nat. Nature Reserve</td>
-<td>V Habitat/Species Management Area</td>
+<td align="left">Stuzhytsia–Uzhok Nat. Nature Reserve</td>
+<td align="left">V Habitat/Species Management Area</td>
 </tr>
 </tbody>
 </table>
@@ -84,26 +84,26 @@ IUCN MANAGEMENT CATEGORIES
 <table>
 <thead>
 <tr class="header">
-<th>Hainich National Park</th>
-<th>II National Park</th>
+<th align="left">Hainich National Park</th>
+<th align="left">II National Park</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Kellerwald-Edersee National Park</td>
-<td>II National Park</td>
+<td align="left">Kellerwald-Edersee National Park</td>
+<td align="left">II National Park</td>
 </tr>
 <tr class="even">
-<td>Grumsin in Schorfheide-Chorin Biosphere Res.</td>
-<td>unset</td>
+<td align="left">Grumsin in Schorfheide-Chorin Biosphere Res.</td>
+<td align="left">unset</td>
 </tr>
 <tr class="odd">
-<td>Jasmund National Park</td>
-<td>II National Park; V Habitat/Species Management Area</td>
+<td align="left">Jasmund National Park</td>
+<td align="left">II National Park; V Habitat/Species Management Area</td>
 </tr>
 <tr class="even">
-<td>Serrahn in Müritz National Park</td>
-<td>II National Park</td>
+<td align="left">Serrahn in Müritz National Park</td>
+<td align="left">II National Park</td>
 </tr>
 </tbody>
 </table>
@@ -163,126 +163,126 @@ The inscribed World Heritage property is 33,670.1 ha (29,278.0 ha in Slovakia/Uk
 <table>
 <thead>
 <tr class="header">
-<th><strong>Site</strong></th>
-<th><strong>Country</strong></th>
-<th><strong>Property (ha)</strong></th>
-<th><strong>Buffer Zone (ha)</strong></th>
+<th align="left"><strong>Site</strong></th>
+<th align="left"><strong>Country</strong></th>
+<th align="left"><strong>Property (ha)</strong></th>
+<th align="left"><strong>Buffer Zone (ha)</strong></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td>Stužica–Bukovské Vrchy</td>
-<td>Slovakia</td>
-<td>2,950.0</td>
-<td>11,300.0</td>
+<td align="left">Stužica–Bukovské Vrchy</td>
+<td align="left">Slovakia</td>
+<td align="left">2,950.0</td>
+<td align="left">11,300.0</td>
 </tr>
 <tr class="odd">
-<td>Vihorlat</td>
-<td>Slovakia</td>
-<td>2,578.0</td>
-<td>2,413.0</td>
+<td align="left">Vihorlat</td>
+<td align="left">Slovakia</td>
+<td align="left">2,578.0</td>
+<td align="left">2,413.0</td>
 </tr>
 <tr class="even">
-<td>Stuzhystsia-Ushok</td>
-<td>Slovakia</td>
-<td>2,532.0</td>
-<td>3,615.0</td>
+<td align="left">Stuzhystsia-Ushok</td>
+<td align="left">Slovakia</td>
+<td align="left">2,532.0</td>
+<td align="left">3,615.0</td>
 </tr>
 <tr class="odd">
-<td>Havešová</td>
-<td>Slovakia</td>
-<td>171.3</td>
-<td>63.99</td>
+<td align="left">Havešová</td>
+<td align="left">Slovakia</td>
+<td align="left">171.3</td>
+<td align="left">63.99</td>
 </tr>
 <tr class="even">
-<td>Rožok</td>
-<td>Slovakia</td>
-<td>67. 1</td>
-<td>41.4</td>
+<td align="left">Rožok</td>
+<td align="left">Slovakia</td>
+<td align="left">67. 1</td>
+<td align="left">41.4</td>
 </tr>
 <tr class="odd">
-<td>Uholka–Shyrokyi Luh</td>
-<td>Ukraine</td>
-<td>11,860.0</td>
-<td>3,301.0</td>
+<td align="left">Uholka–Shyrokyi Luh</td>
+<td align="left">Ukraine</td>
+<td align="left">11,860.0</td>
+<td align="left">3,301.0</td>
 </tr>
 <tr class="even">
-<td>Svydovets</td>
-<td>Ukraine</td>
-<td>3,030.5</td>
-<td>5,639.5</td>
+<td align="left">Svydovets</td>
+<td align="left">Ukraine</td>
+<td align="left">3,030.5</td>
+<td align="left">5,639.5</td>
 </tr>
 <tr class="odd">
-<td>Chornohora</td>
-<td>Ukraine</td>
-<td>2,476.8</td>
-<td>12,925.0</td>
+<td align="left">Chornohora</td>
+<td align="left">Ukraine</td>
+<td align="left">2,476.8</td>
+<td align="left">12,925.0</td>
 </tr>
 <tr class="even">
-<td>Maramarosh</td>
-<td>Ukraine</td>
-<td>2,243.6</td>
-<td>6,230.4</td>
+<td align="left">Maramarosh</td>
+<td align="left">Ukraine</td>
+<td align="left">2,243.6</td>
+<td align="left">6,230.4</td>
 </tr>
 <tr class="odd">
-<td>Kuziy-Trybushany</td>
-<td>Ukraine</td>
-<td>369.6</td>
-<td>3,163.4</td>
+<td align="left">Kuziy-Trybushany</td>
+<td align="left">Ukraine</td>
+<td align="left">369.6</td>
+<td align="left">3,163.4</td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="odd">
-<td>Hainich</td>
-<td>Germany</td>
-<td>1,573.4</td>
-<td>4,085.4</td>
+<td align="left">Hainich</td>
+<td align="left">Germany</td>
+<td align="left">1,573.4</td>
+<td align="left">4,085.4</td>
 </tr>
 <tr class="even">
-<td>Kellerwald</td>
-<td>Germany</td>
-<td>1,467.1</td>
-<td>4,271.4</td>
+<td align="left">Kellerwald</td>
+<td align="left">Germany</td>
+<td align="left">1,467.1</td>
+<td align="left">4,271.4</td>
 </tr>
 <tr class="odd">
-<td>Grumsin</td>
-<td>Germany</td>
-<td>590.1</td>
-<td>274.3</td>
+<td align="left">Grumsin</td>
+<td align="left">Germany</td>
+<td align="left">590.1</td>
+<td align="left">274.3</td>
 </tr>
 <tr class="even">
-<td>Jasmund</td>
-<td>Germany</td>
-<td>492.5</td>
-<td>2,510.5</td>
+<td align="left">Jasmund</td>
+<td align="left">Germany</td>
+<td align="left">492.5</td>
+<td align="left">2,510.5</td>
 </tr>
 <tr class="odd">
-<td>Serrahn</td>
-<td>Germany</td>
-<td>268.1</td>
-<td>2,568.0</td>
+<td align="left">Serrahn</td>
+<td align="left">Germany</td>
+<td align="left">268.1</td>
+<td align="left">2,568.0</td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="odd">
-<td><strong>TOTAL</strong></td>
-<td></td>
-<td><strong>33,670.1</strong></td>
-<td><strong>62,402.3</strong></td>
+<td align="left"><strong>TOTAL</strong></td>
+<td align="left"></td>
+<td align="left"><strong>33,670.1</strong></td>
+<td align="left"><strong>62,402.3</strong></td>
 </tr>
 </tbody>
 </table>

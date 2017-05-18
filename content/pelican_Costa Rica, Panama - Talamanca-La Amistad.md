@@ -2,7 +2,7 @@ Title: Talamanca Range-La Amistad Reserves / La Amistad National Park
 Tags: Costa Rica,Panama
 Author: UNEP-WCMC
 Year: 1983
-Date: 2017-04-20 14:28:29
+Date: 2017-05-18 15:38:35
 
 TALAMANCA RANGE-LA AMISTAD RESERVES /
 =====================================
@@ -56,30 +56,30 @@ IUCN MANAGEMENT CATEGORY
 <table>
 <thead>
 <tr class="header">
-<th>La Amistad (Panama) National Park:</th>
-<th>II National Park</th>
+<th align="left">La Amistad (Panama) National Park:</th>
+<th align="left">II National Park</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>La Amistad (Costa Rica) National Park:</td>
-<td>II National Park</td>
+<td align="left">La Amistad (Costa Rica) National Park:</td>
+<td align="left">II National Park</td>
 </tr>
 <tr class="even">
-<td>Chirripó National Park:</td>
-<td>II National Park</td>
+<td align="left">Chirripó National Park:</td>
+<td align="left">II National Park</td>
 </tr>
 <tr class="odd">
-<td>Barbilla National Park:</td>
-<td>II National Park</td>
+<td align="left">Barbilla National Park:</td>
+<td align="left">II National Park</td>
 </tr>
 <tr class="even">
-<td>Hitoy Cerere Biological Reserve:</td>
-<td>Ia Strict Nature Reserve</td>
+<td align="left">Hitoy Cerere Biological Reserve:</td>
+<td align="left">Ia Strict Nature Reserve</td>
 </tr>
 <tr class="odd">
-<td>Tapanti National Park:</td>
-<td>IV Habitat/Species Management Area</td>
+<td align="left">Tapanti National Park:</td>
+<td align="left">IV Habitat/Species Management Area</td>
 </tr>
 </tbody>
 </table>
@@ -149,38 +149,38 @@ AREA
 <table>
 <thead>
 <tr class="header">
-<th>La Amistad National Park (Panama):</th>
-<th>207,000 ha</th>
+<th align="left">La Amistad National Park (Panama):</th>
+<th align="left">207,000 ha</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>La Amistad National Park (Costa Rica):</td>
-<td>193,929 ha</td>
+<td align="left">La Amistad National Park (Costa Rica):</td>
+<td align="left">193,929 ha</td>
 </tr>
 <tr class="even">
-<td>Rio Macho Forest Reserve:</td>
-<td>69,604 ha</td>
+<td align="left">Rio Macho Forest Reserve:</td>
+<td align="left">69,604 ha</td>
 </tr>
 <tr class="odd">
-<td>Chirripó National Park:</td>
-<td>51,150 ha</td>
+<td align="left">Chirripó National Park:</td>
+<td align="left">51,150 ha</td>
 </tr>
 <tr class="even">
-<td>Las Tablas Protected Area:</td>
-<td>19,602 ha</td>
+<td align="left">Las Tablas Protected Area:</td>
+<td align="left">19,602 ha</td>
 </tr>
 <tr class="odd">
-<td>Barbilla National Park</td>
-<td>12,098 ha</td>
+<td align="left">Barbilla National Park</td>
+<td align="left">12,098 ha</td>
 </tr>
 <tr class="even">
-<td>Hitoy Cerere Biological Reserve:</td>
-<td>9,154 ha</td>
+<td align="left">Hitoy Cerere Biological Reserve:</td>
+<td align="left">9,154 ha</td>
 </tr>
 <tr class="odd">
-<td>Tapanti National Park:</td>
-<td>6,080 ha</td>
+<td align="left">Tapanti National Park:</td>
+<td align="left">6,080 ha</td>
 </tr>
 </tbody>
 </table>

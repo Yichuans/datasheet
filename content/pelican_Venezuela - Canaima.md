@@ -2,7 +2,7 @@ Title: CANAIMA NATIONAL PARK
 Tags: VENEZUELA
 Author: UNEP-WCMC
 Year: 1994
-Date: 2017-04-20 14:28:48
+Date: 2017-05-18 15:38:47
 
 CANAIMA NATIONAL PARK
 =====================
@@ -204,7 +204,7 @@ Rodríguez, I. (1996). *Evaluation of Threats in the Eastern Sector of the Canai
 
 Romero, A. (1992). *Canaima*. Palmaven, Caracas. 67 pp.
 
-Rull, V. (2004). Is the ‘Lost World’ really lost? Palaeoecological insights into the origin of the peculiar flora of the Guayana Highlands*. [Naturwissenschaften](http://www.springerlink.com/content/100479/?p=d6aa40c23def46389a714c892336dc57&pi=0).* Vol. 91 (3). Springer Berlin / Heidelberg, Germany.
+Rull, V. (2004). Is the ‘Lost World’ really lost? Palaeoecological insights into the origin of the peculiar flora of the Guayana Highlands. [*Naturwissenschaften*](http://www.springerlink.com/content/100479/?p=d6aa40c23def46389a714c892336dc57&pi=0). Vol. 91 (3). Springer Berlin / Heidelberg, Germany.
 
 Sears, R. (2001a). *Guayanan Highlands Moist Forests.* WWF WildWorld Report, Gland, Switzerland.
 

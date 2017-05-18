@@ -2,7 +2,7 @@ Title: MOUNT WUYI
 Tags: CHINA
 Author: UNEP-WCMC
 Year: 1999
-Date: 2017-04-20 14:28:28
+Date: 2017-05-18 15:38:34
 
 MOUNT WUYI
 ==========
@@ -51,14 +51,14 @@ IUCN MANAGEMENT CATEGORY
 <table>
 <tbody>
 <tr class="odd">
-<td>Wuyi Shan Nature Reserve</td>
-<td>IV</td>
-<td>Habitat/Species Management Area</td>
+<td align="left">Wuyi Shan Nature Reserve</td>
+<td align="left">IV</td>
+<td align="left">Habitat/Species Management Area</td>
 </tr>
 <tr class="even">
-<td>Wuyi Shan Scenic &amp; Historic Interest Area</td>
-<td>V</td>
-<td>Protected Landscape</td>
+<td align="left">Wuyi Shan Scenic &amp; Historic Interest Area</td>
+<td align="left">V</td>
+<td align="left">Protected Landscape</td>
 </tr>
 </tbody>
 </table>

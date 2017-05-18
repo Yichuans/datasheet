@@ -2,7 +2,7 @@ Title: Cerrado Protected Areas: Chapada dos Veadeiros and Emas National Parks
 Tags: Brazil
 Author: UNEP-WCMC
 Year: 2001
-Date: 2017-04-20 14:28:25
+Date: 2017-05-18 15:38:32
 
 CERRADO PROTECTED AREAS: 
 =========================
@@ -52,14 +52,14 @@ IUCN MANAGEMENT CATEGORY
 <table>
 <thead>
 <tr class="header">
-<th>Chapada dos Veadeiros National Park</th>
-<th>II National Park</th>
+<th align="left">Chapada dos Veadeiros National Park</th>
+<th align="left">II National Park</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Emas National Park</td>
-<td>II National Park</td>
+<td align="left">Emas National Park</td>
+<td align="left">II National Park</td>
 </tr>
 </tbody>
 </table>
@@ -142,7 +142,7 @@ FAUNA
 
 CVNP has a high faunal diversity with more than 70 species of mammals, 307 birds, 53 amphibians and reptiles and 49 fishes, many yet unidentified. Several are threatened, many are near threatened. (In a report on the area describing the fauna flooded during the forming of the large Serra do Mesa reservoir, 30 km west, 70 species of snake, 24 lizards and 42 amphibians were recorded - Valdujo & Correa Veiga, 2005). Mammals include giant anteater [*Myrmecophaga tridactyla*](http://quin.unep-wcmc.org/isdb/Taxonomy/tax-gs-search2.cfm?GenName=Myrmecophaga&SpcName=tridactyla) (VU) giant armadillo [*Priodontes maximus*](http://quin.unep-wcmc.org/isdb/Taxonomy/tax-gs-search2.cfm?GenName=Priodontes&SpcName=maximus) (VU), forest rabbit *Sylvilagus brasiliensis,* maned wolf [*Chrysocyon brachiurus*](http://quin.unep-wcmc.org/isdb/Taxonomy/tax-gs-search2.cfm?GenName=Chrysocyon&SpcName=brachiurus), bush dog *Speothos venaticus* and hoary fox *Pseudalopex vetulus,* jaguar [*Panthera onca*](http://quin.unep-wcmc.org/isdb/Taxonomy/tax-gs-search2.cfm?GenName=Panthera&SpcName=onca), lowland tapir *Tapirus terrestris* (VU), peccary *Tayassu pecari,* marsh deer *Blastocerus dichotomus* (VU) and pampas deer [*Ozotoceros bezoarticus*](http://quin.unep-wcmc.org/isdb/Taxonomy/tax-gs-search2.cfm?GenName=Ozotoceros&SpcName=bezoarticus). Also found are the chestnut striped short-tailed opossum *Monodelphus rubida,* another opossum *Thylamis velutina,* the rare monster rice rat *Euryoryzomys lamia* (EN), two species of pygmy rice-rats *Oligoryzomis* spp. and the terrace rice-rat *Oryzomys subflavus* (Lindbergh *et al*., 1997).
 
-Bird species recorded from CVNP total approximately 43% of all the species exclusive to the Cerrado. Notable species include greater rhea [*Rhea americana*](http://quin.unep-wcmc.org/isdb/Taxonomy/tax-gs-search2.cfm?GenName=Rhea&SpcName=americana), Brazilian merganser *Mergus octosetaceus* (CR), crowned eagle *Harpyhaliaetus coronatus* (EN), black hawk-eagle [*Spizaetus tyrannus*](http://quin.unep-wcmc.org/isdb/Taxonomy/tax-gs-search2.cfm?GenName=Spizaetus&SpcName=tyrannus), king vulture *Sarcoramphus papa,* black vulture *Coragyps atratus,* cock-tailed tyrant [*Alectrurus tricolor*](http://www.iucnredlist.org/details/145289/0) (VU), ocellated crake [*Micropygia schomburgkii*](http://quin.unep-wcmc.org/isdb/Taxonomy/tax-gs-search2.cfm?GenName=Micropygia&SpcName=schomburgii), redlegged seriema *Cariama cristata,* sun parakeet [*Aratinga solstitialis*](http://www.iucnredlist.org/details/142601/0) (EN), scarlet macaw *Ara macao,* yellow-faced amazon *Alipiopsitta xanthops*, white-winged nightjar *Caprimulgus candicans* (EN), saffron toucanet [*Pteroglossus bailloni*](http://www.iucnredlist.org/details/141910/0), lesser nothura [*Nothura minor*](http://www.iucnredlist.org/details/141132/0) (VU), dwarf tinamou *Taoniscus nanus* (VU), black-masked finch [*Coryphaspiza melanotis*](http://www.iucnredlist.org/details/150148/0) (VU) and cinereous warbling-finch *[Poospiza cinerea](http://www.iucnredlist.org/details/150199/0)* (VU). There is a high diversity of invertebrates, with more than 1,000 species of moths and 160 bees, among many other groups.
+Bird species recorded from CVNP total approximately 43% of all the species exclusive to the Cerrado. Notable species include greater rhea [*Rhea americana*](http://quin.unep-wcmc.org/isdb/Taxonomy/tax-gs-search2.cfm?GenName=Rhea&SpcName=americana), Brazilian merganser *Mergus octosetaceus* (CR), crowned eagle *Harpyhaliaetus coronatus* (EN), black hawk-eagle [*Spizaetus tyrannus*](http://quin.unep-wcmc.org/isdb/Taxonomy/tax-gs-search2.cfm?GenName=Spizaetus&SpcName=tyrannus), king vulture *Sarcoramphus papa,* black vulture *Coragyps atratus,* cock-tailed tyrant [*Alectrurus tricolor*](http://www.iucnredlist.org/details/145289/0) (VU), ocellated crake [*Micropygia schomburgkii*](http://quin.unep-wcmc.org/isdb/Taxonomy/tax-gs-search2.cfm?GenName=Micropygia&SpcName=schomburgii), redlegged seriema *Cariama cristata,* sun parakeet [*Aratinga solstitialis*](http://www.iucnredlist.org/details/142601/0) (EN), scarlet macaw *Ara macao,* yellow-faced amazon *Alipiopsitta xanthops*, white-winged nightjar *Caprimulgus candicans* (EN), saffron toucanet [*Pteroglossus bailloni*](http://www.iucnredlist.org/details/141910/0), lesser nothura [*Nothura minor*](http://www.iucnredlist.org/details/141132/0) (VU), dwarf tinamou *Taoniscus nanus*[](http://quin.unep-wcmc.org/isdb/Taxonomy/tax-gs-search2.cfm?GenName=Taoniscus&SpcName=nanus) (VU), black-masked finch [*Coryphaspiza melanotis*](http://www.iucnredlist.org/details/150148/0) (VU) and cinereous warbling-finch [*Poospiza cinerea*](http://www.iucnredlist.org/details/150199/0) (VU). There is a high diversity of invertebrates, with more than 1,000 species of moths and 160 bees, among many other groups.
 
 ENP: At least 13 endangered mammal species are found in the Park, which is considered one of the best sites for observing large Cerrado fauna. The area is in the range of 17 carnivores, of which eight are listed as endangered. The Park is also one of the best places to see fruit-eating vertebrates such as the tapir and many birds, including toucans and rheas, pampas deer, giant armadillos, herds of giant anteaters, jaguars, and other, often elusive, creatures. When the fauna of ENP was surveyed from 1998 to 2000 78 mammal, 354 bird, 69 reptile, 21 amphibian and 9 fish species were recorded. Mammals include pygmy short-tailed opossum [*Monodelphis kunsi*](http://quin.unep-wcmc.org/isdb/Taxonomy/tax-gs-search2.cfm?GenName=Monodelphis&SpcName=kunsi). giant anteater, giant armadillo (VU), maned wolf, bush dog, jaguar, lowland tapir (VU), pampas deer and marsh deer (VU). Four new species of small mammal have been discovered in ENP, including the woolly giant rat [*Kunsia tomentosus*](http://quin.unep-wcmc.org/isdb/Taxonomy/tax-gs-search2.cfm?GenName=Kunsia&SpcName=tomentusus), an echymid rodent and an opossum.
 

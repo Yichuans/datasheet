@@ -2,7 +2,7 @@ Title: REDWOOD NATIONAL & STATE PARKS
 Tags: UNITED STATES OF AMERICA
 Author: UNEP-WCMC
 Year: 1980
-Date: 2017-04-20 14:28:48
+Date: 2017-05-18 15:38:46
 
 REDWOOD NATIONAL & STATE PARKS
 ==============================
@@ -46,22 +46,22 @@ IUCN MANAGEMENT CATEGORY
 <table>
 <thead>
 <tr class="header">
-<th>Redwood National Park:</th>
-<th>II National Park</th>
+<th align="left">Redwood National Park:</th>
+<th align="left">II National Park</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Prairie Creek Redwoods State Park:</td>
-<td>II National Park</td>
+<td align="left">Prairie Creek Redwoods State Park:</td>
+<td align="left">II National Park</td>
 </tr>
 <tr class="even">
-<td>Jedediah Smith Redwoods State Park:</td>
-<td>II National Park</td>
+<td align="left">Jedediah Smith Redwoods State Park:</td>
+<td align="left">II National Park</td>
 </tr>
 <tr class="odd">
-<td>Del Norte Coast Redwoods State Park:</td>
-<td>II National Park</td>
+<td align="left">Del Norte Coast Redwoods State Park:</td>
+<td align="left">II National Park</td>
 </tr>
 </tbody>
 </table>
@@ -105,26 +105,26 @@ AREA
 <table>
 <thead>
 <tr class="header">
-<th>Total area:</th>
-<th>56,883 ha (140,558 acres)</th>
+<th align="left">Total area:</th>
+<th align="left">56,883 ha (140,558 acres)</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Redwood National Park:</td>
-<td>44,610 ha</td>
+<td align="left">Redwood National Park:</td>
+<td align="left">44,610 ha</td>
 </tr>
 <tr class="even">
-<td>Prairie Creek Redwoods State Park:</td>
-<td>5,693 ha</td>
+<td align="left">Prairie Creek Redwoods State Park:</td>
+<td align="left">5,693 ha</td>
 </tr>
 <tr class="odd">
-<td>Jedediah Smith Redwoods State Park:</td>
-<td>4,002 ha</td>
+<td align="left">Jedediah Smith Redwoods State Park:</td>
+<td align="left">4,002 ha</td>
 </tr>
 <tr class="even">
-<td>Del Norte Coast Redwoods State Park:</td>
-<td>2,578 ha</td>
+<td align="left">Del Norte Coast Redwoods State Park:</td>
+<td align="left">2,578 ha</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@ Title: SARYARKA - STEPPE AND LAKES OF NORTHERN KAZAKHSTAN
 Tags: KAZAKHSTAN
 Author: UNEP-WCMC
 Year: 2008
-Date: 2017-04-20 14:28:35
+Date: 2017-05-18 15:38:39
 
 SARYARKA - STEPPE AND LAKES OF NORTHERN KAZAKHSTAN
 ==================================================
@@ -54,14 +54,14 @@ IUCN MANAGEMENT CATEGORY
 <table>
 <thead>
 <tr class="header">
-<th>Naurzum State Nature Reserve:</th>
-<th>Ia Strict Nature Reserve</th>
+<th align="left">Naurzum State Nature Reserve:</th>
+<th align="left">Ia Strict Nature Reserve</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Korgalzhyn State Nature Reserve:</td>
-<td>Ia Strict Nature Reserve</td>
+<td align="left">Korgalzhyn State Nature Reserve:</td>
+<td align="left">Ia Strict Nature Reserve</td>
 </tr>
 </tbody>
 </table>
@@ -137,60 +137,60 @@ AREAS
 <table>
 <thead>
 <tr class="header">
-<th></th>
-<th></th>
-<th><strong>Core areas</strong></th>
-<th><strong>Buffer zones:</strong></th>
+<th align="left"></th>
+<th align="left"></th>
+<th align="left"><strong>Core areas</strong></th>
+<th align="left"><strong>Buffer zones:</strong></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><strong>Naurzum</strong>:</td>
-<td>308,106.7 ha:</td>
-<td>Core: 191,381 ha</td>
-<td>Buffer: 116,725.7 ha</td>
+<td align="left"><strong>Naurzum</strong>:</td>
+<td align="left">308,106.7 ha:</td>
+<td align="left">Core: 191,381 ha</td>
+<td align="left">Buffer: 116,725.7 ha</td>
 </tr>
 <tr class="even">
-<td>Naursum-Karagay:</td>
-<td></td>
-<td>Core: 139,714 ha</td>
-<td>Buffer: 36,287.7 ha</td>
+<td align="left">Naursum-Karagay:</td>
+<td align="left"></td>
+<td align="left">Core: 139,714 ha</td>
+<td align="left">Buffer: 36,287.7 ha</td>
 </tr>
 <tr class="odd">
-<td>Sypsyn-Aebu:</td>
-<td></td>
-<td>Core: 38,720 ha</td>
-<td>Buffer: 11,624 ha</td>
+<td align="left">Sypsyn-Aebu:</td>
+<td align="left"></td>
+<td align="left">Core: 38,720 ha</td>
+<td align="left">Buffer: 11,624 ha</td>
 </tr>
 <tr class="even">
-<td>Tersek-Karagay:</td>
-<td></td>
-<td>Core: 12,947 ha</td>
-<td>Buffer: 37,655 ha</td>
+<td align="left">Tersek-Karagay:</td>
+<td align="left"></td>
+<td align="left">Core: 12,947 ha</td>
+<td align="left">Buffer: 37,655 ha</td>
 </tr>
 <tr class="odd">
-<td>Corridor:</td>
-<td></td>
-<td></td>
-<td>Buffer: 31,159 ha</td>
+<td align="left">Corridor:</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left">Buffer: 31,159 ha</td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="odd">
-<td><strong>Korgalzhyn:</strong></td>
-<td>353,368 ha:</td>
-<td>Core: 258,947 ha</td>
-<td>Buffer: 94,421 ha.</td>
+<td align="left"><strong>Korgalzhyn:</strong></td>
+<td align="left">353,368 ha:</td>
+<td align="left">Core: 258,947 ha</td>
+<td align="left">Buffer: 94,421 ha.</td>
 </tr>
 <tr class="even">
-<td><strong>Total area:</strong></td>
-<td><strong>661,474.7 ha:</strong></td>
-<td><strong>450,328 ha*</strong></td>
-<td><strong>211,146.7 ha</strong></td>
+<td align="left"><strong>Total area:</strong></td>
+<td align="left"><strong>661,474.7 ha:</strong></td>
+<td align="left"><strong>450,328 ha*</strong></td>
+<td align="left"><strong>211,146.7 ha</strong></td>
 </tr>
 </tbody>
 </table>
@@ -336,7 +336,7 @@ The principal sources for the above information were the original nomination and
 
 Bragina, T., *et al.* (2001). *Steppe and Lakes of Northern Kazakhstan*. *Nomination for Inscription on the List of Cultural and Natural World Heritage of UNESCO.* Koshetaw, Kazakhstan.
 
-Claus, S. & Lenk, M. (2004).[[[[[]{#_Toc156640549 .anchor}]{#_Ref125401436 .anchor}]{#_Ref125401418 .anchor}]{#_Ref125401411 .anchor}]{#_Ref125390514 .anchor} *Outline of the Hydrological Status in the Nura River and Tengiz Lake Basin - Focusing on the Maintenance of Natural Flows in Nura River to Safeguard Long-term Water Supply of Korgalzhyn Nature Reserve.* Astana.
+Claus, S. & Lenk, M. (2004).<span id="_Ref125390514" class="anchor"><span id="_Ref125401411" class="anchor"><span id="_Ref125401418" class="anchor"><span id="_Ref125401436" class="anchor"><span id="_Toc156640549" class="anchor"></span></span></span></span></span> *Outline of the Hydrological Status in the Nura River and Tengiz Lake Basin - Focusing on the Maintenance of Natural Flows in Nura River to Safeguard Long-term Water Supply of Korgalzhyn Nature Reserve.* Astana.
 
 EU Specific Targeted Research (2007).*TWINBAS. Twinning European and Third Countries’ River Basins for Development of Integrated Water Resources Management Methods. Final Project Report. Appendix 3: River Nura.* EC Research Project For EU Water Framework Directive.
 

@@ -2,7 +2,7 @@ Title: Sichuan Giant Panda Sanctuaries – Wolong, Mount Siguniang & Jiajin Moun
 Tags: China
 Author: UNEP-WCMC
 Year: 2000
-Date: 2017-04-20 14:28:28
+Date: 2017-05-18 15:38:34
 
  SICHUAN GIANT PANDA SANCTUARIES
 ================================
@@ -48,60 +48,60 @@ Sichuan Giant Panda Sanctuary:
 <table>
 <tbody>
 <tr class="odd">
-<td>Wolong National Nature Reserve:</td>
-<td>V Protected Landscape</td>
+<td align="left">Wolong National Nature Reserve:</td>
+<td align="left">V Protected Landscape</td>
 </tr>
 <tr class="even">
-<td>Fengtongzhai National Nature Reserve:</td>
-<td>V Protected Landscape</td>
+<td align="left">Fengtongzhai National Nature Reserve:</td>
+<td align="left">V Protected Landscape</td>
 </tr>
 <tr class="odd">
-<td>Mt. Siguniang National Nature Reserve:</td>
-<td>V Protected Landscape</td>
+<td align="left">Mt. Siguniang National Nature Reserve:</td>
+<td align="left">V Protected Landscape</td>
 </tr>
 <tr class="even">
-<td>Mt. Qingcheng - Dujiangyan National Park:</td>
-<td>II National Park</td>
+<td align="left">Mt. Qingcheng - Dujiangyan National Park:</td>
+<td align="left">II National Park</td>
 </tr>
 <tr class="odd">
-<td>Mt. Siguniang National Park:</td>
-<td>II National Park</td>
+<td align="left">Mt. Siguniang National Park:</td>
+<td align="left">II National Park</td>
 </tr>
 <tr class="even">
-<td>Mt. Xilingxueshan National Park:</td>
-<td>II National Park</td>
+<td align="left">Mt. Xilingxueshan National Park:</td>
+<td align="left">II National Park</td>
 </tr>
 <tr class="odd">
-<td>Labahe Provincial Nature Reserve:</td>
-<td>Unassigned</td>
+<td align="left">Labahe Provincial Nature Reserve:</td>
+<td align="left">Unassigned</td>
 </tr>
 <tr class="even">
-<td>Jintang - Kongyu Provincial Nature Reserve:</td>
-<td>Unassigned</td>
+<td align="left">Jintang - Kongyu Provincial Nature Reserve:</td>
+<td align="left">Unassigned</td>
 </tr>
 <tr class="odd">
-<td>Caopo Provincial Nature Reserve:</td>
-<td>Unassigned</td>
+<td align="left">Caopo Provincial Nature Reserve:</td>
+<td align="left">Unassigned</td>
 </tr>
 <tr class="even">
-<td>Mt. Jiguan - Jiulonggou Provincial Park:</td>
-<td>Unassigned</td>
+<td align="left">Mt. Jiguan - Jiulonggou Provincial Park:</td>
+<td align="left">Unassigned</td>
 </tr>
 <tr class="odd">
-<td>Mt. Jiajin Provincial Park:</td>
-<td>Unassigned</td>
+<td align="left">Mt. Jiajin Provincial Park:</td>
+<td align="left">Unassigned</td>
 </tr>
 <tr class="even">
-<td>Miyaluo Provincial Park:</td>
-<td>Unassigned</td>
+<td align="left">Miyaluo Provincial Park:</td>
+<td align="left">Unassigned</td>
 </tr>
 <tr class="odd">
-<td>Mt. Lingjiu - Mt.Daxuefeng Provincial Park:</td>
-<td>Unassigned</td>
+<td align="left">Mt. Lingjiu - Mt.Daxuefeng Provincial Park:</td>
+<td align="left">Unassigned</td>
 </tr>
 <tr class="even">
-<td>Mt. Erlang Provincial Park:</td>
-<td>Unassigned</td>
+<td align="left">Mt. Erlang Provincial Park:</td>
+<td align="left">Unassigned</td>
 </tr>
 </tbody>
 </table>
@@ -241,62 +241,62 @@ The site is in basically a temperate climatic area, though rising from subtropic
 <table>
 <thead>
 <tr class="header">
-<th></th>
-<th><strong>Flora (spp.)</strong></th>
-<th><strong>Birds (spp).</strong></th>
-<th><strong>Mammals</strong></th>
-<th><strong>Area(ha)</strong></th>
+<th align="left"></th>
+<th align="left"><strong>Flora (spp.)</strong></th>
+<th align="left"><strong>Birds (spp).</strong></th>
+<th align="left"><strong>Mammals</strong></th>
+<th align="left"><strong>Area(ha)</strong></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Sichuan site</td>
-<td>4,000</td>
-<td>365 (12*)</td>
-<td>132</td>
-<td>924,500</td>
+<td align="left">Sichuan site</td>
+<td align="left">4,000</td>
+<td align="left">365 (12*)</td>
+<td align="left">132</td>
+<td align="left">924,500</td>
 </tr>
 <tr class="even">
-<td>Three Rivers</td>
-<td>6,000</td>
-<td>417 (22*)</td>
-<td>173</td>
-<td>1,680,000</td>
+<td align="left">Three Rivers</td>
+<td align="left">6,000</td>
+<td align="left">417 (22*)</td>
+<td align="left">173</td>
+<td align="left">1,680,000</td>
 </tr>
 <tr class="odd">
-<td>Mt.Kinabalu</td>
-<td>5-6,000</td>
-<td>326</td>
-<td>112</td>
-<td>75,337</td>
+<td align="left">Mt.Kinabalu</td>
+<td align="left">5-6,000</td>
+<td align="left">326</td>
+<td align="left">112</td>
+<td align="left">75,337</td>
 </tr>
 <tr class="even">
-<td>Mt.Kilimanjaro</td>
-<td>2,500</td>
-<td>179</td>
-<td>140</td>
-<td>18,318</td>
+<td align="left">Mt.Kilimanjaro</td>
+<td align="left">2,500</td>
+<td align="left">179</td>
+<td align="left">140</td>
+<td align="left">18,318</td>
 </tr>
 <tr class="odd">
-<td>Great Smoky Mtns</td>
-<td>1,500</td>
-<td>200</td>
-<td>&gt;50</td>
-<td>209,000</td>
+<td align="left">Great Smoky Mtns</td>
+<td align="left">1,500</td>
+<td align="left">200</td>
+<td align="left">&gt;50</td>
+<td align="left">209,000</td>
 </tr>
 <tr class="even">
-<td>Yosemite</td>
-<td>&gt;1,400</td>
-<td>230</td>
-<td>74</td>
-<td>308,283</td>
+<td align="left">Yosemite</td>
+<td align="left">&gt;1,400</td>
+<td align="left">230</td>
+<td align="left">74</td>
+<td align="left">308,283</td>
 </tr>
 <tr class="odd">
-<td>Yellowstone</td>
-<td>1,050</td>
-<td>290</td>
-<td>58</td>
-<td>899,200</td>
+<td align="left">Yellowstone</td>
+<td align="left">1,050</td>
+<td align="left">290</td>
+<td align="left">58</td>
+<td align="left">899,200</td>
 </tr>
 </tbody>
 </table>

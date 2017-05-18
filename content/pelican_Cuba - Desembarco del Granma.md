@@ -2,7 +2,7 @@ Title: DESEMBARCO DEL GRANMA NATIONAL PARK
 Tags: CUBA
 Author: UNEP-WCMC
 Year: 1999
-Date: 2017-04-20 14:28:30
+Date: 2017-05-18 15:38:35
 
 DESEMBARCO DEL GRANMA NATIONAL PARK
 ===================================
@@ -121,6 +121,8 @@ SCIENTIFIC RESEARCH AND FACILITIES
 --------------------------------------
 
 The site has been the focus of numerous studies and researches on the local fauna, geology and flora. It is a very suitable locus for long-term studies of global climate change and the evolution of species between islands.
+
+[](http://www.unep-wcmc.org/sites/wh/desembar.html)
 
 MANAGEMENT
 --------------

@@ -2,7 +2,7 @@ Title: PITONS, CIRQUES AND REMPARTS OF RÉUNION ISLAND
 Tags: FRANCE
 Author: UNEP-WCMC
 Year: 2010
-Date: 2017-04-20 14:28:31
+Date: 2017-05-18 15:38:36
 
 PITONS, CIRQUES AND REMPARTS OF RÉUNION ISLAND
 ==============================================
@@ -62,18 +62,18 @@ Unassigned. The National Park includes areas individually categorised as follows
 <table>
 <thead>
 <tr class="header">
-<th>Cilaos Integral State Biological Reserve:</th>
-<th>Ia Strict Nature Reserve</th>
+<th align="left">Cilaos Integral State Biological Reserve:</th>
+<th align="left">Ia Strict Nature Reserve</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Bras Bemale-Bras des Merles State Biological Reserve:</td>
-<td>Ib Wilderness Area</td>
+<td align="left">Bras Bemale-Bras des Merles State Biological Reserve:</td>
+<td align="left">Ib Wilderness Area</td>
 </tr>
 <tr class="even">
-<td>Several sites classified:</td>
-<td>IV Habitat/Species Management Area</td>
+<td align="left">Several sites classified:</td>
+<td align="left">IV Habitat/Species Management Area</td>
 </tr>
 </tbody>
 </table>

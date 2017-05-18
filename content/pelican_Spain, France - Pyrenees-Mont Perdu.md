@@ -2,7 +2,7 @@ Title: PYRÉNÉES – MONT PERDU
 Tags: SPAIN,FRANCE
 Author: UNEP-WCMC
 Year: 1997
-Date: 2017-04-20 14:28:44
+Date: 2017-05-18 15:38:44
 
 PYRÉNÉES – MONT PERDU
 =====================
@@ -55,14 +55,14 @@ IUCN MANAGEMENT CATEGORY
 <table>
 <thead>
 <tr class="header">
-<th><em>Parc National des Pyrénées Occidentales</em></th>
-<th>II National Park</th>
+<th align="left"><em>Parc National des Pyrénées Occidentales</em></th>
+<th align="left">II National Park</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><em>Parque Nacional de Ordesa y Monte Perdido</em></td>
-<td>II National Park</td>
+<td align="left"><em>Parque Nacional de Ordesa y Monte Perdido</em></td>
+<td align="left">II National Park</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@ Title: BANC D'ARGUIN NATIONAL PARK
 Tags: MAURITANIA
 Author: UNEP-WCMC
 Year: 1989
-Date: 2017-04-20 14:28:37
+Date: 2017-05-18 15:38:40
 
 BANC D'ARGUIN NATIONAL PARK 
 ============================
@@ -40,7 +40,7 @@ The Banc d'Arguin is one of the most important zones in the world for nesting bi
 
 **Criterion (ix):** Banc d'Arguin National Park is an ecosystem rich in biodiversity of nutrients and organic matter due to the vast expanse of marshes covered with seagrass beds, and an important windblown sediment addition from the continent and the result of the permanent upwelling of the Cap Blanc.  This wealth ensures the maintenance of a marine and coastal environment sufficiently rich and diverse to support important communities of fish, birds and marine mammals.
 
-**Criterion (x):** Banc d'Arguin National Park comprises the most important habitat of the Western Atlantic for nesting birds of west Africa and the Palearctic migratory waders. The vast expanses of marshes provide shelter to more than two million limicolous migrant birds from northern Europe, Siberia and Greenland. The nesting bird population is also remarkable in terms of diversity and number: between 25,000 and 40,000 pairs belonging to 15 bird species. The shallows and island area is also the centre of intense biological activity: there are 45 fish species, 11 species of shellfish and several species of mollusks. The property also contains several species of marine turtles, notably the green seaturtle *([Chelonia mydas](http://www.iucnredlist.org/apps/redlist/details/4615/0))* on the IUCN Red List of Threatened Species. Among the mammals, there are still some remnant populations of Dorcas gazelle *([Gazella dorcas](http://www.iucnredlist.org/apps/redlist/details/8969/0)).* The bottlenose dolphin and the Atlantic hump-backed dolphin are frequently sighted in the property.
+**Criterion (x):** Banc d'Arguin National Park comprises the most important habitat of the Western Atlantic for nesting birds of west Africa and the Palearctic migratory waders. The vast expanses of marshes provide shelter to more than two million limicolous migrant birds from northern Europe, Siberia and Greenland. The nesting bird population is also remarkable in terms of diversity and number: between 25,000 and 40,000 pairs belonging to 15 bird species. The shallows and island area is also the centre of intense biological activity: there are 45 fish species, 11 species of shellfish and several species of mollusks. The property also contains several species of marine turtles, notably the green seaturtle *([Chelonia mydas*](http://www.iucnredlist.org/apps/redlist/details/4615/0)) on the IUCN Red List of Threatened Species. Among the mammals, there are still some remnant populations of Dorcas gazelle *([Gazella dorcas*](http://www.iucnredlist.org/apps/redlist/details/8969/0)*).* The bottlenose dolphin and the Atlantic hump-backed dolphin are frequently sighted in the property.
 
 **Integrity**
 
@@ -61,14 +61,14 @@ IUCN MANAGEMENT CATEGORY
 <table>
 <thead>
 <tr class="header">
-<th>Banc d'Arguin National Park:</th>
-<th>II National Park</th>
+<th align="left">Banc d'Arguin National Park:</th>
+<th align="left">II National Park</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><em>Cap Blanc Integral Reserve (Baie du Lévrier + Las Cuevecillas</em>):</td>
-<td>Ia Strict Nature Reserve</td>
+<td align="left"><em>Cap Blanc Integral Reserve (Baie du Lévrier + Las Cuevecillas</em>):</td>
+<td align="left">Ia Strict Nature Reserve</td>
 </tr>
 </tbody>
 </table>
@@ -280,7 +280,7 @@ Wolf, W.,van der Land, J.,Neihuis, P. & de Wilde, P.(eds) (1991). *Ecological St
 
 WWF/IUCN (1986). *Plan de Développement*. Comité Exécutif de la Fondation Intérnationale du Banc d’Arguin, constituée par le WWF et de l'UICN à Paris, 3-4/9/1986.
 
-WWF (2004). Ray and shark fishing to stop in Mauritania’s national park. *News from WWF's [West Africa Programme](http://www.panda.org/about_wwf/where_we_work/africa/where/western_africa/index.cfm)*, Jan.
+WWF (2004). Ray and shark fishing to stop in Mauritania’s national park. *News from WWF's* [*West Africa Programme*](http://www.panda.org/about_wwf/where_we_work/africa/where/western_africa/index.cfm), Jan.
 
 DATE
 ----

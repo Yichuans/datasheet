@@ -2,7 +2,7 @@ Title: WESTERN CAUCASUS
 Tags: RUSSIAN FEDERATION
 Author: UNEP-WCMC
 Year: 1999
-Date: 2017-04-20 14:28:42
+Date: 2017-05-18 15:38:43
 
 WESTERN CAUCASUS 
 =================
@@ -49,26 +49,26 @@ IUCN MANAGEMENT CATEGORY
 <table>
 <thead>
 <tr class="header">
-<th>Kavkazskiy State Biosphere Reserve:</th>
-<th>Ia State Nature Reserve</th>
+<th align="left">Kavkazskiy State Biosphere Reserve:</th>
+<th align="left">Ia State Nature Reserve</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Bolshoy Thach Nature Park:</td>
-<td>IV Nature Park</td>
+<td align="left">Bolshoy Thach Nature Park:</td>
+<td align="left">IV Nature Park</td>
 </tr>
 <tr class="even">
-<td>Buiniy Ridge Nature Monument:</td>
-<td>IV Nature Monument</td>
+<td align="left">Buiniy Ridge Nature Monument:</td>
+<td align="left">IV Nature Monument</td>
 </tr>
 <tr class="odd">
-<td>River Tsitsa Headwaters Nature Monument:</td>
-<td>IV Nature Monument</td>
+<td align="left">River Tsitsa Headwaters Nature Monument:</td>
+<td align="left">IV Nature Monument</td>
 </tr>
 <tr class="even">
-<td>Headwaters of Rivers Pshekha &amp; Pshekhashcha Nature Monument:</td>
-<td>IV Nature Monument</td>
+<td align="left">Headwaters of Rivers Pshekha &amp; Pshekhashcha Nature Monument:</td>
+<td align="left">IV Nature Monument</td>
 </tr>
 </tbody>
 </table>
@@ -119,30 +119,30 @@ AREA
 <table>
 <thead>
 <tr class="header">
-<th>Kavkazskiy State Biosphere Reserve:</th>
-<th>282,199ha</th>
+<th align="left">Kavkazskiy State Biosphere Reserve:</th>
+<th align="left">282,199ha</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Kavkazskiy Reserve buffer zone:</td>
-<td>6,000ha</td>
+<td align="left">Kavkazskiy Reserve buffer zone:</td>
+<td align="left">6,000ha</td>
 </tr>
 <tr class="even">
-<td>Headwaters of Rivers Pshecha and Pshechashcha Nature Monument:</td>
-<td>5,776ha</td>
+<td align="left">Headwaters of Rivers Pshecha and Pshechashcha Nature Monument:</td>
+<td align="left">5,776ha</td>
 </tr>
 <tr class="odd">
-<td>The Bolshoy Thach Nature Park:</td>
-<td>3,700ha</td>
+<td align="left">The Bolshoy Thach Nature Park:</td>
+<td align="left">3,700ha</td>
 </tr>
 <tr class="even">
-<td>The River Tsitsa Headwaters Nature Monument:</td>
-<td>1,913ha</td>
+<td align="left">The River Tsitsa Headwaters Nature Monument:</td>
+<td align="left">1,913ha</td>
 </tr>
 <tr class="odd">
-<td>The Buiniy Ridge Nature Monument:</td>
-<td>1,480ha</td>
+<td align="left">The Buiniy Ridge Nature Monument:</td>
+<td align="left">1,480ha</td>
 </tr>
 </tbody>
 </table>

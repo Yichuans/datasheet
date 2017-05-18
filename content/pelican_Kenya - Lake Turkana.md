@@ -2,7 +2,7 @@ Title: LAKE TURKANA NATIONAL PARKS
 Tags: KENYA
 Author: UNEP-WCMC
 Year: 1997
-Date: 2017-04-20 14:28:35
+Date: 2017-05-18 15:38:39
 
 LAKE TURKANA NATIONAL PARKS
 ===========================
@@ -73,14 +73,14 @@ IUCN MANAGEMENT CATEGORY
 <table>
 <thead>
 <tr class="header">
-<th>Sibiloi &amp; Central Island National Parks:</th>
-<th>II National Parks</th>
+<th align="left">Sibiloi &amp; Central Island National Parks:</th>
+<th align="left">II National Parks</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>South Island National Park:</td>
-<td>II National Park</td>
+<td align="left">South Island National Park:</td>
+<td align="left">II National Park</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@ Title: HUASCARAN NATIONAL PARK
 Tags: PERU
 Author: UNEP-WCMC
 Year: 1985
-Date: 2017-04-20 14:28:40
+Date: 2017-05-18 15:38:42
 
 HUASCARAN NATIONAL PARK
 =======================
@@ -104,75 +104,75 @@ Seven ecosystems and eleven types of vegetation are listed in the Master Plan (I
 <table>
 <thead>
 <tr class="header">
-<th><strong>Ecosystem</strong></th>
-<th><strong>Height</strong></th>
-<th><strong>Temp.</strong></th>
-<th><strong>Precipit’n (mm)</strong></th>
-<th><strong>Area</strong></th>
-<th><strong>Aspect</strong></th>
+<th align="left"><strong>Ecosystem</strong></th>
+<th align="left"><strong>Height</strong></th>
+<th align="left"><strong>Temp.</strong></th>
+<th align="left"><strong>Precipit’n (mm)</strong></th>
+<th align="left"><strong>Area</strong></th>
+<th align="left"><strong>Aspect</strong></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Montane tropical grasslands</td>
-<td>3,000-3,500m</td>
-<td>6-14 <sup>o</sup>C</td>
-<td>250-500</td>
-<td>0.5%</td>
-<td>in the north</td>
+<td align="left">Montane tropical grasslands</td>
+<td align="left">3,000-3,500m</td>
+<td align="left">6-14 <sup>o</sup>C</td>
+<td align="left">250-500</td>
+<td align="left">0.5%</td>
+<td align="left">in the north</td>
 </tr>
 <tr class="even">
-<td><p>Very humid montane</p>
+<td align="left"><p>Very humid montane</p>
 <p>tropical forest</p></td>
-<td>3,000-3,800m</td>
-<td>6-12 <sup>o</sup>C</td>
-<td>1,000-2,000</td>
-<td>0.8%</td>
-<td>in the east</td>
+<td align="left">3,000-3,800m</td>
+<td align="left">6-12 <sup>o</sup>C</td>
+<td align="left">1,000-2,000</td>
+<td align="left">0.8%</td>
+<td align="left">in the east</td>
 </tr>
 <tr class="odd">
-<td><p>Humid montane</p>
+<td align="left"><p>Humid montane</p>
 <p>tropical forest</p></td>
-<td>3,000-4,000m</td>
-<td>6-12 <sup>o</sup>C</td>
-<td>380-948</td>
-<td>3.1%</td>
-<td>in the west</td>
+<td align="left">3,000-4,000m</td>
+<td align="left">6-12 <sup>o</sup>C</td>
+<td align="left">380-948</td>
+<td align="left">3.1%</td>
+<td align="left">in the west</td>
 </tr>
 <tr class="even">
-<td><p>Pluvial sub-Andean</p>
+<td align="left"><p>Pluvial sub-Andean</p>
 <p>tropical paramo</p></td>
-<td><sub>~</sub>3,800m</td>
-<td>3-6 <sup>o</sup>C</td>
-<td>1,000-2,000</td>
-<td>14.3%</td>
-<td>in the southeast</td>
+<td align="left"><sub>~</sub>3,800m</td>
+<td align="left">3-6 <sup>o</sup>C</td>
+<td align="left">1,000-2,000</td>
+<td align="left">14.3%</td>
+<td align="left">in the southeast</td>
 </tr>
 <tr class="odd">
-<td><p>Very humid sub-Andean</p>
+<td align="left"><p>Very humid sub-Andean</p>
 <p>tropical paramo</p></td>
-<td>3,800-4,500m</td>
-<td>3-6 <sup>o</sup>C</td>
-<td>500-1,200</td>
-<td>20.3%</td>
-<td>on both slopes</td>
+<td align="left">3,800-4,500m</td>
+<td align="left">3-6 <sup>o</sup>C</td>
+<td align="left">500-1,200</td>
+<td align="left">20.3%</td>
+<td align="left">on both slopes</td>
 </tr>
 <tr class="even">
-<td><p>Pluvial Andean</p>
+<td align="left"><p>Pluvial Andean</p>
 <p>tropical tundra</p></td>
-<td>4,500-5,000m</td>
-<td>1.5-3<sup>o</sup>C</td>
-<td>680-1,290</td>
-<td>32.5%</td>
-<td>on both slopes</td>
+<td align="left">4,500-5,000m</td>
+<td align="left">1.5-3<sup>o</sup>C</td>
+<td align="left">680-1,290</td>
+<td align="left">32.5%</td>
+<td align="left">on both slopes</td>
 </tr>
 <tr class="odd">
-<td>Snowcovered tropical tundra</td>
-<td>&gt;5,000m</td>
-<td>&lt;1.5 <sup>o</sup>C</td>
-<td>500-1,000</td>
-<td>28.5%</td>
-<td>the peaks</td>
+<td align="left">Snowcovered tropical tundra</td>
+<td align="left">&gt;5,000m</td>
+<td align="left">&lt;1.5 <sup>o</sup>C</td>
+<td align="left">500-1,000</td>
+<td align="left">28.5%</td>
+<td align="left">the peaks</td>
 </tr>
 </tbody>
 </table>

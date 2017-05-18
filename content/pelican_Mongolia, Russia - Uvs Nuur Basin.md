@@ -2,7 +2,7 @@ Title: UVS NUUR BASIN
 Tags: MONGOLIA,RUSSIAN FEDERATION
 Author: UNEP-WCMC
 Year: 2002
-Date: 2017-04-20 14:28:38
+Date: 2017-05-18 15:38:40
 
 UVS NUUR BASIN
 ==============
@@ -51,14 +51,14 @@ IUCN MANAGEMENT CATEGORY
 <table>
 <thead>
 <tr class="header">
-<th>Uvs Nuur Basin, Mongolia:</th>
-<th>Ia Strict Nature Reserve</th>
+<th align="left">Uvs Nuur Basin, Mongolia:</th>
+<th align="left">Ia Strict Nature Reserve</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Ubsunorskaya Kotlovina, Russia:</td>
-<td>II Special Protected Area</td>
+<td align="left">Ubsunorskaya Kotlovina, Russia:</td>
+<td align="left">II Special Protected Area</td>
 </tr>
 </tbody>
 </table>

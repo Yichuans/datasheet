@@ -2,7 +2,7 @@ Title: SIMIEN NATIONAL PARK
 Tags: ETHIOPIA
 Author: UNEP-WCMC
 Year: 1978
-Date: 2017-04-20 14:28:31
+Date: 2017-05-18 15:38:36
 
 SIMIEN NATIONAL PARK
 ====================
@@ -12,7 +12,7 @@ ETHIOPIA
 
 *The Park was one of the first four sites to be inscribed on the World Heritage List in 1978. Massive erosion of the Ethiopian plateau has created one of the most spectacular landscapes in the world: jagged mountain peaks, deep valleys and precipices sheer for 1,500 metres. The Park is the refuge of the extremely rare Ethiopian wolf, gelada baboon and Walia ibex, a goat unique to Ethiopia. After the site’s management was transferred from Addis Abeba to the Amhara region in 1997, a committee for the Park’s rehabilitation was set up, the budget and staff increased, there was local participation in decisions, resettlement of farmers, excision of villages and extension of the Park.*
 
-*Threats to the Site: The World Heritage Committee placed the Park on the [List of World Heritage in Danger](http://www.unesco.org/whc/toc/mainf4.htm) in 1996 because of decline in the population of the Walia ibex due to human settlement, grazing, agriculture and road construction. The ibex may now number over 500 and be on the increase, but the Ethiopian wolf remains extremely rare.*
+*Threats to the Site: The World Heritage Committee placed the Park on the* [*List of World Heritage in Danger*](http://www.unesco.org/whc/toc/mainf4.htm) *in 1996 because of decline in the population of the Walia ibex due to human settlement, grazing, agriculture and road construction. The ibex may now number over 500 and be on the increase, but the Ethiopian wolf remains extremely rare.*
 
 COUNTRY
 -------

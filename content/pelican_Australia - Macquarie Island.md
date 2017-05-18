@@ -2,7 +2,7 @@ Title: MACQUARIE ISLAND
 Tags: AUSTRALIA
 Author: UNEP-WCMC
 Year: 1997
-Date: 2017-04-20 14:28:23
+Date: 2017-05-18 15:38:31
 
 MACQUARIE ISLAND
 ================
@@ -207,7 +207,7 @@ Notes 18. 70 pp.
 
 Copson, G. & Rounsevell, D. (1987). *The Abundance of Royal Penguins (Eudyptes schlelgii, Finsch) Breeding at Macquarie Island*. ANARE Research Notes 41.
 
-Copson G & Whinam, J. (2008). Review of ecological restoration programme on subantarctic Macquarie Island: Pest management progress and future directions. *[Ecological Management & Restoration](http://www3.interscience.wiley.com/journal/117981119/home),* 9: 2.
+Copson G & Whinam, J. (2008). Review of ecological restoration programme on subantarctic Macquarie Island: Pest management progress and future directions. [*Ecological Management & Restoration*](http://www3.interscience.wiley.com/journal/117981119/home), 9: 2.
 
 Cumpston, J. (1968). *Macquarie Island*. ANARE Scientific Reports Series A (1): 93. 330 pp.
 

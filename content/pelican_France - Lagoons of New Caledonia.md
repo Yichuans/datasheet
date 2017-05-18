@@ -2,7 +2,7 @@ Title: REEF DIVERSITY AND ASSOCIATED ECOSYSTEMS
 Tags: FRANCE
 Author: UNEP-WCMC
 Year: 2008
-Date: 2017-04-20 14:28:31
+Date: 2017-05-18 15:38:36
 
 
 REEF DIVERSITY AND ASSOCIATED ECOSYSTEMS
@@ -87,104 +87,95 @@ Total buffer area: 1,287,100 ha: marine buffer area: 794,700, terrestrial buffer
 <table>
 <thead>
 <tr class="header">
-<th><strong>Site</strong></th>
-<th><strong>District</strong></th>
-<th><strong>Comm-</strong></th>
-<th><strong>Marine </strong></th>
-<th><strong>Marine buffer</strong></th>
-<th><strong>Land</strong></th>
+<th align="left"><strong>Site</strong></th>
+<th align="left"><strong>District</strong></th>
+<th align="left"><strong>Comm-</strong></th>
+<th align="left"><strong>Marine </strong></th>
+<th align="left"><strong>Marine buffer</strong></th>
+<th align="left"><strong>Land</strong></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td><strong>unes (ha)</strong></td>
-<td><strong>area (ha)</strong></td>
-<td><blockquote>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"><strong>unes (ha)</strong></td>
+<td align="left"><strong>area (ha)</strong></td>
+<td align="left"><blockquote>
 <p><strong>area (ha)</strong></p>
 </blockquote></td>
-<td><strong>area (ha)</strong></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="odd">
-<td>1</td>
-<td>Grand Lagon Sud (GLS)</td>
-<td>Province Sud</td>
-<td>3</td>
-<td>314,500</td>
-<td>313,100</td>
-<td>15,800</td>
+<td align="left">1</td>
+<td align="left">Grand Lagon Sud (GLS)</td>
+<td align="left">Province Sud</td>
+<td align="left">3</td>
+<td align="left">314,500</td>
+<td align="left">313,100</td>
 </tr>
 <tr class="even">
-<td>2</td>
-<td>Zone Côtière Ouest (ZCO)</td>
-<td>Province Sud</td>
-<td>7</td>
-<td>48,200</td>
-<td>32,500</td>
-<td>171,300</td>
+<td align="left">2</td>
+<td align="left">Zone Côtière Ouest (ZCO)</td>
+<td align="left">Province Sud</td>
+<td align="left">7</td>
+<td align="left">48,200</td>
+<td align="left">32,500</td>
 </tr>
 <tr class="odd">
-<td>3</td>
-<td>Zone Côtière Nord et Est (ZCNE)</td>
-<td>Province Nord</td>
-<td>7</td>
-<td>371,400</td>
-<td>100,200</td>
-<td>284,500</td>
+<td align="left">3</td>
+<td align="left">Zone Côtière Nord et Est (ZCNE)</td>
+<td align="left">Province Nord</td>
+<td align="left">7</td>
+<td align="left">371,400</td>
+<td align="left">100,200</td>
 </tr>
 <tr class="even">
-<td>4</td>
-<td>Grand Lagon Nord (GLN)</td>
-<td>Province Nord</td>
-<td>1</td>
-<td>635,700</td>
-<td>105,700</td>
-<td>6,400</td>
+<td align="left">4</td>
+<td align="left">Grand Lagon Nord (GLN)</td>
+<td align="left">Province Nord</td>
+<td align="left">1</td>
+<td align="left">635,700</td>
+<td align="left">105,700</td>
 </tr>
 <tr class="odd">
-<td>5</td>
-<td>Atolls d’Entrecasteaux (ADE)</td>
-<td><p>Nouvelle</p>
+<td align="left">5</td>
+<td align="left">Atolls d’Entrecasteaux (ADE)</td>
+<td align="left"><p>Nouvelle</p>
 <p>Calédonie</p></td>
-<td>1</td>
-<td>106,800</td>
-<td>216,800</td>
-<td>0</td>
+<td align="left">1</td>
+<td align="left">106,800</td>
+<td align="left">216,800</td>
 </tr>
 <tr class="even">
-<td>6</td>
-<td>Atoll d’Ouvéa et Beautemps-</td>
-<td>Province</td>
-<td>1</td>
-<td>97,700</td>
-<td>26,400</td>
-<td>14,400</td>
+<td align="left">6</td>
+<td align="left">Atoll d’Ouvéa et Beautemps-</td>
+<td align="left">Province</td>
+<td align="left">1</td>
+<td align="left">97,700</td>
+<td align="left">26,400</td>
 </tr>
 <tr class="odd">
-<td></td>
-<td>Beaupré (AOBB)</td>
-<td>îles Loyauté</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td align="left"></td>
+<td align="left">Beaupré (AOBB)</td>
+<td align="left">îles Loyauté</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td><strong>Totals</strong></td>
-<td><strong>1,574,300</strong></td>
-<td><strong>794,700</strong></td>
-<td><strong>492,400</strong></td>
+<td align="left"><strong>Totals</strong></td>
+<td align="left"><strong>1,574,300</strong></td>
+<td align="left"><strong>794,700</strong></td>
+<td align="left"><strong>492,400</strong></td>
 </tr>
 </tbody>
 </table>

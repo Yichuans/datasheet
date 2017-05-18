@@ -2,7 +2,7 @@ Title: BWINDI IMPENETRABLE NATIONAL PARK
 Tags: UGANDA
 Author: UNEP-WCMC
 Year: 1994
-Date: 2017-04-20 14:28:46
+Date: 2017-05-18 15:38:45
 
 BWINDI IMPENETRABLE NATIONAL PARK 
 ==================================
@@ -227,7 +227,7 @@ IGCP (1992). *Bwindi Impenetrable National Park Tourism Development Plan.* Prepa
 
 ---------- (1997). Ecotourism in Bwindi National Park. *Mountain Gorilla Update* No.3. Flora and Fauna International.
 
-IUCN (2010). *The* [*Red List of Threatened Species*](http://www.amazon.com/exec/obidos/tg/detail/-/2831705657?v=glance). IUCN, Cambridge, U.K.
+IUCN (2010). *The*[ *Red List of Threatened Species*](http://www.amazon.com/exec/obidos/tg/detail/-/2831705657?v=glance). IUCN, Cambridge, U.K.
 
 Johnstone, R. (1997). Gorillas in our midst. *Swara* 20 (2): 22-23.
 

@@ -2,7 +2,7 @@ Title: ICHKEUL NATIONAL PARK
 Tags: TUNISIA
 Author: UNEP-WCMC
 Year: 1980
-Date: 2017-04-20 14:28:46
+Date: 2017-05-18 15:38:45
 
 ICHKEUL NATIONAL PARK
 =====================
@@ -14,7 +14,7 @@ TUNISIA
 
 *Threats to the Site: Construction of three dams on rivers supplying the lake cut off almost all the fresh water inflow, causing a destructive increase in salinity. Reed beds, sedges and other fresh-water species were replaced by halophytes, causing a sharp reduction in the numbers of migratory birds which depended on the former habitat; all reed-dependent species disappeared. There was also agricultural encroachment onto the marshes.*
 
-*In 1996 the Park was inscribed on the* []{#_Hlt68857 .anchor}*List of World Heritage in Danger. In June 1998 the IUCN noted that the salinity of the lake may have precluded any chance of recovering the World Heritage values of the site It was concerned at the slow pace and lack of effectiveness of the rehabilitation program. The emergency was mitigated by ample rainfall during winters between 2003 and 2005, so the site taken out of danger.*
+*In 1996 the Park was inscribed on the* <span id="_Hlt68857" class="anchor"></span>*List of World Heritage in Danger. In June 1998 the IUCN noted that the salinity of the lake may have precluded any chance of recovering the World Heritage values of the site It was concerned at the slow pace and lack of effectiveness of the rehabilitation program. The emergency was mitigated by ample rainfall during winters between 2003 and 2005, so the site taken out of danger.*
 
 COUNTRY
 -------

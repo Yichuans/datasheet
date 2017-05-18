@@ -2,7 +2,7 @@ Title: Papahānaumokuākea
 Tags: UNITED STATES OF AMERICA
 Author: UNEP-WCMC
 Year: 2010
-Date: 2017-04-20 14:28:47
+Date: 2017-05-18 15:38:46
 
 Papahānaumokuākea
 =================
@@ -205,7 +205,7 @@ Web address: www.papahanaumokuakea.gov
 REFERENCES
 ----------
 
-The principal sources for the above information were the original World Heritage nomination (see the reference list therein for full citations of the references cited above), IUCN’s evaluation report and Decision 34 COM 8B.10 of the UNESCO World Heritage Committee.
+The principal sources f the above infmation were the iginal Wld Heritage nomination (see the reference list therein for full citations of the references cited above), IUCN’s evaluation report and Decision 34 COM 8B.10 of the UNESCO World Heritage Committee.
 
 DATE
 ----

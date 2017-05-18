@@ -2,7 +2,7 @@ Title: PHOENIX ISLANDS PROTECTED AREA
 Tags: KIRIBATI
 Author: UNEP-WCMC
 Year: 2010
-Date: 2017-04-20 14:28:36
+Date: 2017-05-18 15:38:39
 
 PHOENIX ISLANDS PROTECTED AREA
 ==============================
@@ -72,42 +72,42 @@ The coordinates for the corner points of the property’s boundary are listed be
 <table>
 <thead>
 <tr class="header">
-<th><strong>Longitude</strong></th>
-<th><strong>Latitude</strong></th>
+<th align="left"><strong>Longitude</strong></th>
+<th align="left"><strong>Latitude</strong></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td></td>
-<td></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td>174.242794°W</td>
-<td>0.983476°S</td>
+<td align="left">174.242794°W</td>
+<td align="left">0.983476°S</td>
 </tr>
 <tr class="odd">
-<td>169.706032°W</td>
-<td>0.983476°S</td>
+<td align="left">169.706032°W</td>
+<td align="left">0.983476°S</td>
 </tr>
 <tr class="even">
-<td>169.706032°W</td>
-<td>6.466132°S</td>
+<td align="left">169.706032°W</td>
+<td align="left">6.466132°S</td>
 </tr>
 <tr class="odd">
-<td>173.220373°W</td>
-<td>6.470758°S</td>
+<td align="left">173.220373°W</td>
+<td align="left">6.470758°S</td>
 </tr>
 <tr class="even">
-<td>173.510230°W</td>
-<td>6.616143°S</td>
+<td align="left">173.510230°W</td>
+<td align="left">6.616143°S</td>
 </tr>
 <tr class="odd">
-<td>175.865776°W</td>
-<td>6.617835°S</td>
+<td align="left">175.865776°W</td>
+<td align="left">6.617835°S</td>
 </tr>
 <tr class="even">
-<td>175.865776°W</td>
-<td>2.091330°S</td>
+<td align="left">175.865776°W</td>
+<td align="left">2.091330°S</td>
 </tr>
 </tbody>
 </table>

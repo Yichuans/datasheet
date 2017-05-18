@@ -2,7 +2,7 @@ Title: VOLCANOES OF KAMCHATKA
 Tags: RUSSIAN FEDERATION
 Author: UNEP-WCMC
 Year: 1996
-Date: 2017-04-20 14:28:42
+Date: 2017-05-18 15:38:43
 
 VOLCANOES OF KAMCHATKA
 ======================
@@ -57,46 +57,46 @@ IUCN MANAGEMENT CATEGORY
 <table>
 <thead>
 <tr class="header">
-<th>Kronotskiy Zapovednik:</th>
-<th>Ia Strict Nature Reserve / Biosphere Reserve</th>
+<th align="left">Kronotskiy Zapovednik:</th>
+<th align="left">Ia Strict Nature Reserve / Biosphere Reserve</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Klyuchevskoy Prirodny Park:</td>
-<td>V Strict Nature Reserve</td>
+<td align="left">Klyuchevskoy Prirodny Park:</td>
+<td align="left">V Strict Nature Reserve</td>
 </tr>
 <tr class="even">
-<td>Bystrinskiy Prirodny Park:</td>
-<td>IV Habitat/Species Management Area</td>
+<td align="left">Bystrinskiy Prirodny Park:</td>
+<td align="left">IV Habitat/Species Management Area</td>
 </tr>
 <tr class="odd">
-<td>Nalychevo Prirodny Park:</td>
-<td>IV Habitat/Species Management Area</td>
+<td align="left">Nalychevo Prirodny Park:</td>
+<td align="left">IV Habitat/Species Management Area</td>
 </tr>
 <tr class="even">
-<td>Yuzhno Kamchatkiy Prirodny Park:</td>
-<td>IV Habitat/Species Management Area</td>
+<td align="left">Yuzhno Kamchatkiy Prirodny Park:</td>
+<td align="left">IV Habitat/Species Management Area</td>
 </tr>
 <tr class="odd">
-<td>Yuzhno Kamchatkiy Federal Zakaznik:</td>
-<td>IV Habitat/Species Management Area</td>
+<td align="left">Yuzhno Kamchatkiy Federal Zakaznik:</td>
+<td align="left">IV Habitat/Species Management Area</td>
 </tr>
 <tr class="even">
-<td>Southwestern Tundra Zakaznik:</td>
-<td>IV Habitat/Species Management Area</td>
+<td align="left">Southwestern Tundra Zakaznik:</td>
+<td align="left">IV Habitat/Species Management Area</td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td>Zapovednik:</td>
-<td>State Biosphere Nature Reserve;</td>
+<td align="left">Zapovednik:</td>
+<td align="left">State Biosphere Nature Reserve;</td>
 </tr>
 <tr class="odd">
-<td>Prirodny Park &amp; Zakaznik: Nature Park.</td>
-<td></td>
+<td align="left">Prirodny Park &amp; Zakaznik: Nature Park.</td>
+<td align="left"></td>
 </tr>
 </tbody>
 </table>
@@ -149,46 +149,46 @@ The following areas were given in the State Party Nomination and UNESCO’s 2001
 <table>
 <thead>
 <tr class="header">
-<th></th>
-<th><strong>Area (ha)</strong></th>
-<th><strong>Central Coordinates </strong></th>
+<th align="left"></th>
+<th align="left"><strong>Area (ha)</strong></th>
+<th align="left"><strong>Central Coordinates </strong></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Bystrinskiy Prirodny Park</td>
-<td>1,500,000</td>
-<td>55º50’N/158º30’E</td>
+<td align="left">Bystrinskiy Prirodny Park</td>
+<td align="left">1,500,000</td>
+<td align="left">55º50’N/158º30’E</td>
 </tr>
 <tr class="even">
-<td>Kronotskiy Zapovednik</td>
-<td>1,007,134</td>
-<td>54º38’N/160º52’E</td>
+<td align="left">Kronotskiy Zapovednik</td>
+<td align="left">1,007,134</td>
+<td align="left">54º38’N/160º52’E</td>
 </tr>
 <tr class="odd">
-<td>Yuzhno Kamchatskiy Prirodny Park</td>
-<td>800,000</td>
-<td>51º55’N/157º35’E</td>
+<td align="left">Yuzhno Kamchatskiy Prirodny Park</td>
+<td align="left">800,000</td>
+<td align="left">51º55’N/157º35’E</td>
 </tr>
 <tr class="even">
-<td>Yuzhno Kamchatskiy Federal Zakaznik</td>
-<td>225,000</td>
-<td></td>
+<td align="left">Yuzhno Kamchatskiy Federal Zakaznik</td>
+<td align="left">225,000</td>
+<td align="left"></td>
 </tr>
 <tr class="odd">
-<td>Klyuchevskoy Prirodny Park [extension]</td>
-<td>375,981</td>
-<td>55º50’N/160º35’E</td>
+<td align="left">Klyuchevskoy Prirodny Park [extension]</td>
+<td align="left">375,981</td>
+<td align="left">55º50’N/160º35’E</td>
 </tr>
 <tr class="even">
-<td>Nalychevo Prirodny Park</td>
-<td>265,000</td>
-<td>53º28’N/159º00’E</td>
+<td align="left">Nalychevo Prirodny Park</td>
+<td align="left">265,000</td>
+<td align="left">53º28’N/159º00’E</td>
 </tr>
 <tr class="odd">
-<td>Southwest Tundra Prirodny Park</td>
-<td>23,000</td>
-<td>52º05’N/156º50’E</td>
+<td align="left">Southwest Tundra Prirodny Park</td>
+<td align="left">23,000</td>
+<td align="left">52º05’N/156º50’E</td>
 </tr>
 </tbody>
 </table>
@@ -236,9 +236,9 @@ Mammals in Klyuchevskoy Nature Park include a herd of wild reindeer, the largest
 
 Tundra birds and seabirds are very numerous. Some 179 bird species have been recorded. Nine species noted in Nalychevo Nature Park are considered nationally threatened: emperor goose *Chen canagica*, brent goose *Branta bernicla*, osprey *Pandion haliaetus*, Steller’s sea eagle *Haliaeetus pelagicus* (VU), white-tailed eagle *H. albicilla*, gyrfalcon *Falco rusticolis*, peregrine *F. peregrinus*, and solitary snipe *Gallinago solitaria.* Other uncommon species are golden eagle *Aquila chrysaetos,* redlegged kittiwake *Rissa brevirostris* (VU), and spotted greenshank *Tringa guttifer* (EN). Kamchatka, especially Cape Lopatka on its southern tip, is a major staging point on migration routes and a wintering ground for a great number of eastern bird species. Southern Kamchatska State Reserve has the world’s largest winter concentrations of raptors, attracted by the huge populations of sockeye *anerka,* at Lake Kurilskoye Lake which is the largest spawning ground in the world for this species of salmon.
 
-There are numerous seabird colonies along the coasts of the reserves, several of which contain a notable portion of the world population of certain species. More than half the world populations of Steller’s sea eagle and of Aleutian tern *Sterna aleutica* nest on the peninsula. In the past 20 years spotted and spoon-billed sandpipers *Actitis macularius* and *Eurynorhyncus pygmeus* (CR) have been seen on the southeast coast. Other numerous species include the yellow-billed diver *Gavia adamsii,* whooper swan *Cygnus cygnus*, lesser whitefronted goose *Anser erythropus* (VU), slatybacked gull [*Larus schistisagus*](http://quin.unep-wcmc.org/isdb/Taxonomy/tax-gs-search2.cfm?GenName=Larus&SpcName=schistisagus), Kamchatka tern *Sterna camtschatica,* guillemot [*Uria aalge*](http://quin.unep-wcmc.org/isdb/Taxonomy/tax-gs-search2.cfm?GenName=Uria&SpcName=aalge), thickbilled guillemot *[Uria lomvia](http://quin.unep-wcmc.org/isdb/Taxonomy/tax-gs-search2.cfm?GenName=Uria&SpcName=lomvia),* pigeon guillemot *[Cepphus columba](http://quin.unep-wcmc.org/isdb/Taxonomy/tax-gs-search2.cfm?GenName=Chepphus&SpcName=columba),* ancient murrelet *Synthliboramphus antiquus*, horned puffin [*Fratercula corniculata*](http://quin.unep-wcmc.org/isdb/Taxonomy/tax-gs-search2.cfm?GenName=Fratercula&SpcName=corniculata) and tufted puffin [*F. cirrhata*](http://quin.unep-wcmc.org/isdb/Taxonomy/tax-gs-search2.cfm?GenName=Lundy&SpcName=cirrhata).
+There are numerous seabird colonies along the coasts of the reserves, several of which contain a notable portion of the world population of certain species. More than half the world populations of Steller’s sea eagle and of Aleutian tern *Sterna aleutica* nest on the peninsula. In the past 20 years spotted and spoon-billed sandpipers *Actitis macularius* and *Eurynorhyncus pygmeus* (CR) have been seen on the southeast coast. Other numerous species include the yellow-billed diver *Gavia adamsii,* whooper swan *Cygnus cygnus*, lesser whitefronted goose *Anser erythropus* (VU), slatybacked gull [*Larus schistisagus*](http://quin.unep-wcmc.org/isdb/Taxonomy/tax-gs-search2.cfm?GenName=Larus&SpcName=schistisagus), Kamchatka tern *Sterna camtschatica,* guillemot [*Uria aalge*](http://quin.unep-wcmc.org/isdb/Taxonomy/tax-gs-search2.cfm?GenName=Uria&SpcName=aalge), thickbilled guillemot [*Uria lomvia*](http://quin.unep-wcmc.org/isdb/Taxonomy/tax-gs-search2.cfm?GenName=Uria&SpcName=lomvia), pigeon guillemot [*Cepphus columba*](http://quin.unep-wcmc.org/isdb/Taxonomy/tax-gs-search2.cfm?GenName=Chepphus&SpcName=columba), ancient murrelet *Synthliboramphus antiquus*, horned puffin [*Fratercula corniculata*](http://quin.unep-wcmc.org/isdb/Taxonomy/tax-gs-search2.cfm?GenName=Fratercula&SpcName=corniculata) and tufted puffin [*F. cirrhata*](http://quin.unep-wcmc.org/isdb/Taxonomy/tax-gs-search2.cfm?GenName=Lundy&SpcName=cirrhata).
 
-The rivers of western Kamchatka contain the greatest concentration and diversity of salmonid fish species on earth and are the only place on the Pacific rim where all the species of Pacific salmon coexist. Nearly all the rivers are exceptionally unpolluted spawning grounds for this key food source which sustains the very large populations of brown bears, sea otters, Steller’s sea-eagles and dozens of other marine and terrestrial animals. One watershed adjacent to the Bystrinsky Nature Park contains eleven species of salmonid fish, several being considered nationally threatened: king [*Oncorhynchus tschawytscha*](http://quin.unep-wcmc.org/isdb/Taxonomy/tax-gs-search2.cfm?GenName=Oncorhynchus&SpcName=tschawytscha), silver or coho *O. kisutch*, chum *O. keta*, pink *O. gorbuscha,* cherry *O. masu*, both resident and anadromous forms of sockeye salmon *O. nerka* and steelhead and rainbow trout *Salmo mykiss*. Dolly Varden char *[Salvelinus malma](http://quin.unep-wcmc.org/isdb/Taxonomy/tax-gs-search2.cfm?GenName=Salvelinus&SpcName=malma),* white-spotted char *S. leucomaenis*, and whitefish *Coregonis* ssp. The Nalychevo River and its tributaries also support great numbers of five of the above species plus Arctic char *Salvelinus alpinus*. Wild salmon are declining rapidly throughout their range along both the Atlantic and Pacific rims. Outside western Alaska, there are very few if any large areas left along the Pacific rim to preserve not only native runs of salmon and steelhead, but also the intact ecosystems they support and that support them (MEPNR, 1995).
+The rivers of western Kamchatka contain the greatest concentration and diversity of salmonid fish species on earth and are the only place on the Pacific rim where all the species of Pacific salmon coexist. Nearly all the rivers are exceptionally unpolluted spawning grounds for this key food source which sustains the very large populations of brown bears, sea otters, Steller’s sea-eagles and dozens of other marine and terrestrial animals. One watershed adjacent to the Bystrinsky Nature Park contains eleven species of salmonid fish, several being considered nationally threatened: king [*Oncorhynchus tschawytscha*](http://quin.unep-wcmc.org/isdb/Taxonomy/tax-gs-search2.cfm?GenName=Oncorhynchus&SpcName=tschawytscha), silver or coho *O. kisutch*, chum *O. keta*, pink *O. gorbuscha,* cherry *O. masu*, both resident and anadromous forms of sockeye salmon *O. nerka* and steelhead and rainbow trout *Salmo mykiss*. Dolly Varden char [*Salvelinus malma*](http://quin.unep-wcmc.org/isdb/Taxonomy/tax-gs-search2.cfm?GenName=Salvelinus&SpcName=malma), white-spotted char *S. leucomaenis*, and whitefish *Coregonis* ssp. The Nalychevo River and its tributaries also support great numbers of five of the above species plus Arctic char *Salvelinus alpinus*. Wild salmon are declining rapidly throughout their range along both the Atlantic and Pacific rims. Outside western Alaska, there are very few if any large areas left along the Pacific rim to preserve not only native runs of salmon and steelhead, but also the intact ecosystems they support and that support them (MEPNR, 1995).
 
 CONSERVATION VALUE
 ------------------

@@ -2,7 +2,7 @@ Title: KLUANE / WRANGELL-ST ELIAS / GLACIER BAY /TATSHENSHINI-ALSEK
 Tags: UNITED STATES OF AMERICA,CANADA
 Author: UNEP-WCMC
 Year: 1979
-Date: 2017-04-20 14:28:48
+Date: 2017-05-18 15:38:47
 
 KLUANE / WRANGELL-ST ELIAS / GLACIER BAY /TATSHENSHINI-ALSEK 
 =============================================================
@@ -59,22 +59,22 @@ IUCN MANAGEMENT CATEGORY
 <table>
 <thead>
 <tr class="header">
-<th>Kluane National Park and Reserve:</th>
-<th>II National Park</th>
+<th align="left">Kluane National Park and Reserve:</th>
+<th align="left">II National Park</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Tatshenshini-Alsek Provincial Park:</td>
-<td>Ib Strict Nature Reserve</td>
+<td align="left">Tatshenshini-Alsek Provincial Park:</td>
+<td align="left">Ib Strict Nature Reserve</td>
 </tr>
 <tr class="even">
-<td>Wrangell-St Elias National Park &amp; Preserve:</td>
-<td>II National Park</td>
+<td align="left">Wrangell-St Elias National Park &amp; Preserve:</td>
+<td align="left">II National Park</td>
 </tr>
 <tr class="odd">
-<td>Glacier Bay National Park &amp; Preserve:</td>
-<td>II National Park</td>
+<td align="left">Glacier Bay National Park &amp; Preserve:</td>
+<td align="left">II National Park</td>
 </tr>
 </tbody>
 </table>
@@ -167,30 +167,30 @@ Total World Heritage Area: 9,839,121 ha (UNESCO WHC, 2007)
 <table>
 <thead>
 <tr class="header">
-<th>Kluane National Park &amp; Reserve:</th>
-<th>2,198,000 ha (PCA, 2007)</th>
+<th align="left">Kluane National Park &amp; Reserve:</th>
+<th align="left">2,198,000 ha (PCA, 2007)</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Tatshenshini-Alsek Provincial Park:</td>
-<td>958,000 ha</td>
+<td align="left">Tatshenshini-Alsek Provincial Park:</td>
+<td align="left">958,000 ha</td>
 </tr>
 <tr class="even">
-<td>Wrangell-St. Elias National Park:</td>
-<td>3,368,332 ha (NPS, 2007)</td>
+<td align="left">Wrangell-St. Elias National Park:</td>
+<td align="left">3,368,332 ha (NPS, 2007)</td>
 </tr>
 <tr class="odd">
-<td>Wrangell-St. Elias Preserve:</td>
-<td>1,963,882 ha (NPS, 2007)</td>
+<td align="left">Wrangell-St. Elias Preserve:</td>
+<td align="left">1,963,882 ha (NPS, 2007)</td>
 </tr>
 <tr class="even">
-<td>Glacier Bay National Park:</td>
-<td>1,312,424 ha</td>
+<td align="left">Glacier Bay National Park:</td>
+<td align="left">1,312,424 ha</td>
 </tr>
 <tr class="odd">
-<td>Glacier Bay National Preserve:</td>
-<td>23,068 ha</td>
+<td align="left">Glacier Bay National Preserve:</td>
+<td align="left">23,068 ha</td>
 </tr>
 </tbody>
 </table>
@@ -280,7 +280,7 @@ The Park provides an important migratory route for waterfowl, with at least 125 
 
 **Wrangell-St.Elias National Park:** Historically animal populations have been scarce in the mountains, due probably to the recentness of their deglaciation. However, there is now a great variety of fauna including 48 mammals, which reflects the diversity of habitats. Carnivores include grey wolf, coyote *Canis latrans,* red fox, short-tailed weasel *Mustela erminea*, mink *Neovison vison*, American marten *Martes americanus,* wolverine, river otter *Lutra canadensis*, brown and black bears *Ursus arctos* and *U. americanus* and lynx *Lynx canadensis*. The bluish glacier colour phase of the black bear *Ursus americanus emmonsi* is found on the coast near Yakutat. Other mammals include collared pika *Ochotona collaris* and snowshoe hare *Lepus americanus*. Rodents include arctic ground squirrel, hoary marmot *Marmota calligata,* beaver *Castor canadensis*, muskrat *Ondatra zibethicus* and porcupine *Erethizon dorsatum*. Moose and caribou range in lower elevations and mountain goat and Dall sheep range high mountainous areas. Bison *Bison bison* were introduced in 1950 and 1962. Sitka blacktailed deer may occur along coastal fringes. On the coast are sea otters *Enhydra lutris* (EN), Dall’s porpoise *Phocoenoides dalli,* Kurile harbor seals *Phoca kurilensis,* Steller sea lion *Eumetopias jubatus* (EN) and killer whales *Orcinus orca*.
 
-The National Park Service has record of 239 species of birds for the Park, 53 being resident (PCA, 2004). The coast has many nesting shorebirds, migrating passerines and an abundant invertebrate fauna, which are the basis of a rich food chain. Two notable coastal species in decline are Kittlitz's and marbled murrelets [*Brachyramphus brevirostris* (CR)](http://www.wildlifenews.alaska.gov/index.cfm?adfg=wildlife_news.view_article&articles_id=226&issue_id=40) and *B. marmoratus* (EN). Birds include trumpeter swan, bald eagle, peregrine falcon, spruce grouse *Canachites canadensis*, ruffed grouse, willow ptarmigan, rock ptarmigan, white-tailed ptarmigan *Lagopus leucurus*, and many song birds. 21 species of freshwater fish are found in the Park. All five species of Alaskan Pacific salmon spawn in these waters, including red salmon, chum *O. keta*, cohoe, humpback and chinook, also steelhead *O. mykiss.* Freshwater fish species include dolly varden char *Salvelinus malma*, lake trout *S. namaycush*, steelhead trout *Salmo gairdneri*, cutthroat trout *S. clarki*, arctic grayling, burbot *Lota lota*, round whitefish *Prosopis cylindraceum* and humpback whitefish *Coregonus oidschian.*
+The National Park Service has record of 239 species of birds for the Park, 53 being resident (PCA, 2004). The coast has many nesting shorebirds, migrating passerines and an abundant invertebrate fauna, which are the basis of a rich food chain. Two notable coastal species in decline are Kittlitz's and marbled murrelets [*Brachyramphus brevirostris* (CR) ](http://www.wildlifenews.alaska.gov/index.cfm?adfg=wildlife_news.view_article&articles_id=226&issue_id=40)and *B. marmoratus* (EN). Birds include trumpeter swan, bald eagle, peregrine falcon, spruce grouse *Canachites canadensis*, ruffed grouse, willow ptarmigan, rock ptarmigan, white-tailed ptarmigan *Lagopus leucurus*, and many song birds. 21 species of freshwater fish are found in the Park. All five species of Alaskan Pacific salmon spawn in these waters, including red salmon, chum *O. keta*, cohoe, humpback and chinook, also steelhead *O. mykiss.* Freshwater fish species include dolly varden char *Salvelinus malma*, lake trout *S. namaycush*, steelhead trout *Salmo gairdneri*, cutthroat trout *S. clarki*, arctic grayling, burbot *Lota lota*, round whitefish *Prosopis cylindraceum* and humpback whitefish *Coregonus oidschian.*
 
 **Glacier Bay National Park:** Twenty-eight terrestrial mammals are found in the Park and Preserve, including grey wolf, increasing in number since the introduction of moose, brown bear and black bear. Other species are snowshoe hare, red squirrel *Tamiascurus hudsonicus*, short-tailed weasel, marmot, beaver and porcupine, wolverine, river otter, coyote and Canadian lynx. Sitka blacktailed deer, moose and mountain goat. Unique to Glacier Bay is the Glacier Bay water shrew *Sorex alaskanus*. Eight marine mammals include the (reintroduced) sea otter, harbour seal *Phoca vitulina richardsii* (in decline), Steller sea lion, harbor porpoise *Phocaena phocaena*, humpback whale *Megaptera novaeangliae,* grey whale *Escherichtius robustus*, minke whale *Balaenoptera acutirostrata* and killer whale.
 
@@ -398,13 +398,13 @@ website: [**Kluane Tatshenshini-Alsek (Parks Canada)**](http://www.pc.gc.ca/prog
 
 Superintendant, Wrangell-St.Elias National Park & Preserve, PO Box 439, Copper Center, Alaska 99573, U.S.A.
 
-website: **[Wrangell-St. Elias National Park and Preserve (U.S. National Park Service)](http://www.nps.gov/wrst/index.htm).**
+website: [**Wrangell-St. Elias National Park and Preserve (U.S. National Park Service)**](http://www.nps.gov/wrst/index.htm).
 
 Superintendant, Glacier Bay National Park and Preserve, PO Box 140, Gustavus Alaska 99826, U.S.A.
 
 United States National Parks Service, Alaska Regional Office, 240 West 5<sup>th</sup> Street, Anchorage, AK 99501, U.S.A.
 
-website: **[Glacier Bay National Park and Preserve](http://www.pc.gc.ca/apps/links/goto_e.asp?destination=http://www.nps.gov/glba/) (U.S. National Park Service)**.
+website: [**Glacier Bay National Park and Preserve**](http://www.pc.gc.ca/apps/links/goto_e.asp?destination=http://www.nps.gov/glba/) **(U.S. National Park Service)**.
 
 REFERENCES
 ----------
@@ -477,7 +477,7 @@ Matz, G. (1999). World heritage wilderness: from the Wrangells to Glacier Bay. *
 
 Slocombe, D. & Danby, R. (2005). The Alaska-Yukon-British Columbia Borderlands. Pp. 119-124. In Mittermermeier, R., Kormos, C., Mittermermeier, C.,Gil, P., Sandwith, T. & Besançon, C. (2005). *Transboundary Conservation. A New Vision for Protected Areas.* Cemex-Agrupación-Sierra Madre-Conservation International, Mexico. 372 pp.
 
-National Park Service (2007a). Website: **[Wrangell-St. Elias National Park and Preserve (U.S. National Park Service)](http://www.nps.gov/wrst/index.htm).**
+National Park Service (2007a). Website: [**Wrangell-St. Elias National Park and Preserve (U.S. National Park Service)**](http://www.nps.gov/wrst/index.htm).
 
 ---------- (2007b). *Wrangell-St. Elias K’elt’aeni 2007 Guide*. U.S.D.I.,National Park Service.
 
@@ -509,7 +509,7 @@ Harris, D. & Kiver, E. (1985). *The Geologic Story of the National Parks and Mon
 
 Howe, D.,Streveler, G. & Brew, D. (1992). *Bibliography of Research and Exploration in the Glacier Bay Region 1798 to 1992*. U.S.Geological Survey Open-File Report 92-596, 70 pp \[References on glaciology, glacio-geomorphology, oceanography, geology, terrestrial ecosystems, history and anthropology, marine and aquatic ecosystems and resource management\]
 
-National Park Service (2007). website: **[Glacier Bay National Park and Preserve](http://www.pc.gc.ca/apps/links/goto_e.asp?destination=http://www.nps.gov/glba/) (U.S. National Park Service)**.
+National Park Service (2007). website: [**Glacier Bay National Park and Preserve**](http://www.pc.gc.ca/apps/links/goto_e.asp?destination=http://www.nps.gov/glba/) **(U.S. National Park Service)**.
 
 ---------- (1984). *General Management Plan. Glacier Bay National Park and Preserve, Alaska*. U.S.D.I. National Park Service. 109 pp.
 

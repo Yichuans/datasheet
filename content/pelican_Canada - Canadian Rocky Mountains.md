@@ -2,7 +2,7 @@ Title: CANADIAN ROCKY MOUNTAIN PARKS
 Tags: CANADA
 Author: UNEP-WCMC
 Year: 1981
-Date: 2017-04-20 14:28:26
+Date: 2017-05-18 15:38:33
 
 CANADIAN ROCKY MOUNTAIN PARKS
 =============================
@@ -52,34 +52,34 @@ IUCN MANAGEMENT CATEGORY
 <table>
 <thead>
 <tr class="header">
-<th>Jasper National Park</th>
-<th>II National Park</th>
+<th align="left">Jasper National Park</th>
+<th align="left">II National Park</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Banff National Park</td>
-<td>II National Park</td>
+<td align="left">Banff National Park</td>
+<td align="left">II National Park</td>
 </tr>
 <tr class="even">
-<td>Kootenay National Park</td>
-<td>II National Park</td>
+<td align="left">Kootenay National Park</td>
+<td align="left">II National Park</td>
 </tr>
 <tr class="odd">
-<td>Yoho National Park</td>
-<td>II National Park</td>
+<td align="left">Yoho National Park</td>
+<td align="left">II National Park</td>
 </tr>
 <tr class="even">
-<td>Mount Robson Provincial Park</td>
-<td>II National Park</td>
+<td align="left">Mount Robson Provincial Park</td>
+<td align="left">II National Park</td>
 </tr>
 <tr class="odd">
-<td>Hamber Provincial Park</td>
-<td>II National Park</td>
+<td align="left">Hamber Provincial Park</td>
+<td align="left">II National Park</td>
 </tr>
 <tr class="even">
-<td>Mount Assiniboine Provincial Park</td>
-<td>II National Park</td>
+<td align="left">Mount Assiniboine Provincial Park</td>
+<td align="left">II National Park</td>
 </tr>
 </tbody>
 </table>
@@ -132,34 +132,34 @@ The total area of the seven Parks of the World Heritage site is 2,306,884 ha:
 <table>
 <thead>
 <tr class="header">
-<th>Jasper National Park</th>
-<th>1,087,800 ha</th>
+<th align="left">Jasper National Park</th>
+<th align="left">1,087,800 ha</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Banff National Park</td>
-<td>664,100 ha</td>
+<td align="left">Banff National Park</td>
+<td align="left">664,100 ha</td>
 </tr>
 <tr class="even">
-<td>Kootenay National Park</td>
-<td>140,640 ha</td>
+<td align="left">Kootenay National Park</td>
+<td align="left">140,640 ha</td>
 </tr>
 <tr class="odd">
-<td>Yoho National Park</td>
-<td>131,310 ha</td>
+<td align="left">Yoho National Park</td>
+<td align="left">131,310 ha</td>
 </tr>
 <tr class="even">
-<td>Mount Robson Provincial Park</td>
-<td>219,535 ha</td>
+<td align="left">Mount Robson Provincial Park</td>
+<td align="left">219,535 ha</td>
 </tr>
 <tr class="odd">
-<td>Mount Assiniboine Provincial Park</td>
-<td>39,050 ha</td>
+<td align="left">Mount Assiniboine Provincial Park</td>
+<td align="left">39,050 ha</td>
 </tr>
 <tr class="even">
-<td>Hamber Provincial Park</td>
-<td>24,520 ha</td>
+<td align="left">Hamber Provincial Park</td>
+<td align="left">24,520 ha</td>
 </tr>
 </tbody>
 </table>
@@ -169,30 +169,30 @@ Contiguous local and provincial parks in Alberta, from north to south are:
 <table>
 <thead>
 <tr class="header">
-<th>Willmore Wilderness Park</th>
-<th>459,671.</th>
+<th align="left">Willmore Wilderness Park</th>
+<th align="left">459,671.</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Siffleur Wilderness Area</td>
-<td>41,215 ha</td>
+<td align="left">Siffleur Wilderness Area</td>
+<td align="left">41,215 ha</td>
 </tr>
 <tr class="even">
-<td>Whitehorse Wildland Park</td>
-<td>17,500 ha</td>
+<td align="left">Whitehorse Wildland Park</td>
+<td align="left">17,500 ha</td>
 </tr>
 <tr class="odd">
-<td>Ghost River Wilderness Area</td>
-<td>15,317 ha</td>
+<td align="left">Ghost River Wilderness Area</td>
+<td align="left">15,317 ha</td>
 </tr>
 <tr class="even">
-<td>White Goat Wilderness Area</td>
-<td>44,457 ha</td>
+<td align="left">White Goat Wilderness Area</td>
+<td align="left">44,457 ha</td>
 </tr>
 <tr class="odd">
-<td>Kananaskis Provincial Park</td>
-<td>50,308 ha</td>
+<td align="left">Kananaskis Provincial Park</td>
+<td align="left">50,308 ha</td>
 </tr>
 </tbody>
 </table>

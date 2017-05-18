@@ -2,7 +2,7 @@ Title: ECOSYSTEM & RELICT CULTURAL LANDSCAPE OF LOPÉ-OKANDA
 Tags: GABON
 Author: UNEP-WCMC
 Year: 2007
-Date: 2017-04-20 14:28:32
+Date: 2017-05-18 15:38:36
 
 ECOSYSTEM & RELICT CULTURAL LANDSCAPE OF LOPÉ-OKANDA
 ====================================================
@@ -58,14 +58,14 @@ IUCN MANAGEMENT CATEGORY
 <table>
 <thead>
 <tr class="header">
-<th>Lopé-Okanda National Park:</th>
-<th>II National Park</th>
+<th align="left">Lopé-Okanda National Park:</th>
+<th align="left">II National Park</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Lopé-Okanda <em>Aires Culturelles Protégées:</em></td>
-<td>II Natural Monuments</td>
+<td align="left">Lopé-Okanda <em>Aires Culturelles Protégées:</em></td>
+<td align="left">II Natural Monuments</td>
 </tr>
 </tbody>
 </table>

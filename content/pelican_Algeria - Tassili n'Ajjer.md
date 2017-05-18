@@ -2,7 +2,7 @@ Title: TASSILI N'AJJER NATIONAL PARK
 Tags: ALGERIA
 Author: UNEP-WCMC
 Year: 1982
-Date: 2017-04-20 14:28:21
+Date: 2017-05-18 15:38:30
 
 TASSILI N'AJJER NATIONAL PARK
 =============================
@@ -267,7 +267,7 @@ Kunz, J. (1975). *Felsbilder der Westlichen Tassili n’Ajjer*. Graz, Oesterreic
 
 Lajoux, D. (1977). *Merveilles du Tassili N'Ajjer*. Editions Chene, Paris.
 
----------- (?) *[Tassili n'Ajjer : Art Rupestre du Sahara Préhistorique](http://www.almudo.com/cgi-bin/store.cgi?input_item=2851081128&input_search_type=AsinSearch).* Editions Chene, Paris.182pp.
+---------- (?) [](http://www.almudo.com/cgi-bin/store.cgi?input_item=2851081128&input_search_type=AsinSearch)[*Tassili n'Ajjer : Art Rupestre du Sahara Préhistorique*](http://www.almudo.com/cgi-bin/store.cgi?input_item=2851081128&input_search_type=AsinSearch). Editions Chene, Paris.182pp.
 
 Le Berre, M. (1986).The vertebrates of Iherir, Tassili N'Ajjer, Algeria: ecological and biogeographic review. *Compte Rendu des Seances de la Societe de Biogeographie* 62(4): 111-132.
 

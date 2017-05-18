@@ -2,7 +2,7 @@ Title: SREBARNA NATURE RESERVE
 Tags: BULGARIA
 Author: UNEP-WCMC
 Year: 1983
-Date: 2017-04-20 14:28:26
+Date: 2017-05-18 15:38:33
 
 SREBARNA NATURE RESERVE
 =======================
@@ -10,7 +10,7 @@ SREBARNA NATURE RESERVE
 BULGARIA
 ========
 
-*The Srebarna Nature Reserve is a freshwater lake on the Romanian border, supplied by seasonal floods from the River Danube one kilometre to the north. It is the breeding home of 99 species of birds, 24 of which are rare or endangered. Some 80 other bird species migrate and overwinter there, including 10% of the world’s Dalmatian pelicans. The site was inscribed on the [List of the World Heritage in Danger](http://www.unesco.org/whc/toc/mainf4.htm) from 1992 to 2003, because the lake was becoming a marsh of polluted water due to activities upstream which led to the decline and disappearance of many birds. Two new canals permitting a flow of water to the Reserve and a halt to farming and housing, which affected the lake, began to restore its condition.*
+*The Srebarna Nature Reserve is a freshwater lake on the Romanian border, supplied by seasonal floods from the River Danube one kilometre to the north. It is the breeding home of 99 species of birds, 24 of which are rare or endangered. Some 80 other bird species migrate and overwinter there, including 10% of the world’s Dalmatian pelicans. The site was inscribed on the* [*List of the World Heritage in Danger*](http://www.unesco.org/whc/toc/mainf4.htm) *from 1992 to 2003, because the lake was becoming a marsh of polluted water due to activities upstream which led to the decline and disappearance of many birds. Two new canals permitting a flow of water to the Reserve and a halt to farming and housing, which affected the lake, began to restore its condition.*
 
 COUNTRY
 -------

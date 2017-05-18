@@ -2,7 +2,7 @@ Title: KAZIRANGA NATIONAL PARK
 Tags: INDIA
 Author: UNEP-WCMC
 Year: 1985
-Date: 2017-04-20 14:28:33
+Date: 2017-05-18 15:38:37
 
 KAZIRANGA NATIONAL PARK
 =======================
@@ -248,7 +248,7 @@ UNESCO World Heritage Committee (2002) *Report on the 26th Session of the Commit
 
 ---------- (2009) *Report on the 33rd Session of the Committee,* Paris.
 
-Wakid, A. (2009). *[Protection of Endangered Ganges River Dolphin on Brahmaputra River, Assam, India](http://cmsdata.iucn.org/downloads/brahmaputra_river_dolphins___psf_final_report.pdf).* Report to IUCN, Gland Switzerland.
+Wakid, A. (2009). [*Protection of Endangered Ganges River Dolphin on Brahmaputra River, Assam, India*](http://cmsdata.iucn.org/downloads/brahmaputra_river_dolphins___psf_final_report.pdf). Report to IUCN, Gland Switzerland.
 
 DATE
 ----

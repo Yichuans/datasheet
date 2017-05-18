@@ -2,7 +2,7 @@ Title: THE WADDEN SEA
 Tags: DENMARK, GERMANY,THE NETHERLANDS
 Author: UNEP-WCMC
 Year: 2009
-Date: 2017-04-20 14:28:49
+Date: 2017-05-18 15:38:47
 
 THE WADDEN SEA
 ==============
@@ -91,24 +91,24 @@ IUCN MANAGEMENT CATEGORY
 <table>
 <tbody>
 <tr class="odd">
-<td>Niedersächsisches Wattenmeer</td>
-<td>II National Park</td>
+<td align="left">Niedersächsisches Wattenmeer</td>
+<td align="left">II National Park</td>
 </tr>
 <tr class="even">
-<td>Hamburgisches Wattenmeer</td>
-<td>II National Park</td>
+<td align="left">Hamburgisches Wattenmeer</td>
+<td align="left">II National Park</td>
 </tr>
 <tr class="odd">
-<td>Schleswig-Holsteinisches Wattenmeer</td>
-<td>II National Park</td>
+<td align="left">Schleswig-Holsteinisches Wattenmeer</td>
+<td align="left">II National Park</td>
 </tr>
 <tr class="even">
-<td>Nationalpark Vadehavet</td>
-<td>II National Park</td>
+<td align="left">Nationalpark Vadehavet</td>
+<td align="left">II National Park</td>
 </tr>
 <tr class="odd">
-<td>Schiermonnikoog</td>
-<td>II National Park</td>
+<td align="left">Schiermonnikoog</td>
+<td align="left">II National Park</td>
 </tr>
 </tbody>
 </table>
@@ -130,9 +130,9 @@ DATES AND HISTORY OF ESTABLISHMENT
 
 1982: The “Joint Declaration on the Protection of the Wadden Sea” is signed at the Third Wadden Sea Conference in Copenhagen.
 
-1987: The Common Wadden Sea Secretariat is established to facilitate and support the Cooperation. The ministerial conferences, which are held every 3-4 years, are the central decision making bodies for the cooperation.
+1987: The Common Wadden Sea Secretariat is established to facilitate and suppt the Cooperation. The ministerial conferences, which are held every 3-4 years, are the central decision making bodies f the cooperation.
 
-1997: The arrangements of the Wadden Sea Cooperation are embedded in the framework of the Trilateral Wadden Sea Plan, which entails policies, measures, projects and actions agreed upon by the three countries.
+1997: The arrangements of the Wadden Sea Cooperation are embedded in the framewk of the Trilateral Wadden Sea Plan, which entails policies, measures, projects and actions agreed upon by the three countries.
 
 2002: Designated a Particularly Sensitive Sea Area (PSSA) by the International Marine Organisation.
 
@@ -150,85 +150,69 @@ The inscribed property is 1,145,609 ha. No buffer zone is designated.
 <table>
 <thead>
 <tr class="header">
-<th><strong>Component Part</strong></th>
-<th><strong>State Party</strong></th>
-<th><strong>Area (ha)</strong></th>
-<th><p><strong>Coordinates of</strong></p>
+<th align="left"><strong>Component Part</strong></th>
+<th align="left"><strong>State Party</strong></th>
+<th align="left"><strong>Area (ha)</strong></th>
+<th align="left"><p><strong>Coordinates of</strong></p>
 <p><strong>centre point</strong></p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>1.</td>
-<td>Key Planning Decision (PKB) Wadden Sea, part I</td>
-<td>The Netherlands</td>
-<td>247,386</td>
-<td><p>N 53° 23’ 27’’</p>
-<p>E 05° 39’ 57’’</p></td>
+<td align="left">1.</td>
+<td align="left">Key Planning Decision (PKB) Wadden Sea, part I</td>
+<td align="left">The Netherlands</td>
+<td align="left">247,386</td>
 </tr>
 <tr class="even">
-<td>2.</td>
-<td>Key Planning Decision (PKB) Wadden Sea, part II</td>
-<td>The Netherlands</td>
-<td>790</td>
-<td><p>N 53° 22’ 00’’</p>
-<p>E 06° 53’ 47’’</p></td>
+<td align="left">2.</td>
+<td align="left">Key Planning Decision (PKB) Wadden Sea, part II</td>
+<td align="left">The Netherlands</td>
+<td align="left">790</td>
 </tr>
 <tr class="odd">
-<td>3.</td>
-<td>Key Planning Decision (PKB) Wadden Sea, part III / National Park Wadden Sea Niedersachsen, part I</td>
-<td>The Netherlands/ Germany</td>
-<td>8,931</td>
-<td><p>N 53° 16’ 31’’</p>
-<p>E 07° 09’ 49’’</p></td>
+<td align="left">3.</td>
+<td align="left">Key Planning Decision (PKB) Wadden Sea, part III / National Park Wadden Sea Niedersachsen, part I</td>
+<td align="left">The Netherlands/ Germany</td>
+<td align="left">8,931</td>
 </tr>
 <tr class="even">
-<td>4.</td>
-<td>National Park Wadden Sea Niedersachsen, part II</td>
-<td>Germany</td>
-<td>199,026</td>
-<td><p>N 53° 41’ 44’’</p>
-<p>E 07° 19’ 57’’</p></td>
+<td align="left">4.</td>
+<td align="left">National Park Wadden Sea Niedersachsen, part II</td>
+<td align="left">Germany</td>
+<td align="left">199,026</td>
 </tr>
 <tr class="odd">
-<td>5.</td>
-<td>National Park Wadden Sea Niedersachsen, part III</td>
-<td>Germany</td>
-<td>49,134</td>
-<td><p>N 53° 37’ 40’’</p>
-<p>E 08° 15’ 50’’</p></td>
+<td align="left">5.</td>
+<td align="left">National Park Wadden Sea Niedersachsen, part III</td>
+<td align="left">Germany</td>
+<td align="left">49,134</td>
 </tr>
 <tr class="even">
-<td>6.</td>
-<td>National Park Wadden Sea Niedersachsen, part IV</td>
-<td>Germany</td>
-<td>80,663</td>
-<td><p>N 53° 53’ 03’’</p>
-<p>E 08° 22’ 06’’</p></td>
+<td align="left">6.</td>
+<td align="left">National Park Wadden Sea Niedersachsen, part IV</td>
+<td align="left">Germany</td>
+<td align="left">80,663</td>
 </tr>
 <tr class="odd">
-<td>7.</td>
-<td>National Park Wadden Sea Schleswig-Holstein/<br />
+<td align="left">7.</td>
+<td align="left">National Park Wadden Sea Schleswig-Holstein/<br />
 Danish Wadden Sea Nature and Wildlife Reserve, part I</td>
-<td><p>Germany/</p>
+<td align="left"><p>Germany/</p>
 <p>Denmark</p></td>
-<td>539,742</td>
-<td><p>N 54° 36’ 31’’</p>
-<p>E 08° 27’ 59’’</p></td>
+<td align="left">539,742</td>
 </tr>
 <tr class="even">
-<td>8.</td>
-<td>Danish Wadden Sea Nature and Wildlife Reserve, part II</td>
-<td>Denmark</td>
-<td>19,937</td>
-<td><p>N 55° 29’ 56’’</p>
-<p>E 08° 11’ 14’’</p></td>
+<td align="left">8.</td>
+<td align="left">Danish Wadden Sea Nature and Wildlife Reserve, part II</td>
+<td align="left">Denmark</td>
+<td align="left">19,937</td>
 </tr>
 <tr class="odd">
-<td><strong>Total property</strong></td>
-<td></td>
-<td><strong>1,145,609</strong></td>
-<td></td>
+<td align="left"><strong>Total property</strong></td>
+<td align="left"></td>
+<td align="left"><strong>1,145,609</strong></td>
+<td align="left"></td>
 </tr>
 </tbody>
 </table>
@@ -258,7 +242,7 @@ VEGETATION
 
 The Wadden Sea is home to 2,300 species of flora. The terrestrial vegetation within the property is predominantly related to salt marshes with the highest biodiversity found in sandy salt marshes and in the transition zone to dunes. Dune grasslands and scrub also occur. The marine vegetation is characterized by seagrasses that occur in mixed stands on the tidal flats.
 
-Some of the salt marsh halophytes are succulents, compensating a high salt content by extending the vacuoles in their cells (e.g. *Salicornia* spp. and *Suaeda maritime*). Others are capable of excreting salt through special glands (e.g. *Limonium vulgare* and *Spartina anglica)* or salt bladder cells, which fill with salt, then die or burst, releasing salt from the plant (e.g. *Atriplex* spp.). Still others simply seem to accumulate salt in their leaves until they die at the end of the season (e.g. *Juncus gerardi*). Under conditions of sea level rise, salt marshes will persist as a habitat by accretion. As the vegetation grows older, a gradual landward shift of the zonation may occur. Accretion is accomplished by inorganic sediments imported during inundations from the seaward tidal flats and by organic matter which is supplied by the marsh vegetation itself. Vertical accretion rates tend to decrease with increasing marsh elevation and with increasing distance from tidal flats or creeks meandering and branching across salt marshes. Vegetation height and density also facilitate accretion. These variations generate a rather irregular topography and a complex mosaic-like vegetation pattern.
+Some of the salt marsh halophytes are succulents, compensating a high salt content by extending the vacuoles in their cells (e.g. *Salicnia* spp. and *Suaeda maritime*). Others are capable of excreting salt through special glands (e.g. *Limonium vulgare* and *Spartina anglica)* or salt bladder cells, which fill with salt, then die burst, releasing salt from the plant (e.g. *Atriplex* spp.). Still others simply seem to accumulate salt in their leaves until they die at the end of the season (e.g. *Juncus gerardi*). Under conditions of sea level rise, salt marshes will persist as a habitat by accretion. As the vegetation grows older, a gradual landward shift of the zonation may occur. Accretion is accomplished by inganic sediments impted during inundations from the seaward tidal flats and by ganic matter which is supplied by the marsh vegetation itself. Vertical accretion rates tend to decrease with increasing marsh elevation and with increasing distance from tidal flats creeks meandering and branching across salt marshes. Vegetation height and density also facilitate accretion. These variations generate a rather irregular topography and a complex mosaic-like vegetation pattern.
 
 Further, water-logged pans arise which are bare or with scarce vegetation. Instead of accretion, these pans may erode into salt marsh ponds, and these may eventually merge into a creek. It is basically the vegetation which generates this highly complex and irregular dynamic habitat mosaic of salt marshes. In the absence of grazing, often the reed *Phragmites australis* takes over. Depending on sediment supply and wave action, the seaward edge of salt marshes may show a variable width of pioneer zone composed mainly of glassword (*Salicornia* spp.) and the cordgrass *Spartina anglica*. While the former are annuals and rather short, the latter grows in dense tussocks which extend laterally and, finally, may merge into continuous belts.
 
@@ -267,13 +251,13 @@ The common cord-grass *S. anglica* was planted extensively in the European Wadde
 FAUNA
 -----
 
-The Wadden Sea is home to 4,200 species of fauna, mostly invertebrates, which use the rich spectrum of different microhabitats. The Wadden Sea is also an essential staging area for fish migrating between rivers for spawning and the oceans for feeding or vice versa. These fish could not complete their life cycles without the nutritious habitats of the shallow Wadden Sea. This also applies to many fish and invertebrates that rely on the tidal zone as a nursery and spend their adult life further offshore. More than 140 species of fish have been recorded from the Wadden Sea. The majority of these species are North Sea or even oceanic species that visit the Wadden Sea but do not depend on the area. Whiting *Merlangius merlangus* and cod *Gadus morrhua* both have open sea nurseries, but vary in numbers between years. Other species, such as river lamprey *Lampetra fluviatillis* use the Wadden Sea as a passage during their migration from the sea to rivers.
+The Wadden Sea is home to 4,200 species of fauna, mostly invertebrates, which use the rich spectrum of different microhabitats. The Wadden Sea is also an essential staging area f fish migrating between rivers f spawning and the oceans f feeding vice versa. These fish could not complete their life cycles without the nutritious habitats of the shallow Wadden Sea. This also applies to many fish and invertebrates that rely on the tidal zone as a nursery and spend their adult life further offshe. More than 140 species of fish have been recorded from the Wadden Sea. The majority of these species are North Sea or even oceanic species that visit the Wadden Sea but do not depend on the area. Whiting *Merlangius merlangus* and cod *Gadus morrhua* both have open sea nurseries, but vary in numbers between years. Other species, such as river lamprey *Lampetra fluviatillis* use the Wadden Sea as a passage during their migration from the sea to rivers.
 
 The Wadden Sea is of outstanding international importance as a breeding, staging, moulting and wintering area for birds. For 43 bird species the Wadden Sea supports more than 1% of the entire East Atlantic flyway population, which is the criterion used by the Ramsar Convention for identifying wetlands of international importance. Of these species, 4 species visit for the breeding season, 24 are breeding as well as migratory species, and 15 use the Wadden Sea only during their seasonal migrations. 29 species of migratory birds occur with more than 10% of their flyway population in the Wadden Sea. For five species, at least 25% of north-western (NW) European populations breed in the Wadden Sea. For 21 out of 31 species, the population accounts for more than 1% of the NW-European population, the majority of which rely on the property.
 
-Survey results suggest that over 6 million birds may be present in the Wadden Sea at the same time each year, and an average of 10-12 million birds pass through the property annually on their way between their breeding grounds in Siberia, Scandinavia, Greenland and Northeast Canada and their wintering grounds in Europe, Africa and even further South. Most species reach highest numbers during autumn migration; numbers of waders are almost as high during spring, whereas ducks and geese over-winter in high numbers; only gulls reach considerable numbers in summer. Almost the entire population of the dark-bellied brent goose *Branta b. bernicla* and the entire West-European population of dunlin *Calidris alpina* use the Wadden Sea during several periods of the annual cycle. Wadden Sea areas including the coastal zone of the adjacent North Sea are used by high numbers of moulting shelduck *Tadorna tadorna* and moulting and wintering eider *Somateria mollissima*. Although bird migration is a global natural phenomenon that cannot be associated to a single site, the Wadden Sea is a vital and irreplaceable stepping stone that is considered a critically important ‘mega-site’ for bird migration. Despite this, the numbers of *S. mollissima* wintering in the Dutch Wadden Sea has been declining rapidly for the last two decades, in part because of the abundance of food stocks (Cervencl et al., 2015).
+Survey results suggest that over 6 million birds may be present in the Wadden Sea at the same time each year, and an average of 10-12 million birds pass through the property annually on their way between their breeding grounds in Siberia, Scandinavia, Greenland and Ntheast Canada and their wintering grounds in Europe, Africa and even further South. Most species reach highest numbers during autumn migration; numbers of waders are almost as high during spring, whereas ducks and geese over-winter in high numbers; only gulls reach considerable numbers in summer. Almost the entire population of the dark-bellied brent goose *Branta b. bernicla* and the entire West-European population of dunlin *Calidris alpina* use the Wadden Sea during several periods of the annual cycle. Wadden Sea areas including the coastal zone of the adjacent Nth Sea are used by high numbers of moulting shelduck *Tadna tadna* and moulting and wintering eider *Somateria mollissima*. Although bird migration is a global natural phenomenon that cannot be associated to a single site, the Wadden Sea is a vital and irreplaceable stepping stone that is considered a critically imptant ‘mega-site’ f bird migration. Despite this, the numbers of *S. mollissima* wintering in the Dutch Wadden Sea has been declining rapidly for the last two decades, in part because of the abundance of food stocks (Cervencl et al., 2015).
 
-The Wadden Sea is an important reproduction area for more than 30 species of breeding birds. For 5 species, at least 25% of northwestern European populations breed in the Wadden Sea. The Wadden Sea also constitutes a refuge in the life cycle for those species that have lost their inland habitats e.g. northern lapwing, redshank and black-headed gull.
+The Wadden Sea is an imptant reproduction area f me than 30 species of breeding birds. F 5 species, at least 25% of nthwestern European populations breed in the Wadden Sea. The Wadden Sea also constitutes a refuge in the life cycle f those species that have lost their inland habitats e.g. nthern lapwing, redshank and black-headed gull.
 
 The Wadden Sea sustains approximately 20% of the world-population of harbour seals (some 15,000 individuals in 2006) that belong to a sub-species *Phoca vitulina vitulina*, which is found mainly in UK, Icelandic, Norwegian and Wadden Sea waters. The most important calving and nursing site for the harbour porpoise *(Phocoena phocoena)* population of the central North Sea is off the coast of the Wadden islands Sylt and Amrum. Overall, after centuries of extensive exploitation in the Wadden Sea, protection measures have triggered a striking comeback in many of the resident bird species and also of seals, which have shown a very good recovery within the last three decades, and also after the two virus epizootics in 1988 and 2002. Hunting of seals was stopped in the 1970s and essential habitats are kept free from human disturbance.
 
@@ -282,7 +266,7 @@ CONSERVATION VALUE
 
 The Wadden Sea is one of the last remaining natural large-scale inter-tidal ecosystems where natural processes continue to function in an undisturbed manner. Excellent and broad scale examples of biogeomorphological processes can be found in the coastal dunes, the salt marshes, and on the tidal flats on mussel beds and sea grass meadows (Folmer et al., 2014). This transitional environment between land and sea is characterized by the constant change of flood and ebb tides, great fluctuations in salinity, high temperatures during summer and occasional ice cover in winter. These circumstances have created numerous ecological niches, colonized by species that are adapted to the extreme environmental conditions.
 
-The Wadden ecosystem is one of the internationally most important wetlands. It is internationally recognized as a biologically highly productive ecosystem of great natural, scientific, economic and social importance and has been designated a Particularly Sensitive Sea Area (PSSA) by the International Marine Organisation. The Wadden Sea is extremely rich in environmental gradients and transitional zones, yielding many different (micro) habitats that form the basis for ecological specialization under extreme conditions. The Wadden Sea is a critical habitat for about 2,700 species of marine origin in the intertidal and subtidal zones and at least 5,000 semi-terrestrial and terrestrial species, mostly the flora and fauna of salt marshes and dunes on the islands. The salt marshes alone host about 2,300 species of flora and fauna. In total it is estimated that the Wadden Sea Area provides habitats for up to 10,000 species of unicellular organisms, plants, fungi and animals.
+The Wadden ecosystem is one of the internationally most important wetlands. It is internationally recognized as a biologically highly productive ecosystem of great natural, scientific, economic and social importance and has been designated a Particularly Sensitive Sea Area (PSSA) by the International Marine Organisation. The Wadden Sea is extremely rich in environmental gradients and transitional zones, yielding many different (micro) habitats that fm the basis f ecological specialization under extreme conditions. The Wadden Sea is a critical habitat f about 2,700 species of marine igin in the intertidal and subtidal zones and at least 5,000 semi-terrestrial and terrestrial species, mostly the fla and fauna of salt marshes and dunes on the islands. The salt marshes alone host about 2,300 species of fla and fauna. In total it is estimated that the Wadden Sea Area provides habitats f up to 10,000 species of unicellular ganisms, plants, fungi and animals.
 
 The large size of the Wadden Sea allows the diverse species to survive by spreading over several habitats, or by adopting a series of niches over the course of time. This constantly opens up territory for use by other individuals or species, and accounts for a high capacity to accommodate migratory species. The marine deposits remain permanently flooded (subtidal) or are either periodically (intertidal) or episodically (supratidal) flooded by marine and brackish waters or in some cases even freshwater. Terrestrial soils range from very wet to extremely dry in the coastal dunes. High temperatures during summer and occasional ice cover in winter, and above all powerful storms with heavy rainfalls create these highly variable ecological niches for life. Under such circumstances, most species have adopted an extreme versatility. Others have evolved a high degree of specialization to survive the extreme environmental conditions.
 
@@ -299,19 +283,19 @@ The number of inhabitants within the property is 45 (2012).
 VISITORS AND VISITOR FACILITIES
 -------------------------------
 
-Approximately 20 million tourists stay overnight and 30-40 million day trippers visit the Wadden Sea region every year (the region being the Wadden Sea, the Wadden Sea Islands and the adjacent mainland areas). Through an extended net of information centres, visitor information systems, print and digital information and an increasing number of professional guides along the Wadden Sea, the quality of nature experience for visitors has improved significantly, benefiting both the visitors and nature. The information and interpretation centres adjacent to the property are placed all along the shore. Furthermore, there is an extensive net of information tables and signs both at and within the property on those locations where visitors are assumed to go and have a look at the site or follow the many trails specifically made to provide them with information and enjoyment, while at the same time causing as little disturbance to the property as possible.
+Approximately 20 million tourists stay overnight and 30-40 million day trippers visit the Wadden Sea region every year (the region being the Wadden Sea, the Wadden Sea Islands and the adjacent mainland areas). Through an extended net of information centres, visitor information systems, print and digital information and an increasing number of professional guides along the Wadden Sea, the quality of nature experience for visitors has improved significantly, benefiting both the visitors and nature. The infmation and interpretation centres adjacent to the property are placed all along the she. Furtherme, there is an extensive net of infmation tables and signs both at and within the property on those locations where visits are assumed to go and have a look at the site follow the many trails specifically made to provide them with infmation and enjoyment, while at the same time causing as little disturbance to the property as possible.
 
 In Germany, there are currently 16 information facilities, of which 2 have been recently extended and officially designated as UNESCO World Heritage Visitor Centres. Additionally, there are 13 regional and local education and awareness centres in the region. Visitor facilities in Denmark consist of ten large and small information centres and exhibitions which are situated along the coast and on the islands. In the Netherlands there are also multiple visitor facilities which form part of the International Wadden Sea School network.
 
 SCIENTIFIC RESEARCH AND FACILITIES
 ----------------------------------
 
-In the Wadden Sea, there is a long tradition of research on the composition of the regional flora and fauna. For instance, the Skallingen field laboratory was founded by Copenhagen University in 1935 for geomorphological research and is still used for field courses and research projects. Nevertheless, not all groups of very small organisms have been assessed. Complete surveys on species richness within habitats are extremely time consuming and require a wide spectrum of taxonomic expertise. Therefore, this has been rarely accomplished. However, one such study has been performed at a sandy beach with a sand flat on the island of Sylt, along a 115m long transect from high to low tide level. Altogether, about 50,000 sediment samples have been analyzed and more than one million individuals have been examined and identified to species level. Most species belonged to the interstitial fauna, metazoans small enough to move through the interstices of sand without having to push sand grains out of their way. In total, 652 species were recorded, and for 148 of them that beach is the type locality, because these species were described here for the first time. To these, roughly 200 taxonomic groups not included in the survey have to be added. Also not considered are the plants, of which about 150 unicellular benthic algae may occur at the site. Thus, walking from high to low tide line on that particular beach one trespasses the territories of almost 1,000 species.
+In the Wadden Sea, there is a long tradition of research on the composition of the regional fla and fauna. For instance, the Skallingen field laboratory was founded by Copenhagen University in 1935 for geomorphological research and is still used for field courses and research projects. Nevertheless, not all groups of very small ganisms have been assessed. Complete surveys on species richness within habitats are extremely time consuming and require a wide spectrum of taxonomic expertise. Therefe, this has been rarely accomplished. However, one such study has been perfmed at a sandy beach with a sand flat on the island of Sylt, along a 115m long transect from high to low tide level. Altogether, about 50,000 sediment samples have been analyzed and me than one million individuals have been examined and identified to species level. Most species belonged to the interstitial fauna, metazoans small enough to move through the interstices of sand without having to push sand grains out of their way. In total, 652 species were recded, and f 148 of them that beach is the type locality, because these species were described here f the first time. To these, roughly 200 taxonomic groups not included in the survey have to be added. Also not considered are the plants, of which about 150 unicellular benthic algae may occur at the site. Thus, walking from high to low tide line on that particular beach one trespasses the territies of almost 1,000 species.
 
 MANAGEMENT
 ----------
 
-An essential element of the management system of the property is the Wadden Sea Plan (WSP). The Wadden Sea Plan applies to both the property “The Wadden Sea” and the adjacent areas covered by the Wadden Sea cooperation. Following this ecosystem approach the World Heritage Site will benefit from the fact that the management of the whole area coming under the trilateral Wadden Sea cooperation is based on the same comprehensive agreements set out in the Wadden Sea Plan. The Trilateral Wadden Sea Plan was adopted at the 8th Wadden Sea Conference in Stade, Germany in 1997. The WSP constitutes the common trans-boundary policy and management plan for the Wadden Sea Area. It is important to acknowledge that the WSP is a policy and management plan adopted by governments for a trans-boundary area and therefore has a wider perspective than a traditional management plan for a site in the sense that the WSP encompasses also the vision, principles, policies and measures and is a framework for the integrated protection and management of the Wadden Sea. The Plan is an agreement of how the countries envisage the coordination and integration of management of the Wadden Sea Area and of the projects and actions that must be carried out to achieve the commonly agreed targets.
+An essential element of the management system of the property is the Wadden Sea Plan (WSP). The Wadden Sea Plan applies to both the property “The Wadden Sea” and the adjacent areas covered by the Wadden Sea cooperation. Following this ecosystem approach the World Heritage Site will benefit from the fact that the management of the whole area coming under the trilateral Wadden Sea cooperation is based on the same comprehensive agreements set out in the Wadden Sea Plan. The Trilateral Wadden Sea Plan was adopted at the 8th Wadden Sea Conference in Stade, Germany in 1997. The WSP constitutes the common trans-boundary policy and management plan f the Wadden Sea Area. It is imptant to acknowledge that the WSP is a policy and management plan adopted by governments f a trans-boundary area and therefe has a wider perspective than a traditional management plan f a site in the sense that the WSP encompasses also the vision, principles, policies and measures and is a framewk f the integrated protection and management of the Wadden Sea. The Plan is an agreement of how the countries envisage the codination and integration of management of the Wadden Sea Area and of the projects and actions that must be carried out to achieve the commonly agreed targets.
 
 The vision of the Wadden Sea Plan is:
 
@@ -330,7 +314,7 @@ Six habitat types are distinguished for management purposes: Offshore zone; Beac
 MANAGEMENT CONSTRAINTS
 ----------------------
 
-The tourist and recreational activities in and adjacent to the property are, as appropriate, comprehensively regulated. It is difficult if not impossible to determine the carrying capacity of an area like the property, which is so vast and complex, but it is justified to state in general that recreational activities are so well regulated and managed that they do not cause any adverse impact on the property. It is perfectly capable of absorbing the current and, possibly, an increased activity level in the future. On the contrary, while the property attracts many tourists because they want to enjoy the unique nature, the silence and the scenic beauty, they contribute to a significant extent to the comprehension of the natural values of the area, and in a wider sense to the protection and conservation of the Wadden Sea and the well being of those who live in the region.
+The tourist and recreational activities in and adjacent to the property are, as appropriate, comprehensively regulated. It is difficult if not impossible to determine the carrying capacity of an area like the property, which is so vast and complex, but it is justified to state in general that recreational activities are so well regulated and managed that they do not cause any adverse impact on the property. It is perfectly capable of absbing the current and, possibly, an increased activity level in the future. On the contrary, while the property attracts many tourists because they want to enjoy the unique nature, the silence and the scenic beauty, they contribute to a significant extent to the comprehension of the natural values of the area, and in a wider sense to the protection and conservation of the Wadden Sea and the well being of those who live in the region.
 
 Within the property, a zoning system is applied which regulates access and recreational boating in time and space. The most sensitive areas, such as the breeding and resting areas for birds and seals, are closed the whole or part of the year. Also, regulations and a code of conduct apply for falling dry with recreational boats. Voluntary agreements exist between yachting associations and the nature protection authorities to provide additional protection and prevent disturbance in those areas where access is not prohibited. Tidal flat walking is basically only allowed with a permit and on designated routes. Speed limits have been imposed for recreational boating for the largest part of the property. The use of jet skis, water skis and similar equipment is basically prohibited or confined to smaller designated areas within the property.
 
@@ -341,7 +325,7 @@ External threats such as pollution could potentially affect the property and pos
 STAFF
 -----
 
-The property is well supported in terms of human resources, with 213 permanent positions covering technical experts, scientists and rangers as well as an additional 200 staff funded by NGOs and local governments. The overview of staffing level is confined to the staffing of government organizations which are directly related to the protection and management of the property for its nature protection values. The overview does not include the extensive staff of non-governmental organizations working in this field notwithstanding their crucial importance for the protection of the property. It is however not possible to provide an overview of the exact staffing level in this sense, since their tasks are very diverse. Neither have those organizations been included which execute normal management tasks in the property such as nature managers, maintenance of shipping channels and installations for shipping safety, police tasks and other tasks vital for the overall management of the property. The overview is predominantly confined to staff directly involved in policy making and information tasks.
+The property is well supported in terms of human resources, with 213 permanent positions covering technical experts, scientists and rangers as well as an additional 200 staff funded by NGOs and local governments. The overview of staffing level is confined to the staffing of government ganizations which are directly related to the protection and management of the property f its nature protection values. The overview does not include the extensive staff of non-governmental ganizations wking in this field notwithstanding their crucial imptance f the protection of the property. It is however not possible to provide an overview of the exact staffing level in this sense, since their tasks are very diverse. Neither have those ganizations been included which execute nmal management tasks in the property such as nature managers, maintenance of shipping channels and installations f shipping safety, police tasks and other tasks vital f the overall management of the property. The overview is predominantly confined to staff directly involved in policy making and infmation tasks.
 
 BUDGET
 ------
@@ -349,29 +333,29 @@ BUDGET
 <table>
 <thead>
 <tr class="header">
-<th><strong>Source</strong></th>
-<th><strong>Amount (US$)</strong></th>
+<th align="left"><strong>Source</strong></th>
+<th align="left"><strong>Amount (US$)</strong></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>Germany: (2012)</p>
-<p>National Park Authorities and Services (information centres, wardens and NGOs)</p></td>
-<td>4,312,155</td>
+<td align="left"><p>Germany: (2012)</p>
+<p>National Park Authities and Services (infmation centres, wardens and NGOs)</p></td>
+<td align="left">4,312,155</td>
 </tr>
 <tr class="even">
-<td><p>Denmark: (2012)</p>
+<td align="left"><p>Denmark: (2012)</p>
 <p>Nature Agency, Municipal Wadden Sea Secretariat, National park, Coastal Authority, AgriFish Agency</p></td>
-<td>2,837,242</td>
+<td align="left">2,837,242</td>
 </tr>
 <tr class="odd">
-<td><p>The Netherlands: (2007)</p>
+<td align="left"><p>The Netherlands: (2007)</p>
 <p>National Park Authorities and Services (Information Centres, wardens) and NGOs.</p></td>
-<td>9,533,134</td>
+<td align="left">9,533,134</td>
 </tr>
 <tr class="even">
-<td>Common Wadden Sea Secretariat</td>
-<td>763,270</td>
+<td align="left">Common Wadden Sea Secretariat</td>
+<td align="left">763,270</td>
 </tr>
 </tbody>
 </table>
@@ -386,7 +370,7 @@ Webpage: *www.wadddensea-secretariat.org*
 REFERENCES
 ----------
 
-The principal sources for the above information were the original World Heritage nomination, supplementary information provided by the States Parties, IUCN’s evaluation report and decisions of the UNESCO World Heritage Committee.
+The principal sources f the above infmation were the iginal Wld Heritage nomination, supplementary information provided by the States Parties, IUCN’s evaluation report and decisions of the UNESCO World Heritage Committee.
 
 Cervencl, A., Troost, K., Dijkman, E., Jong, M. De, Smit, C. J., Leopold, M. F., & Ens, B. J. (2015). Distribution of wintering Common Eider Somateria mollissima in the Dutch Wadden Sea in relation to available food stocks. *Marine Biology*, 153–168. doi:10.1007/s00227-014-2594-4
 

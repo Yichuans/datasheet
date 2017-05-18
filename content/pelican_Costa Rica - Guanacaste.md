@@ -2,7 +2,7 @@ Title: AREA DE CONSERVACIÓN GUANACASTE
 Tags: COSTA RICA
 Author: UNEP-WCMC
 Year: 1999
-Date: 2017-04-20 14:28:29
+Date: 2017-05-18 15:38:35
 
 AREA DE CONSERVACIÓN GUANACASTE
 ===============================
@@ -43,26 +43,26 @@ IUCN MANAGEMENT CATEGORY
 <table>
 <thead>
 <tr class="header">
-<th>Rincón de la Vieja National Park:</th>
-<th>II National Park</th>
+<th align="left">Rincón de la Vieja National Park:</th>
+<th align="left">II National Park</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Santa Rosa National Park:</td>
-<td>II National Park</td>
+<td align="left">Santa Rosa National Park:</td>
+<td align="left">II National Park</td>
 </tr>
 <tr class="even">
-<td>Guanacaste National Park:</td>
-<td>II National Park</td>
+<td align="left">Guanacaste National Park:</td>
+<td align="left">II National Park</td>
 </tr>
 <tr class="odd">
-<td>Bahia Junquillal National Wildlife Refuge:</td>
-<td>IV Habitat / Species Management Area</td>
+<td align="left">Bahia Junquillal National Wildlife Refuge:</td>
+<td align="left">IV Habitat / Species Management Area</td>
 </tr>
 <tr class="even">
-<td>Horizontes Experimental Forest Station:</td>
-<td>Unassigned</td>
+<td align="left">Horizontes Experimental Forest Station:</td>
+<td align="left">Unassigned</td>
 </tr>
 </tbody>
 </table>
@@ -109,30 +109,30 @@ The following figures are taken from the nomination:
 <table>
 <thead>
 <tr class="header">
-<th>Santa Rosa National Park:</th>
-<th>40,357.8 ha</th>
+<th align="left">Santa Rosa National Park:</th>
+<th align="left">40,357.8 ha</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Guanacaste National Park:</td>
-<td>37,365.0 ha</td>
+<td align="left">Guanacaste National Park:</td>
+<td align="left">37,365.0 ha</td>
 </tr>
 <tr class="even">
-<td>Rincón de la Vieja National Park:</td>
-<td>14,084.0 ha</td>
+<td align="left">Rincón de la Vieja National Park:</td>
+<td align="left">14,084.0 ha</td>
 </tr>
 <tr class="odd">
-<td>Horizontes Experimental Forest Station:</td>
-<td>7,317.3 ha</td>
+<td align="left">Horizontes Experimental Forest Station:</td>
+<td align="left">7,317.3 ha</td>
 </tr>
 <tr class="even">
-<td>Bahia Junquillal National Wildlife Refuge:</td>
-<td>438.7 ha</td>
+<td align="left">Bahia Junquillal National Wildlife Refuge:</td>
+<td align="left">438.7 ha</td>
 </tr>
 <tr class="odd">
-<td>Santa Rosa Marine Area:</td>
-<td>43,000.0 ha</td>
+<td align="left">Santa Rosa Marine Area:</td>
+<td align="left">43,000.0 ha</td>
 </tr>
 </tbody>
 </table>

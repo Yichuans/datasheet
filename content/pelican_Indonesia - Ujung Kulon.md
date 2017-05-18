@@ -2,7 +2,7 @@ Title: UJUNG KULON NATIONAL PARK
 Tags: INDONESIA
 Author: UNEP-WCMC
 Year: 1991
-Date: 2017-04-20 14:28:34
+Date: 2017-05-18 15:38:38
 
 UJUNG KULON NATIONAL PARK 
 ==========================
@@ -36,14 +36,14 @@ IUCN MANAGEMENT CATEGORY
 <table>
 <thead>
 <tr class="header">
-<th>Ujung Kulon National Park:</th>
-<th>II National Park</th>
+<th align="left">Ujung Kulon National Park:</th>
+<th align="left">II National Park</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Krakatau Nature Reserve:</td>
-<td>Ia Strict Nature Reserve</td>
+<td align="left">Krakatau Nature Reserve:</td>
+<td align="left">Ia Strict Nature Reserve</td>
 </tr>
 </tbody>
 </table>

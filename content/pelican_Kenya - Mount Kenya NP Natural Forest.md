@@ -2,7 +2,7 @@ Title: MOUNT KENYA NATIONAL PARK / NATURAL FOREST
 Tags: KENYA
 Author: UNEP-WCMC
 Year: 1997
-Date: 2017-04-20 14:28:35
+Date: 2017-05-18 15:38:39
 
 MOUNT KENYA NATIONAL PARK / NATURAL FOREST
 ==========================================
@@ -90,22 +90,22 @@ The maintenance of the 9.8 km elephant corridor connecting Mount Kenya to the lo
 <table>
 <thead>
 <tr class="header">
-<th>Mount Kenya National Park:</th>
-<th>II National Park</th>
+<th align="left">Mount Kenya National Park:</th>
+<th align="left">II National Park</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Mount Kenya Natural Forest:</td>
-<td>IV Natural Forest</td>
+<td align="left">Mount Kenya Natural Forest:</td>
+<td align="left">IV Natural Forest</td>
 </tr>
 <tr class="even">
-<td>Lewa Wildlife Conservancy:</td>
-<td>IV Habitat /Species Management Area</td>
+<td align="left">Lewa Wildlife Conservancy:</td>
+<td align="left">IV Habitat /Species Management Area</td>
 </tr>
 <tr class="odd">
-<td>Ngare Ndare Forest Reserve:</td>
-<td>IV Natural Forest</td>
+<td align="left">Ngare Ndare Forest Reserve:</td>
+<td align="left">IV Natural Forest</td>
 </tr>
 </tbody>
 </table>
@@ -284,7 +284,7 @@ The Senior Warden, Mt. Kenya National Park & Forest Reserve, POB 69, Naro Moru, 
 
 The Chief Executive Officer, Lewa Wildlife Conservancy, P.O.Private Bag, Isiolo, Kenya.
 
-Websites and emails: [*www.kws.org/mtkenya.htm*](http://www.kws.org/mtkenya.htm); [*www.lewa.org*](http://www.lewa.org/); *engarendare@nrt.kenya.org*
+Websites and emails: [*www.kws.org/mt*](http://www.kws.org/mtkenya.htm)[*kenya.htm*](http://www.kws.org/mtkenya.htm); [*www.lewa.org*](http://www.lewa.org/); *engarendare@nrt.kenya.org*
 
 **REFERENCES**
 

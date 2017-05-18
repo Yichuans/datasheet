@@ -2,7 +2,7 @@ Title: GARAJONAY NATIONAL PARK
 Tags: SPAIN
 Author: UNEP-WCMC
 Year: 1986
-Date: 2017-04-20 14:28:43
+Date: 2017-05-18 15:38:44
 
 GARAJONAY NATIONAL PARK
 =======================
@@ -67,24 +67,24 @@ AREA
 <table>
 <thead>
 <tr class="header">
-<th>Vallehermoso</th>
-<th>1,300 ha</th>
-<th>Valle Gran Rey</th>
-<th>350 ha</th>
+<th align="left">Vallehermoso</th>
+<th align="left">1,300 ha</th>
+<th align="left">Valle Gran Rey</th>
+<th align="left">350 ha</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Hermigua</td>
-<td>1,024 ha</td>
-<td>San Sebastian</td>
-<td>290 ha</td>
+<td align="left">Hermigua</td>
+<td align="left">1,024 ha</td>
+<td align="left">San Sebastian</td>
+<td align="left">290 ha</td>
 </tr>
 <tr class="even">
-<td>Agulo</td>
-<td>770 ha</td>
-<td>Alajero</td>
-<td>250 ha</td>
+<td align="left">Agulo</td>
+<td align="left">770 ha</td>
+<td align="left">Alajero</td>
+<td align="left">250 ha</td>
 </tr>
 </tbody>
 </table>

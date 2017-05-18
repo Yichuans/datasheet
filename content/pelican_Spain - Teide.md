@@ -2,7 +2,7 @@ Title: TEIDE NATIONAL PARK
 Tags: SPAIN
 Author: UNEP-WCMC
 Year: 2007
-Date: 2017-04-20 14:28:44
+Date: 2017-05-18 15:38:44
 
 TEIDE NATIONAL PARK
 ===================
@@ -46,14 +46,14 @@ IUCN MANAGEMENT CATEGORY
 <table>
 <thead>
 <tr class="header">
-<th>Teide National Park:</th>
-<th>II National Park</th>
+<th align="left">Teide National Park:</th>
+<th align="left">II National Park</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Teide Natural Monument:</td>
-<td>Unassigned</td>
+<td align="left">Teide Natural Monument:</td>
+<td align="left">Unassigned</td>
 </tr>
 </tbody>
 </table>

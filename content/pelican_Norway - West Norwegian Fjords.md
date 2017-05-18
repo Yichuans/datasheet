@@ -2,7 +2,7 @@ Title: West Norwegian Fjords – Geirangerfjord and Nærøyfjord
 Tags: Norway
 Author: UNEP-WCMC
 Year: 2005
-Date: 2017-04-20 14:28:39
+Date: 2017-05-18 15:38:41
 
  WEST NORWEGIAN FJORDS
 ======================
@@ -49,21 +49,21 @@ IUCN MANAGEMENT CATEGORY
 <table>
 <thead>
 <tr class="header">
-<th>Hyskjet Nature Reserve</th>
-<th>I Nature Reserve</th>
-<th>52 ha</th>
+<th align="left">Hyskjet Nature Reserve</th>
+<th align="left">I Nature Reserve</th>
+<th align="left">52 ha</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Kallskaret Nature Reserve</td>
-<td>I Nature Reserve</td>
-<td>90 ha</td>
+<td align="left">Kallskaret Nature Reserve</td>
+<td align="left">I Nature Reserve</td>
+<td align="left">90 ha</td>
 </tr>
 <tr class="even">
-<td>Geiranger-Herdalen Protected Landscape Area (proposed)</td>
-<td>V Protected Landscape Area</td>
-<td>49,745 ha</td>
+<td align="left">Geiranger-Herdalen Protected Landscape Area (proposed)</td>
+<td align="left">V Protected Landscape Area</td>
+<td align="left">49,745 ha</td>
 </tr>
 </tbody>
 </table>
@@ -75,36 +75,36 @@ Total: 49,887 ha
 <table>
 <thead>
 <tr class="header">
-<th>Hatle-Styve Natural Monument</th>
-<th>III Natural Monument</th>
-<th>0 ha</th>
+<th align="left">Hatle-Styve Natural Monument</th>
+<th align="left">III Natural Monument</th>
+<th align="left">0 ha</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Grånosmyrane Nature Reserve</td>
-<td>I Nature Reserve</td>
-<td>357 ha</td>
+<td align="left">Grånosmyrane Nature Reserve</td>
+<td align="left">I Nature Reserve</td>
+<td align="left">357 ha</td>
 </tr>
 <tr class="even">
-<td>Nordheimsdalen Nature Reserve</td>
-<td>I Nature Reserve</td>
-<td>1,330 ha</td>
+<td align="left">Nordheimsdalen Nature Reserve</td>
+<td align="left">I Nature Reserve</td>
+<td align="left">1,330 ha</td>
 </tr>
 <tr class="odd">
-<td>Bleia Nature Reserve (proposed)</td>
-<td>I Nature Reserve</td>
-<td>2,180 ha</td>
+<td align="left">Bleia Nature Reserve (proposed)</td>
+<td align="left">I Nature Reserve</td>
+<td align="left">2,180 ha</td>
 </tr>
 <tr class="even">
-<td>Bleia-Storebotnen Protected Landscape Area (proposed)</td>
-<td>V Protected Landscape Area</td>
-<td>6,595 ha</td>
+<td align="left">Bleia-Storebotnen Protected Landscape Area (proposed)</td>
+<td align="left">V Protected Landscape Area</td>
+<td align="left">6,595 ha</td>
 </tr>
 <tr class="odd">
-<td>Nærøyfjorden Protected Landscape Area</td>
-<td>V Protected Landscape Area</td>
-<td>57,884 ha</td>
+<td align="left">Nærøyfjorden Protected Landscape Area</td>
+<td align="left">V Protected Landscape Area</td>
+<td align="left">57,884 ha</td>
 </tr>
 </tbody>
 </table>
@@ -177,24 +177,24 @@ AREA
 <table>
 <thead>
 <tr class="header">
-<th>Total area:</th>
-<th>122,712 ha</th>
-<th>Land: 111,966 ha (including settlements)</th>
-<th>Fjord: 10,746ha</th>
+<th align="left">Total area:</th>
+<th align="left">122,712 ha</th>
+<th align="left">Land: 111,966 ha (including settlements)</th>
+<th align="left">Fjord: 10,746ha</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Geirangerfjord:</td>
-<td>51,802 ha</td>
-<td>Land: 46,151 ha</td>
-<td>Fjord: 5,651ha</td>
+<td align="left">Geirangerfjord:</td>
+<td align="left">51,802 ha</td>
+<td align="left">Land: 46,151 ha</td>
+<td align="left">Fjord: 5,651ha</td>
 </tr>
 <tr class="even">
-<td>Nærøyfjord:</td>
-<td>70,910 ha</td>
-<td>Land: 65,815 ha</td>
-<td>Fjord: 5,095ha</td>
+<td align="left">Nærøyfjord:</td>
+<td align="left">70,910 ha</td>
+<td align="left">Land: 65,815 ha</td>
+<td align="left">Fjord: 5,095ha</td>
 </tr>
 </tbody>
 </table>

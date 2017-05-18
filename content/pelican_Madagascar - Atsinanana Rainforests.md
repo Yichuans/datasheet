@@ -2,7 +2,7 @@ Title: RAINFORESTS OF THE ATSINANANA
 Tags: MADAGASCAR
 Author: UNEP-WCMC
 Year: 2007
-Date: 2017-04-20 14:28:36
+Date: 2017-05-18 15:38:39
 
  RAINFORESTS OF THE ATSINANANA
 ==============================
@@ -97,56 +97,56 @@ The existing total area of the 6 sites is 479,660.7 ha (Nomination document, 200
 <table>
 <thead>
 <tr class="header">
-<th><strong>Protected Area</strong></th>
-<th><strong>Region</strong></th>
-<th><strong>Centrepoint</strong></th>
-<th><strong>Area (ha)</strong></th>
+<th align="left"><strong>Protected Area</strong></th>
+<th align="left"><strong>Region</strong></th>
+<th align="left"><strong>Centrepoint</strong></th>
+<th align="left"><strong>Area (ha)</strong></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>Parc Nationale de Marojejy</p>
+<td align="left"><p>Parc Nationale de Marojejy</p>
 <p>(6 subsites)</p></td>
-<td>Sava</td>
-<td><p>E: 48 <sup>o</sup> 43’30”</p>
+<td align="left">Sava</td>
+<td align="left"><p>E: 48 <sup>o</sup> 43’30”</p>
 <p>S: 17 <sup>o</sup> 37'45&quot;</p></td>
-<td>59,751.8</td>
+<td align="left">59,751.8</td>
 </tr>
 <tr class="even">
-<td>Parc Nationale de Masoala</td>
-<td>Sava – Analanjirofo</td>
-<td><p>E: 47 <sup>o</sup> 15’00”</p>
+<td align="left">Parc Nationale de Masoala</td>
+<td align="left">Sava – Analanjirofo</td>
+<td align="left"><p>E: 47 <sup>o</sup> 15’00”</p>
 <p>S: 21 <sup>o</sup> 8’ 24”</p></td>
-<td>212,886.9</td>
+<td align="left">212,886.9</td>
 </tr>
 <tr class="odd">
-<td>Parc Nationale de Zahamena</td>
-<td>Alaotra – Mangoro –Analanjirofo - Atsinanana</td>
-<td><p>E: 47 <sup>o</sup> 15’00”</p>
+<td align="left">Parc Nationale de Zahamena</td>
+<td align="left">Alaotra – Mangoro –Analanjirofo - Atsinanana</td>
+<td align="left"><p>E: 47 <sup>o</sup> 15’00”</p>
 <p>S: 17 <sup>o</sup> 37'45&quot;</p></td>
-<td>69,898.5</td>
+<td align="left">69,898.5</td>
 </tr>
 <tr class="even">
-<td><p>Parc Nationale de D'Andringitra</p>
+<td align="left"><p>Parc Nationale de D'Andringitra</p>
 <p>(3 subsites)</p></td>
-<td>Vatavavy – Fitovinany - Haute Matsiatra</td>
-<td><p>E: 47 <sup>o</sup> 15’00”</p>
+<td align="left">Vatavavy – Fitovinany - Haute Matsiatra</td>
+<td align="left"><p>E: 47 <sup>o</sup> 15’00”</p>
 <p>E: 47 <sup>o</sup> 15’00”</p></td>
-<td>40,500.0</td>
+<td align="left">40,500.0</td>
 </tr>
 <tr class="odd">
-<td>Parc Nationale de D'Andringitra</td>
-<td>Ihorombe - H'te Matsiatr</td>
-<td><p>E: 46 <sup>o</sup> 55’44</p>
+<td align="left">Parc Nationale de D'Andringitra</td>
+<td align="left">Ihorombe - H'te Matsiatr</td>
+<td align="left"><p>E: 46 <sup>o</sup> 55’44</p>
 <p>S: 22 <sup>o</sup> 13’22”</p></td>
-<td>32,074.5</td>
+<td align="left">32,074.5</td>
 </tr>
 <tr class="even">
-<td>Parc Nationale de D'Andohahela</td>
-<td>Anosy</td>
-<td><p>E: 47 <sup>o</sup> 09’52”</p>
+<td align="left">Parc Nationale de D'Andohahela</td>
+<td align="left">Anosy</td>
+<td align="left"><p>E: 47 <sup>o</sup> 09’52”</p>
 <p>S: 24 <sup>o</sup> 45’10”</p></td>
-<td>64,547.0</td>
+<td align="left">64,547.0</td>
 </tr>
 </tbody>
 </table>
@@ -179,7 +179,7 @@ The region is the world’s second centre of dispersal for the Bignoniaceae; it 
 
 The principal rainforest types of Antsinanana are coastal rainforest to 400m, represented in Masoala NP (~\~~18% of the total nominated area); dense lowland rain forest between 400 and 6-800m depending on locality, in Marojejy, Masoala, Zahamena, Befotaka-Midongy and Andohahela Parks (~\~~18.5% of the total); dense mid-level grading to montane rainforest between 800 and 1,300m, found in all the parks (approximately 48% of the total); lower sclerophyllous montane forest between 1,300 and 2,000m, in Marojejy, Andringitra and Andohahela Parks (~\~~15.5% of the total); with ericoid montane thickets on summits above 1,800-2,000m, also in Marojejy, Andringitra and Andohahela Parks. There is a little transitional and dry forest in Andohahela and small areas of swamp vegetation in Ranomafana. With altitude and its cooler and wetter climate the canopy height is lower, becomes less stratified and harbors more epiphytes, bryophytes and lichens; the herb layer is also richer. The coastal forest, being accessible and protected only in parts, is the most threatened by encroachment. The lowland forest is the most diverse but is under-represented and also much threatened by encroachment. The mid-level forest is well represented but a little less vulnerable to the same pressures. The montane rainforests where pandanus and bamboo flourish, and the open grazed areas, are subject to fires as well as encroachment. The other vegetation types are rarer but often not well conserved.
 
-**Marojejy** is 92% dense rainforest, the only large massif in Madagascar where most of the forest remains intact. It may in the past have been a climatic refugium. Its three main ecosystems are dense evergreen lowland rainforest, much of it secondary, dense mid-level rainforest and dense stunted montane forest (in this case, cloud forest), a pattern typical of nearly all the sites. Above about 2,000m there is a well-preserved area of ericoid montane bush with some peat bogs. The lowland forest is formed predominantly of species of *[Dalbergia](http://en.wikipedia.org/wiki/Dalbergia), [Diospyros](http://en.wikipedia.org/wiki/Diospyros), [Ocotea](http://en.wikipedia.org/wiki/Ocotea), [Symphonia](http://en.wikipedia.org/wiki/Symphonia)* and *Tambourissa,* with giant bamboo *Ochlandra* sp., *[Albizia](http://en.wikipedia.org/wiki/Albizia),* [*Brochoneura acuminata*](http://en.wikipedia.org/w/index.php?title=Brochoneura_acuminata&action=edit) and 25-30m emergents of *[Canarium](http://en.wikipedia.org/wiki/Canarium)* sp. It has more than 50 species of palms, 6 being endemic, and 305 species of fern, 6 also endemic.
+**Marojejy** is 92% dense rainforest, the only large massif in Madagascar where most of the forest remains intact. It may in the past have been a climatic refugium. Its three main ecosystems are dense evergreen lowland rainforest, much of it secondary, dense mid-level rainforest and dense stunted montane forest (in this case, cloud forest), a pattern typical of nearly all the sites. Above about 2,000m there is a well-preserved area of ericoid montane bush with some peat bogs. The lowland forest is formed predominantly of species of [*Dalbergia*](http://en.wikipedia.org/wiki/Dalbergia), [*Diospyros*](http://en.wikipedia.org/wiki/Diospyros), [*Ocotea*](http://en.wikipedia.org/wiki/Ocotea), [*Symphonia*](http://en.wikipedia.org/wiki/Symphonia) and *Tambourissa,* with giant bamboo *Ochlandra* sp., [*Albizia*](http://en.wikipedia.org/wiki/Albizia), [*Brochoneura acuminata*](http://en.wikipedia.org/w/index.php?title=Brochoneura_acuminata&action=edit) and 25-30m emergents of [*Canarium*](http://en.wikipedia.org/wiki/Canarium) sp. It has more than 50 species of palms, 6 being endemic, and 305 species of fern, 6 also endemic.
 
 **Masoala** is also one of the largest remaining natural forests in the country, very rich in globally threatened species. It covers two-thirds of the Masoala peninsula which alone has 2,000 species. Its dense lowland rainforest is the largest remaining in the country and grades continuously from coastal and flooded lowland forests to over 1,200m. This forest is the most biodiverse with over 1,100 species of plants in 100 families and 400 genera. Its emergent trees can reach 50m. 15 out of 20 species of the island’s palms are found only there. 155 pteridophytes in 50 genera comprise 27% of Madagascar’s ferns and it is a centre for their dispersal. Among the endangered palms are *Leptolaena masaoalensis* (CR)*, Marojejya darianii* (CR)*, Voanioala gerardi* (CR), *Asteropeia multiflora*, *A. matrambody* (EN), *A. rhopaloides* (EN), *Lemurophoenix halleuxii* (EN); the pitcher plant *Nepenthes masaoalensis* (EN) also grows there. Even the disturbed coastal forests have 394 species, including many rare salt– and cyclone-tolerant trees and 7 species of mangrove. The marine reserve has coral reef and many species of alga. By 2010 however, the numbers of endemic - and commercially valuable - *Dahlbergia* species had been severely depleted by illegal logging (UNESCO, 2010).
 
@@ -201,84 +201,60 @@ Mammals: Many animals disappeared after man’s arrival some 2,500 years ago and
 <table>
 <thead>
 <tr class="header">
-<th><strong>Site</strong></th>
-<th><strong>Amphibians</strong></th>
-<th><strong>Reptiles</strong></th>
-<th><strong>Mammals#</strong></th>
+<th align="left"><strong>Site</strong></th>
+<th align="left"><strong>Amphibians</strong></th>
+<th align="left"><strong>Reptiles</strong></th>
+<th align="left"><strong>Mammals#</strong></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td></td>
-<td>Total</td>
-<td>Endemic</td>
-<td>Total</td>
-<td>Endemic</td>
-<td>Total</td>
-<td>Endemic</td>
+<td align="left"></td>
+<td align="left">Total</td>
+<td align="left">Endemic</td>
+<td align="left">Total</td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="odd">
-<td>Marojejy</td>
-<td>74</td>
-<td>20</td>
-<td>73</td>
-<td>28</td>
-<td>36</td>
-<td>4</td>
+<td align="left">Marojejy</td>
+<td align="left">74</td>
+<td align="left">20</td>
+<td align="left">73</td>
 </tr>
 <tr class="even">
-<td>Masoala</td>
-<td>65</td>
-<td>19</td>
-<td>41</td>
-<td>10</td>
-<td>38</td>
-<td>4</td>
+<td align="left">Masoala</td>
+<td align="left">65</td>
+<td align="left">19</td>
+<td align="left">41</td>
 </tr>
 <tr class="odd">
-<td>Zahamena*</td>
-<td>18</td>
-<td>1</td>
-<td>33</td>
-<td>5</td>
-<td>34</td>
-<td>3</td>
+<td align="left">Zahamena*</td>
+<td align="left">18</td>
+<td align="left">1</td>
+<td align="left">33</td>
 </tr>
 <tr class="even">
-<td>Ranomafana</td>
-<td>54</td>
-<td>11</td>
-<td>30</td>
-<td>5</td>
-<td>38</td>
-<td>2</td>
+<td align="left">Ranomafana</td>
+<td align="left">54</td>
+<td align="left">11</td>
+<td align="left">30</td>
 </tr>
 <tr class="odd">
-<td>Andringitra</td>
-<td>62</td>
-<td>14</td>
-<td>38</td>
-<td>15</td>
-<td>47</td>
-<td>4</td>
+<td align="left">Andringitra</td>
+<td align="left">62</td>
+<td align="left">14</td>
+<td align="left">38</td>
 </tr>
 <tr class="even">
-<td>Andohahhela</td>
-<td>34</td>
-<td>11</td>
-<td>30</td>
-<td>11</td>
-<td>33</td>
-<td>2</td>
+<td align="left">Andohahhela</td>
+<td align="left">34</td>
+<td align="left">11</td>
+<td align="left">30</td>
 </tr>
 </tbody>
 </table>

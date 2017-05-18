@@ -2,7 +2,7 @@ Title: YAKUSHIMA
 Tags: JAPAN
 Author: UNEP-WCMC
 Year: 1993
-Date: 2017-04-20 14:28:35
+Date: 2017-05-18 15:38:39
 
 YAKUSHIMA
 =========
@@ -43,14 +43,14 @@ IUCN MANAGEMENT CATEGORY
 <table>
 <thead>
 <tr class="header">
-<th>Kirishima-Yaku National Park:</th>
-<th>V National Park</th>
+<th align="left">Kirishima-Yaku National Park:</th>
+<th align="left">V National Park</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Yakushima Wildlife Area:</td>
-<td>Ia Strict Nature Reserve</td>
+<td align="left">Yakushima Wildlife Area:</td>
+<td align="left">Ia Strict Nature Reserve</td>
 </tr>
 </tbody>
 </table>

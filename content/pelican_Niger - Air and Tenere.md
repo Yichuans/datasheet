@@ -2,7 +2,7 @@ Title: AÏR AND TÉNÉRÉ NATURAL RESERVES
 Tags: NIGER
 Author: UNEP-WCMC
 Year: 1991
-Date: 2017-04-20 14:28:39
+Date: 2017-05-18 15:38:41
 
 AÏR AND TÉNÉRÉ NATURAL RESERVES
 ===============================
@@ -69,14 +69,14 @@ IUCN MANAGEMENT CATEGORIES:
 <table>
 <thead>
 <tr class="header">
-<th>Aïr and Ténéré Natural Reserve:</th>
-<th>IV Managed Nature Reserve</th>
+<th align="left">Aïr and Ténéré Natural Reserve:</th>
+<th align="left">IV Managed Nature Reserve</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Addax Sanctuary:</td>
-<td>Ia Strict Nature Reserve</td>
+<td align="left">Addax Sanctuary:</td>
+<td align="left">Ia Strict Nature Reserve</td>
 </tr>
 </tbody>
 </table>

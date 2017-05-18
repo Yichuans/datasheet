@@ -2,7 +2,7 @@ Title: WATERTON-GLACIER INTERNATIONAL PEACE PARK
 Tags: UNITED STATES OF AMERICA,CANADA
 Author: UNEP-WCMC
 Year: 1995
-Date: 2017-04-20 14:28:48
+Date: 2017-05-18 15:38:47
 
 WATERTON-GLACIER INTERNATIONAL PEACE PARK
 =========================================
@@ -53,14 +53,14 @@ IUCN MANAGEMENT CATEGORY
 <table>
 <thead>
 <tr class="header">
-<th>Waterton Lakes National Park:</th>
-<th>II National Park</th>
+<th align="left">Waterton Lakes National Park:</th>
+<th align="left">II National Park</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Glacier National Park:</td>
-<td>II National Park</td>
+<td align="left">Glacier National Park:</td>
+<td align="left">II National Park</td>
 </tr>
 </tbody>
 </table>
@@ -161,7 +161,7 @@ FAUNA
 
 The Parks are noted for their wide diversity of habitats and abundance of wildlife. In addition, Glacier National Park is the only location in the lower United States where self-sustaining populations of the three major predators, grey wolf *Canis lupus*, grizzly bear *Ursus arctos horribilis* and mountain lion (cougar) *Felis concolor* still occur naturally, as does the wolverine [*Gulo gulo*](http://sea.unep-wcmc.org/isdb/Taxonomy/tax-species-result.cfm?displaylanguage=eng&Genus=%25Gulo%25&source=animals&Species=gulo&Country=). Three of the species found there are nationally endangered in the U.S: wolf, bald eagle *Haliaeetus leucocephalus* which nests in the area, and migrant peregrine *falcon Falco peregrinus*. The grizzly bear, though regarded as threatened, has a healthy population of over 200 animals. The foothill parkland and montane biomes, especially the stream valleys and wetlands, are particularly rich in birds, and the montane and subalpine biomes, in small mammals. The upper subalpine and alpine regions are the least productive but have several species limited mainly to those areas.
 
-In WLNP 63 species of mammals have been recorded. Other large carnivores include more than 400 American black bears *Ursus americanus*, coyote *Canis latrans,* river otter [*Lutra canadensis*](http://sea.unep-wcmc.org/isdb/Taxonomy/tax-species-result.cfm?displaylanguage=eng&Genus=%25Lutra%25&source=animals&Species=canadensis&Country=), Lynx *lynx canadensis*, bobcat *Lynx rufus*. Its grasslands are important winter range for ungulates: the seasonal migrations of elk *Cervus elaphus* from summer quarters in Glacier Park to winter pastures in Waterton Park are an outstanding spectacle. Other ungulates include mule deer *Odocoileus hemionus*, white-tailed deer *O. virginianus*, moose *Alces alces*, American bison *Bison bison*, mountain goat *Oreamnos americanus* and bighorn sheep *Ovis canadensis,* the last two being indigenous to the region. Rodents include American beaver *Castor canadensis*, hoary marmot [*Marmota caligata*](http://sea.unep-wcmc.org/isdb/Taxonomy/tax-species-result.cfm?displaylanguage=eng&Genus=%25Marmota%25&source=animals&Species=caligata&Country=), fisher *[Martes pennanti](http://sea.unep-wcmc.org/isdb/Taxonomy/tax-species-result.cfm?displaylanguage=eng&Genus=%25Martes%25&source=animals&Species=pennanti&Country=)i*, pine marten *M. American*, American mink *Neovison vison*, muskrat *Ondatra zibethica*, least weasel [*Mustela nivalis*](http://sea.unep-wcmc.org/isdb/Taxonomy/tax-species-result.cfm?displaylanguage=eng&Genus=%25Mustela%25&source=animals&Species=nivalis&Country=) and northern bog lemming [*Synaptomys borealis*](http://sea.unep-wcmc.org/isdb/Taxonomy/tax-species-result.cfm?displaylanguage=eng&Genus=%25Synaptomys%25&source=animals&Species=borealis&Country=).
+In WLNP 63 species of mammals have been recorded. Other large carnivores include more than 400 American black bears *Ursus americanus*, coyote *Canis latrans,* river otter [*Lutra canadensis*](http://sea.unep-wcmc.org/isdb/Taxonomy/tax-species-result.cfm?displaylanguage=eng&Genus=%25Lutra%25&source=animals&Species=canadensis&Country=), Lynx *lynx canadensis*, bobcat *Lynx rufus*. Its grasslands are important winter range for ungulates: the seasonal migrations of elk *Cervus elaphus* from summer quarters in Glacier Park to winter pastures in Waterton Park are an outstanding spectacle. Other ungulates include mule deer *Odocoileus hemionus*, white-tailed deer *O. virginianus*, moose *Alces alces*, American bison *Bison bison*, mountain goat *Oreamnos americanus* and bighorn sheep *Ovis canadensis,* the last two being indigenous to the region. Rodents include American beaver *Castor canadensis*, hoary marmot [*Marmota caligata*](http://sea.unep-wcmc.org/isdb/Taxonomy/tax-species-result.cfm?displaylanguage=eng&Genus=%25Marmota%25&source=animals&Species=caligata&Country=), fisher [*Martes pennanti*](http://sea.unep-wcmc.org/isdb/Taxonomy/tax-species-result.cfm?displaylanguage=eng&Genus=%25Martes%25&source=animals&Species=pennanti&Country=)i, pine marten *M. American*, American mink *Neovison vison*, muskrat *Ondatra zibethica*, least weasel [*Mustela nivalis*](http://sea.unep-wcmc.org/isdb/Taxonomy/tax-species-result.cfm?displaylanguage=eng&Genus=%25Mustela%25&source=animals&Species=nivalis&Country=) and northern bog lemming [*Synaptomys borealis*](http://sea.unep-wcmc.org/isdb/Taxonomy/tax-species-result.cfm?displaylanguage=eng&Genus=%25Synaptomys%25&source=animals&Species=borealis&Country=).
 
 The Parks are on the margins of two major avian migratory routes, the Central and Pacific flyways and their marshes and lakes are much used as staging grounds. The bald eagle and migrant peregrine falcon pass through. In GNP some 272 bird species have been recorded, 132 being breeding species. Among the number are western grebe *Aechmorphoros occidentalis*, American bittern [*Botaurus lentiginosus*](http://sea.unep-wcmc.org/isdb/Taxonomy/tax-species-result.cfm?displaylanguage=eng&Genus=%25botaurus%25&source=animals&Species=lentiginosus&Country=), Swainson's hawk [*Buteo swainsoni*](http://sea.unep-wcmc.org/isdb/Taxonomy/tax-species-result.cfm?displaylanguage=eng&Genus=%25Buteo%25&source=animals&Species=swainsoni&Country=), long-billed curlew [*Numenius americanus*](http://sea.unep-wcmc.org/isdb/Taxonomy/tax-species-result.cfm?displaylanguage=eng&Genus=%25Numenius%25&source=animals&Species=americanus&Country=), hairy woodpecker [*Picoides villosus*](http://sea.unep-wcmc.org/isdb/Taxonomy/tax-species-result.cfm?displaylanguage=eng&Genus=%25Picoides%25&source=animals&Species=villosus&Country=), willow flycatcher [*Empidonax traillii*](http://sea.unep-wcmc.org/isdb/Taxonomy/tax-species-result.cfm?displaylanguage=eng&Genus=%25Empidonax%25&source=animals&Species=traillii&Country=), and loggerhead shrike [*Lanius ludovicianus*](http://sea.unep-wcmc.org/isdb/Taxonomy/tax-species-result.cfm?displaylanguage=eng&Genus=%25Lanius%25&source=animals&Species=ludovicianus&Country=). Only some seven amphibian species and three reptiles are recorded (Mittermeier *et al*., 2005).
 

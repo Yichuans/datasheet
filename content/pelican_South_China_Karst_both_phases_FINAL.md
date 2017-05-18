@@ -2,7 +2,7 @@ Title: SOUTH CHINA KARST
 Tags: CHINA
 Author: UNEP-WCMC
 Year: 2007
-Date: 2017-04-20 14:28:43
+Date: 2017-05-18 15:38:44
 
  SOUTH CHINA KARST 
 ===================
@@ -79,42 +79,42 @@ IUCN MANAGEMENT CATEGORY
 <table>
 <thead>
 <tr class="header">
-<th>Shilin National Park:</th>
-<th>Unassigned</th>
+<th align="left">Shilin National Park:</th>
+<th align="left">Unassigned</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Zhangjiang National Scenic and Historic Area:</td>
-<td>Unassigned</td>
+<td align="left">Zhangjiang National Scenic and Historic Area:</td>
+<td align="left">Unassigned</td>
 </tr>
 <tr class="even">
-<td>Furongjiang National Scenic and Historic Area:</td>
-<td>Unassigned</td>
+<td align="left">Furongjiang National Scenic and Historic Area:</td>
+<td align="left">Unassigned</td>
 </tr>
 <tr class="odd">
-<td>Lijiang National Park</td>
-<td>II National Park</td>
+<td align="left">Lijiang National Park</td>
+<td align="left">II National Park</td>
 </tr>
 <tr class="even">
-<td>Wuyanghe National Park</td>
-<td>II National Park</td>
+<td align="left">Wuyanghe National Park</td>
+<td align="left">II National Park</td>
 </tr>
 <tr class="odd">
-<td>Jinfoshan National Park</td>
-<td>II National Park</td>
+<td align="left">Jinfoshan National Park</td>
+<td align="left">II National Park</td>
 </tr>
 <tr class="even">
-<td>Maolan National Nature Reserve:</td>
-<td>V Protected Landscape</td>
+<td align="left">Maolan National Nature Reserve:</td>
+<td align="left">V Protected Landscape</td>
 </tr>
 <tr class="odd">
-<td>Mulun National Nature Reserve</td>
-<td>V Protected Landscape/ Seascape</td>
+<td align="left">Mulun National Nature Reserve</td>
+<td align="left">V Protected Landscape/ Seascape</td>
 </tr>
 <tr class="even">
-<td>Jinfoshan National Nature Reserve</td>
-<td>V Protected Landscape/ Seascape</td>
+<td align="left">Jinfoshan National Nature Reserve</td>
+<td align="left">V Protected Landscape/ Seascape</td>
 </tr>
 </tbody>
 </table>
@@ -209,72 +209,72 @@ Total buffer zone: 176,288 ha
 <table>
 <thead>
 <tr class="header">
-<th><strong>Site </strong></th>
-<th><strong>Core area (ha)</strong></th>
-<th><strong>Buffer zone (ha)</strong></th>
+<th align="left"><strong>Site </strong></th>
+<th align="left"><strong>Core area (ha)</strong></th>
+<th align="left"><strong>Buffer zone (ha)</strong></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>Shilin:</p>
+<td align="left"><p>Shilin:</p>
 <p>Naigu Stone Forest</p>
 <p>Suogeyi Village</p></td>
-<td><p>12,070</p>
+<td align="left"><p>12,070</p>
 <p>1,746</p>
 <p>10,324</p></td>
-<td>22,930</td>
+<td align="left">22,930</td>
 </tr>
 <tr class="even">
-<td><p>Libo:</p>
+<td align="left"><p>Libo:</p>
 <p>Xiaoqijong</p>
 <p>Dongduo</p></td>
-<td><p>29,518</p>
+<td align="left"><p>29,518</p>
 <p>7,834</p>
 <p>21,684</p></td>
-<td>43,498</td>
+<td align="left">43,498</td>
 </tr>
 <tr class="odd">
-<td><p>Wulong:</p>
+<td align="left"><p>Wulong:</p>
 <p>Qingkou Tiankeng</p>
 <p>Sanqiao</p>
 <p>Furongdong</p></td>
-<td><p>6,000</p>
+<td align="left"><p>6,000</p>
 <p>1,246</p>
 <p>2,202</p>
 <p>2,552</p></td>
-<td>32,000</td>
+<td align="left">32,000</td>
 </tr>
 <tr class="even">
-<td><p>Guilin:</p>
+<td align="left"><p>Guilin:</p>
 <p>Putao Section</p>
 <p>Lijiang Section</p></td>
-<td><p>25,384</p>
+<td align="left"><p>25,384</p>
 <p>2,840</p>
 <p>22,544</p></td>
-<td><p>44,680<br />
+<td align="left"><p>44,680<br />
 <br />
 21,610</p>
 <p>23,070</p></td>
 </tr>
 <tr class="odd">
-<td>Shibing:</td>
-<td>10,280</td>
-<td>18,015</td>
+<td align="left">Shibing:</td>
+<td align="left">10,280</td>
+<td align="left">18,015</td>
 </tr>
 <tr class="even">
-<td>Jinfoshan:</td>
-<td>6,744</td>
-<td>10,675</td>
+<td align="left">Jinfoshan:</td>
+<td align="left">6,744</td>
+<td align="left">10,675</td>
 </tr>
 <tr class="odd">
-<td>Huanjiang:</td>
-<td>7,129</td>
-<td>4,430</td>
+<td align="left">Huanjiang:</td>
+<td align="left">7,129</td>
+<td align="left">4,430</td>
 </tr>
 <tr class="even">
-<td>Total:</td>
-<td>97,125</td>
-<td>176,228</td>
+<td align="left">Total:</td>
+<td align="left">97,125</td>
+<td align="left">176,228</td>
 </tr>
 </tbody>
 </table>

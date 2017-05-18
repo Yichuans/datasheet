@@ -2,7 +2,7 @@ Title: VALLEE DE MAI NATURE RESERVE
 Tags: SEYCHELLES
 Author: UNEP-WCMC
 Year: 1983
-Date: 2017-04-20 14:28:42
+Date: 2017-05-18 15:38:43
 
 VALLEE DE MAI NATURE RESERVE
 ============================
@@ -42,7 +42,7 @@ Located on the granitic island of Praslin, the Vallée de Mai is a 19.5 ha area 
 
 **Criterion (ix):** The property represents an outstanding example of biological evolution dominated by endemic palms. The property's low and intermediate-altitude palm forest is characteristic of the Seychelles and is preserved as something resembling its primeval state. The forest is dominated by the coco-de-mer *Lodoicea maldivica* but there are also five other endemic species of palms. Located in the granitic island of Praslin, the Vallée de Mai is the only area in the Seychelles where all six species occur together and no other island in the Indian Ocean possesses the combination of features displayed in the property. The ancient palms form a dense forest, along with *Pandanus* screw palms and broadleaf trees, which together constitute an ecosystem where unique ecological processes and interactions of nutrient cycling, seed dispersal, and pollination occur.
 
-**Criterion (x):** The Vallée de Mai is the world's stronghold for the endemic coco-de-mer [*Lodoicea maldivica*](http://www.iucnredlist.org/apps/redlist/details/38602/0) and the endemic palm species millionaire's salad [*Deckenia nobilis*](http://www.iucnredlist.org/apps/redlist/details/38508/0) , thief palm *[Phoenicophorium borsigianum](http://www.iucnredlist.org/apps/redlist/details/38628/0) ,* Seychelles stilt palm *Verschaffeltia splendida*, latanier millepattes *Nephrosperma vanhoutteanum* and latanier palm *Roscheria melanochaetes*, are also found within the property. The palm forest is relatively pristine and it provides a refuge for viable populations of many endemic species, including the black parrot *Coracopsis nigra barklyi*, restricted to Praslin Island and totally dependent on the Vallée de Mai and surrounding palm forest. Other species supported by the palm habitat include three endemic species of bronze gecko, endemic blue pigeons, bulbuls, sunbirds, swiftlets, Seychelles skinks, burrowing skinks, tiger chameleons, day geckos, caecilians, tree frogs, freshwater fish and many invertebrates.
+**Criterion (x):** The Vallée de Mai is the world's stronghold for the endemic coco-de-mer [*Lodoicea maldivica*](http://www.iucnredlist.org/apps/redlist/details/38602/0) and the endemic palm species millionaire's salad [*Deckenia nobilis*](http://www.iucnredlist.org/apps/redlist/details/38508/0) , thief palm [*Phoenicophorium borsigianum*](http://www.iucnredlist.org/apps/redlist/details/38628/0) *,* Seychelles stilt palm*Verschaffeltia splendida*, latanier millepattes*Nephrosperma vanhoutteanum*and latanier palm*Roscheria melanochaetes*, are also found within the property. The palm forest is relatively pristine and it provides a refuge for viable populations of many endemic species, including the black parrot*Coracopsis nigra barklyi*, restricted to Praslin Island and totally dependent on the Vallée de Mai and surrounding palm forest. Other species supported by the palm habitat include three endemic species of bronze gecko, endemic blue pigeons, bulbuls, sunbirds, swiftlets, Seychelles skinks, burrowing skinks, tiger chameleons, day geckos, caecilians, tree frogs, freshwater fish and many invertebrates.
 
 **Integrity**
 

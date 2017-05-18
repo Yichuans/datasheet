@@ -2,7 +2,7 @@ Title: GONDWANA RAINFORESTS OF AUSTRALIA
 Tags: AUSTRALIA
 Author: UNEP-WCMC
 Year: 1986
-Date: 2017-04-20 14:28:22
+Date: 2017-05-18 15:38:30
 
 GONDWANA RAINFORESTS OF AUSTRALIA
 =================================
@@ -40,38 +40,38 @@ Gondwana Rainforests of Australia comprises 8 separate groups of protected areas
 <table>
 <thead>
 <tr class="header">
-<th>Main Range</th>
-<th>II 13 National Parks</th>
+<th align="left">Main Range</th>
+<th align="left">II 13 National Parks</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Focal Peak Group</td>
-<td>II 6 National Parks + two Ia Strict Nature Reserves</td>
+<td align="left">Focal Peak Group</td>
+<td align="left">II 6 National Parks + two Ia Strict Nature Reserves</td>
 </tr>
 <tr class="even">
-<td>Shield Volcano Group</td>
-<td>II 6 National Parks + Ia Strict Nature Reserve + Ib Wilderness</td>
+<td align="left">Shield Volcano Group</td>
+<td align="left">II 6 National Parks + Ia Strict Nature Reserve + Ib Wilderness</td>
 </tr>
 <tr class="odd">
-<td>Washpool &amp; Gibraltar Range</td>
-<td>II 2 National Parks</td>
+<td align="left">Washpool &amp; Gibraltar Range</td>
+<td align="left">II 2 National Parks</td>
 </tr>
 <tr class="even">
-<td>Iluka Nature Reserve</td>
-<td>IV Habitat/Species Management Area</td>
+<td align="left">Iluka Nature Reserve</td>
+<td align="left">IV Habitat/Species Management Area</td>
 </tr>
 <tr class="odd">
-<td>New England Group</td>
-<td>II 3 National Parks + Ia Strict Nature Reserve</td>
+<td align="left">New England Group</td>
+<td align="left">II 3 National Parks + Ia Strict Nature Reserve</td>
 </tr>
 <tr class="even">
-<td>Hastings Macleay Group</td>
-<td>Ia Strict Nature Reserve + 4 Ib Wildernesses</td>
+<td align="left">Hastings Macleay Group</td>
+<td align="left">Ia Strict Nature Reserve + 4 Ib Wildernesses</td>
 </tr>
 <tr class="odd">
-<td>Barrington Tops Group</td>
-<td>II 7National Park + Ib Wilderness</td>
+<td align="left">Barrington Tops Group</td>
+<td align="left">II 7National Park + Ib Wilderness</td>
 </tr>
 </tbody>
 </table>
@@ -119,448 +119,448 @@ Note in the following table:
 <table>
 <thead>
 <tr class="header">
-<th><p><strong>Inscription</strong></p>
+<th align="left"><p><strong>Inscription</strong></p>
 <p><strong>Date</strong></p></th>
-<th><strong>Site</strong></th>
-<th><strong>IUCN Category</strong></th>
-<th><strong>Area (ha)</strong></th>
-<th><p><strong>Coordinates</strong></p>
+<th align="left"><strong>Site</strong></th>
+<th align="left"><strong>IUCN Category</strong></th>
+<th align="left"><strong>Area (ha)</strong></th>
+<th align="left"><p><strong>Coordinates</strong></p>
 <p><strong>South x East</strong></p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td><strong>MAIN RANGE</strong></td>
-<td></td>
-<td>23,691.7</td>
-<td></td>
+<td align="left"><strong>MAIN RANGE</strong></td>
+<td align="left"></td>
+<td align="left">23,691.7</td>
+<td align="left"></td>
 </tr>
 <tr class="odd">
-<td>1994</td>
-<td>Main Range National Park</td>
-<td>II</td>
-<td>11,500</td>
-<td>27<sup>o</sup> 54’ x 152 <sup>o</sup> 19’</td>
+<td align="left">1994</td>
+<td align="left">Main Range National Park</td>
+<td align="left">II</td>
+<td align="left">11,500</td>
+<td align="left">27<sup>o</sup> 54’ x 152 <sup>o</sup> 19’</td>
 </tr>
 <tr class="even">
-<td>1994</td>
-<td>Mt. Mistake National Park</td>
-<td>II</td>
-<td>5,500</td>
-<td></td>
+<td align="left">1994</td>
+<td align="left">Mt. Mistake National Park</td>
+<td align="left">II</td>
+<td align="left">5,500</td>
+<td align="left"></td>
 </tr>
 <tr class="odd">
-<td>1994</td>
-<td>Gambubal State Forest #</td>
-<td>II</td>
-<td>2,260</td>
-<td></td>
+<td align="left">1994</td>
+<td align="left">Gambubal State Forest #</td>
+<td align="left">II</td>
+<td align="left">2,260</td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td>1994</td>
-<td>Goomburra State Forest #</td>
-<td>II</td>
-<td>2,067</td>
-<td></td>
+<td align="left">1994</td>
+<td align="left">Goomburra State Forest #</td>
+<td align="left">II</td>
+<td align="left">2,067</td>
+<td align="left"></td>
 </tr>
 <tr class="odd">
-<td>1994</td>
-<td>Acacia Plateau Flora Reserve</td>
-<td>II</td>
-<td>585</td>
-<td></td>
+<td align="left">1994</td>
+<td align="left">Acacia Plateau Flora Reserve</td>
+<td align="left">II</td>
+<td align="left">585</td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td>1994</td>
-<td>Killarney State Forest</td>
-<td>II</td>
-<td>493.7</td>
-<td></td>
+<td align="left">1994</td>
+<td align="left">Killarney State Forest</td>
+<td align="left">II</td>
+<td align="left">493.7</td>
+<td align="left"></td>
 </tr>
 <tr class="odd">
-<td>1994</td>
-<td>Teviot State Forest #</td>
-<td>II</td>
-<td>390</td>
-<td></td>
+<td align="left">1994</td>
+<td align="left">Teviot State Forest #</td>
+<td align="left">II</td>
+<td align="left">390</td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td>1994</td>
-<td>Emu Vale State Forest #</td>
-<td>II</td>
-<td>268</td>
-<td></td>
+<td align="left">1994</td>
+<td align="left">Emu Vale State Forest #</td>
+<td align="left">II</td>
+<td align="left">268</td>
+<td align="left"></td>
 </tr>
 <tr class="odd">
-<td>1994</td>
-<td>Spicers Gap State Forest #</td>
-<td>II</td>
-<td>257</td>
-<td></td>
+<td align="left">1994</td>
+<td align="left">Spicers Gap State Forest #</td>
+<td align="left">II</td>
+<td align="left">257</td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td>1994</td>
-<td>Wilsons Peak Flora Reserve</td>
-<td>II</td>
-<td>185</td>
-<td></td>
+<td align="left">1994</td>
+<td align="left">Wilsons Peak Flora Reserve</td>
+<td align="left">II</td>
+<td align="left">185</td>
+<td align="left"></td>
 </tr>
 <tr class="odd">
-<td>1994</td>
-<td>Gilbert State Forest #</td>
-<td>II</td>
-<td>84</td>
-<td></td>
+<td align="left">1994</td>
+<td align="left">Gilbert State Forest #</td>
+<td align="left">II</td>
+<td align="left">84</td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td>1994</td>
-<td>Koreelah National Park</td>
-<td>II</td>
-<td>53</td>
-<td>28 <sup>o</sup> 20’ x 152 <sup>o</sup> 26’ *</td>
+<td align="left">1994</td>
+<td align="left">Koreelah National Park</td>
+<td align="left">II</td>
+<td align="left">53</td>
+<td align="left">28 <sup>o</sup> 20’ x 152 <sup>o</sup> 26’ *</td>
 </tr>
 <tr class="odd">
-<td>1994</td>
-<td>Alford Forest Reserve</td>
-<td>II</td>
-<td></td>
-<td></td>
+<td align="left">1994</td>
+<td align="left">Alford Forest Reserve</td>
+<td align="left">II</td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td><strong>FOCAL PEAK GROUP</strong> 17,809.5</td>
+<td align="left"><strong>FOCAL PEAK GROUP</strong> 17,809.5</td>
 </tr>
 <tr class="odd">
-<td>1994</td>
-<td>Mount Barney National Park</td>
-<td>II</td>
-<td>9,710</td>
-<td>28 <sup>o</sup> 17’ x 152 <sup>o</sup> 40’</td>
+<td align="left">1994</td>
+<td align="left">Mount Barney National Park</td>
+<td align="left">II</td>
+<td align="left">9,710</td>
+<td align="left">28 <sup>o</sup> 17’ x 152 <sup>o</sup> 40’</td>
 </tr>
 <tr class="even">
-<td>1994</td>
-<td>Tooloom National Park #</td>
-<td>II</td>
-<td>1,640</td>
-<td>28 <sup>o</sup> 27’ x 152 <sup>o</sup> 26’ *</td>
+<td align="left">1994</td>
+<td align="left">Tooloom National Park #</td>
+<td align="left">II</td>
+<td align="left">1,640</td>
+<td align="left">28 <sup>o</sup> 27’ x 152 <sup>o</sup> 26’ *</td>
 </tr>
 <tr class="odd">
-<td>1994</td>
-<td>Toonumber National Park #</td>
-<td>II</td>
-<td>1,080</td>
-<td>28 <sup>o</sup> 30’ x 152 <sup>o</sup> 46’ *</td>
+<td align="left">1994</td>
+<td align="left">Toonumber National Park #</td>
+<td align="left">II</td>
+<td align="left">1,080</td>
+<td align="left">28 <sup>o</sup> 30’ x 152 <sup>o</sup> 46’ *</td>
 </tr>
 <tr class="even">
-<td>1994</td>
-<td>Burnett Creek State Forest #</td>
-<td>II</td>
-<td>1,076</td>
-<td></td>
+<td align="left">1994</td>
+<td align="left">Burnett Creek State Forest #</td>
+<td align="left">II</td>
+<td align="left">1,076</td>
+<td align="left"></td>
 </tr>
 <tr class="odd">
-<td>1994</td>
-<td>Cambridge Plateau Flora Reserve #</td>
-<td></td>
-<td>870</td>
-<td></td>
+<td align="left">1994</td>
+<td align="left">Cambridge Plateau Flora Reserve #</td>
+<td align="left"></td>
+<td align="left">870</td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td>1994</td>
-<td>Cronan Creek State Forest</td>
-<td></td>
-<td>795</td>
-<td></td>
+<td align="left">1994</td>
+<td align="left">Cronan Creek State Forest</td>
+<td align="left"></td>
+<td align="left">795</td>
+<td align="left"></td>
 </tr>
 <tr class="odd">
-<td>1986</td>
-<td>Mount Nothofagus Flora Reserve #</td>
-<td>II</td>
-<td>650</td>
-<td>28 <sup>o</sup> 17’ x 152 <sup>o</sup> 37’</td>
+<td align="left">1986</td>
+<td align="left">Mount Nothofagus Flora Reserve #</td>
+<td align="left">II</td>
+<td align="left">650</td>
+<td align="left">28 <sup>o</sup> 17’ x 152 <sup>o</sup> 37’</td>
 </tr>
 <tr class="even">
-<td>1994</td>
-<td>Mount Clunie National Park</td>
-<td>II</td>
-<td>485</td>
-<td></td>
+<td align="left">1994</td>
+<td align="left">Mount Clunie National Park</td>
+<td align="left">II</td>
+<td align="left">485</td>
+<td align="left"></td>
 </tr>
 <tr class="odd">
-<td>1994</td>
-<td>Captains Creek Nature Reserve #</td>
-<td>Ia</td>
-<td>380</td>
-<td></td>
+<td align="left">1994</td>
+<td align="left">Captains Creek Nature Reserve #</td>
+<td align="left">Ia</td>
+<td align="left">380</td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td>1994</td>
-<td>Palen Creek State Forest</td>
-<td></td>
-<td>326</td>
-<td></td>
+<td align="left">1994</td>
+<td align="left">Palen Creek State Forest</td>
+<td align="left"></td>
+<td align="left">326</td>
+<td align="left"></td>
 </tr>
 <tr class="odd">
-<td>1994</td>
-<td>Mallanganee National Park</td>
-<td>Ia</td>
-<td>222</td>
-<td></td>
+<td align="left">1994</td>
+<td align="left">Mallanganee National Park</td>
+<td align="left">Ia</td>
+<td align="left">222</td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td>1994</td>
-<td>Telemon Environmental Park</td>
-<td></td>
-<td>146.6</td>
-<td></td>
+<td align="left">1994</td>
+<td align="left">Telemon Environmental Park</td>
+<td align="left"></td>
+<td align="left">146.6</td>
+<td align="left"></td>
 </tr>
 <tr class="odd">
-<td>1994</td>
-<td>Bungdoozle Flora Reserve</td>
-<td></td>
-<td>145</td>
-<td></td>
+<td align="left">1994</td>
+<td align="left">Bungdoozle Flora Reserve</td>
+<td align="left"></td>
+<td align="left">145</td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td>1994</td>
-<td>Rabbit Board Paddock Reserve</td>
-<td></td>
-<td>143.1</td>
-<td></td>
+<td align="left">1994</td>
+<td align="left">Rabbit Board Paddock Reserve</td>
+<td align="left"></td>
+<td align="left">143.1</td>
+<td align="left"></td>
 </tr>
 <tr class="odd">
-<td>1994</td>
-<td>Turtle Rock Environmental Park</td>
-<td></td>
-<td>68.8</td>
-<td></td>
+<td align="left">1994</td>
+<td align="left">Turtle Rock Environmental Park</td>
+<td align="left"></td>
+<td align="left">68.8</td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td>1994</td>
-<td>Prisons Purposes land</td>
-<td></td>
-<td>48</td>
-<td></td>
+<td align="left">1994</td>
+<td align="left">Prisons Purposes land</td>
+<td align="left"></td>
+<td align="left">48</td>
+<td align="left"></td>
 </tr>
 <tr class="odd">
-<td>1994</td>
-<td>Tooloom Scrub Flora Reserve</td>
-<td></td>
-<td>25</td>
-<td></td>
+<td align="left">1994</td>
+<td align="left">Tooloom Scrub Flora Reserve</td>
+<td align="left"></td>
+<td align="left">25</td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td><strong>SHIELD VOLCANO GROUP</strong> 66, 195</td>
+<td align="left"><strong>SHIELD VOLCANO GROUP</strong> 66, 195</td>
 </tr>
 <tr class="odd">
-<td>1986</td>
-<td>Border Ranges National Park #</td>
-<td>II</td>
-<td>31,229</td>
-<td>28 <sup>o</sup> 21’ x 152 <sup>o</sup> 53’</td>
+<td align="left">1986</td>
+<td align="left">Border Ranges National Park #</td>
+<td align="left">II</td>
+<td align="left">31,229</td>
+<td align="left">28 <sup>o</sup> 21’ x 152 <sup>o</sup> 53’</td>
 </tr>
 <tr class="even">
-<td>1994</td>
-<td>Lamington National Park</td>
-<td>II</td>
-<td>20,500</td>
-<td>28 <sup>o</sup> 08 x 153 <sup>o</sup> 07’</td>
+<td align="left">1994</td>
+<td align="left">Lamington National Park</td>
+<td align="left">II</td>
+<td align="left">20,500</td>
+<td align="left">28 <sup>o</sup> 08 x 153 <sup>o</sup> 07’</td>
 </tr>
 <tr class="odd">
-<td>1986</td>
-<td>Nightcap National Park</td>
-<td>II</td>
-<td>4,945</td>
-<td>28 <sup>o</sup> 32 ’x 153 <sup>o</sup> 17’</td>
+<td align="left">1986</td>
+<td align="left">Nightcap National Park</td>
+<td align="left">II</td>
+<td align="left">4,945</td>
+<td align="left">28 <sup>o</sup> 32 ’x 153 <sup>o</sup> 17’</td>
 </tr>
 <tr class="even">
-<td>1986</td>
-<td>Limpinwood Nature Reserve</td>
-<td>Ib</td>
-<td>2,646</td>
-<td>28 <sup>o</sup> 18’ x 153 <sup>o</sup> 11’</td>
+<td align="left">1986</td>
+<td align="left">Limpinwood Nature Reserve</td>
+<td align="left">Ib</td>
+<td align="left">2,646</td>
+<td align="left">28 <sup>o</sup> 18’ x 153 <sup>o</sup> 11’</td>
 </tr>
 <tr class="odd">
-<td>1994</td>
-<td>Springbrook National Park #</td>
-<td>II</td>
-<td>2,480</td>
-<td>28 <sup>o</sup> 12’ x 153 <sup>o</sup> 18’</td>
+<td align="left">1994</td>
+<td align="left">Springbrook National Park #</td>
+<td align="left">II</td>
+<td align="left">2,480</td>
+<td align="left">28 <sup>o</sup> 12’ x 153 <sup>o</sup> 18’</td>
 </tr>
 <tr class="even">
-<td>1986</td>
-<td>Mount Warning National Park</td>
-<td>II</td>
-<td>2,380</td>
-<td>28 <sup>o</sup> 24’ x 153 <sup>o</sup> 16’</td>
+<td align="left">1986</td>
+<td align="left">Mount Warning National Park</td>
+<td align="left">II</td>
+<td align="left">2,380</td>
+<td align="left">28 <sup>o</sup> 24’ x 153 <sup>o</sup> 16’</td>
 </tr>
 <tr class="odd">
-<td>1994</td>
-<td>Mount Chinghee National Park</td>
-<td>II</td>
-<td>1,110</td>
-<td>28 <sup>o</sup> 18’ x 152 <sup>o</sup> 57’</td>
+<td align="left">1994</td>
+<td align="left">Mount Chinghee National Park</td>
+<td align="left">II</td>
+<td align="left">1,110</td>
+<td align="left">28 <sup>o</sup> 18’ x 152 <sup>o</sup> 57’</td>
 </tr>
 <tr class="even">
-<td>1986</td>
-<td>Numinbah Nature Reserve</td>
-<td>Ia</td>
-<td>858</td>
-<td>28 <sup>o</sup> 14’ x 153 <sup>o</sup> 17’</td>
+<td align="left">1986</td>
+<td align="left">Numinbah Nature Reserve</td>
+<td align="left">Ia</td>
+<td align="left">858</td>
+<td align="left">28 <sup>o</sup> 14’ x 153 <sup>o</sup> 17’</td>
 </tr>
 <tr class="odd">
-<td>1994</td>
-<td>Amaroo Flora Reserve</td>
-<td></td>
-<td>36</td>
-<td></td>
+<td align="left">1994</td>
+<td align="left">Amaroo Flora Reserve</td>
+<td align="left"></td>
+<td align="left">36</td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td>1999</td>
-<td>Mebbin Lagoons Flora Reserve</td>
-<td></td>
-<td>11</td>
-<td></td>
+<td align="left">1999</td>
+<td align="left">Mebbin Lagoons Flora Reserve</td>
+<td align="left"></td>
+<td align="left">11</td>
+<td align="left"></td>
 </tr>
 <tr class="odd">
-<td><strong>WASHPOOL &amp; GIBRALTAR RANGE</strong> 45,124</td>
+<td align="left"><strong>WASHPOOL &amp; GIBRALTAR RANGE</strong> 45,124</td>
 </tr>
 <tr class="even">
-<td>1986</td>
-<td>Washpool National Park</td>
-<td>II</td>
-<td>27,715</td>
-<td>29 <sup>o</sup> 52’ x 152 <sup>o</sup> 20’</td>
+<td align="left">1986</td>
+<td align="left">Washpool National Park</td>
+<td align="left">II</td>
+<td align="left">27,715</td>
+<td align="left">29 <sup>o</sup> 52’ x 152 <sup>o</sup> 20’</td>
 </tr>
 <tr class="odd">
-<td>1986</td>
-<td>Gibraltar Range National Park</td>
-<td>II</td>
-<td>17,273</td>
-<td>29 <sup>o</sup> 27’ x 152 <sup>o</sup> 21’</td>
+<td align="left">1986</td>
+<td align="left">Gibraltar Range National Park</td>
+<td align="left">II</td>
+<td align="left">17,273</td>
+<td align="left">29 <sup>o</sup> 27’ x 152 <sup>o</sup> 21’</td>
 </tr>
 <tr class="even">
-<td><strong>ILUKA NATURE RESERVE</strong></td>
+<td align="left"><strong>ILUKA NATURE RESERVE</strong></td>
 </tr>
 <tr class="odd">
-<td>1986</td>
-<td>Iluka Nature Reserve</td>
-<td>IV</td>
-<td>136</td>
-<td>29 <sup>o</sup> 14’ x 153 <sup>o</sup> 22’</td>
+<td align="left">1986</td>
+<td align="left">Iluka Nature Reserve</td>
+<td align="left">IV</td>
+<td align="left">136</td>
+<td align="left">29 <sup>o</sup> 14’ x 153 <sup>o</sup> 22’</td>
 </tr>
 <tr class="even">
-<td><strong>NEW ENGLAND GROUP</strong> 39,506</td>
+<td align="left"><strong>NEW ENGLAND GROUP</strong> 39,506</td>
 </tr>
 <tr class="odd">
-<td>1986</td>
-<td>New England National Park #</td>
-<td>II</td>
-<td>29,985</td>
-<td>30 <sup>o</sup> 28’ x 152 <sup>o</sup> 29’</td>
+<td align="left">1986</td>
+<td align="left">New England National Park #</td>
+<td align="left">II</td>
+<td align="left">29,985</td>
+<td align="left">30 <sup>o</sup> 28’ x 152 <sup>o</sup> 29’</td>
 </tr>
 <tr class="even">
-<td>1986</td>
-<td>Dorrigo National Park #</td>
-<td>II</td>
-<td>7,885</td>
-<td>30 <sup>o</sup> 21’ x 152 <sup>o</sup> 48’</td>
+<td align="left">1986</td>
+<td align="left">Dorrigo National Park #</td>
+<td align="left">II</td>
+<td align="left">7,885</td>
+<td align="left">30 <sup>o</sup> 21’ x 152 <sup>o</sup> 48’</td>
 </tr>
 <tr class="odd">
-<td>1986</td>
-<td>Mt. Hyland Nature Reserve #</td>
-<td>Ia</td>
-<td>1,636</td>
-<td>30 <sup>o</sup> 10’ x 152 <sup>o</sup> 26’</td>
+<td align="left">1986</td>
+<td align="left">Mt. Hyland Nature Reserve #</td>
+<td align="left">Ia</td>
+<td align="left">1,636</td>
+<td align="left">30 <sup>o</sup> 10’ x 152 <sup>o</sup> 26’</td>
 </tr>
 <tr class="even">
-<td>1994</td>
-<td>Cunnawarra National Park</td>
-<td>II</td>
-<td></td>
-<td></td>
+<td align="left">1994</td>
+<td align="left">Cunnawarra National Park</td>
+<td align="left">II</td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="odd">
-<td><strong>HASTINGS-MACLEAY GROUP</strong> 134,181</td>
+<td align="left"><strong>HASTINGS-MACLEAY GROUP</strong> 134,181</td>
 </tr>
 <tr class="even">
-<td>1994</td>
-<td>Oxley Wild Rivers National Park #</td>
-<td>1b</td>
-<td>93,220</td>
-<td>30 <sup>o</sup> 52’ x 152 <sup>o</sup> 02 *</td>
+<td align="left">1994</td>
+<td align="left">Oxley Wild Rivers National Park #</td>
+<td align="left">1b</td>
+<td align="left">93,220</td>
+<td align="left">30 <sup>o</sup> 52’ x 152 <sup>o</sup> 02 *</td>
 </tr>
 <tr class="odd">
-<td>1986</td>
-<td>Werrikimbe National Park #</td>
-<td>1b</td>
-<td>35,178</td>
-<td>31 <sup>o</sup> 10’ x 152 <sup>o</sup> 15</td>
+<td align="left">1986</td>
+<td align="left">Werrikimbe National Park #</td>
+<td align="left">1b</td>
+<td align="left">35,178</td>
+<td align="left">31 <sup>o</sup> 10’ x 152 <sup>o</sup> 15</td>
 </tr>
 <tr class="even">
-<td>1994</td>
-<td>The Castles Nature Reserve</td>
-<td>1b</td>
-<td>2,360</td>
-<td></td>
+<td align="left">1994</td>
+<td align="left">The Castles Nature Reserve</td>
+<td align="left">1b</td>
+<td align="left">2,360</td>
+<td align="left"></td>
 </tr>
 <tr class="odd">
-<td>1986</td>
-<td>Mount Seaview Nature Reserve</td>
-<td>1a</td>
-<td>1,703</td>
-<td>31 <sup>o</sup> 20’ x 152 <sup>o</sup> 11’</td>
+<td align="left">1986</td>
+<td align="left">Mount Seaview Nature Reserve</td>
+<td align="left">1a</td>
+<td align="left">1,703</td>
+<td align="left">31 <sup>o</sup> 20’ x 152 <sup>o</sup> 11’</td>
 </tr>
 <tr class="even">
-<td>1986</td>
-<td>Willi Willi National Park</td>
-<td>1b</td>
-<td>1,610</td>
-<td>31 <sup>o</sup> 09’ x 152 <sup>o</sup> 26’</td>
+<td align="left">1986</td>
+<td align="left">Willi Willi National Park</td>
+<td align="left">1b</td>
+<td align="left">1,610</td>
+<td align="left">31 <sup>o</sup> 09’ x 152 <sup>o</sup> 26’</td>
 </tr>
 <tr class="odd">
-<td>1994</td>
-<td>Fenwicks Scrub Flora Reserve</td>
-<td></td>
-<td>110</td>
-<td></td>
+<td align="left">1994</td>
+<td align="left">Fenwicks Scrub Flora Reserve</td>
+<td align="left"></td>
+<td align="left">110</td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td><strong>BARRINGTON TOPS AREA</strong> 39,653+</td>
+<td align="left"><strong>BARRINGTON TOPS AREA</strong> 39,653+</td>
 </tr>
 <tr class="odd">
-<td>1986</td>
-<td>Barrington Tops National Park #</td>
-<td>Ib</td>
-<td>39,120</td>
-<td>31 <sup>o</sup> 56’ x 151 <sup>o</sup> 29’</td>
+<td align="left">1986</td>
+<td align="left">Barrington Tops National Park #</td>
+<td align="left">Ib</td>
+<td align="left">39,120</td>
+<td align="left">31 <sup>o</sup> 56’ x 151 <sup>o</sup> 29’</td>
 </tr>
 <tr class="even">
-<td></td>
-<td>Mt. Royal National Park #</td>
-<td>II</td>
-<td>230</td>
-<td>32 <sup>o</sup> 12’ x 151 <sup>o</sup> 18’*</td>
+<td align="left"></td>
+<td align="left">Mt. Royal National Park #</td>
+<td align="left">II</td>
+<td align="left">230</td>
+<td align="left">32 <sup>o</sup> 12’ x 151 <sup>o</sup> 18’*</td>
 </tr>
 <tr class="odd">
-<td>1994</td>
-<td>Kerripit Beech Flora Reserve</td>
-<td></td>
-<td>243</td>
-<td></td>
+<td align="left">1994</td>
+<td align="left">Kerripit Beech Flora Reserve</td>
+<td align="left"></td>
+<td align="left">243</td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td>1994</td>
-<td>Jerusalem Creek Flora Reserve</td>
-<td></td>
-<td>60</td>
-<td></td>
+<td align="left">1994</td>
+<td align="left">Jerusalem Creek Flora Reserve</td>
+<td align="left"></td>
+<td align="left">60</td>
+<td align="left"></td>
 </tr>
 </tbody>
 </table>
@@ -633,9 +633,9 @@ Towards the heads of the valleys subtropical elements mingle with cool temperate
 
 Rainforests cover only about 0.3 % of Australia, but they contain about a third of Australia's species of mammals and birds. The nominated area, especially at the northern end, has a richly varied fauna of mammals, birds, reptiles and amphibians; probably also of fish and invertebrates, which for some groups is the most diverse in the country due to the large number of distinct habitats in the transition zone between tropical and temperate faunal regions. The area may historically have been a refuge for rainforest biota. More than 20 vertebrate species have the major part of their distribution in the property. Most of the vertebrate animals occur in sites throughout the nominated area. The recorded 80 species of mammals are 32% of Australia's terrestrial mammal fauna. These include the two species of monotremes, short-beaked echidna *Tachyglossus aculeatus* and platypus *Ornithorhyncus anatinus,* also 32 marsupials, 31 bats and 10 rodents. The Border Ranges have the highest concentration of marsupials in Australia. Some 30 species inhabit rainforest and wet sclerophyll forest, of which at least one-third are largely confined to them. Although no mammal species are restricted to the region it covers the major part of the distribution of the Parma wallaby *Macropus parma* and Hastings River mouse *Pseudomys oralis* (VU). Characteristic of rainforests are red-necked and red-legged pademelons *Thylogale thetis* and *T.stigmatica*, and of wet sclerophyll forests, mountain brushtail and common possums *Tricosurus caninus* and *T. vulpecula.*
 
-Several other species have the major part of their distribution within the rain forest and wet sclerophyll forests of the region. 45 species of frog are present, 25% of Australia’s total, several of which are restricted largely to the property. These include several relict species of frog: red-and yellow mountain frog *Philoria kundagungan* (EN), Loveridge’s frog *P. loveridgei* (EN), sphagnum frog *[P. sphagnicolus](http://quin.unep-wcmc.org/isdb/Taxonomy/tax-gs-search2.cfm?GenName=Philoria&SpcName=sphagnicolus)* (EN), *P. pughi* (EN), *P. richmondensis*, (EN), Fleay’s barred frog [*Mixophyes fleayi*](http://quin.unep-wcmc.org/isdb/Taxonomy/tax-gs-search2.cfm?GenName=Mixophyes&SpcName=fleayi) (EN), Booroolong frog *Litoria booroolongensis* (CR), New England tree frog *[L. subglandulosa](http://quin.unep-wcmc.org/isdb/Taxonomy/tax-gs-search2.cfm?GenName=Litoria&SpcName=subglandulosa)* (VU), Pearson’s green tree frog *[L. pearsoniana](http://quin.unep-wcmc.org/isdb/Taxonomy/tax-gs-search2.cfm?GenName=Litoria&SpcName=pearsoniana),* and the unusual hip-pocket frog [*Assa darlingtoni*](http://quin.unep-wcmc.org/isdb/Taxonomy/tax-gs-search2.cfm?GenName=Assa&SpcName=darlingtoni). Reptile species number over 140. Genera largely restricted to the region include *Phyllurus* spp. among the geckoes, *Gonocephalus spinipus* (*borneensis*?) among the dragon lizards, eight genera of skink, and *Cacophis* and *Tropidechis* spp. among the snakes (DASET, 1992). The invertebrates are highly diverse, and include many which are endemic and confined to the region. Land snail diversity is remarkably high even by world standards. Insect fauna is very rich, second only in Australia to that of the Wet Tropics of Queensland World Heritage site (DASET, 1992).
+Several other species have the major part of their distribution within the rain forest and wet sclerophyll forests of the region. 45 species of frog are present, 25% of Australia’s total, several of which are restricted largely to the property. These include several relict species of frog: red-and yellow mountain frog *Philoria kundagungan* (EN), Loveridge’s frog *P. loveridgei* (EN), sphagnum frog [*P. sphagnicolus*](http://quin.unep-wcmc.org/isdb/Taxonomy/tax-gs-search2.cfm?GenName=Philoria&SpcName=sphagnicolus) (EN), *P. pughi* (EN), *P. richmondensis*, (EN), Fleay’s barred frog [*Mixophyes fleayi*](http://quin.unep-wcmc.org/isdb/Taxonomy/tax-gs-search2.cfm?GenName=Mixophyes&SpcName=fleayi) (EN), Booroolong frog *Litoria booroolongensis* (CR), New England tree frog [*L. subglandulosa*](http://quin.unep-wcmc.org/isdb/Taxonomy/tax-gs-search2.cfm?GenName=Litoria&SpcName=subglandulosa) (VU), Pearson’s green tree frog [*L. pearsoniana*](http://quin.unep-wcmc.org/isdb/Taxonomy/tax-gs-search2.cfm?GenName=Litoria&SpcName=pearsoniana), and the unusual hip-pocket frog [*Assa darlingtoni*](http://quin.unep-wcmc.org/isdb/Taxonomy/tax-gs-search2.cfm?GenName=Assa&SpcName=darlingtoni). Reptile species number over 140. Genera largely restricted to the region include *Phyllurus* spp. among the geckoes, *Gonocephalus spinipus* (*borneensis*?) among the dragon lizards, eight genera of skink, and *Cacophis* and *Tropidechis* spp. among the snakes (DASET, 1992). The invertebrates are highly diverse, and include many which are endemic and confined to the region. Land snail diversity is remarkably high even by world standards. Insect fauna is very rich, second only in Australia to that of the Wet Tropics of Queensland World Heritage site (DASET, 1992).
 
-The avifauna is the most diverse of any area in Australia, with 270 species, 38% of Australia’s total, in 175 genera and 71 families (85% of the total). The wet sclerophyll forest of northeast New South Wales is especially rich. Of importance are members of the primitive Corvidae family: Albert's lyrebird *Menura alberti* (essentially confined to the Shield Volcano/Border Ranges), the superb lyrebird *M. novaehollandiae* and rare rufous scrub-bird *[Atrichornis rufescens](http://quin.unep-wcmc.org/isdb/Taxonomy/tax-gs-search2.cfm?GenName=Atrichornis&SpcName=rufescens)* (VU), both of which are members of families with only two species and endemic to Australia. Also notable are eastern bristlebird *Dasyornis brachypterus* (EN), marbled frogmouth *Podargus ocellatus,* the double-eyed fig parrot *Cyclopsitta diophthalma coxeni,* the regent and satin bowerbirds *Sericulus chrysocephalus* and *Ptilonorhynchus violaceus*, the paradise riflebird *Ptiloris paradiseus* and the black-breasted buttonquail *Turnix melanogaster* (VU). Other species are Australian brush-turkey *Alectura lathami*, and the monotypic endemic species wonga and topknot pigeons *Leucosarcia melanoleuca* and *Lopholaimus antarcticus*. The largest raptors are the wedge-tailed eagle *Aquila audax* and grey goshawk *Accipiter novaehollandiae.*
+The avifauna is the most diverse of any area in Australia, with 270 species, 38% of Australia’s total, in 175 genera and 71 families (85% of the total). The wet sclerophyll forest of northeast New South Wales is especially rich. Of importance are members of the primitive Corvidae family: Albert's lyrebird *Menura alberti* (essentially confined to the Shield Volcano/Border Ranges), the superb lyrebird *M. novaehollandiae* and rare rufous scrub-bird [*Atrichornis rufescens*](http://quin.unep-wcmc.org/isdb/Taxonomy/tax-gs-search2.cfm?GenName=Atrichornis&SpcName=rufescens) (VU), both of which are members of families with only two species and endemic to Australia. Also notable are eastern bristlebird *Dasyornis brachypterus* (EN), marbled frogmouth *Podargus ocellatus,* the double-eyed fig parrot *Cyclopsitta diophthalma coxeni,* the regent and satin bowerbirds *Sericulus chrysocephalus* and *Ptilonorhynchus violaceus*, the paradise riflebird *Ptiloris paradiseus* and the black-breasted buttonquail *Turnix melanogaster* (VU). Other species are Australian brush-turkey *Alectura lathami*, and the monotypic endemic species wonga and topknot pigeons *Leucosarcia melanoleuca* and *Lopholaimus antarcticus*. The largest raptors are the wedge-tailed eagle *Aquila audax* and grey goshawk *Accipiter novaehollandiae.*
 
 CONSERVATION VALUE
 ----------------------
@@ -676,228 +676,436 @@ Management plan strategies differ slightly between the two states (CERRA, 2000; 
 <table>
 <thead>
 <tr class="header">
-<th><strong>Date</strong></th>
+<th align="left"><strong>Date</strong></th>
+<th align="left"><strong>Site</strong></th>
+<th align="left"><strong>Management</strong></th>
+<th align="left"><strong>Notes</strong></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><strong>MAIN RANGE </strong></td>
+<td align="left"><strong>MAIN RANGE </strong></td>
 </tr>
 <tr class="even">
-<td>1994</td>
+<td align="left">1994</td>
+<td align="left">Main Range National Park</td>
+<td align="left">Management Strategy in preparation (2002)</td>
+<td align="left"></td>
 </tr>
 <tr class="odd">
-<td>1994</td>
+<td align="left">1994</td>
+<td align="left">Mount Mistake National Park</td>
+<td align="left">Management Strategy in preparation (2000)</td>
+<td align="left">Northernmost protected area</td>
 </tr>
 <tr class="even">
-<td>1994</td>
+<td align="left">1994</td>
+<td align="left">Gambubal State Forest</td>
+<td align="left">No plan beyond planning processes (1996)</td>
+<td align="left"></td>
 </tr>
 <tr class="odd">
-<td>1994</td>
+<td align="left">1994</td>
+<td align="left">Goomburra State Forest</td>
+<td align="left">No plan beyond planning processes (1996)</td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td>1994</td>
+<td align="left">1994</td>
+<td align="left">Acacia Plateau Flora Reserve</td>
+<td align="left">Working Plan approved</td>
+<td align="left">Not in WHC list by that name</td>
 </tr>
 <tr class="odd">
-<td>1994</td>
+<td align="left">1994</td>
+<td align="left">Killarney State Forest</td>
+<td align="left">Management Strategy in preparation (2000)</td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td>1994</td>
+<td align="left">1994</td>
+<td align="left">Teviot State Forest</td>
+<td align="left">Management Strategy in preparation (2000)</td>
+<td align="left"></td>
 </tr>
 <tr class="odd">
-<td>1994</td>
+<td align="left">1994</td>
+<td align="left">Emu Vale State Forest</td>
+<td align="left">No plan beyond planning processes (1996)</td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td>1994</td>
+<td align="left">1994</td>
+<td align="left">Spicers Gap State Forest</td>
+<td align="left">No plan beyond planning processes</td>
+<td align="left"></td>
 </tr>
 <tr class="odd">
-<td></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td>1994</td>
+<td align="left">1994</td>
+<td align="left">Wilsons Peak Flora Reserve</td>
+<td align="left">Working Plan approved</td>
+<td align="left">Iin National Park?</td>
 </tr>
 <tr class="odd">
-<td>1994</td>
+<td align="left">1994</td>
+<td align="left">Gilbert State Forest</td>
+<td align="left">Management Strategy in preparation (2000)</td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td>1994</td>
+<td align="left">1994</td>
+<td align="left">Koreelah National Park</td>
+<td align="left">Management Strategy in preparation (2000)</td>
+<td align="left"></td>
 </tr>
 <tr class="odd">
-<td>1994</td>
+<td align="left">1994</td>
+<td align="left">Alford Forest Reserve</td>
+<td align="left">No plan beyond planning processes (1996)</td>
+<td align="left"><p>Omitted from</p>
+<p>WHC list</p></td>
 </tr>
 <tr class="even">
-<td><strong>FOCAL PEAK GROUP</strong></td>
+<td align="left"><strong>FOCAL PEAK GROUP</strong></td>
 </tr>
 <tr class="odd">
-<td>1994</td>
+<td align="left">1994</td>
+<td align="left">Mount Barney National Park</td>
+<td align="left">Management Strategy in preparation (2002)</td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td>1994</td>
+<td align="left">1994</td>
+<td align="left">Tooloom National Park</td>
+<td align="left">Management Plan adopted 2000</td>
+<td align="left"></td>
 </tr>
 <tr class="odd">
-<td></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td>1994</td>
+<td align="left">1994</td>
+<td align="left">Toonumber National Park</td>
+<td align="left"><p>Draft Management Plan</p>
+<p>exhibited 2002</p></td>
+<td align="left"></td>
 </tr>
 <tr class="odd">
-<td>1994</td>
+<td align="left">1994</td>
+<td align="left">Burnett Creek State Forest</td>
+<td align="left"><p>No plan: planning</p>
+<p>processes only</p></td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td>1994</td>
+<td align="left">1994</td>
+<td align="left">Cambridge Plateau Flora Reserve in Richmond Range NP</td>
+<td align="left"><p>Draft Management Plan</p>
+<p>exhibited 2002</p></td>
+<td align="left">Richmond Range NP not on WHC list</td>
 </tr>
 <tr class="odd">
-<td></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td>1994</td>
+<td align="left">1994</td>
+<td align="left">Cronan Creek State Forest</td>
+<td align="left"><p>No plan beyond planning</p>
+<p>processes (1996)</p></td>
+<td align="left"></td>
 </tr>
 <tr class="odd">
-<td>1986</td>
+<td align="left">1986</td>
+<td align="left">Mt. Nothofagus Flora Reserve</td>
+<td align="left">Working Plan approved 1987</td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="odd">
-<td>1994</td>
+<td align="left">1994</td>
+<td align="left">Mount Clunie National Park</td>
+<td align="left">Working Plan approved 1987. Draft Management Plan in preparation</td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td>1994</td>
+<td align="left">1994</td>
+<td align="left">Captains Creek Nature Reserve</td>
+<td align="left">Working Plan approved 1987. Draft Management Plan in preparation</td>
+<td align="left"></td>
 </tr>
 <tr class="odd">
-<td>1994</td>
+<td align="left">1994</td>
+<td align="left">Palen Creek State Forest</td>
+<td align="left">No plan beyond planning processes (1996)</td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td>1994</td>
+<td align="left">1994</td>
+<td align="left">Mallanganee National Park</td>
+<td align="left">Draft Management Plan exhibited 2002</td>
+<td align="left"></td>
 </tr>
 <tr class="odd">
-<td>1994</td>
+<td align="left">1994</td>
+<td align="left">Telemon Environmental Park</td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td>1994</td>
+<td align="left">1994</td>
+<td align="left">Bungdoozle Flora Reserve</td>
+<td align="left">Working Plan approved 1987</td>
+<td align="left"></td>
 </tr>
 <tr class="odd">
-<td></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td>1994</td>
+<td align="left">1994</td>
+<td align="left">Rabbit Board Paddock Reserve</td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="odd">
-<td>1994</td>
+<td align="left">1994</td>
+<td align="left">Turtle Rock Environmental Park</td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td>1994</td>
+<td align="left">1994</td>
+<td align="left">Prisons Purposes land</td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="odd">
-<td>1994</td>
+<td align="left">1994</td>
+<td align="left">Tooloom Scrub Flora Reserve</td>
+<td align="left">Working Plan approved 1987</td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td><strong>SHIELD VOLCANO GROUP</strong></td>
+<td align="left"><strong>SHIELD VOLCANO GROUP</strong></td>
 </tr>
 <tr class="odd">
-<td>1986</td>
+<td align="left">1986</td>
+<td align="left">Border Ranges National Park</td>
+<td align="left">New joint four-unit draft Management Plan exhibited 2001.</td>
+<td align="left"><p>Contains</p>
+<p>wilderness area</p></td>
 </tr>
 <tr class="even">
-<td>1986</td>
+<td align="left">1986</td>
+<td align="left">Limpinwood Nature Reserve</td>
+<td align="left">”</td>
+<td align="left"></td>
 </tr>
 <tr class="odd">
-<td>1986</td>
+<td align="left">1986</td>
+<td align="left">Nightcap National Park</td>
+<td align="left">”</td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td>1986</td>
+<td align="left">1986</td>
+<td align="left">Numinbah Nature Reserve</td>
+<td align="left">”</td>
+<td align="left"></td>
 </tr>
 <tr class="odd">
-<td>1994</td>
+<td align="left">1994</td>
+<td align="left">Springbrook National Park</td>
+<td align="left">Draft Management Plan exhibited 1999. Final plan in preparation.</td>
+<td align="left"><p>Contains</p>
+<p>wilderness area</p></td>
 </tr>
 <tr class="even">
-<td>1986</td>
+<td align="left">1986</td>
+<td align="left">Mount Warning National Park</td>
+<td align="left"><p>New joint Management</p>
+<p>plan exhibited 2001</p></td>
+<td align="left"></td>
 </tr>
 <tr class="odd">
-<td>1994</td>
+<td align="left">1994</td>
+<td align="left">Mount Chinghee National Park</td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="odd">
-<td>1994</td>
+<td align="left">1994</td>
+<td align="left">Lamington National Park</td>
+<td align="left">Draft Management Plan exhibited 1999. Final plan in preparation.</td>
+<td align="left"><p>Established</p>
+<p>1915</p></td>
 </tr>
 <tr class="even">
-<td>1994</td>
+<td align="left">1994</td>
+<td align="left">Amaroo Flora Reserve</td>
+<td align="left">Working Plan approved 1987</td>
+<td align="left"></td>
 </tr>
 <tr class="odd">
-<td></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td>1999</td>
+<td align="left">1999</td>
+<td align="left">Mebbin Lagoons Flora Reserve</td>
+<td align="left">New joint Management plan exhibited 2001</td>
+<td align="left"></td>
 </tr>
 <tr class="odd">
-<td><strong>WASHPOOL &amp; GIBRALTAR RANGE</strong></td>
+<td align="left"><strong>WASHPOOL &amp; GIBRALTAR RANGE</strong></td>
 </tr>
 <tr class="even">
-<td>1986</td>
+<td align="left">1986</td>
+<td align="left">Washpool National Park</td>
+<td align="left">New joint Management Plan in preparation</td>
+<td align="left">Contains wilderness area</td>
 </tr>
 <tr class="odd">
-<td>1986</td>
+<td align="left">1986</td>
+<td align="left">Gibraltar Range National Park</td>
+<td align="left">”</td>
+<td align="left">Contains wilderness area</td>
 </tr>
 <tr class="even">
-<td><strong>ILUKA NATURE RESERVE</strong></td>
+<td align="left"><strong>ILUKA NATURE RESERVE</strong></td>
 </tr>
 <tr class="odd">
-<td>1986</td>
+<td align="left">1986</td>
+<td align="left">Iluka Nature Reserve</td>
+<td align="left">Management Plan adopted 1997</td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td><strong>NEW ENGLAND GROUP</strong></td>
+<td align="left"><strong>NEW ENGLAND GROUP</strong></td>
 </tr>
 <tr class="odd">
-<td>1986</td>
+<td align="left">1986</td>
+<td align="left">New England National Park</td>
+<td align="left">Management Plan adopted 1990</td>
+<td align="left"><p>Contains</p>
+<p>wilderness area</p></td>
 </tr>
 <tr class="even">
-<td>1986</td>
+<td align="left">1986</td>
+<td align="left">Dorrigo National Park</td>
+<td align="left">Management Plan adopted 1998</td>
+<td align="left">Established 1927</td>
 </tr>
 <tr class="odd">
-<td>1986</td>
+<td align="left">1986</td>
+<td align="left">Mount Hyland Nature Reserve</td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td>1994</td>
+<td align="left">1994</td>
+<td align="left">Cunnawarra National Park</td>
+<td align="left">Draft Management Plan in preparation</td>
+<td align="left"></td>
 </tr>
 <tr class="odd">
-<td><strong>HASTINGS-MACLEAY GROUP</strong></td>
+<td align="left"><strong>HASTINGS-MACLEAY GROUP</strong></td>
 </tr>
 <tr class="even">
-<td>1994</td>
+<td align="left">1994</td>
+<td align="left">Oxley Wild Rivers National Park</td>
+<td align="left">Draft Management Plan exhibited 2002</td>
+<td align="left">Contains wilderness area</td>
 </tr>
 <tr class="odd">
-<td>1986</td>
+<td align="left">1986</td>
+<td align="left">Werrikimbe National Park</td>
+<td align="left">Draft Management Plan in preparation</td>
+<td align="left">Contains wilderness area</td>
 </tr>
 <tr class="even">
-<td>1994</td>
+<td align="left">1994</td>
+<td align="left">The Castles Nature Reserve</td>
+<td align="left">Draft Management Plan exhibited</td>
+<td align="left"></td>
 </tr>
 <tr class="odd">
-<td>1986</td>
+<td align="left">1986</td>
+<td align="left">Mount Seaview Nature Reserve</td>
+<td align="left">Draft Management Plan exhibited</td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td>1986</td>
+<td align="left">1986</td>
+<td align="left">Willi Willi National Park</td>
+<td align="left">Working Plan approved. Draft Management Plan in preparation</td>
+<td align="left">Formerly Banda Banda Flora Reserve</td>
 </tr>
 <tr class="odd">
-<td>1994</td>
+<td align="left">1994</td>
+<td align="left">Fenwicks Scrub Flora Reserve</td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td><strong>BARRINGTON TOPS AREA</strong></td>
+<td align="left"><strong>BARRINGTON TOPS AREA</strong></td>
 </tr>
 <tr class="odd">
-<td>1986</td>
+<td align="left">1986</td>
+<td align="left">Barrington Tops National Park</td>
+<td align="left">Draft Management Plan exhibited 1989. Co-managed with Hunter Water Corporation</td>
+<td align="left">Contains wilderness area</td>
 </tr>
 <tr class="even">
-<td></td>
+<td align="left"></td>
+<td align="left">Mount Royal National Park</td>
+<td align="left"></td>
+<td align="left">Omitted from WHC list</td>
 </tr>
 <tr class="odd">
-<td>1994</td>
+<td align="left">1994</td>
+<td align="left">Kerripit Beech Flora Reserve</td>
+<td align="left">Working Plan approved 1987</td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="odd">
-<td>1994</td>
+<td align="left">1994</td>
+<td align="left">Jerusalem Creek Flora Reserve</td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 </tbody>
 </table>

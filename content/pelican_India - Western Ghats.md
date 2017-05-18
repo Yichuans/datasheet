@@ -1,14 +1,14 @@
-Title: WESTERN GHATS
-Tags: INDIA
+Title: Western Ghats
+Tags: India
 Author: UNEP-WCMC
 Year: 2012
-Date: 2017-04-20 14:28:34
+Date: 2017-05-18 15:38:38
 
-WESTERN GHATS
-=============
+1.  WESTERN GHATS
+    =============
 
-INDIA
-=====
+    INDIA
+    =====
 
 *The Western Ghats are a chain of low mountains running 1,600 kilometres parallel to India’s western coast from Gujarat to southern Kerala between 30-50 kilometres inland. They have some of the finest non-equatorial tropical evergreen forests in the world with very high levels of speciation and endemism. They shelter at least 325 globally threatened species including 51 that are critically endangered. The serial site contains 39 protected areas in seven separate clusters stretching over a distance of 1,250 kilometres.*
 
@@ -62,7 +62,7 @@ LAND TENURE
 
 The sites are owned by the state forest departments of Kerala, Tamil Nadu, Karnataka and Maharashtra and administered by their Chief Wardens under the national Director General of Forests (Wildlife).
 
-AREAS {#areas .ListParagraph}
+AREAS 
 -----
 
 The property covers 795,315 ha. The property consists of seven separate groups (sub-clusters) containing 39 sites spread over 1,250 kilometres, listed below from south to north:
@@ -70,151 +70,393 @@ The property covers 795,315 ha. The property consists of seven separate groups (
 <table>
 <thead>
 <tr class="header">
-<th><strong>Site creation date</strong></th>
+<th align="left"><strong>Site creation date</strong></th>
+<th align="left"><strong>No</strong></th>
+<th align="left"><strong>Site</strong></th>
+<th align="left"><strong>Area (ha) </strong></th>
+<th align="left"><strong>State</strong></th>
+<th align="left"><strong>Latitude (N)</strong></th>
+<th align="left"><strong>Longitude (E) </strong></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><strong>1 Agasthyamalai Group</strong></td>
+<td align="left"><strong>1 Agasthyamalai Group</strong></td>
 </tr>
 <tr class="even">
-<td>1962/1989</td>
+<td align="left">1962/1989</td>
+<td align="left">1</td>
+<td align="left">Kalakad-Mundanthurai Tiger Res.</td>
+<td align="left">89,500</td>
+<td align="left">Tamil Nadu</td>
+<td align="left">08°25′ to 08°53′ N</td>
+<td align="left">77°10′ to 77°35′ E</td>
 </tr>
 <tr class="odd">
-<td>1984</td>
+<td align="left">1984</td>
+<td align="left">2</td>
+<td align="left">Shendurney Wildlife Sanctuary</td>
+<td align="left">17,100</td>
+<td align="left">Kerala</td>
+<td align="left">08°44′ to 09°14′ N</td>
+<td align="left">77°59′ to 77°16′ E</td>
 </tr>
 <tr class="even">
-<td>1958</td>
+<td align="left">1958</td>
+<td align="left">3</td>
+<td align="left">Neyyar Wildlife Sanctuary</td>
+<td align="left">12,800</td>
+<td align="left">Kerala</td>
+<td align="left">08°31′ to 08°37′ N</td>
+<td align="left">77°08′ to 77°14′ E</td>
 </tr>
 <tr class="odd">
-<td>1983</td>
+<td align="left">1983</td>
+<td align="left">4</td>
+<td align="left">Peppara Wildlife Sanctuary</td>
+<td align="left">5,300</td>
+<td align="left">Kerala</td>
+<td align="left">08°34′ to 08°42′ N</td>
+<td align="left">77°07′ to 77°15′ E</td>
 </tr>
 <tr class="even">
-<td>1901</td>
+<td align="left">1901</td>
+<td align="left">5</td>
+<td align="left">Kulathupuzha Range Reserved Forest</td>
+<td align="left">20,000</td>
+<td align="left">Kerala</td>
+<td align="left">08°40′ to 08°56′ N</td>
+<td align="left">77°00′ to 77°19′ E</td>
 </tr>
 <tr class="odd">
-<td>1898</td>
+<td align="left">1898</td>
+<td align="left">6</td>
+<td align="left">Palode Range Reserved Forest</td>
+<td align="left">16,500</td>
+<td align="left">Kerala</td>
+<td align="left">08°40′ to 08°56′ N</td>
+<td align="left">77°00′ to 77°19′ E</td>
 </tr>
 <tr class="even">
-<td><strong>2 Periyar Group</strong></td>
+<td align="left"><strong>2 Periyar Group</strong></td>
 </tr>
 <tr class="odd">
-<td>1934/1950/1978</td>
+<td align="left">1934/1950/1978</td>
+<td align="left">7</td>
+<td align="left">Periyar Tiger Reserve</td>
+<td align="left">77,700</td>
+<td align="left">Kerala</td>
+<td align="left">09°16<em>’</em> to 09°36<em>’</em> N</td>
+<td align="left">76°56<em>’</em> to 77°24' E</td>
 </tr>
 <tr class="even">
-<td>1904/1987</td>
+<td align="left">1904/1987</td>
+<td align="left">8</td>
+<td align="left">Ranni Forest Division</td>
+<td align="left">82,853</td>
+<td align="left">Kerala</td>
+<td align="left">09°11<em>’</em> to 09°28<em>’</em> N</td>
+<td align="left">76°50<em>’</em> to 77°17<em>’</em></td>
 </tr>
 <tr class="odd">
-<td>1897/1987</td>
+<td align="left">1897/1987</td>
+<td align="left">9</td>
+<td align="left">Konni Forest Division</td>
+<td align="left">26,143</td>
+<td align="left">Kerala</td>
+<td align="left">09°02<em>’</em> to 09°15<em>’</em> N</td>
+<td align="left">76°50’ to 77°17<em>’</em> E</td>
 </tr>
 <tr class="even">
-<td>1901/1987</td>
+<td align="left">1901/1987</td>
+<td align="left">10</td>
+<td align="left">Achankovil Forest Division</td>
+<td align="left">21,990</td>
+<td align="left">Kerala</td>
+<td align="left">09°02<em>’</em> to 09°12<em>’</em> N</td>
+<td align="left">77°03<em>’</em> to 77°16<em>’</em> E</td>
 </tr>
 <tr class="odd">
-<td>1989</td>
+<td align="left">1989</td>
+<td align="left">11</td>
+<td align="left">Srivilliputtur Wildlife Sanctuary</td>
+<td align="left">48,500</td>
+<td align="left">Tamil Nadu</td>
+<td align="left">09°23<em>’</em> to 09°48<em>’</em> N</td>
+<td align="left">77°20<em>’</em> to 77°42<em>’</em> E</td>
 </tr>
 <tr class="even">
-<td>1997</td>
+<td align="left">1997</td>
+<td align="left">12</td>
+<td align="left">Tirunelveli (North) Forest (part)</td>
+<td align="left">23,467</td>
+<td align="left">Tamil Nadu</td>
+<td align="left">09°03<em>’</em> to 09°24<em>’</em> N</td>
+<td align="left">77°12<em>’</em> to 77°23<em>’</em> E</td>
 </tr>
 <tr class="odd">
-<td><strong>3 Anamalai Group</strong></td>
+<td align="left"><strong>3 Anamalai Group</strong></td>
 </tr>
 <tr class="even">
-<td>1978</td>
+<td align="left">1978</td>
+<td align="left">13</td>
+<td align="left">Eravikulam National Park + extension</td>
+<td align="left">12700</td>
+<td align="left">Kerala</td>
+<td align="left">10°05' to 10°20<em>’</em> N</td>
+<td align="left">77°00' to 77°10'”E</td>
 </tr>
 <tr class="odd">
-<td>1976</td>
+<td align="left">1976</td>
+<td align="left">14</td>
+<td align="left">Grass Hills National Park</td>
+<td align="left">3,123</td>
+<td align="left">Tamil Nadu</td>
+<td align="left">10°02' to 77°04´ N</td>
+<td align="left">77º 04´ E</td>
 </tr>
 <tr class="even">
-<td>1989</td>
+<td align="left">1989</td>
+<td align="left">15</td>
+<td align="left">Karian Shola National Park</td>
+<td align="left">503</td>
+<td align="left">Tamil Nadu</td>
+<td align="left">10°13' to 10°33´ N</td>
+<td align="left">76°49' to 77°21' E</td>
 </tr>
 <tr class="odd">
-<td><p>2001</p>
+<td align="left"><p>2001</p>
 <p>(1973)</p></td>
+<td align="left">16</td>
+<td align="left">Karian Shola in Parambikulam Wildlife Sanctuary</td>
+<td align="left">377</td>
+<td align="left">Kerala</td>
+<td align="left">10°28' N</td>
+<td align="left">76°49' E</td>
 </tr>
 <tr class="even">
-<td>1984</td>
+<td align="left">1984</td>
+<td align="left">17</td>
+<td align="left">Chinnar Wildlife Sanctuary</td>
+<td align="left">9,044</td>
+<td align="left">Kerala</td>
+<td align="left">10°00' to 10°21<em>’</em> N</td>
+<td align="left">77°06' to 77°16' E</td>
 </tr>
 <tr class="odd">
-<td>1980</td>
+<td align="left">1980</td>
+<td align="left">18</td>
+<td align="left">Mankulam Range Forest</td>
+<td align="left">5,284</td>
+<td align="left">Kerala</td>
+<td align="left">10°00' to 10°10' N</td>
+<td align="left">76°50' to 77°00' E</td>
 </tr>
 <tr class="even">
-<td>1901/2003</td>
+<td align="left">1901/2003</td>
+<td align="left">19</td>
+<td align="left">Mannavan Shola</td>
+<td align="left">1,126</td>
+<td align="left">Kerala</td>
+<td align="left">11°12' N</td>
+<td align="left">77°13’ E</td>
 </tr>
 <tr class="odd">
-<td><strong>4 Nilgiri Group</strong></td>
+<td align="left"><strong>4 Nilgiri Group</strong></td>
 </tr>
 <tr class="even">
-<td>1984</td>
+<td align="left">1984</td>
+<td align="left">20</td>
+<td align="left">Silent Valley National Park</td>
+<td align="left">8,952</td>
+<td align="left">Kerala</td>
+<td align="left">11° 03' to 11°12' N</td>
+<td align="left">76°22' to 76°29' E</td>
 </tr>
 <tr class="odd">
-<td>1980/1990</td>
+<td align="left">1980/1990</td>
+<td align="left">21</td>
+<td align="left">Mukurti National Park</td>
+<td align="left">7,850</td>
+<td align="left">Tamil Nadu</td>
+<td align="left">11° 10' to 11°22' N</td>
+<td align="left">76°26′ to 76°34′ E</td>
 </tr>
 <tr class="even">
-<td></td>
+<td align="left"></td>
+<td align="left">22</td>
+<td align="left">New Amarambalam Reserved Forest</td>
+<td align="left">24,697</td>
+<td align="left">Kerala</td>
+<td align="left">11° 13' to 11°23' N</td>
+<td align="left">76°19' to 76°32' E</td>
 </tr>
 <tr class="odd">
-<td>1971</td>
+<td align="left">1971</td>
+<td align="left">23</td>
+<td align="left">Kalikavu Range Reserved Forest</td>
+<td align="left">11,705</td>
+<td align="left">Kerala</td>
+<td align="left">11° 05' to 11°16' N</td>
+<td align="left">76°19' to 76°27' E</td>
 </tr>
 <tr class="even">
-<td></td>
+<td align="left"></td>
+<td align="left">24</td>
+<td align="left">Attapadi Reserved Forest</td>
+<td align="left">6,575</td>
+<td align="left">Kerala</td>
+<td align="left">11° 03' to 11°12' N</td>
+<td align="left">76°26' to 76°31' E</td>
 </tr>
 <tr class="odd">
-<td><strong>5 Talacauvery Group</strong></td>
+<td align="left"><strong>5 Talacauvery Group</strong></td>
 </tr>
 <tr class="even">
-<td>11904/1987</td>
+<td align="left">11904/1987</td>
+<td align="left">25</td>
+<td align="left">Pushpagiri Wildlife Sanctuary</td>
+<td align="left">10,259</td>
+<td align="left">Karnataka</td>
+<td align="left">12°29<em>’</em> to 12°42' N</td>
+<td align="left">75°38<em>’</em> to 75°42<em>’</em> E</td>
 </tr>
 <tr class="odd">
-<td>1974</td>
+<td align="left">1974</td>
+<td align="left">26</td>
+<td align="left">Brahmagiri Wildlife Sanctuary</td>
+<td align="left">18,129</td>
+<td align="left">Karnataka</td>
+<td align="left">11°55<em>’</em> to 12°09<em>’</em> N</td>
+<td align="left">75°44<em>’</em> to 76°04<em>’</em> E</td>
 </tr>
 <tr class="even">
-<td>1987</td>
+<td align="left">1987</td>
+<td align="left">27</td>
+<td align="left">Talacauvery Wildlife Sanctuary</td>
+<td align="left">10,500</td>
+<td align="left">Karnataka</td>
+<td align="left">12°17<em>’</em> to 12°27<em>’</em> N</td>
+<td align="left">75°26<em>’</em> to 75°33<em>’</em> E</td>
 </tr>
 <tr class="odd">
-<td>1984/1998</td>
+<td align="left">1984/1998</td>
+<td align="left">28</td>
+<td align="left">Aralam Wildlife Sanctuary</td>
+<td align="left">5,500</td>
+<td align="left">Kerala</td>
+<td align="left">11°59<em>’</em> to 11°54<em>’</em> N</td>
+<td align="left">75°47<em>’</em> to 75°57<em>’</em> E</td>
 </tr>
 <tr class="even">
-<td>1906</td>
+<td align="left">1906</td>
+<td align="left">29</td>
+<td align="left">Padinalknad Reserved Forest</td>
+<td align="left">18,476</td>
+<td align="left">Karnataka</td>
+<td align="left">12°05<em>’</em> to 12°19<em>’</em> N</td>
+<td align="left">75°25<em>’</em> to 75°40<em>’</em> E</td>
 </tr>
 <tr class="odd">
-<td>1903</td>
+<td align="left">1903</td>
+<td align="left">30</td>
+<td align="left">Kerti Reserved Forest</td>
+<td align="left">7,904</td>
+<td align="left">Karnataka</td>
+<td align="left">12°04<em>’</em> to 12°11<em>’</em> N</td>
+<td align="left">75°25<em>’</em> to 75°40<em>’</em> E</td>
 </tr>
 <tr class="even">
-<td><strong>6 Kudremukh Group</strong></td>
+<td align="left"><strong>6 Kudremukh Group</strong></td>
 </tr>
 <tr class="odd">
-<td>1987/2001</td>
+<td align="left">1987/2001</td>
+<td align="left">31</td>
+<td align="left">Kudremukh National Park</td>
+<td align="left">60,032</td>
+<td align="left">Karnataka</td>
+<td align="left">13°01´ to 13°29’ N</td>
+<td align="left">75°01’ to 75°25’ E</td>
 </tr>
 <tr class="even">
-<td>1979</td>
+<td align="left">1979</td>
+<td align="left">32</td>
+<td align="left">Someshwara Wildlife Sanctuary</td>
+<td align="left">8,840</td>
+<td align="left">Karnataka</td>
+<td align="left">13°29' to 13°37' N</td>
+<td align="left">75°59’ to 75°05’ E</td>
 </tr>
 <tr class="odd">
-<td>1979</td>
+<td align="left">1979</td>
+<td align="left">33</td>
+<td align="left">Someshwara Reserved Forest</td>
+<td align="left">11,292</td>
+<td align="left">Karnataka</td>
+<td align="left">13°22’ to 13°30’ N</td>
+<td align="left">75°04’ to 75°10’ E</td>
 </tr>
 <tr class="even">
-<td>1913</td>
+<td align="left">1913</td>
+<td align="left">34</td>
+<td align="left">Agumbe Reserved Forest</td>
+<td align="left">5,709</td>
+<td align="left">Karnataka</td>
+<td align="left">13°30’ to 13°38’ N</td>
+<td align="left">75°02’ to 75°07’ E</td>
 </tr>
 <tr class="odd">
-<td>1913</td>
+<td align="left">1913</td>
+<td align="left">35</td>
+<td align="left">Balahalli Reserved Forest</td>
+<td align="left">2,263</td>
+<td align="left">Karnataka</td>
+<td align="left">13°27’ to 13°30’ N</td>
+<td align="left">75°05’ to 75°10’</td>
 </tr>
 <tr class="even">
-<td><strong>7 Sahyadri Group</strong></td>
+<td align="left"><strong>7 Sahyadri Group</strong></td>
 </tr>
 <tr class="odd">
-<td>1913/1985</td>
+<td align="left">1913/1985</td>
+<td align="left">36</td>
+<td align="left">Kas Plateau Reserved Forest</td>
+<td align="left">1,142</td>
+<td align="left">Maharashtra</td>
+<td align="left">17°43' N</td>
+<td align="left">73°48' E</td>
 </tr>
 <tr class="even">
-<td>1989</td>
+<td align="left">1989</td>
+<td align="left">37</td>
+<td align="left">Koyna Wildlife Sanctuary</td>
+<td align="left">42,355</td>
+<td align="left">Maharashtra</td>
+<td align="left">17°23' to 17°44' N</td>
+<td align="left">73°34' to 73°51' E</td>
 </tr>
 <tr class="odd">
-<td>1985/2004</td>
+<td align="left">1985/2004</td>
+<td align="left">38</td>
+<td align="left">Chandoli National Park</td>
+<td align="left">30,890</td>
+<td align="left">Maharashtra</td>
+<td align="left">17°03' to 17°17’ N</td>
+<td align="left">73°03' to 73°41' E</td>
 </tr>
 <tr class="even">
-<td>1958/1985</td>
+<td align="left">1958/1985</td>
+<td align="left">39</td>
+<td align="left">Radhanagari Wildlife Sanctuary</td>
+<td align="left">282,35</td>
+<td align="left">Maharashtra</td>
+<td align="left">16°10' to 16°30' N</td>
+<td align="left">73°52' to 74°05' E</td>
 </tr>
 <tr class="odd">
-<td><strong>TOTAL</strong></td>
+<td align="left"><strong>TOTAL</strong></td>
+<td align="left"><strong>795,315</strong></td>
+<td align="left"></td>
 </tr>
 </tbody>
 </table>
@@ -248,66 +490,66 @@ The dominant vegetation types are as follows:
 <table>
 <thead>
 <tr class="header">
-<th><strong>Vegetation type</strong></th>
-<th><strong>Elevation</strong></th>
-<th><strong>Rainfall</strong></th>
-<th><strong>Dominant flora</strong></th>
+<th align="left"><strong>Vegetation type</strong></th>
+<th align="left"><strong>Elevation</strong></th>
+<th align="left"><strong>Rainfall</strong></th>
+<th align="left"><strong>Dominant flora</strong></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Tropical evergreen forest (west slopes)</td>
-<td>200–1,500m</td>
-<td>2,500–5,000mm</td>
-<td>emergents up to 60 m; <em>Acrocarpus, Aglaia, Artocarpus, Calophyllum, Canarium, Cullenia, Dipterocarpus, Holigarna, Knema, Myristica</em></td>
+<td align="left">Tropical evergreen forest (west slopes)</td>
+<td align="left">200–1,500m</td>
+<td align="left">2,500–5,000mm</td>
+<td align="left">emergents up to 60 m; <em>Acrocarpus, Aglaia, Artocarpus, Calophyllum, Canarium, Cullenia, Dipterocarpus, Holigarna, Knema, Myristica</em></td>
 </tr>
 <tr class="even">
-<td>Moist deciduous forest (most on high east slopes)</td>
-<td>500–900m</td>
-<td>2,500–3,500mm</td>
-<td><em>Bridelia, Pterocarpus, Sterculia, Tectona, Pterospermum, Lagerstroemia, Terminalia</em></td>
+<td align="left">Moist deciduous forest (most on high east slopes)</td>
+<td align="left">500–900m</td>
+<td align="left">2,500–3,500mm</td>
+<td align="left"><em>Bridelia, Pterocarpus, Sterculia, Tectona, Pterospermum, Lagerstroemia, Terminalia</em></td>
 </tr>
 <tr class="odd">
-<td>Dry deciduous <em>Buchanania</em> (east slopes)</td>
-<td>300–900m</td>
-<td>1000–2000mm</td>
-<td><em>Albizia, Anogeissus, Bauhinia, Butea, Dillenia, Emblica</em></td>
+<td align="left">Dry deciduous <em>Buchanania</em> (east slopes)</td>
+<td align="left">300–900m</td>
+<td align="left">1000–2000mm</td>
+<td align="left"><em>Albizia, Anogeissus, Bauhinia, Butea, Dillenia, Emblica</em></td>
 </tr>
 <tr class="even">
-<td>Scrub</td>
-<td>200–500m</td>
-<td>300–600mm</td>
-<td><em>Acacia, Carissa, Capparis, Flacourtia, Gardenia</em></td>
+<td align="left">Scrub</td>
+<td align="left">200–500m</td>
+<td align="left">300–600mm</td>
+<td align="left"><em>Acacia, Carissa, Capparis, Flacourtia, Gardenia</em></td>
 </tr>
 <tr class="odd">
-<td><em>Shola</em></td>
-<td>above 1,500m</td>
-<td>medium to high</td>
-<td>short trees 15–20m: <em>Actinodaphne, Elaeocarpus, Euonymus, Michelia, Rhodomyrtus, Schefflera, Symplocos</em></td>
+<td align="left"><em>Shola</em></td>
+<td align="left">above 1,500m</td>
+<td align="left">medium to high</td>
+<td align="left">short trees 15–20m: <em>Actinodaphne, Elaeocarpus, Euonymus, Michelia, Rhodomyrtus, Schefflera, Symplocos</em></td>
 </tr>
 <tr class="even">
-<td>Grassland</td>
-<td>1,700–1,900m</td>
-<td>medium to high</td>
-<td>grasses: <em>Chrysopogon, Arundinella, Eulalia, Heteropogon</em></td>
+<td align="left">Grassland</td>
+<td align="left">1,700–1,900m</td>
+<td align="left">medium to high</td>
+<td align="left">grasses: <em>Chrysopogon, Arundinella, Eulalia, Heteropogon</em></td>
 </tr>
 <tr class="odd">
-<td>Montane grassland</td>
-<td>montane</td>
-<td>very high</td>
-<td>herbaceous to shrubby cover: <em>Ligustrum, Rhododendron, Anaphalis, Strobilanthes</em></td>
+<td align="left">Montane grassland</td>
+<td align="left">montane</td>
+<td align="left">very high</td>
+<td align="left">herbaceous to shrubby cover: <em>Ligustrum, Rhododendron, Anaphalis, Strobilanthes</em></td>
 </tr>
 <tr class="even">
-<td>Peat bog</td>
-<td>&lt; 2,000m</td>
-<td>high</td>
-<td>grasses, sedges and mosses: <em>Carex</em>, <em>Cyanotis, Cyperus, Eriocaulon</em></td>
+<td align="left">Peat bog</td>
+<td align="left">&lt; 2,000m</td>
+<td align="left">high</td>
+<td align="left">grasses, sedges and mosses: <em>Carex</em>, <em>Cyanotis, Cyperus, Eriocaulon</em></td>
 </tr>
 <tr class="odd">
-<td><em>Myristica</em> swamp</td>
-<td>0m to 600m</td>
-<td>medium to high</td>
-<td><em>Myristica, Knema, Hydnocarpus, Lophopetalum</em></td>
+<td align="left"><em>Myristica</em> swamp</td>
+<td align="left">0m to 600m</td>
+<td align="left">medium to high</td>
+<td align="left"><em>Myristica, Knema, Hydnocarpus, Lophopetalum</em></td>
 </tr>
 </tbody>
 </table>
@@ -336,55 +578,55 @@ The Western Ghats have an exceptionally high level of biodiversity and endemism,
 <table>
 <thead>
 <tr class="header">
-<th><strong>Taxonomic group</strong></th>
-<th><strong>Total species</strong></th>
-<th><strong>Endemic species</strong></th>
-<th><strong>Percent endemism</strong></th>
-<th><strong>Endangered species</strong></th>
+<th align="left"><strong>Taxonomic group</strong></th>
+<th align="left"><strong>Total species</strong></th>
+<th align="left"><strong>Endemic species</strong></th>
+<th align="left"><strong>Percent endemism</strong></th>
+<th align="left"><strong>Endangered species</strong></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Mammals</td>
-<td>120</td>
-<td>14</td>
-<td>12</td>
-<td>31</td>
+<td align="left">Mammals</td>
+<td align="left">120</td>
+<td align="left">14</td>
+<td align="left">12</td>
+<td align="left">31</td>
 </tr>
 <tr class="even">
-<td>Birds</td>
-<td>508</td>
-<td>19</td>
-<td>4</td>
-<td>15</td>
+<td align="left">Birds</td>
+<td align="left">508</td>
+<td align="left">19</td>
+<td align="left">4</td>
+<td align="left">15</td>
 </tr>
 <tr class="odd">
-<td>Amphibians</td>
-<td>121</td>
-<td>94</td>
-<td>78</td>
-<td>43</td>
+<td align="left">Amphibians</td>
+<td align="left">121</td>
+<td align="left">94</td>
+<td align="left">78</td>
+<td align="left">43</td>
 </tr>
 <tr class="even">
-<td>Reptiles</td>
-<td>156</td>
-<td>97</td>
-<td>62</td>
-<td>5</td>
+<td align="left">Reptiles</td>
+<td align="left">156</td>
+<td align="left">97</td>
+<td align="left">62</td>
+<td align="left">5</td>
 </tr>
 <tr class="odd">
-<td>Fishes</td>
-<td>218</td>
-<td>116</td>
-<td>53</td>
-<td>1</td>
+<td align="left">Fishes</td>
+<td align="left">218</td>
+<td align="left">116</td>
+<td align="left">53</td>
+<td align="left">1</td>
 </tr>
 <tr class="even">
-<td>Butterflies</td>
-<td>330</td>
-<td>37</td>
-<td>11</td>
-<td></td>
+<td align="left">Butterflies</td>
+<td align="left">330</td>
+<td align="left">37</td>
+<td align="left">11</td>
+<td align="left"></td>
 </tr>
 </tbody>
 </table>
@@ -461,267 +703,267 @@ STAFF
 <table>
 <thead>
 <tr class="header">
-<th><strong>Component site</strong></th>
-<th><strong>Forest conservator</strong></th>
-<th><strong>Range officer</strong></th>
-<th><strong>Deputy ranger</strong></th>
-<th><strong>Forester</strong></th>
-<th><strong>Guard</strong></th>
-<th><strong>Watcher</strong></th>
+<th align="left"><strong>Component site</strong></th>
+<th align="left"><strong>Forest conservator</strong></th>
+<th align="left"><strong>Range officer</strong></th>
+<th align="left"><strong>Deputy ranger</strong></th>
+<th align="left"><strong>Forester</strong></th>
+<th align="left"><strong>Guard</strong></th>
+<th align="left"><strong>Watcher</strong></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Kalakad-Mundanthurai Tiger Reserve</td>
-<td>2</td>
-<td>12</td>
-<td>-</td>
-<td>13</td>
-<td>39</td>
-<td>47</td>
+<td align="left">Kalakad-Mundanthurai Tiger Reserve</td>
+<td align="left">2</td>
+<td align="left">12</td>
+<td align="left">-</td>
+<td align="left">13</td>
+<td align="left">39</td>
+<td align="left">47</td>
 </tr>
 <tr class="even">
-<td>Shendurney Wildlife Sanctuary</td>
-<td>1</td>
-<td>1</td>
-<td>-</td>
-<td>4</td>
-<td>8</td>
-<td>4</td>
+<td align="left">Shendurney Wildlife Sanctuary</td>
+<td align="left">1</td>
+<td align="left">1</td>
+<td align="left">-</td>
+<td align="left">4</td>
+<td align="left">8</td>
+<td align="left">4</td>
 </tr>
 <tr class="odd">
-<td>Neyyar Wildlife Sanctuary</td>
-<td>1</td>
-<td>1</td>
-<td>-</td>
-<td>6</td>
-<td>13</td>
-<td>2</td>
+<td align="left">Neyyar Wildlife Sanctuary</td>
+<td align="left">1</td>
+<td align="left">1</td>
+<td align="left">-</td>
+<td align="left">6</td>
+<td align="left">13</td>
+<td align="left">2</td>
 </tr>
 <tr class="even">
-<td>Peppara Wildlife Sanctuary</td>
-<td>0</td>
-<td>1</td>
-<td>-</td>
-<td>6</td>
-<td>7</td>
-<td>-</td>
+<td align="left">Peppara Wildlife Sanctuary</td>
+<td align="left">0</td>
+<td align="left">1</td>
+<td align="left">-</td>
+<td align="left">6</td>
+<td align="left">7</td>
+<td align="left">-</td>
 </tr>
 <tr class="odd">
-<td>Kulathupuzha Range</td>
-<td>0</td>
-<td>1</td>
-<td>1</td>
-<td>6</td>
-<td>18</td>
-<td>-</td>
+<td align="left">Kulathupuzha Range</td>
+<td align="left">0</td>
+<td align="left">1</td>
+<td align="left">1</td>
+<td align="left">6</td>
+<td align="left">18</td>
+<td align="left">-</td>
 </tr>
 <tr class="even">
-<td>Palode Range</td>
-<td>0</td>
-<td>1</td>
-<td>1</td>
-<td>6</td>
-<td>18</td>
-<td>-</td>
+<td align="left">Palode Range</td>
+<td align="left">0</td>
+<td align="left">1</td>
+<td align="left">1</td>
+<td align="left">6</td>
+<td align="left">18</td>
+<td align="left">-</td>
 </tr>
 <tr class="odd">
-<td>Periyar Tiger Reserve</td>
-<td>3</td>
-<td>7</td>
-<td>3</td>
-<td>33</td>
-<td>141</td>
-<td>-</td>
+<td align="left">Periyar Tiger Reserve</td>
+<td align="left">3</td>
+<td align="left">7</td>
+<td align="left">3</td>
+<td align="left">33</td>
+<td align="left">141</td>
+<td align="left">-</td>
 </tr>
 <tr class="even">
-<td>Ranni Forest Division</td>
-<td>2</td>
-<td>3</td>
-<td>9</td>
-<td>36</td>
-<td>135</td>
-<td>-</td>
+<td align="left">Ranni Forest Division</td>
+<td align="left">2</td>
+<td align="left">3</td>
+<td align="left">9</td>
+<td align="left">36</td>
+<td align="left">135</td>
+<td align="left">-</td>
 </tr>
 <tr class="odd">
-<td>Konni Forest Division</td>
-<td>1</td>
-<td>3</td>
-<td>7</td>
-<td>23</td>
-<td>85</td>
-<td>-</td>
+<td align="left">Konni Forest Division</td>
+<td align="left">1</td>
+<td align="left">3</td>
+<td align="left">7</td>
+<td align="left">23</td>
+<td align="left">85</td>
+<td align="left">-</td>
 </tr>
 <tr class="even">
-<td>Achankovil Forest Division</td>
-<td>1</td>
-<td>3</td>
-<td>-</td>
-<td>9</td>
-<td>14</td>
-<td>-</td>
+<td align="left">Achankovil Forest Division</td>
+<td align="left">1</td>
+<td align="left">3</td>
+<td align="left">-</td>
+<td align="left">9</td>
+<td align="left">14</td>
+<td align="left">-</td>
 </tr>
 <tr class="odd">
-<td>Eravikulam National Park + extension</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>3</td>
-<td>12</td>
-<td>-</td>
+<td align="left">Eravikulam National Park + extension</td>
+<td align="left">1</td>
+<td align="left">1</td>
+<td align="left">1</td>
+<td align="left">3</td>
+<td align="left">12</td>
+<td align="left">-</td>
 </tr>
 <tr class="even">
-<td>Karian Shola National Park</td>
-<td>-</td>
-<td>1</td>
-<td>-</td>
-<td>1</td>
-<td>2</td>
-<td>-</td>
+<td align="left">Karian Shola National Park</td>
+<td align="left">-</td>
+<td align="left">1</td>
+<td align="left">-</td>
+<td align="left">1</td>
+<td align="left">2</td>
+<td align="left">-</td>
 </tr>
 <tr class="odd">
-<td>Mankulam Range</td>
-<td>1</td>
-<td>1</td>
-<td>-</td>
-<td>1</td>
-<td>9</td>
-<td>-</td>
+<td align="left">Mankulam Range</td>
+<td align="left">1</td>
+<td align="left">1</td>
+<td align="left">-</td>
+<td align="left">1</td>
+<td align="left">9</td>
+<td align="left">-</td>
 </tr>
 <tr class="even">
-<td>Chinnar Wildlife Sanctuary</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>3</td>
-<td>25</td>
-<td>-</td>
+<td align="left">Chinnar Wildlife Sanctuary</td>
+<td align="left">1</td>
+<td align="left">1</td>
+<td align="left">1</td>
+<td align="left">3</td>
+<td align="left">25</td>
+<td align="left">-</td>
 </tr>
 <tr class="odd">
-<td>Mannavan Shola</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>4</td>
-<td>13</td>
-<td>-</td>
+<td align="left">Mannavan Shola</td>
+<td align="left">1</td>
+<td align="left">1</td>
+<td align="left">1</td>
+<td align="left">4</td>
+<td align="left">13</td>
+<td align="left">-</td>
 </tr>
 <tr class="even">
-<td>Silent Valley National Park</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>6</td>
-<td>13</td>
-<td>15</td>
+<td align="left">Silent Valley National Park</td>
+<td align="left">1</td>
+<td align="left">1</td>
+<td align="left">1</td>
+<td align="left">6</td>
+<td align="left">13</td>
+<td align="left">15</td>
 </tr>
 <tr class="odd">
-<td>New Amarambalam Reserved Forest</td>
-<td>1</td>
-<td>1</td>
-<td>2</td>
-<td>5</td>
-<td>22</td>
-<td>-</td>
+<td align="left">New Amarambalam Reserved Forest</td>
+<td align="left">1</td>
+<td align="left">1</td>
+<td align="left">2</td>
+<td align="left">5</td>
+<td align="left">22</td>
+<td align="left">-</td>
 </tr>
 <tr class="even">
-<td>Mukurti National Park</td>
-<td>1</td>
-<td>1</td>
-<td>-</td>
-<td>1</td>
-<td>4</td>
-<td>-</td>
+<td align="left">Mukurti National Park</td>
+<td align="left">1</td>
+<td align="left">1</td>
+<td align="left">-</td>
+<td align="left">1</td>
+<td align="left">4</td>
+<td align="left">-</td>
 </tr>
 <tr class="odd">
-<td>Kalikavu Range</td>
-<td>0</td>
-<td>1</td>
-<td>2</td>
-<td>8</td>
-<td>36</td>
-<td>20</td>
+<td align="left">Kalikavu Range</td>
+<td align="left">0</td>
+<td align="left">1</td>
+<td align="left">2</td>
+<td align="left">8</td>
+<td align="left">36</td>
+<td align="left">20</td>
 </tr>
 <tr class="even">
-<td>Attapadi Reserved Forest</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>3</td>
-<td>13</td>
-<td>1</td>
+<td align="left">Attapadi Reserved Forest</td>
+<td align="left">1</td>
+<td align="left">1</td>
+<td align="left">1</td>
+<td align="left">3</td>
+<td align="left">13</td>
+<td align="left">1</td>
 </tr>
 <tr class="odd">
-<td>Pushpagiri Wildlife Sanctuary</td>
-<td>0</td>
-<td>2</td>
-<td>-</td>
-<td>2</td>
-<td>6</td>
-<td>-</td>
+<td align="left">Pushpagiri Wildlife Sanctuary</td>
+<td align="left">0</td>
+<td align="left">2</td>
+<td align="left">-</td>
+<td align="left">2</td>
+<td align="left">6</td>
+<td align="left">-</td>
 </tr>
 <tr class="even">
-<td>Brahmagiri Wildlife Sanctuary</td>
-<td>1</td>
-<td>2</td>
-<td>2</td>
-<td>6</td>
-<td>14</td>
-<td>8</td>
+<td align="left">Brahmagiri Wildlife Sanctuary</td>
+<td align="left">1</td>
+<td align="left">2</td>
+<td align="left">2</td>
+<td align="left">6</td>
+<td align="left">14</td>
+<td align="left">8</td>
 </tr>
 <tr class="odd">
-<td>Talacauvery Wildlife Sanctuary</td>
-<td>0</td>
-<td>2</td>
-<td>-</td>
-<td>7</td>
-<td>7</td>
-<td>-</td>
+<td align="left">Talacauvery Wildlife Sanctuary</td>
+<td align="left">0</td>
+<td align="left">2</td>
+<td align="left">-</td>
+<td align="left">7</td>
+<td align="left">7</td>
+<td align="left">-</td>
 </tr>
 <tr class="even">
-<td>Aralam Wildlife Sanctuary</td>
-<td>1</td>
-<td>-</td>
-<td>1</td>
-<td>4</td>
-<td>5</td>
-<td>-</td>
+<td align="left">Aralam Wildlife Sanctuary</td>
+<td align="left">1</td>
+<td align="left">-</td>
+<td align="left">1</td>
+<td align="left">4</td>
+<td align="left">5</td>
+<td align="left">-</td>
 </tr>
 <tr class="odd">
-<td>Kudremukh National Park</td>
-<td>1</td>
-<td>4</td>
-<td>-</td>
-<td>24</td>
-<td>43</td>
-<td>23</td>
+<td align="left">Kudremukh National Park</td>
+<td align="left">1</td>
+<td align="left">4</td>
+<td align="left">-</td>
+<td align="left">24</td>
+<td align="left">43</td>
+<td align="left">23</td>
 </tr>
 <tr class="even">
-<td>Someshwara Wildlife Sanctuary</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>2</td>
-<td>5</td>
-<td>5</td>
+<td align="left">Someshwara Wildlife Sanctuary</td>
+<td align="left">1</td>
+<td align="left">1</td>
+<td align="left">1</td>
+<td align="left">2</td>
+<td align="left">5</td>
+<td align="left">5</td>
 </tr>
 <tr class="odd">
-<td>Sahyadri Group</td>
-<td>4</td>
-<td>6</td>
-<td>-</td>
-<td>15</td>
-<td>50</td>
-<td>-</td>
+<td align="left">Sahyadri Group</td>
+<td align="left">4</td>
+<td align="left">6</td>
+<td align="left">-</td>
+<td align="left">15</td>
+<td align="left">50</td>
+<td align="left">-</td>
 </tr>
 <tr class="even">
-<td><strong>TOTAL</strong></td>
-<td><strong>28</strong></td>
-<td><strong>58</strong></td>
-<td><strong>35</strong></td>
-<td><strong>238</strong></td>
-<td><strong>757</strong></td>
-<td><strong>125</strong></td>
+<td align="left"><strong>TOTAL</strong></td>
+<td align="left"><strong>28</strong></td>
+<td align="left"><strong>58</strong></td>
+<td align="left"><strong>35</strong></td>
+<td align="left"><strong>238</strong></td>
+<td align="left"><strong>757</strong></td>
+<td align="left"><strong>125</strong></td>
 </tr>
 </tbody>
 </table>
@@ -760,7 +1002,7 @@ Tamil Nadu State: http://www.forests.tn.nic.in
 
 Wildlife Institute of India: <http://www.wii.gov.in/>
 
-REFERENCES {#references .ListParagraph}
+REFERENCES 
 ----------
 
 The principal sources for the above information were the original World Heritage nomination, the IUCN evaluation report and Decision 36 COM 8B.10 of the UNESCO World Heritage Committee.

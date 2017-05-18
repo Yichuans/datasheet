@@ -2,7 +2,7 @@ Title: CAPE FLORAL REGION PROTECTED AREAS
 Tags: SOUTH AFRICA
 Author: UNEP-WCMC
 Year: 2004
-Date: 2017-04-20 14:28:27
+Date: 2017-05-18 15:38:33
 
 CAPE FLORAL REGION PROTECTED AREAS
 ==================================
@@ -89,58 +89,58 @@ The Cape Floral Region (CFR) is located in southwest and southern South Africa b
 <table>
 <thead>
 <tr class="header">
-<th>Cederberg Wilderness Area</th>
-<th>32°36’20” S / 19°08’17” E -- 32°07’10” S / 19°02’05” E</th>
+<th align="left">Cederberg Wilderness Area</th>
+<th align="left">32°36’20” S / 19°08’17” E -- 32°07’10” S / 19°02’05” E</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Groot Winterhoek Wilderness Area</td>
-<td>33°10’52&quot; S / 19°05’50&quot; E -- 32°59’05” S / 19°09’15” E</td>
+<td align="left">Groot Winterhoek Wilderness Area</td>
+<td align="left">33°10’52&quot; S / 19°05’50&quot; E -- 32°59’05” S / 19°09’15” E</td>
 </tr>
 <tr class="even">
-<td>Boland Mountain Complex</td>
-<td>34°20’43&quot; S / 19°05’48&quot; E -- 33°22’20” S / 19°03’54” E</td>
+<td align="left">Boland Mountain Complex</td>
+<td align="left">34°20’43&quot; S / 19°05’48&quot; E -- 33°22’20” S / 19°03’54” E</td>
 </tr>
 <tr class="odd">
-<td>De Hoop Nature Reserve</td>
-<td>34°30’12&quot; S / 20°27’07&quot; E -- 34°22’40&quot; S / 20°36’13&quot; E</td>
+<td align="left">De Hoop Nature Reserve</td>
+<td align="left">34°30’12&quot; S / 20°27’07&quot; E -- 34°22’40&quot; S / 20°36’13&quot; E</td>
 </tr>
 <tr class="even">
-<td>Swartberg Complex</td>
-<td>33°24’19” S / 20°35’30” E -- 33°22’40” S / 24°50’55” E</td>
+<td align="left">Swartberg Complex</td>
+<td align="left">33°24’19” S / 20°35’30” E -- 33°22’40” S / 24°50’55” E</td>
 </tr>
 <tr class="odd">
-<td>Baviaanskloof Protected Areas</td>
-<td>33°34’00” S / 24°30’16” E -– 33°25’35” S / 23°30’02” E</td>
+<td align="left">Baviaanskloof Protected Areas</td>
+<td align="left">33°34’00” S / 24°30’16” E -– 33°25’35” S / 23°30’02” E</td>
 </tr>
 <tr class="even">
-<td>Table Mountain National Park</td>
-<td>34<sup>o</sup>13’32” S / 18<sup>o</sup>27’33” E –- 33<sup>o</sup>59’18” S / 18<sup>o</sup>23’’50” E</td>
+<td align="left">Table Mountain National Park</td>
+<td align="left">34<sup>o</sup>13’32” S / 18<sup>o</sup>27’33” E –- 33<sup>o</sup>59’18” S / 18<sup>o</sup>23’’50” E</td>
 </tr>
 <tr class="odd">
-<td>Hexriver Complex</td>
-<td>33°26’49” S / 19°27’33” E -– 33°31’56” S / 19°22’27” E</td>
+<td align="left">Hexriver Complex</td>
+<td align="left">33°26’49” S / 19°27’33” E -– 33°31’56” S / 19°22’27” E</td>
 </tr>
 <tr class="even">
-<td>Riviersonderend Nature Reserve</td>
-<td>34°03’33” S / 19°20’37” E -– 33°56’10” S / 19°32’39” E</td>
+<td align="left">Riviersonderend Nature Reserve</td>
+<td align="left">34°03’33” S / 19°20’37” E -– 33°56’10” S / 19°32’39” E</td>
 </tr>
 <tr class="odd">
-<td>Agulhas Complex</td>
-<td>34°49’38” S / 19°59’57” E -– 34°42’39” S / 20°07’08” E</td>
+<td align="left">Agulhas Complex</td>
+<td align="left">34°49’38” S / 19°59’57” E -– 34°42’39” S / 20°07’08” E</td>
 </tr>
 <tr class="even">
-<td>Langeberg Complex</td>
-<td>34°04’05” S / 20°27’56” E –- 33°44’36” S / 20°02’26” E</td>
+<td align="left">Langeberg Complex</td>
+<td align="left">34°04’05” S / 20°27’56” E –- 33°44’36” S / 20°02’26” E</td>
 </tr>
 <tr class="odd">
-<td>Garden Route Complex</td>
-<td>34°06’14” S / 23°23’45” E –- 33°47’00” S / 23°26’32” E</td>
+<td align="left">Garden Route Complex</td>
+<td align="left">34°06’14” S / 23°23’45” E –- 33°47’00” S / 23°26’32” E</td>
 </tr>
 <tr class="even">
-<td>Anysberg Nature Reserve</td>
-<td>33°28’57” S / 20°38’49” E</td>
+<td align="left">Anysberg Nature Reserve</td>
+<td align="left">33°28’57” S / 20°38’49” E</td>
 </tr>
 </tbody>
 </table>
@@ -197,76 +197,76 @@ The World Heritage property covers 1,094,742 ha (10,947.4 sq.km) in 13 clusters,
 <table>
 <thead>
 <tr class="header">
-<th><strong>Site</strong></th>
-<th><strong>Property area</strong></th>
-<th><strong>Buffer zone area</strong></th>
+<th align="left"><strong>Site</strong></th>
+<th align="left"><strong>Property area</strong></th>
+<th align="left"><strong>Buffer zone area</strong></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Cederberg Complex</td>
-<td>77,945 ha</td>
-<td>121,039 ha</td>
+<td align="left">Cederberg Complex</td>
+<td align="left">77,945 ha</td>
+<td align="left">121,039 ha</td>
 </tr>
 <tr class="even">
-<td>Groot Winterhoek Wilderness Area</td>
-<td>27,509 ha</td>
-<td>103,541 ha</td>
+<td align="left">Groot Winterhoek Wilderness Area</td>
+<td align="left">27,509 ha</td>
+<td align="left">103,541 ha</td>
 </tr>
 <tr class="odd">
-<td>Boland Mountain Complex</td>
-<td>124,717 ha</td>
-<td>79,418 ha</td>
+<td align="left">Boland Mountain Complex</td>
+<td align="left">124,717 ha</td>
+<td align="left">79,418 ha</td>
 </tr>
 <tr class="even">
-<td>De Hoop Nature Reserve</td>
-<td>32,481 ha</td>
-<td>31,806 ha</td>
+<td align="left">De Hoop Nature Reserve</td>
+<td align="left">32,481 ha</td>
+<td align="left">31,806 ha</td>
 </tr>
 <tr class="odd">
-<td>Swartberg Complex</td>
-<td>187,337 ha</td>
-<td>92,295 ha</td>
+<td align="left">Swartberg Complex</td>
+<td align="left">187,337 ha</td>
+<td align="left">92,295 ha</td>
 </tr>
 <tr class="even">
-<td>Baviaanskloof Complex</td>
-<td>249,399 ha</td>
-<td>808 ha</td>
+<td align="left">Baviaanskloof Complex</td>
+<td align="left">249,399 ha</td>
+<td align="left">808 ha</td>
 </tr>
 <tr class="odd">
-<td>Table Mountain National Park</td>
-<td>21,630 ha</td>
-<td>101,400 ha</td>
+<td align="left">Table Mountain National Park</td>
+<td align="left">21,630 ha</td>
+<td align="left">101,400 ha</td>
 </tr>
 <tr class="even">
-<td>Hexriver Complex</td>
-<td>22,641 ha</td>
-<td>88,248 ha</td>
+<td align="left">Hexriver Complex</td>
+<td align="left">22,641 ha</td>
+<td align="left">88,248 ha</td>
 </tr>
 <tr class="odd">
-<td>Riviersonderend Nature Reserve</td>
-<td>26,630 ha</td>
-<td>42,626 ha</td>
+<td align="left">Riviersonderend Nature Reserve</td>
+<td align="left">26,630 ha</td>
+<td align="left">42,626 ha</td>
 </tr>
 <tr class="even">
-<td>Agulhas Complex</td>
-<td>24,159 ha</td>
-<td>0 ha</td>
+<td align="left">Agulhas Complex</td>
+<td align="left">24,159 ha</td>
+<td align="left">0 ha</td>
 </tr>
 <tr class="odd">
-<td>Langeberg Complex</td>
-<td>43,660 ha</td>
-<td>76,420 ha</td>
+<td align="left">Langeberg Complex</td>
+<td align="left">43,660 ha</td>
+<td align="left">76,420 ha</td>
 </tr>
 <tr class="even">
-<td>Garden Route Complex</td>
-<td>176,998 ha</td>
-<td>60,906 ha</td>
+<td align="left">Garden Route Complex</td>
+<td align="left">176,998 ha</td>
+<td align="left">60,906 ha</td>
 </tr>
 <tr class="odd">
-<td>Anysberg Nature Reserve</td>
-<td>79,629 ha</td>
-<td>0 ha</td>
+<td align="left">Anysberg Nature Reserve</td>
+<td align="left">79,629 ha</td>
+<td align="left">0 ha</td>
 </tr>
 </tbody>
 </table>

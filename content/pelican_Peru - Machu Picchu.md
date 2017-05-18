@@ -2,7 +2,7 @@ Title: HISTORIC SANCTUARY OF MACHU PICCHU
 Tags: PERU
 Author: UNEP-WCMC
 Year: 1983
-Date: 2017-04-20 14:28:40
+Date: 2017-05-18 15:38:42
 
 HISTORIC SANCTUARY OF MACHU PICCHU
 ==================================
@@ -99,90 +99,90 @@ The site is on the margin between the Andean and Amazonian ecosystems, possessin
 <table>
 <thead>
 <tr class="header">
-<th><strong>Life Zone</strong></th>
-<th><strong>Elevation</strong></th>
-<th><strong>Average Precip.</strong></th>
-<th><p><strong>Temp</strong></p>
+<th align="left"><strong>Life Zone</strong></th>
+<th align="left"><strong>Elevation</strong></th>
+<th align="left"><strong>Average Precip.</strong></th>
+<th align="left"><p><strong>Temp</strong></p>
 <p><strong><sup>o</sup>C</strong></p></th>
-<th><p><strong>% of</strong></p>
+<th align="left"><p><strong>% of</strong></p>
 <p><strong>Area</strong></p></th>
-<th><strong>Terrain</strong></th>
+<th align="left"><strong>Terrain</strong></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Subtropical humid forest</td>
-<td>1,850-3,000m</td>
-<td>1,950 mm</td>
-<td>15-18<sup>o</sup>C</td>
-<td>0.51%</td>
-<td>flat to hilly</td>
+<td align="left">Subtropical humid forest</td>
+<td align="left">1,850-3,000m</td>
+<td align="left">1,950 mm</td>
+<td align="left">15-18<sup>o</sup>C</td>
+<td align="left">0.51%</td>
+<td align="left">flat to hilly</td>
 </tr>
 <tr class="even">
-<td>Subtropical humid low montane forest</td>
-<td>2,400-3,000m</td>
-<td>1,100 mm</td>
-<td>12-15 <sup>o</sup>C</td>
-<td>3.67%</td>
-<td>flat to hilly / steep</td>
+<td align="left">Subtropical humid low montane forest</td>
+<td align="left">2,400-3,000m</td>
+<td align="left">1,100 mm</td>
+<td align="left">12-15 <sup>o</sup>C</td>
+<td align="left">3.67%</td>
+<td align="left">flat to hilly / steep</td>
 </tr>
 <tr class="odd">
-<td>Subtropical very humid low montane forest</td>
-<td>2,000-3,000m</td>
-<td>1,950 mm</td>
-<td>12-15 <sup>o</sup>C</td>
-<td>14.12%</td>
-<td>flat to hilly / steep</td>
+<td align="left">Subtropical very humid low montane forest</td>
+<td align="left">2,000-3,000m</td>
+<td align="left">1,950 mm</td>
+<td align="left">12-15 <sup>o</sup>C</td>
+<td align="left">14.12%</td>
+<td align="left">flat to hilly / steep</td>
 </tr>
 <tr class="even">
-<td>Subtropical montane rainforest</td>
-<td>3.000-3,800m</td>
-<td>1,900 mm</td>
-<td>6-12 <sup>o</sup>C</td>
-<td>27.21%</td>
-<td><p>sloping to</p>
+<td align="left">Subtropical montane rainforest</td>
+<td align="left">3.000-3,800m</td>
+<td align="left">1,900 mm</td>
+<td align="left">6-12 <sup>o</sup>C</td>
+<td align="left">27.21%</td>
+<td align="left"><p>sloping to</p>
 <p>steep</p></td>
 </tr>
 <tr class="odd">
-<td>Subtropical very humid montane rainforest</td>
-<td>3.000-3,800m</td>
-<td>1,500 mm</td>
-<td>6-12 <sup>o</sup>C</td>
-<td>7.65%</td>
-<td><p>sloping to</p>
+<td align="left">Subtropical very humid montane rainforest</td>
+<td align="left">3.000-3,800m</td>
+<td align="left">1,500 mm</td>
+<td align="left">6-12 <sup>o</sup>C</td>
+<td align="left">7.65%</td>
+<td align="left"><p>sloping to</p>
 <p>steep</p></td>
 </tr>
 <tr class="even">
-<td>Very humid subtropical subalpine paramo</td>
-<td>3,800-4,400m</td>
-<td>1,000 mm</td>
-<td>3-6 <sup>o</sup>C</td>
-<td>12.43%</td>
-<td>hilly to steep</td>
+<td align="left">Very humid subtropical subalpine paramo</td>
+<td align="left">3,800-4,400m</td>
+<td align="left">1,000 mm</td>
+<td align="left">3-6 <sup>o</sup>C</td>
+<td align="left">12.43%</td>
+<td align="left">hilly to steep</td>
 </tr>
 <tr class="odd">
-<td>Subtropical pluvial subalpine paramo</td>
-<td>4.000-4,400m</td>
-<td>1,500 mm</td>
-<td>3-6 <sup>o</sup>C</td>
-<td>13.73%</td>
-<td>hilly to steep</td>
+<td align="left">Subtropical pluvial subalpine paramo</td>
+<td align="left">4.000-4,400m</td>
+<td align="left">1,500 mm</td>
+<td align="left">3-6 <sup>o</sup>C</td>
+<td align="left">13.73%</td>
+<td align="left">hilly to steep</td>
 </tr>
 <tr class="even">
-<td>Subtropical pluvial alpine tundra</td>
-<td>4,400-4,900m</td>
-<td>1,000 mm</td>
-<td>1.5-3 <sup>o</sup>C</td>
-<td>13.71%</td>
-<td>hilly to steep</td>
+<td align="left">Subtropical pluvial alpine tundra</td>
+<td align="left">4,400-4,900m</td>
+<td align="left">1,000 mm</td>
+<td align="left">1.5-3 <sup>o</sup>C</td>
+<td align="left">13.71%</td>
+<td align="left">hilly to steep</td>
 </tr>
 <tr class="odd">
-<td>Subtropical snow-capped peaks</td>
-<td>&gt;4,600m</td>
-<td>900 mm</td>
-<td>&lt;1.5 <sup>o</sup>C</td>
-<td>7.5%</td>
-<td>rugged</td>
+<td align="left">Subtropical snow-capped peaks</td>
+<td align="left">&gt;4,600m</td>
+<td align="left">900 mm</td>
+<td align="left">&lt;1.5 <sup>o</sup>C</td>
+<td align="left">7.5%</td>
+<td align="left">rugged</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@ Title: Chitwan National Park
 Tags: Nepal
 Author: UNEP-WCMC
 Year: 1984
-Date: 2017-04-20 14:28:38
+Date: 2017-05-18 15:38:41
 
 
 NEPAL
@@ -273,7 +273,7 @@ Talbot, L. (1991). *Nepal: East Rapti Irrigation Project (ERIP): Environmental I
 
 Troth, R. (1976). *Successional Role of Bombax ceiba in Savannas in Nepal*. Smithsonian Institution/WWF Tiger Ecology Project, Nepal. (Unpublished)
 
-UNESCO-IUCN (2005). []{#OLE_LINK1 .anchor}*Opportunities and Limitations for Benefit Sharing in Select World Heritage Sites*. Technical Report No.7, United Nations Foundation, Paris.
+UNESCO-IUCN (2005). <span id="OLE_LINK1" class="anchor"></span>*Opportunities and Limitations for Benefit Sharing in Select World Heritage Sites*. Technical Report No.7, United Nations Foundation, Paris.
 
 Wegge, P. (1976). *Himalayan Shikar Reserves; Surveys and Management Proposals*. Field Document No. 5. FAO/NEP/72/002 Project, Kathmandu. 96 pp.
 

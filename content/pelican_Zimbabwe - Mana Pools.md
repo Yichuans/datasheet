@@ -2,7 +2,7 @@ Title: Mana Pools National Park, Sapi and Chewore Safari Areas
 Tags: Zimbabwe
 Author: UNEP-WCMC
 Year: 1984
-Date: 2017-04-20 14:28:49
+Date: 2017-05-18 15:38:47
 
 MANA POOLS NATIONAL PARK,
 =========================
@@ -63,18 +63,18 @@ IUCN MANAGEMENT CATEGORY
 <table>
 <thead>
 <tr class="header">
-<th>Mana Pools National Park:</th>
-<th>II National Park</th>
+<th align="left">Mana Pools National Park:</th>
+<th align="left">II National Park</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Sapi Safari Area:</td>
-<td>II National Park</td>
+<td align="left">Sapi Safari Area:</td>
+<td align="left">II National Park</td>
 </tr>
 <tr class="even">
-<td>Chewore Safari Area:</td>
-<td>II National Park</td>
+<td align="left">Chewore Safari Area:</td>
+<td align="left">II National Park</td>
 </tr>
 </tbody>
 </table>
@@ -182,7 +182,7 @@ Natural seasonal flooding of low-lying areas was seriously curtailed by the comp
 
 The main road (gated) between Harare and Lusaka with associated settlements passes through the area and there is a private estate on the Zambezi near Chirundu. The land is sandy, of limited agricultural potential and has never been used extensively for livestock owing to tsetse fly infestation; Mana Pools have until recently been remote enough to be relatively unaffected except for the increasing numbers of tourists which create the need for more facilities, especially for litter control.
 
-However, a group of farmers, businessmen and companies recently publicised the Chirundu Project, a 100,000 ha agricultural development approximately 100 km long x 10 km wide, proposed for the World Heritage area in 2005. The area under immediate consideration totalled 67,660 sq,km, including the construction of 600 low-cost houses. According to the Zimbabwe Conservation Development Foundation, this would result in serious degradation and the loss of potential tourism revenue; and farming subject to malaria, sleeping sickness and bilharzia would prove unprofitable (ZCDF, 2005). A temporary stop was placed on the proposal in mid 2005 ([Zimbabwe Watch,](http://www.thezimbabwean.co.uk/sections/zimbabwe-watch.html) 2005).
+However, a group of farmers, businessmen and companies recently publicised the Chirundu Project, a 100,000 ha agricultural development approximately 100 km long x 10 km wide, proposed for the World Heritage area in 2005. The area under immediate consideration totalled 67,660 sq,km, including the construction of 600 low-cost houses. According to the Zimbabwe Conservation Development Foundation, this would result in serious degradation and the loss of potential tourism revenue; and farming subject to malaria, sleeping sickness and bilharzia would prove unprofitable (ZCDF, 2005). A temporary stop was placed on the proposal in mid 2005 ([Zimbabwe Watch, ](http://www.thezimbabwean.co.uk/sections/zimbabwe-watch.html)2005).
 
 In 2008 prospecting for copper, gold and uranium on land in Zambia adjoining tributaries to the Zambezi became known, including a reported ‘world class’ open-pit copper mine. Eight national and international mining companies, among them Rio Tinto, are interested in developing the prospects. The resulting pollution by uranium and other mineral wastes could potentially contaminate the almost pristine valley, threatening its value as a World Heritage site. A proposal for hotel development on the same bank was made at the time but withdrawn (UNESCO, 2010).
 
@@ -228,7 +228,7 @@ UNESCO World Heritage Committee (2010). *Report on the 34th Session of the Commi
 
 White, J. (1974). Some notes on the history and customs of the Urungwe District. *Native Affairs Dept. Ann*., *Rhodesia* 10(3): 33-72.
 
-[Zimbabwe Watch](http://www.thezimbabwean.co.uk/sections/zimbabwe-watch.html) (2005). ‘Disastrous’ Chirundu project end. *The Zimbabwean,* 22 July.
+[Zimbabwe Watch ](http://www.thezimbabwean.co.uk/sections/zimbabwe-watch.html)(2005). ‘Disastrous’ Chirundu project end. *The Zimbabwean,* 22 July.
 
 Zimbabwe Conservation Development Foundation (ZCDF) (2005). Chirundu Project threatens World Heritage site. *Sokwanele Report*, 1 Aug.
 

@@ -1,14 +1,14 @@
 Title: DORSET AND EAST DEVON COAST
-Tags: UNITED KINGDOM OF GREAT BRITAIN AND NORTHEN IRELAND
+Tags: UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND
 Author: UNEP-WCMC
 Year: 2001
-Date: 2017-04-20 14:28:46
+Date: 2017-05-18 15:38:46
 
 DORSET AND EAST DEVON COAST
 ===========================
 
-UNITED KINGDOM OF GREAT BRITAIN AND NORTHEN IRELAND
-===================================================
+UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND
+====================================================
 
 *The succession of rocks displayed in the cliffs between Lyme Regis and Swanage is one of the finest marine Jurassic rock sections in the world. With the east Devon coast, they provide an almost continuous sequence of Triassic, Jurassic and Cretaceous rocks which document approximately 185 million years of Earth’s history. The important vertebrate and invertebrate, marine and terrestrial fossil sites and geomorphologic features of the coast preserve excellent evidence of life during Mesozoic times and have contributed to the study of the earth sciences for over 200 years.*
 
@@ -59,26 +59,26 @@ IUCN MANAGEMENT CATEGORY
 <table>
 <thead>
 <tr class="header">
-<th>East Devon Area of Outstanding Natural Beauty:</th>
-<th>V Protected Landscape/Seascape</th>
+<th align="left">East Devon Area of Outstanding Natural Beauty:</th>
+<th align="left">V Protected Landscape/Seascape</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Dorset Area of Outstanding Natural Beauty:</td>
-<td>V Protected Landscape/Seascape</td>
+<td align="left">Dorset Area of Outstanding Natural Beauty:</td>
+<td align="left">V Protected Landscape/Seascape</td>
 </tr>
 <tr class="even">
-<td>East Devon Heritage Coast:</td>
-<td>V Protected Landscape/Seascape</td>
+<td align="left">East Devon Heritage Coast:</td>
+<td align="left">V Protected Landscape/Seascape</td>
 </tr>
 <tr class="odd">
-<td>Purbeck Heritage Coast:</td>
-<td>V Protected Landscape/Seascape</td>
+<td align="left">Purbeck Heritage Coast:</td>
+<td align="left">V Protected Landscape/Seascape</td>
 </tr>
 <tr class="even">
-<td>Axmouth-Lyme Regis Undercliffs National Nature Reserve:</td>
-<td>IV Habitat/Species Management Area</td>
+<td align="left">Axmouth-Lyme Regis Undercliffs National Nature Reserve:</td>
+<td align="left">IV Habitat/Species Management Area</td>
 </tr>
 </tbody>
 </table>

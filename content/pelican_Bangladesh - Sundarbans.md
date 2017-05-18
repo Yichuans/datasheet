@@ -2,7 +2,7 @@ Title: THE SUNDARBANS
 Tags: BANGLADESH
 Author: UNEP-WCMC
 Year: 1997
-Date: 2017-04-20 14:28:24
+Date: 2017-05-18 15:38:31
 
 THE SUNDARBANS
 ==============
@@ -82,18 +82,18 @@ Bangladesh:
 <table>
 <thead>
 <tr class="header">
-<th>Sundarbans West Wildlife Sanctuary</th>
-<th>71,502 ha</th>
+<th align="left">Sundarbans West Wildlife Sanctuary</th>
+<th align="left">71,502 ha</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Sundarbans South Wildlife Sanctuary</td>
-<td>36,790 ha</td>
+<td align="left">Sundarbans South Wildlife Sanctuary</td>
+<td align="left">36,790 ha</td>
 </tr>
 <tr class="even">
-<td>Sundarbans East Wildlife Sanctuary</td>
-<td>31,227 ha</td>
+<td align="left">Sundarbans East Wildlife Sanctuary</td>
+<td align="left">31,227 ha</td>
 </tr>
 </tbody>
 </table>
@@ -240,7 +240,7 @@ Chowdhury, M. & Sanyal, P. (1985). Use of electroconvulsive shocks to control ti
 
 Christensen, B. (1984). *Ecological Aspects of the Sundarbans*. FAO, Rome. 42 pp.
 
-Colette, A. (lead author) (2007). *[Case Studies of Climate Change](http://whc.unesco.org/documents/publi_climatechange.pdf) and World Heritage*, UNESCO, Paris. 82pp
+Colette, A. (lead author) (2007). [*Case Studies of Climate Change*](http://whc.unesco.org/documents/publi_climatechange.pdf) *and World Heritage*, UNESCO, Paris. 82pp
 
 Ghosh, R. & Mandal A. (1989). *Sunderban - A Socio Bio-ecological Study.* Bookland Pvt. Ltd.Calcutta.
 
@@ -290,7 +290,7 @@ Naskar, K. & Guha Bakshi, D. (1983). A brief review on some less familiar plants
 
 Olivier, R. (1979). *Wildlife and Management in Bangladesh*. UNDP/FAO Project No. BGD/72/005. Forest Research Institute, Chittagong. 121 pp.
 
-Pasha, M. & Siddiqui, N. (2003), Sunderbans. In Islam, S. *[Banglapedia](http://en.wikipedia.org/wiki/Banglapedia): National Encyclopedia of Bangladesh*. Asiatic Society of Bangladesh, Dhaka.
+Pasha, M. & Siddiqui, N. (2003), Sunderbans. In Islam, S. [*Banglapedia*](http://en.wikipedia.org/wiki/Banglapedia)*: National Encyclopedia of Bangladesh*. Asiatic Society of Bangladesh, Dhaka.
 
 Prain, D. (1903). Flora of Sundarbans. *Records of the Botanical Survey of India* 2: 231-390.
 

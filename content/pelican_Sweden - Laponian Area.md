@@ -2,7 +2,7 @@ Title: LAPONIAN AREA
 Tags: SWEDEN
 Author: UNEP-WCMC
 Year: 1996
-Date: 2017-04-20 14:28:44
+Date: 2017-05-18 15:38:44
 
 LAPONIAN AREA 
 ==============
@@ -47,42 +47,42 @@ IUCN MANAGEMENT CATEGORY
 <table>
 <thead>
 <tr class="header">
-<th>Sjaunja Nature Reserve</th>
-<th>Ia Strict Nature Reserve/Scientific Reserve</th>
+<th align="left">Sjaunja Nature Reserve</th>
+<th align="left">Ia Strict Nature Reserve/Scientific Reserve</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Padjelanta National Park</td>
-<td>II National Park</td>
+<td align="left">Padjelanta National Park</td>
+<td align="left">II National Park</td>
 </tr>
 <tr class="even">
-<td>Sarek National Park</td>
-<td>II National Park</td>
+<td align="left">Sarek National Park</td>
+<td align="left">II National Park</td>
 </tr>
 <tr class="odd">
-<td>Stora-Sjöfallet National Park</td>
-<td>II National Park</td>
+<td align="left">Stora-Sjöfallet National Park</td>
+<td align="left">II National Park</td>
 </tr>
 <tr class="even">
-<td>Muddus National Park</td>
-<td>II National Park</td>
+<td align="left">Muddus National Park</td>
+<td align="left">II National Park</td>
 </tr>
 <tr class="odd">
-<td>Stubba Nature Reserve</td>
-<td>IV Managed Nature Reserve</td>
+<td align="left">Stubba Nature Reserve</td>
+<td align="left">IV Managed Nature Reserve</td>
 </tr>
 <tr class="even">
-<td>Sulitelma Glacier area</td>
-<td>in Sareks National Park</td>
+<td align="left">Sulitelma Glacier area</td>
+<td align="left">in Sareks National Park</td>
 </tr>
 <tr class="odd">
-<td>Tjuolta Valley area</td>
-<td>in Padjelanta National Park</td>
+<td align="left">Tjuolta Valley area</td>
+<td align="left">in Padjelanta National Park</td>
 </tr>
 <tr class="even">
-<td>Rapa Valley Delta area</td>
-<td>in Sareks National Park</td>
+<td align="left">Rapa Valley Delta area</td>
+<td align="left">in Sareks National Park</td>
 </tr>
 </tbody>
 </table>
@@ -129,42 +129,42 @@ AREA
 <table>
 <thead>
 <tr class="header">
-<th>Sjaunja Nature Reserve</th>
-<th>285,000 ha</th>
+<th align="left">Sjaunja Nature Reserve</th>
+<th align="left">285,000 ha</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Padjelanta National Park</td>
-<td>198,400 ha</td>
+<td align="left">Padjelanta National Park</td>
+<td align="left">198,400 ha</td>
 </tr>
 <tr class="even">
-<td>Sareks National Park</td>
-<td>197,000 ha</td>
+<td align="left">Sareks National Park</td>
+<td align="left">197,000 ha</td>
 </tr>
 <tr class="odd">
-<td>Stora-Sjöfallets National Park</td>
-<td>127,800 ha</td>
+<td align="left">Stora-Sjöfallets National Park</td>
+<td align="left">127,800 ha</td>
 </tr>
 <tr class="even">
-<td>Muddus National Park</td>
-<td>49,340 ha</td>
+<td align="left">Muddus National Park</td>
+<td align="left">49,340 ha</td>
 </tr>
 <tr class="odd">
-<td>Stubba Nature Reserve</td>
-<td>24,090 ha</td>
+<td align="left">Stubba Nature Reserve</td>
+<td align="left">24,090 ha</td>
 </tr>
 <tr class="even">
-<td>Sulitelma Glacier area (within Sareks National Park)</td>
-<td>23,000 ha</td>
+<td align="left">Sulitelma Glacier area (within Sareks National Park)</td>
+<td align="left">23,000 ha</td>
 </tr>
 <tr class="odd">
-<td>Tjuolta Valley area (within Padjelanta National Park)</td>
-<td>20,000 ha</td>
+<td align="left">Tjuolta Valley area (within Padjelanta National Park)</td>
+<td align="left">20,000 ha</td>
 </tr>
 <tr class="even">
-<td>Rapa Valley Delta area (within Sareks National Park)</td>
-<td>2,000 ha</td>
+<td align="left">Rapa Valley Delta area (within Sareks National Park)</td>
+<td align="left">2,000 ha</td>
 </tr>
 </tbody>
 </table>

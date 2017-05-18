@@ -2,7 +2,7 @@ Title: JEJU VOLCANIC ISLAND & LAVA TUBES
 Tags: REPUBLIC OF KOREA
 Author: UNEP-WCMC
 Year: 2006
-Date: 2017-04-20 14:28:36
+Date: 2017-05-18 15:38:39
 
 JEJU VOLCANIC ISLAND & LAVA TUBES
 =================================
@@ -53,14 +53,14 @@ IUCN MANAGEMENT CATEGORY
 <table>
 <thead>
 <tr class="header">
-<th>Hallasan National Park:</th>
-<th>IV Habitat/Species Management Area</th>
+<th align="left">Hallasan National Park:</th>
+<th align="left">IV Habitat/Species Management Area</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Mount Halla National Park:</td>
-<td>V Protected Landscape</td>
+<td align="left">Mount Halla National Park:</td>
+<td align="left">V Protected Landscape</td>
 </tr>
 </tbody>
 </table>
@@ -108,26 +108,26 @@ Core zone: 9,475.3 ha. The buffer zone of 9,370.8 ha is not designated.
 <table>
 <thead>
 <tr class="header">
-<th>Subsite</th>
-<th>Core zone</th>
-<th>Buffer zone</th>
+<th align="left">Subsite</th>
+<th align="left">Core zone</th>
+<th align="left">Buffer zone</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Hallasan Natural Reserve (33 <sup>o</sup>19´04´´- 33 <sup>o</sup>25´38´´N by 126 <sup>o</sup>32´15´´- 126 <sup>o</sup>38´08´´E)</td>
-<td>9,093.17 ha</td>
-<td>7,347.4 ha</td>
+<td align="left">Hallasan Natural Reserve (33 <sup>o</sup>19´04´´- 33 <sup>o</sup>25´38´´N by 126 <sup>o</sup>32´15´´- 126 <sup>o</sup>38´08´´E)</td>
+<td align="left">9,093.17 ha</td>
+<td align="left">7,347.4 ha</td>
 </tr>
 <tr class="even">
-<td>Geomunoreum Lava Tube System(33 <sup>o</sup>26´27´´- 33 <sup>o</sup>33´48´´N by 126 <sup>o</sup>42´54´´- 126 <sup>o</sup>47´33´´E)</td>
-<td>330.3 ha</td>
-<td>1,906.4 ha</td>
+<td align="left">Geomunoreum Lava Tube System(33 <sup>o</sup>26´27´´- 33 <sup>o</sup>33´48´´N by 126 <sup>o</sup>42´54´´- 126 <sup>o</sup>47´33´´E)</td>
+<td align="left">330.3 ha</td>
+<td align="left">1,906.4 ha</td>
 </tr>
 <tr class="odd">
-<td>Seongsan Ilchulbong Tuff Cone (33 <sup>o</sup>27´05´´- 33 <sup>o</sup>28´09´´N by 126 <sup>o</sup>55´56´´- 126 <sup>o</sup>57´03´´E)</td>
-<td>51.8 ha</td>
-<td>117.0 ha</td>
+<td align="left">Seongsan Ilchulbong Tuff Cone (33 <sup>o</sup>27´05´´- 33 <sup>o</sup>28´09´´N by 126 <sup>o</sup>55´56´´- 126 <sup>o</sup>57´03´´E)</td>
+<td align="left">51.8 ha</td>
+<td align="left">117.0 ha</td>
 </tr>
 </tbody>
 </table>
@@ -149,46 +149,46 @@ In this list characterising the main tube-caves of the Geomunoreum system, only 
 <table>
 <thead>
 <tr class="header">
-<th><strong>Name</strong></th>
-<th><strong>Length</strong></th>
-<th><strong>Characteristics</strong></th>
+<th align="left"><strong>Name</strong></th>
+<th align="left"><strong>Length</strong></th>
+<th align="left"><strong>Characteristics</strong></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Bengdwi</td>
-<td>4,481m</td>
-<td>Most labyrinthine tube, passages on three-levels, composite lava flows, speleothems: stalagmites, chambers, bridges, pillars.</td>
+<td align="left">Bengdwi</td>
+<td align="left">4,481m</td>
+<td align="left">Most labyrinthine tube, passages on three-levels, composite lava flows, speleothems: stalagmites, chambers, bridges, pillars.</td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
-<td></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="odd">
-<td>Manjang</td>
-<td>7,416 m</td>
-<td>Two-story cave, to 23 m in width and 18m in height. Huge lava column, lava speleothems: stalactites, stalagmites, helictites, bridges, shelves, flowstone, balls, ropy lava.</td>
+<td align="left">Manjang</td>
+<td align="left">7,416 m</td>
+<td align="left">Two-story cave, to 23 m in width and 18m in height. Huge lava column, lava speleothems: stalactites, stalagmites, helictites, bridges, shelves, flowstone, balls, ropy lava.</td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
-<td></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="odd">
-<td>Gimnyeong</td>
-<td>705 m</td>
-<td>S-shaped passage. Lava speleothems: shelves, lava falls, stalactites, cave corals, carbonate sands.</td>
+<td align="left">Gimnyeong</td>
+<td align="left">705 m</td>
+<td align="left">S-shaped passage. Lava speleothems: shelves, lava falls, stalactites, cave corals, carbonate sands.</td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
-<td></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="odd">
-<td>Yongcheon</td>
-<td>2,470 m</td>
-<td>Lava speleothems: Stalagmites, stalactites, rolls, terraces, shelves, droplets, wall and ceiling pockets, lake. Secondary features formed of leached calcite: soda straws, stalactites, stalagmites, columns, curtains, rimstone pools, cave corals, moonmilk, cave flowers, cave pearls.</td>
+<td align="left">Yongcheon</td>
+<td align="left">2,470 m</td>
+<td align="left">Lava speleothems: Stalagmites, stalactites, rolls, terraces, shelves, droplets, wall and ceiling pockets, lake. Secondary features formed of leached calcite: soda straws, stalactites, stalagmites, columns, curtains, rimstone pools, cave corals, moonmilk, cave flowers, cave pearls.</td>
 </tr>
 </tbody>
 </table>

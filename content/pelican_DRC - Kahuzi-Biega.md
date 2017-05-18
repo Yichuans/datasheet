@@ -2,7 +2,7 @@ Title: KAHUZI-BIÉGA NATIONAL PARK
 Tags: DEMOCRATIC REPUBLIC OF THE CONGO
 Author: UNEP-WCMC
 Year: 1980
-Date: 2017-04-20 14:28:30
+Date: 2017-05-18 15:38:35
 
 KAHUZI-BIÉGA NATIONAL PARK
 ==========================
@@ -12,7 +12,7 @@ DEMOCRATIC REPUBLIC OF THE CONGO
 
 *A wide expanse of dense primary tropical forest in two zones: high mountain range and a wide area of low mountains, the range dominated by two extinct volcanoes, Mts Kahuzi and Biéga. The Park had a diverse and abundant fauna with a population of eastern lowland gorillas: 258 of these lived in the high mountains; thousands more lived in the less accessible western extension. But disaster has overtaken the Park.*
 
-*Threats to the Site: The World Heritage Committee placed the site on the [List of World Heritage in Danger](file:///\\wcmc-data-01.internal.wcmc\Programs\PROGRAMMES\CPS\World%20Heritage\WH%20SITESHEETS%20April%202011\toc\mainf4.htm) in 1997. It was badly affected by the influx of Rwandan refugees in 1994 and rebel soldiers from 1997. Park facilities were looted and destroyed and many staff fled. But DRC produces 15% of the world’s coltan, a valuable industrial mineral. From 2000, a price rise, rebel militias and lack of central government control created gold-rush conditions. The profits funded the rebellion. Airstrips and dozens of mines were started, attracting more than 10,000 miners to the park which led to massive hunting for bushmeat and ivory, drastic deforestation and social destruction, abandoned farms and schools, epidemic AIDS and ruthless control by well armed gangs. Most profits go abroad.*
+*Threats to the Site: The World Heritage Committee placed the site on the* [*List of World Heritage in Danger*](file:///\\wcmc-data-01.internal.wcmc\Programs\PROGRAMMES\CPS\World%20Heritage\WH%20SITESHEETS%20April%202011\toc\mainf4.htm) *in 1997. It was badly affected by the influx of Rwandan refugees in 1994 and rebel soldiers from 1997. Park facilities were looted and destroyed and many staff fled. But DRC produces 15% of the world’s coltan, a valuable industrial mineral. From 2000, a price rise, rebel militias and lack of central government control created gold-rush conditions. The profits funded the rebellion. Airstrips and dozens of mines were started, attracting more than 10,000 miners to the park which led to massive hunting for bushmeat and ivory, drastic deforestation and social destruction, abandoned farms and schools, epidemic AIDS and ruthless control by well armed gangs. Most profits go abroad.*
 
 *By 2001, the population of gorillas had dropped from some 8000 to about 800, of elephants from some 3250 to zero, all other edible wildlife had diminished, the ecosystem had been plundered and the Park became too dangerous to visit. The IUCN, the UN and UNESCO responded to the many pleas from the Park staff and NGOs for help and funding to begin to restore order and morale. However, in 2006, despite active government support, 85% of the Park remained out of government control.*
 

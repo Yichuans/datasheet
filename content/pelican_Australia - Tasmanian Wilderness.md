@@ -2,7 +2,7 @@ Title: TASMANIAN WILDERNESS
 Tags: AUSTRALIA
 Author: UNEP-WCMC
 Year: 1982
-Date: 2017-04-20 14:28:24
+Date: 2017-05-18 15:38:31
 
 TASMANIAN WILDERNESS
 ====================
@@ -51,102 +51,102 @@ The site comprises 4 National Parks, 3 Forest Reserves, 3 State Reserves, 2 Prot
 <table>
 <thead>
 <tr class="header">
-<th>Southwest National Park</th>
-<th>II National Park</th>
+<th align="left">Southwest National Park</th>
+<th align="left">II National Park</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Franklin-Gordon Wild Rivers Nation</td>
-<td>II National Park</td>
+<td align="left">Franklin-Gordon Wild Rivers Nation</td>
+<td align="left">II National Park</td>
 </tr>
 <tr class="even">
-<td>Cradle Mountain-Lake St Claire National Park</td>
-<td>II National Park</td>
+<td align="left">Cradle Mountain-Lake St Claire National Park</td>
+<td align="left">II National Park</td>
 </tr>
 <tr class="odd">
-<td>Walls of Jerusalem National Park</td>
-<td>II National Park</td>
+<td align="left">Walls of Jerusalem National Park</td>
+<td align="left">II National Park</td>
 </tr>
 <tr class="even">
-<td>Hartz Mountains National Park</td>
-<td>II National Park</td>
+<td align="left">Hartz Mountains National Park</td>
+<td align="left">II National Park</td>
 </tr>
 <tr class="odd">
-<td>Meander Forest Reserve</td>
-<td>II Forest Reserve</td>
+<td align="left">Meander Forest Reserve</td>
+<td align="left">II Forest Reserve</td>
 </tr>
 <tr class="even">
-<td>Liffey Forest Reserve</td>
-<td>II Forest Reserve</td>
+<td align="left">Liffey Forest Reserve</td>
+<td align="left">II Forest Reserve</td>
 </tr>
 <tr class="odd">
-<td>Drys Bluff Forest Reserve</td>
-<td>II Forest Reserve</td>
+<td align="left">Drys Bluff Forest Reserve</td>
+<td align="left">II Forest Reserve</td>
 </tr>
 <tr class="even">
-<td>Devils Gullet State Reserve</td>
-<td>III State Reserve</td>
+<td align="left">Devils Gullet State Reserve</td>
+<td align="left">III State Reserve</td>
 </tr>
 <tr class="odd">
-<td>Marakoopa Cave State Reserve</td>
-<td>III State Reserve</td>
+<td align="left">Marakoopa Cave State Reserve</td>
+<td align="left">III State Reserve</td>
 </tr>
 <tr class="even">
-<td>Liffey Falls State Reserve (part)</td>
-<td>III State Reserve</td>
+<td align="left">Liffey Falls State Reserve (part)</td>
+<td align="left">III State Reserve</td>
 </tr>
 <tr class="odd">
-<td>Exit Cave State Reserve</td>
-<td>III State Reserve</td>
+<td align="left">Exit Cave State Reserve</td>
+<td align="left">III State Reserve</td>
 </tr>
 <tr class="even">
-<td>Macquarie Harbour Historic Site</td>
-<td>III Natural Monument</td>
+<td align="left">Macquarie Harbour Historic Site</td>
+<td align="left">III Natural Monument</td>
 </tr>
 <tr class="odd">
-<td>Sarah Island Historic Site</td>
-<td>III Natural Monument</td>
+<td align="left">Sarah Island Historic Site</td>
+<td align="left">III Natural Monument</td>
 </tr>
 <tr class="even">
-<td>Maxwell River Protected Archaeological Site</td>
-<td>III Natural Monument</td>
+<td align="left">Maxwell River Protected Archaeological Site</td>
+<td align="left">III Natural Monument</td>
 </tr>
 <tr class="odd">
-<td>Wargata Mina Protected Archaeological Site</td>
-<td>III Natural Monument</td>
+<td align="left">Wargata Mina Protected Archaeological Site</td>
+<td align="left">III Natural Monument</td>
 </tr>
 <tr class="even">
-<td>Central Plateau Conservation Area</td>
-<td>IV Habitat / Species Management Area</td>
+<td align="left">Central Plateau Conservation Area</td>
+<td align="left">IV Habitat / Species Management Area</td>
 </tr>
 <tr class="odd">
-<td>Adamsfield Conservation Area</td>
-<td>IV Habitat / Species Management Area</td>
+<td align="left">Adamsfield Conservation Area</td>
+<td align="left">IV Habitat / Species Management Area</td>
 </tr>
 <tr class="even">
-<td>Southwest Conservation Area (in HEC)</td>
-<td>IV Habitat / Species Management Area</td>
+<td align="left">Southwest Conservation Area (in HEC)</td>
+<td align="left">IV Habitat / Species Management Area</td>
 </tr>
 <tr class="odd">
-<td>Marble Hill Conservation Area</td>
-<td>IV Habitat / Species Management Area</td>
+<td align="left">Marble Hill Conservation Area</td>
+<td align="left">IV Habitat / Species Management Area</td>
 </tr>
 <tr class="even">
-<td>Farm Cove Game Reserve</td>
-<td>IV Habitat / Species Management Area</td>
+<td align="left">Farm Cove Game Reserve</td>
+<td align="left">IV Habitat / Species Management Area</td>
 </tr>
 <tr class="odd">
-<td>Maatsuyker Island (Commonwealth freehold)</td>
-<td>IV Habitat / Species Management Area</td>
+<td align="left">Maatsuyker Island (Commonwealth freehold)</td>
+<td align="left">IV Habitat / Species Management Area</td>
 </tr>
 <tr class="even">
-<td>St Clare Lagoon (vested in HEC)</td>
-<td>IV Habitat / Species Management Area</td>
+<td align="left">St Clare Lagoon (vested in HEC)</td>
+<td align="left">IV Habitat / Species Management Area</td>
 </tr>
 <tr class="odd">
-<td>Private and Commonwealth freehold</td>
-<td>IV Habitat / Species Management Area</td>
+<td align="left">Private and Commonwealth freehold</td>
+<td align="left">IV Habitat / Species Management Area</td>
 </tr>
 </tbody>
 </table>
@@ -225,94 +225,94 @@ The total area of the Tasmanian Wilderness World Heritage Area (WHA) was ~\~~1,3
 <table>
 <thead>
 <tr class="header">
-<th>Southwest National Park</th>
-<th>605,000 ha</th>
+<th align="left">Southwest National Park</th>
+<th align="left">605,000 ha</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>*Franklin-Gordon Wild Rivers Nat’l Park</td>
-<td>440,120 ha</td>
+<td align="left">*Franklin-Gordon Wild Rivers Nat’l Park</td>
+<td align="left">440,120 ha</td>
 </tr>
 <tr class="even">
-<td>Cradle Mountain-Lake St Claire Nat’l</td>
-<td>161,000 ha</td>
+<td align="left">Cradle Mountain-Lake St Claire Nat’l</td>
+<td align="left">161,000 ha</td>
 </tr>
 <tr class="odd">
-<td>Walls of Jerusalem National Park</td>
-<td>51,800 ha</td>
+<td align="left">Walls of Jerusalem National Park</td>
+<td align="left">51,800 ha</td>
 </tr>
 <tr class="even">
-<td>Hartz Mountains National Park</td>
-<td>7,140 ha</td>
+<td align="left">Hartz Mountains National Park</td>
+<td align="left">7,140 ha</td>
 </tr>
 <tr class="odd">
-<td>Devils Gullet State Reserve</td>
-<td>806 ha</td>
+<td align="left">Devils Gullet State Reserve</td>
+<td align="left">806 ha</td>
 </tr>
 <tr class="even">
-<td>Marakoopa Cave State Reserve</td>
-<td>790 ha</td>
+<td align="left">Marakoopa Cave State Reserve</td>
+<td align="left">790 ha</td>
 </tr>
 <tr class="odd">
-<td>Liffey Falls State Reserve (part)</td>
-<td>20 ha</td>
+<td align="left">Liffey Falls State Reserve (part)</td>
+<td align="left">20 ha</td>
 </tr>
 <tr class="even">
-<td>Macquarie Harbour Historic Site</td>
-<td>15,300 ha</td>
+<td align="left">Macquarie Harbour Historic Site</td>
+<td align="left">15,300 ha</td>
 </tr>
 <tr class="odd">
-<td>Maxwell River Protected Archaeological Site</td>
-<td>560 ha</td>
+<td align="left">Maxwell River Protected Archaeological Site</td>
+<td align="left">560 ha</td>
 </tr>
 <tr class="even">
-<td>Wargata Mina Protected Archaeological Site</td>
-<td>155 ha</td>
+<td align="left">Wargata Mina Protected Archaeological Site</td>
+<td align="left">155 ha</td>
 </tr>
 <tr class="odd">
-<td>Central Plateau Conservation Area</td>
-<td>89,200 ha</td>
+<td align="left">Central Plateau Conservation Area</td>
+<td align="left">89,200 ha</td>
 </tr>
 <tr class="even">
-<td>Adamsfield Conservation Area</td>
-<td>5,400 ha</td>
+<td align="left">Adamsfield Conservation Area</td>
+<td align="left">5,400 ha</td>
 </tr>
 <tr class="odd">
-<td>Southwest Conservation Area (in HEC)</td>
-<td>616 ha</td>
+<td align="left">Southwest Conservation Area (in HEC)</td>
+<td align="left">616 ha</td>
 </tr>
 <tr class="even">
-<td>Marble Hill Conservation Area</td>
-<td>77 ha</td>
+<td align="left">Marble Hill Conservation Area</td>
+<td align="left">77 ha</td>
 </tr>
 <tr class="odd">
-<td>Farm Cove Game Reserve</td>
-<td>1,720 ha</td>
+<td align="left">Farm Cove Game Reserve</td>
+<td align="left">1,720 ha</td>
 </tr>
 <tr class="even">
-<td>Meander Forest Reserve</td>
-<td>1,660 ha</td>
+<td align="left">Meander Forest Reserve</td>
+<td align="left">1,660 ha</td>
 </tr>
 <tr class="odd">
-<td>Liffey Forest Reserve</td>
-<td>1,055 ha</td>
+<td align="left">Liffey Forest Reserve</td>
+<td align="left">1,055 ha</td>
 </tr>
 <tr class="even">
-<td>Drys Bluff Forest Reserve</td>
-<td>680 ha</td>
+<td align="left">Drys Bluff Forest Reserve</td>
+<td align="left">680 ha</td>
 </tr>
 <tr class="odd">
-<td>Maatsuyker Island (C’wealth freehold)</td>
-<td>180 ha</td>
+<td align="left">Maatsuyker Island (C’wealth freehold)</td>
+<td align="left">180 ha</td>
 </tr>
 <tr class="even">
-<td>St Clare Lagoon (vested in HEC)</td>
-<td>29 ha</td>
+<td align="left">St Clare Lagoon (vested in HEC)</td>
+<td align="left">29 ha</td>
 </tr>
 <tr class="odd">
-<td>Private and Commonwealth freehold</td>
-<td>320 ha</td>
+<td align="left">Private and Commonwealth freehold</td>
+<td align="left">320 ha</td>
 </tr>
 </tbody>
 </table>

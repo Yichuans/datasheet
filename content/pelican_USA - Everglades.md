@@ -2,7 +2,7 @@ Title: EVERGLADES NATIONAL PARK
 Tags: UNITED STATES OF AMERICA
 Author: UNEP-WCMC
 Year: 1979
-Date: 2017-04-20 14:28:47
+Date: 2017-05-18 15:38:46
 
 EVERGLADES NATIONAL PARK
 ========================
@@ -12,7 +12,7 @@ UNITED STATES OF AMERICA
 
 *This unique marshland on the southern tip of Florida has been called a river of grass. It is a shallow sheet of water flowing imperceptibly southeast across the vegetation of southern Florida. Its exceptional variety of habitats has made it a sanctuary for great numbers of birds and reptiles, and for threatened species such as the manatee.*
 
-*Threats to the Site: Between 1993 and 2007 the site’s ecology was [endangered](http://www.unesco.org/whc/toc/mainf4.htm) by urban growth, pollution by fertilisers, poisoning of fish and wildlife by mercury, falling water levels due to flood protection measures and by hurricane damage to Florida Bay. Inscription on the list of World Heritage in Danger led to increased federal funding for the restoration of the site. By 2007 rehabilitation was considered sufficient to remove the Park from endangered status for the celebration of the 60th anniversary of its opening, but its status reverted to endangered in 2010.*
+*Threats to the Site: Between 1993 and 2007 the site’s ecology was* [*endangered*](http://www.unesco.org/whc/toc/mainf4.htm) *by urban growth, pollution by fertilisers, poisoning of fish and wildlife by mercury, falling water levels due to flood protection measures and by hurricane damage to Florida Bay. Inscription on the list of World Heritage in Danger led to increased federal funding for the restoration of the site. By 2007 rehabilitation was considered sufficient to remove the Park from endangered status for the celebration of the 60th anniversary of its opening, but its status reverted to endangered in 2010.*
 
 COUNTRY
 -------
@@ -259,7 +259,7 @@ Loope, L., Black, D., Black, S. & Avery, G. (1979). *Distribution and Abundance 
 
 Morehead, J. (1982). *A Case Study of Everglades National Park*, *U.S.A*. World Parks Congress, Bali.
 
-National Park Service (NPS) (2007). Website: *[Everglades National Park (U.S. National Park Service)](http://www.nps.gov/ever/).*
+National Park Service (NPS) (2007). Website: [*Everglades National Park (U.S. National Park Service)*](http://www.nps.gov/ever/).
 
 ---------- (2002). *Everglades National Park Strategic Plan 2001 – 2005*. NPS.
 

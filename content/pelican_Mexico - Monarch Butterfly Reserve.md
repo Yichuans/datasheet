@@ -2,7 +2,7 @@ Title: MONARCH BUTTERFLY BIOSPHERE RESERVE
 Tags: MEXICO
 Author: UNEP-WCMC
 Year: 2008
-Date: 2017-04-20 14:28:38
+Date: 2017-05-18 15:38:40
 
 MONARCH BUTTERFLY BIOSPHERE RESERVE
 ===================================
@@ -90,26 +90,26 @@ AREA
 <table>
 <thead>
 <tr class="header">
-<th>Core areas:</th>
-<th>13,551.55 ha</th>
+<th align="left">Core areas:</th>
+<th align="left">13,551.55 ha</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Cerro Altamirano</td>
-<td>588.475 ha</td>
+<td align="left">Cerro Altamirano</td>
+<td align="left">588.475 ha</td>
 </tr>
 <tr class="even">
-<td>Cerro Chincua-Campanario-Chinati-Huaca</td>
-<td>9,233.962 ha</td>
+<td align="left">Cerro Chincua-Campanario-Chinati-Huaca</td>
+<td align="left">9,233.962 ha</td>
 </tr>
 <tr class="odd">
-<td>Cerro Pelón</td>
-<td>3,729.115 ha</td>
+<td align="left">Cerro Pelón</td>
+<td align="left">3,729.115 ha</td>
 </tr>
 <tr class="even">
-<td>Buffer areas:</td>
-<td>42,707.49 ha</td>
+<td align="left">Buffer areas:</td>
+<td align="left">42,707.49 ha</td>
 </tr>
 </tbody>
 </table>
@@ -137,37 +137,37 @@ The sites are in the southernmost Nearctic mountains, an area of wide biodiversi
 <table>
 <thead>
 <tr class="header">
-<th><strong>Forest Type</strong></th>
-<th><strong>Max./Min. Heights </strong></th>
-<th><strong>Species</strong></th>
+<th align="left"><strong>Forest Type</strong></th>
+<th align="left"><strong>Max./Min. Heights </strong></th>
+<th align="left"><strong>Species</strong></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><em>Oyamel</em> fir forest</td>
-<td>3,600m - 2,400m</td>
-<td><em>Abies religiosa, Quercus</em> sp<em>.,Alnus</em> sp.,<em>Arbutus</em> sp.,<em>Salix</em> sp. <em>Prunus</em> sp.</td>
+<td align="left"><em>Oyamel</em> fir forest</td>
+<td align="left">3,600m - 2,400m</td>
+<td align="left"><em>Abies religiosa, Quercus</em> sp<em>.,Alnus</em> sp.,<em>Arbutus</em> sp.,<em>Salix</em> sp. <em>Prunus</em> sp.</td>
 </tr>
 <tr class="even">
-<td>Pine-<em>Oyamel</em> forest</td>
-<td>3,000m - 2,400m</td>
-<td><em>Abies religiosa, Arbutus grandulosa, Pinus pseudotrobus, Quercus spp.,Salix paradoxa, Agnus firmifolia. </em></td>
+<td align="left">Pine-<em>Oyamel</em> forest</td>
+<td align="left">3,000m - 2,400m</td>
+<td align="left"><em>Abies religiosa, Arbutus grandulosa, Pinus pseudotrobus, Quercus spp.,Salix paradoxa, Agnus firmifolia. </em></td>
 </tr>
 <tr class="odd">
-<td>Pine forest</td>
-<td>3,000m - 1,500m</td>
-<td><em>Pinus pseudostrobus, P.rudis, P.teocote, P.michoacana </em></td>
+<td align="left">Pine forest</td>
+<td align="left">3,000m - 1,500m</td>
+<td align="left"><em>Pinus pseudostrobus, P.rudis, P.teocote, P.michoacana </em></td>
 </tr>
 <tr class="even">
-<td>Oak forest</td>
-<td>2,900m</td>
-<td><p><em>Quercus lauriana, Clethra mexicana, Alnus firmifolia, Salix paradoxa,</em></p>
+<td align="left">Oak forest</td>
+<td align="left">2,900m</td>
+<td align="left"><p><em>Quercus lauriana, Clethra mexicana, Alnus firmifolia, Salix paradoxa,</em></p>
 <p><em>Buddleja cordata, B.parvifolia.</em></p></td>
 </tr>
 <tr class="odd">
-<td>Cedar forest</td>
-<td>2,600m - 2,400m</td>
-<td><em>Cupressus lindley, Alnus firmifolia, Salix paradoxa, Senecio angulifolius, Eupatorium</em> sp.</td>
+<td align="left">Cedar forest</td>
+<td align="left">2,600m - 2,400m</td>
+<td align="left"><em>Cupressus lindley, Alnus firmifolia, Salix paradoxa, Senecio angulifolius, Eupatorium</em> sp.</td>
 </tr>
 </tbody>
 </table>
@@ -234,64 +234,64 @@ The site has many unique aspects, although transhumance and seasonal migration f
 <table>
 <thead>
 <tr class="header">
-<th><strong>Species </strong></th>
-<th><strong>Migration</strong></th>
-<th><p><strong>2-Way</strong></p>
+<th align="left"><strong>Species </strong></th>
+<th align="left"><strong>Migration</strong></th>
+<th align="left"><p><strong>2-Way</strong></p>
 <p><strong>Distance (km)</strong></p></th>
-<th><p><strong>Numbers</strong></p>
+<th align="left"><p><strong>Numbers</strong></p>
 <p><strong>(*correction)</strong></p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td><p>Arctic tern</p>
+<td align="left"><p>Arctic tern</p>
 <p><em>Sterna paradisae</em></p></td>
-<td>the Arctic to the Antarctic</td>
-<td>35,000 *</td>
-<td>30,000</td>
+<td align="left">the Arctic to the Antarctic</td>
+<td align="left">35,000 *</td>
+<td align="left">30,000</td>
 </tr>
 <tr class="odd">
-<td><p>Sooty shearwater</p>
+<td align="left"><p>Sooty shearwater</p>
 <p><em>Puffins griseus</em></p></td>
-<td>New Zealand to Chile</td>
-<td>18,000 *</td>
-<td>20,000,000</td>
+<td align="left">New Zealand to Chile</td>
+<td align="left">18,000 *</td>
+<td align="left">20,000,000</td>
 </tr>
 <tr class="even">
-<td><p>California gray whale</p>
+<td align="left"><p>California gray whale</p>
 <p><em>Eschrichtius robustus</em></p></td>
-<td>Pacific Alaskan waters to Laguna San Ignacio, Baja California, Mexico</td>
-<td><p>16,000 –</p>
+<td align="left">Pacific Alaskan waters to Laguna San Ignacio, Baja California, Mexico</td>
+<td align="left"><p>16,000 –</p>
 <p>22,000</p></td>
-<td>26,000</td>
+<td align="left">26,000</td>
 </tr>
 <tr class="odd">
-<td><p>European eel</p>
+<td align="left"><p>European eel</p>
 <p><em>Anguilla anguilla </em></p></td>
-<td>Europe to the Sargasso Sea</td>
-<td>5,000 - 6,000</td>
-<td>Large</td>
+<td align="left">Europe to the Sargasso Sea</td>
+<td align="left">5,000 - 6,000</td>
+<td align="left">Large</td>
 </tr>
 <tr class="even">
-<td><p>Loggerhead turtle</p>
+<td align="left"><p>Loggerhead turtle</p>
 <p><em>Caretta caretta</em></p></td>
-<td>Ascension I. to the Brazilian coast</td>
-<td>4,200</td>
-<td><p>90,000 nesting</p>
+<td align="left">Ascension I. to the Brazilian coast</td>
+<td align="left">4,200</td>
+<td align="left"><p>90,000 nesting</p>
 <p>females worldwide, 2001</p></td>
 </tr>
 <tr class="odd">
-<td><p>Chum salmon</p>
+<td align="left"><p>Chum salmon</p>
 <p><em>Oncorhynchus keta </em></p></td>
-<td>Alaska to U.S.Pacific coastal rivers</td>
-<td>3,200</td>
-<td><p>3,391,000</p>
+<td align="left">Alaska to U.S.Pacific coastal rivers</td>
+<td align="left">3,200</td>
+<td align="left"><p>3,391,000</p>
 <p>Puget Sound</p></td>
 </tr>
 </tbody>

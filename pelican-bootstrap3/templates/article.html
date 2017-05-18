@@ -109,4 +109,10 @@
     <!-- add shariff support -->
     <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/shariff.min.js"></script>
 {% endif %}
+<script type="text/javascript">
+    // make tables bootstrap responsive
+    $('table').addClass('table table-striped table-hover');
+    $('table').wrap("<div class='table-responsive'></div>");
+
+</script>
 {% endblock %}

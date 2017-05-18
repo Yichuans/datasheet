@@ -2,7 +2,7 @@ Title: ISLANDS & PROTECTED AREAS OF THE GULF OF CALIFORNIA
 Tags: MEXICO
 Author: UNEP-WCMC
 Year: 2005
-Date: 2017-04-20 14:28:37
+Date: 2017-05-18 15:38:40
 
 ISLANDS & PROTECTED AREAS OF THE GULF OF CALIFORNIA
 ===================================================
@@ -103,50 +103,50 @@ IUCN MANAGEMENT CATEGORIES
 <table>
 <thead>
 <tr class="header">
-<th>Islands of the Gulf of California</th>
-<th>Flora &amp; Fauna Protected Area:VI Managed Resource Protected Area</th>
+<th align="left">Islands of the Gulf of California</th>
+<th align="left">Flora &amp; Fauna Protected Area:VI Managed Resource Protected Area</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Upper Gulf of California and Rio Colorado</td>
-<td>Delta Biosphere Reserve: VI Managed Resource Protected Area</td>
+<td align="left">Upper Gulf of California and Rio Colorado</td>
+<td align="left">Delta Biosphere Reserve: VI Managed Resource Protected Area</td>
 </tr>
 <tr class="even">
-<td>Archipelago de San Lorenzo National Park:</td>
-<td>II National Park</td>
+<td align="left">Archipelago de San Lorenzo National Park:</td>
+<td align="left">II National Park</td>
 </tr>
 <tr class="odd">
-<td>San Pedro Mártir I.National Biosphere Reserve:</td>
-<td>VI Managed Resource Protected Area</td>
+<td align="left">San Pedro Mártir I.National Biosphere Reserve:</td>
+<td align="left">VI Managed Resource Protected Area</td>
 </tr>
 <tr class="even">
-<td>El Vizcaíno Biosphere Reserve:</td>
-<td>VI Managed Resource Protected Area</td>
+<td align="left">El Vizcaíno Biosphere Reserve:</td>
+<td align="left">VI Managed Resource Protected Area</td>
 </tr>
 <tr class="odd">
-<td>Bahía de Loreto National Park:</td>
-<td>II National Park</td>
+<td align="left">Bahía de Loreto National Park:</td>
+<td align="left">II National Park</td>
 </tr>
 <tr class="even">
-<td>Cabo Pulmo National Park:</td>
-<td>II National Park</td>
+<td align="left">Cabo Pulmo National Park:</td>
+<td align="left">II National Park</td>
 </tr>
 <tr class="odd">
-<td>Cabo San Lucas Flora &amp; Fauna Protected Area:</td>
-<td>VI Managed Resource Protected Area</td>
+<td align="left">Cabo San Lucas Flora &amp; Fauna Protected Area:</td>
+<td align="left">VI Managed Resource Protected Area</td>
 </tr>
 <tr class="even">
-<td>Islas Marías National Biosphere Reserve:</td>
-<td>VI Managed Resource Protected Area</td>
+<td align="left">Islas Marías National Biosphere Reserve:</td>
+<td align="left">VI Managed Resource Protected Area</td>
 </tr>
 <tr class="odd">
-<td>Islas Marías National Park:</td>
-<td>II National Park</td>
+<td align="left">Islas Marías National Park:</td>
+<td align="left">II National Park</td>
 </tr>
 <tr class="even">
-<td>Isla Isabel National Park:</td>
-<td>II National Park</td>
+<td align="left">Isla Isabel National Park:</td>
+<td align="left">II National Park</td>
 </tr>
 </tbody>
 </table>
@@ -164,87 +164,87 @@ The nominated islands and protected areas are located in the Gulf of California 
 <table>
 <thead>
 <tr class="header">
-<th><strong>Protected Area </strong></th>
-<th><strong>Location</strong></th>
-<th><strong>Extreme Coordinates</strong></th>
+<th align="left"><strong>Protected Area </strong></th>
+<th align="left"><strong>Location</strong></th>
+<th align="left"><strong>Extreme Coordinates</strong></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>Upper Gulf of California</p>
+<td align="left"><p>Upper Gulf of California</p>
 <p>&amp; Colorado River Delta</p>
 <p><em>Biosphere Reserve (marine)</em></p></td>
-<td><p>Baja California / Mexicali /</p>
+<td align="left"><p>Baja California / Mexicali /</p>
 <p>Sonora / Puerto Penasco / San Luis Rio Colorado</p></td>
-<td><p>31°53’06” – 31°02’40” N</p>
+<td align="left"><p>31°53’06” – 31°02’40” N</p>
 <p>114°52’37” – 106°02’30” W</p></td>
 </tr>
 <tr class="even">
-<td><p>Islands in the Gulf of California</p>
+<td align="left"><p>Islands in the Gulf of California</p>
 <p><em>Flora &amp; Fauna Protected Area</em></p></td>
-<td>Baja Calif./ Baja Calif.Sur / Sonora / Sinaloa</td>
-<td><p>31°45’00” – 22°50’00” N</p>
+<td align="left">Baja Calif./ Baja Calif.Sur / Sonora / Sinaloa</td>
+<td align="left"><p>31°45’00” – 22°50’00” N</p>
 <p>114°52’37” – 106°02’30” W</p></td>
 </tr>
 <tr class="odd">
-<td><p>Archipelago de San Lorenzo</p>
+<td align="left"><p>Archipelago de San Lorenzo</p>
 <p><em>National Park </em></p></td>
-<td>Baja California</td>
-<td><p>± 28<sup>o</sup>32’ - ± 28 <sup>o</sup>56’ N</p>
+<td align="left">Baja California</td>
+<td align="left"><p>± 28<sup>o</sup>32’ - ± 28 <sup>o</sup>56’ N</p>
 <p>±112 <sup>o</sup>38’ – ±113 <sup>o</sup>04’ W</p></td>
 </tr>
 <tr class="even">
-<td><p>Isla San Pedro Mártir *</p>
+<td align="left"><p>Isla San Pedro Mártir *</p>
 <p><em>National Biosphere Reserve</em></p></td>
-<td>Sonora</td>
-<td><p>28°28’00” – 28°18’00” N</p>
+<td align="left">Sonora</td>
+<td align="left"><p>28°28’00” – 28°18’00” N</p>
 <p>112°13’30” – 112°23’01” W</p></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td><p>El Vizcaíno</p>
+<td align="left"><p>El Vizcaíno</p>
 <p><em>Biosphere Reserve (coast+sea)</em></p></td>
-<td>Baja California Sur</td>
-<td><p>28°00’02” – 27°22’44” N</p>
+<td align="left">Baja California Sur</td>
+<td align="left"><p>28°00’02” – 27°22’44” N</p>
 <p>112°46’18” – 112°15’00” W</p></td>
 </tr>
 <tr class="odd">
-<td><p>Bahía de Loreto *</p>
+<td align="left"><p>Bahía de Loreto *</p>
 <p><em>National Park </em></p></td>
-<td>Baja Calif.Sur / Los Cabos</td>
-<td><p>26°08’00” – 25°35’18” N</p>
+<td align="left">Baja Calif.Sur / Los Cabos</td>
+<td align="left"><p>26°08’00” – 25°35’18” N</p>
 <p>111°21’07” – 110°45’00” W</p></td>
 </tr>
 <tr class="even">
-<td><p>Cabo Pulmo</p>
+<td align="left"><p>Cabo Pulmo</p>
 <p><em>National Marine Park</em></p></td>
-<td>Baja Calif.Sur / Los Cabos</td>
-<td><p>23°30’00” – 23°22’30” N</p>
+<td align="left">Baja Calif.Sur / Los Cabos</td>
+<td align="left"><p>23°30’00” – 23°22’30” N</p>
 <p>109°22’59” – 109°27’58” W</p></td>
 </tr>
 <tr class="odd">
-<td><p>Cabo San Lucas*</p>
+<td align="left"><p>Cabo San Lucas*</p>
 <p><em>Flora &amp; Fauna Protected Area</em></p></td>
-<td>Baja Calif.Sur / Los Cabos</td>
-<td><p>22°54’00” – 22°50’49” N</p>
+<td align="left">Baja Calif.Sur / Los Cabos</td>
+<td align="left"><p>22°54’00” – 22°50’49” N</p>
 <p>109°49’59” – 109°54’00” W</p></td>
 </tr>
 <tr class="even">
-<td><p>Islas Marías *</p>
+<td align="left"><p>Islas Marías *</p>
 <p><em>National Park and Biosphere Reserve</em></p></td>
-<td>Nayarit</td>
-<td><p>22°04’01” – 20°58’01” N</p>
+<td align="left">Nayarit</td>
+<td align="left"><p>22°04’01” – 20°58’01” N</p>
 <p>105°54’00” – 107°03’00” W</p></td>
 </tr>
 <tr class="odd">
-<td><p>Isla Isabel *</p>
+<td align="left"><p>Isla Isabel *</p>
 <p><em>National Park</em></p></td>
-<td>Nayarit</td>
-<td><p>21°52’01” – 21°50’35” N</p>
+<td align="left">Nayarit</td>
+<td align="left"><p>21°52’01” – 21°50’35” N</p>
 <p>105°52’44” – 105°53’34” W</p></td>
 </tr>
 </tbody>
@@ -298,197 +298,197 @@ AREAS
 <table>
 <thead>
 <tr class="header">
-<th><strong>Protected Area</strong></th>
-<th><p><strong>Land</strong></p>
+<th align="left"><strong>Protected Area</strong></th>
+<th align="left"><p><strong>Land</strong></p>
 <p><strong>Area (ha)</strong></p></th>
-<th><p><strong>Marine</strong></p>
+<th align="left"><p><strong>Marine</strong></p>
 <p><strong>Area (ha)</strong></p></th>
-<th><p><strong>Core</strong></p>
+<th align="left"><p><strong>Core</strong></p>
 <p><strong>Area (ha)</strong></p></th>
-<th><p><strong>Buffer</strong></p>
+<th align="left"><p><strong>Buffer</strong></p>
 <p><strong>Area (ha)</strong></p></th>
-<th><p><strong>Total</strong></p>
+<th align="left"><p><strong>Total</strong></p>
 <p><strong>Area (ha)</strong></p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td><p>Upper Gulf of California</p>
+<td align="left"><p>Upper Gulf of California</p>
 <p>&amp; Colorado River Delta</p>
 <p><em>Biosphere Reserve (marine)</em></p></td>
-<td>86,638</td>
-<td>454,591</td>
-<td>86,638</td>
-<td>454,591</td>
-<td>541,229</td>
+<td align="left">86,638</td>
+<td align="left">454,591</td>
+<td align="left">86,638</td>
+<td align="left">454,591</td>
+<td align="left">541,229</td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td><p>Islands in the Gulf of California</p>
+<td align="left"><p>Islands in the Gulf of California</p>
 <p><em>Flora &amp; Fauna Protected Area</em></p></td>
-<td>358,000</td>
-<td></td>
-<td>358,000</td>
-<td></td>
-<td>358,000</td>
+<td align="left">358,000</td>
+<td align="left"></td>
+<td align="left">358,000</td>
+<td align="left"></td>
+<td align="left">358,000</td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td><p>Archipelago de San Lorenzo</p>
+<td align="left"><p>Archipelago de San Lorenzo</p>
 <p><em>National Park</em></p></td>
-<td>8,806*</td>
-<td>49,637*</td>
-<td>8,806*</td>
-<td>49,637*</td>
-<td>58,443*</td>
+<td align="left">8,806*</td>
+<td align="left">49,637*</td>
+<td align="left">8,806*</td>
+<td align="left">49,637*</td>
+<td align="left">58,443*</td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td><p>Isla San Pedro Mártir</p>
+<td align="left"><p>Isla San Pedro Mártir</p>
 <p><em>Biosphere Reserve</em></p></td>
-<td>1,111</td>
-<td>29,054</td>
-<td>1,111</td>
-<td>29,054</td>
-<td>30,165</td>
+<td align="left">1,111</td>
+<td align="left">29,054</td>
+<td align="left">1,111</td>
+<td align="left">29,054</td>
+<td align="left">30,165</td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td><p>El Vizcaíno</p>
+<td align="left"><p>El Vizcaíno</p>
 <p><em>Biosphere Reserve (marine &amp; coast in Gulf of</em> <em>California)</em></p></td>
-<td></td>
-<td>49,451</td>
-<td>49,451</td>
-<td></td>
-<td>49,451</td>
+<td align="left"></td>
+<td align="left">49,451</td>
+<td align="left">49,451</td>
+<td align="left"></td>
+<td align="left">49,451</td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td><p>Bahía de Loreto</p>
+<td align="left"><p>Bahía de Loreto</p>
 <p><em>National Park </em></p></td>
-<td>22,690</td>
-<td>183,891</td>
-<td>206,581</td>
-<td></td>
-<td>206,581</td>
+<td align="left">22,690</td>
+<td align="left">183,891</td>
+<td align="left">206,581</td>
+<td align="left"></td>
+<td align="left">206,581</td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td><p>Cabo Pulmo</p>
+<td align="left"><p>Cabo Pulmo</p>
 <p><em>National Marine Park</em></p></td>
-<td></td>
-<td>7,111</td>
-<td>7,111</td>
-<td></td>
-<td>7,111</td>
+<td align="left"></td>
+<td align="left">7,111</td>
+<td align="left">7,111</td>
+<td align="left"></td>
+<td align="left">7,111</td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td><p>Cabo San Lucas</p>
+<td align="left"><p>Cabo San Lucas</p>
 <p><em>Flora &amp; Fauna Protected Area</em></p></td>
-<td>211</td>
-<td>3,785</td>
-<td>3,996</td>
-<td></td>
-<td>3,996</td>
+<td align="left">211</td>
+<td align="left">3,785</td>
+<td align="left">3,996</td>
+<td align="left"></td>
+<td align="left">3,996</td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td><p>Islas Marías</p>
+<td align="left"><p>Islas Marías</p>
 <p>Biosphere Reserve + buffer</p></td>
-<td>14,845</td>
-<td>626,440</td>
-<td>641,285</td>
-<td></td>
-<td>641,285</td>
+<td align="left">14,845</td>
+<td align="left">626,440</td>
+<td align="left">641,285</td>
+<td align="left"></td>
+<td align="left">641,285</td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td>Isla Isabel <em>National Park</em></td>
-<td>79*</td>
-<td>1,304*</td>
-<td>79*</td>
-<td>1,304*</td>
-<td>1,383*</td>
+<td align="left">Isla Isabel <em>National Park</em></td>
+<td align="left">79*</td>
+<td align="left">1,304*</td>
+<td align="left">79*</td>
+<td align="left">1,304*</td>
+<td align="left">1,383*</td>
 </tr>
 <tr class="odd">
-<td>Totals</td>
-<td>492,382</td>
-<td>1,405,264</td>
-<td>1,363,058</td>
-<td>534,588</td>
-<td><strong>1,897,646</strong>*</td>
+<td align="left">Totals</td>
+<td align="left">492,382</td>
+<td align="left">1,405,264</td>
+<td align="left">1,363,058</td>
+<td align="left">534,588</td>
+<td align="left"><strong>1,897,646</strong>*</td>
 </tr>
 </tbody>
 </table>
@@ -544,9 +544,9 @@ FAUNA
 
 The Gulf’s immense biodiversity productivity is due to the abundant phytoplankton and zooplankton which proliferates on the nutrients brought by upwelling oceanic currents. Its marine fauna is so rich that it was called ‘the world’s aquarium’ by Cousteau. But having evolved in isolation, the marine wildlife is also vulnerable to introduced predators and disturbance by man, as is the sparser terrestrial fauna. There are 31 species of marine mammals (75% of Mexico’s and 39% of the world’s total species), 34 species of cetaceans (a third of the world’s total), 891 species of fish in 441 genera including 90 endemic species and over 150 rocky and sandy coastal species; 73% of the fish are tropical. There are also 4,848 recorded macro-invertebrates.
 
-In the **Upper Gulf** there are 18 species of marine mammal, one, the *vaquita* or Gulf porpoise *Phocoena sinus* (CR), found only in the northern Gulf, is one of the world’s four rarest marine mammals. There are California sea lion, *Zalophus californianus* especially on I. San Jorge, and five species of dolphin: rough-toothed *Steno bredanensis*, Risso’s *Grampus griseus*, bottlenose *Tursiops truncatus*, long-beaked common *Delphinus capensis* and Pacific *D. delphis.* Eleven species of whale visit the northern Gulf: blue *[Balaenoptera musculus](http://www.redlist.org/search/details.php?species=2477)* (EN), fin *B. physalus* (EN), sperm *[Physeter macrocephalus](http://www.redlist.org/search/details.php?species=41755)* (VU) and humpback *[Megaptera novaeangliae](http://www.redlist.org/search/details.php?species=13006),* also killer *Orcinus orca*, false killer *Pseudorca crassidens*, shortfinned pilot *Globicephala macrorhynchus*, Cuvier’s beaked *Ziphius cavirostris*, pygmy sperm *Kogia breviceps*, minke *Balaenoptera acutorostrata* and grey whale *Eschrichtius robustus*. 161 species of fish, 42 of them endemic, are recorded there. This relatively low number is due to the restricting effect of winter cold and the wide tidal range. Eleven species are found only in the northern part of the Gulf though they are also found on the Pacific side of the peninsula. Two of these are the giant sea bass *Stereolepis gigas* (CR) and the basking shark *[Cetorhinus maximus](http://www.redlist.org/search/details.php?species=4292)* (VU). The large croaker the *Totoaba macdonaldi* (CR) used to spawn in the Colorado river delta and supported a fishery which has since been devastated by U.S. withdrawal of the river’s water. The desert pupfish *Cyprinodon macularis macularis*, a Colorado River freshwater fish, is threatened for the same reason. Marine invertebrate records for include 35 abundant species of mollusc and 190 decapods.
+In the **Upper Gulf** there are 18 species of marine mammal, one, the *vaquita* or Gulf porpoise *Phocoena sinus* (CR), found only in the northern Gulf, is one of the world’s four rarest marine mammals. There are California sea lion, *Zalophus californianus* especially on I. San Jorge, and five species of dolphin: rough-toothed *Steno bredanensis*, Risso’s *Grampus griseus*, bottlenose *Tursiops truncatus*, long-beaked common *Delphinus capensis* and Pacific *D. delphis.* Eleven species of whale visit the northern Gulf: blue [*Balaenoptera musculus*](http://www.redlist.org/search/details.php?species=2477) (EN), fin *B. physalus* (EN), sperm [*Physeter macrocephalus*](http://www.redlist.org/search/details.php?species=41755) (VU) and humpback [*Megaptera novaeangliae*](http://www.redlist.org/search/details.php?species=13006), also killer *Orcinus orca*, false killer *Pseudorca crassidens*, shortfinned pilot *Globicephala macrorhynchus*, Cuvier’s beaked *Ziphius cavirostris*, pygmy sperm *Kogia breviceps*, minke *Balaenoptera acutorostrata* and grey whale *Eschrichtius robustus*. 161 species of fish, 42 of them endemic, are recorded there. This relatively low number is due to the restricting effect of winter cold and the wide tidal range. Eleven species are found only in the northern part of the Gulf though they are also found on the Pacific side of the peninsula. Two of these are the giant sea bass *Stereolepis gigas* (CR) and the basking shark [*Cetorhinus maximus*](http://www.redlist.org/search/details.php?species=4292) (VU). The large croaker the *Totoaba macdonaldi* (CR) used to spawn in the Colorado river delta and supported a fishery which has since been devastated by U.S. withdrawal of the river’s water. The desert pupfish *Cyprinodon macularis macularis*, a Colorado River freshwater fish, is threatened for the same reason. Marine invertebrate records for include 35 abundant species of mollusc and 190 decapods.
 
-The **Islands of the Gulf** provide nursery and breeding grounds for some 30,000 California sea lion (25% of the total Mexican population) which in the 1980s had 40 denning grounds, especially around the Great Islands on I. San Esteban and I. Ángel, and on I.San Pedro Mártir. There are many cetaceans, the Bahía de Loreto being the area richest in marine mammals. There are grazing and wintering grounds for five out of the world’s eight marine turtles: leatherback [*Dermochelys coriacea*](http://www.redlist.org/search/details.php?species=6494) (CR), hawksbill [*Eretmochelys imbricata*](http://www.redlist.org/search/details.php?species=8005) (CR), loggerhead *Caretta caretta* (EN), black or Pacific green *Chelonia mydas agassizii* (EN) and olive ridley *[Lepidochelys olivacea](http://www.redlist.org/search/details.php?species=11534)* (VU). The poisonous yellow-bellied sea snake *Pelamis platura* is common. The coral reef at Cabo Pulmo is the only one in the Gulf and one of the most important in the eastern Pacific. There are many endemic and as yet undescribed invertebrate species, especially in the intertidal zones.
+The **Islands of the Gulf** provide nursery and breeding grounds for some 30,000 California sea lion (25% of the total Mexican population) which in the 1980s had 40 denning grounds, especially around the Great Islands on I. San Esteban and I. Ángel, and on I.San Pedro Mártir. There are many cetaceans, the Bahía de Loreto being the area richest in marine mammals. There are grazing and wintering grounds for five out of the world’s eight marine turtles: leatherback [*Dermochelys coriacea*](http://www.redlist.org/search/details.php?species=6494) (CR), hawksbill [*Eretmochelys imbricata*](http://www.redlist.org/search/details.php?species=8005) (CR), loggerhead *Caretta caretta* (EN), black or Pacific green *Chelonia mydas agassizii* (EN) and olive ridley [*Lepidochelys olivacea*](http://www.redlist.org/search/details.php?species=11534) (VU). The poisonous yellow-bellied sea snake *Pelamis platura* is common. The coral reef at Cabo Pulmo is the only one in the Gulf and one of the most important in the eastern Pacific. There are many endemic and as yet undescribed invertebrate species, especially in the intertidal zones.
 
 The terrestrial fauna is not abundant except for birds and the distribution of the land animals is dependent on the availability of food and fresh water. The greatest diversity, because of their adaptability, is of the invertebrates which form a basic food resource for the larger animals. Mammals are not diverse though there are 31 species listed as nationally threatened, the commonest being rodents. They include antelope jackrabbit *Lepus alleni*, coyote *Canis latrans*, ringtailed cat *Bassariscusn astutus* and mule deer *Odocoileus hemionus* on the larger islands. Bighorn sheep *Ovis canadensis* were introduced onto Tiburon in 1975. There are 115 species of reptiles, 48 (42%) being endemic and 25 being nationally endangered or in need of protection. 154 land bird species are recorded, 45 being migratory. The commonest resident land birds are the raven *Corvus corax*, mourning dove *Zenaida macroura* and cactus wren *Campylorhynchus brunneicapillus*; raptors include the red-tailed hawk *Buteo jamaicensis*, osprey, *Pandion haliaetus*, peregrine falcon *Falco peregrinus* and Harris’s hawk *Parabuteo unicinctus.*
 

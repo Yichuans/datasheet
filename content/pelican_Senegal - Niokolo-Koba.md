@@ -2,7 +2,7 @@ Title: NIOKOLO-KOBA NATIONAL PARK
 Tags: SENEGAL
 Author: UNEP-WCMC
 Year: 1981
-Date: 2017-04-20 14:28:42
+Date: 2017-05-18 15:38:43
 
 NIOKOLO-KOBA NATIONAL PARK
 ==========================
@@ -126,7 +126,7 @@ FAUNA
 
 The recent disastrous increase of poaching has drastically reduced the numbers of large animals which, in an ORSTOM survey in 1990-1 numbered 46,500. According to a census in 2006 by the African Parks Foundation they now number less than 900 (UNESCO, 2007). When the Park was designated there were some 84 species of mammal, over 330 species of bird, 38 reptiles, 20 amphibians, 60 species of fish and many invertebrate species. Carnivores include African wild dog *Lycaon pictus* (EN), lion *Panthera leo* (VU) and leopard *P. pardus*. About 150 West African chimpanzee *Pan troglodytes verus* (EN: 23 in 2003, Butynski, 2003) lived in the gallery forest of the Park and on Mount Assirik. This is the hottest, driest and most open chimpanzee habitat known and the north-western limit of their distribution. There are Guinea baboon *Papio papio*, green monkey *Chlorocebus aethiops sabaeus*, patas monkey *Erythrocebus patas*, Temminck’s red colobus *Procolobus badius temminckii* (EN); also elephant *Loxodonta africana* (VU: 30 in 1990,10 in 2006) in a remote area near Mount Assirik, hippopotamus *Hippopotamus amphibius* (VU), the last population of western giant eland *Taurotragus derbianus* (~\~~150 in 1990, 171 in 2006), lelwel hartebeest *Alcelaphus buselaphus lelwel* (EN) (5,000 in 1990, now 149), roan antelope *Hippotragus equinus* (6,000, now 710), kob *Kobus kob* (24,000, now 92), waterbuck *Kobus ellipsiprymnus* (3,300, now 10) and West African savanna buffalo *Syncerus caffer brachyceros* (8.000, now 450) (UNESCO, 2007). The area is said to have been the last refuge in Senegal of the western giraffe *Giraffa camelopardalis peralta* (EN), now no longer present. All three African crocodiles occur: Nile, *Crocodylus niloticus*, African slender-snouted, *C. cataphractus* and dwarf, *Osteolaemus tetraspis* (VU) and four species of tortoise. The elephants are a recent reintroduction, after an earlier herd of several hundred was killed off.
 
-Birds include spur-winged goose *Plectropterus gambensis* (2,500 in 1997), white-faced whistling-duck *Dendrocygna viduata*, martial eagle *Polemaetus bellicosus* and bateleur *Terathopius ecaudatus*, Arabian bustard *Ardiotis arabs*, Denham’s bustard *Neotis denhami*, violet turaco *Musophaga violacea* and [[]{#OLE_LINK1 .anchor}]{#OLE_LINK2 .anchor}Abyssinan ground-hornbill *Bucorvus abyssinicus*. Beaudouin's snake-eagle *Circaetus beaudouini* (VU) exists nearby.
+Birds include spur-winged goose *Plectropterus gambensis* (2,500 in 1997), white-faced whistling-duck *Dendrocygna viduata*, martial eagle *Polemaetus bellicosus* and bateleur *Terathopius ecaudatus*, Arabian bustard *Ardiotis arabs*, Denham’s bustard *Neotis denhami*, violet turaco *Musophaga violacea* and <span id="OLE_LINK2" class="anchor"><span id="OLE_LINK1" class="anchor"></span></span>Abyssinan ground-hornbill *Bucorvus abyssinicus*. Beaudouin's snake-eagle *Circaetus beaudouini* (VU) exists nearby.
 
 CONSERVATION VALUE 
 -------------------
@@ -228,9 +228,6 @@ DATE
 
 <table>
 <tbody>
-<tr class="odd">
-<td></td>
-</tr>
 </tbody>
 </table>
 

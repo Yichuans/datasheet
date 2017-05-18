@@ -2,7 +2,7 @@ Title: LAKE BAIKAL
 Tags: RUSSIAN FEDERATION
 Author: UNEP-WCMC
 Year: 1996
-Date: 2017-04-20 14:28:41
+Date: 2017-05-18 15:38:42
 
 LAKE BAIKAL 
 ============
@@ -53,34 +53,34 @@ IUCN MANAGEMENT CATEGORY
 <table>
 <thead>
 <tr class="header">
-<th>Baikalo-Lenskiy Zapovednik</th>
-<th>Ia Strict Nature Reserve</th>
+<th align="left">Baikalo-Lenskiy Zapovednik</th>
+<th align="left">Ia Strict Nature Reserve</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Barguzinskiy Zapovednik</td>
-<td>Ia Strict Nature Reserve. MAB Biosphere Reserve</td>
+<td align="left">Barguzinskiy Zapovednik</td>
+<td align="left">Ia Strict Nature Reserve. MAB Biosphere Reserve</td>
 </tr>
 <tr class="even">
-<td>Baikalskiy Zapovednik</td>
-<td>Ia Strict Nature Reserve. MAB Biosphere Reserve</td>
+<td align="left">Baikalskiy Zapovednik</td>
+<td align="left">Ia Strict Nature Reserve. MAB Biosphere Reserve</td>
 </tr>
 <tr class="odd">
-<td>Zabaikalskiy National Park</td>
-<td>II National Park</td>
+<td align="left">Zabaikalskiy National Park</td>
+<td align="left">II National Park</td>
 </tr>
 <tr class="even">
-<td>Pribaikalskiy National Park</td>
-<td>II National Park</td>
+<td align="left">Pribaikalskiy National Park</td>
+<td align="left">II National Park</td>
 </tr>
 <tr class="odd">
-<td>Frolikhinskiy Zakaznik</td>
-<td>IV Habitat/Species Management Area</td>
+<td align="left">Frolikhinskiy Zakaznik</td>
+<td align="left">IV Habitat/Species Management Area</td>
 </tr>
 <tr class="even">
-<td>Kabanskiy Zakaznik</td>
-<td>IV Habitat/Species Management Area. Ramsar Site</td>
+<td align="left">Kabanskiy Zakaznik</td>
+<td align="left">IV Habitat/Species Management Area. Ramsar Site</td>
 </tr>
 </tbody>
 </table>
@@ -135,30 +135,30 @@ AREAS
 <table>
 <thead>
 <tr class="header">
-<th>Baikalo-Lenskiy Zapovednik:</th>
-<th>659,919 ha</th>
-<th>Baikalskiy Zapovednik</th>
-<th>165,724 ha</th>
+<th align="left">Baikalo-Lenskiy Zapovednik:</th>
+<th align="left">659,919 ha</th>
+<th align="left">Baikalskiy Zapovednik</th>
+<th align="left">165,724 ha</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Pribaikalskiy National Park:</td>
-<td>418,000 ha</td>
-<td>Frolikhinskiy Zakaznik</td>
-<td>68,000 ha</td>
+<td align="left">Pribaikalskiy National Park:</td>
+<td align="left">418,000 ha</td>
+<td align="left">Frolikhinskiy Zakaznik</td>
+<td align="left">68,000 ha</td>
 </tr>
 <tr class="even">
-<td>Barguzinskiy Zapovednik:</td>
-<td>374,423 ha</td>
-<td>Kabanskiy Zakaznik</td>
-<td>18,000 ha</td>
+<td align="left">Barguzinskiy Zapovednik:</td>
+<td align="left">374,423 ha</td>
+<td align="left">Kabanskiy Zakaznik</td>
+<td align="left">18,000 ha</td>
 </tr>
 <tr class="odd">
-<td>Zabaikalskiy National Park:</td>
-<td>245,000 ha</td>
-<td></td>
-<td></td>
+<td align="left">Zabaikalskiy National Park:</td>
+<td align="left">245,000 ha</td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 </tbody>
 </table>
@@ -192,9 +192,9 @@ FAUNA
 
 Some 2,630 species live in the lake, 65% of them endemic, having evolved in isolation from ancient species, and there is twice that number of species in the surrounding taiga (UNESCO/IUCN, 2006; GlobalNature, 2002). The aquatic fauna of Lake Baikal is one of the most diverse and unusual in the world, including sponge reefs with 255 species of shrimp-like amphipods, 147 species of snail and 80 species of flatworm. About 80% of the world’s fresh water amphipods live in the lake. One, *Macrohectopus branickii* is a pelagic predator on mesozooplankton which migrates vertically (UNESCO/ IUCN, 2006). Dense clouds of millions of the tiny freshwater shrimp *Epischura baicalensis* which forms 96% of the zooplankton, filter the water of algae and bacteria, keeping it clear. (Galaziy, 1988). The deep hydrothermal vents of oxygenated water also attract an unusual range of species including sponges. The most noteworthy aquatic species is the unique *nerpa,* the freshwater Baikal seal [*Pusa sibirica*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Phoca&SpcName=sibirica). The population is said to number 70,000-100,000 individuals, though fewer than expected have been seen recently around the Ushkani Islands, their main habitat (UNESCO, 2010).
 
-The terrestrial fauna is less distinctive. The northern lake shores, as in Barguzinskiy Zapovednik, has a faunal diversity characteristic of the taiga, with 39 recorded species of mammal recorded, including pika [*Ochotona hyperborea*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Ochotona&SpcName=hyperborea), Siberian chipmunk [*Eutamias sibiricus*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Eutamias&SpcName=sibiricus), marmot [*Marmota baibacina*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Marmota&SpcName=baibacina), Siberian flying squirrel [*Pteromys volans*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Pteromys&SpcName=volans), fox [*Vulpes vulpes*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Vulpes&SpcName=vulpes), brown bear [*Ursus arctos*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Ursus&SpcName=arctos), ermine *Mustela [erminea](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Mustela&SpcName=erminea)*, and mountain, common and Kolinsky weasels [*Mustela altaia*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Mustela&SpcName=altaia), [*M. nivalis*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Mustela&SpcName=nivalis) and [*M. sibirica*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Mustela&SpcName=sibirica), Eurasian otter [*Lutra lutra*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Lutra&SpcName=lutra), large numbers of sable *[Martes zibellina](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Martes&SpcName=zibellina) princeps,* noted for its exceptionally valuable fur, wolverine [*Gulo gulo*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Gulo&SpcName=gulo), Pallas’s cat *Otocolobus manul*, a local race of musk deer *[Moschus moschiferus](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Moschus&SpcName=moschiferus)* (VU), Siberian red deer *[Cervus elaphus](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Cervus&SpcName=elaphus) sibiricus*, elk *[Alces alces](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Alces&SpcName=alces),* reindeer [*Rangifer tarandus*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Rangifer&SpcName=tarandus) and Siberian ibex *Capra sibirica.* The avifauna includes 261 bird species, among them the Siberian crane *Grus leucogeranus* (CR), swan goose *Anser cygnoides* (VU), eastern imperial eagle *Aquila heliaca* (VU), Asian dowitcher *Limnodromus semipalmatus*, corncrake *Crex crex,* white-tailed eagle [*Haliaeetus albicilla*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Haliaeetus&SpcName=albicilla) and capercaillie [*Tetrao urogallus*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Tetrao&SpcName=urogallus). Numbers of breeding *Anatidae* can reach 138,000. On migration, 5-7 million waders and waterbirds pass through the Selenga delta (Ramsar, 1997). The clouds of summer insects are as nourishing as the invertebrate life of the water.
+The terrestrial fauna is less distinctive. The northern lake shores, as in Barguzinskiy Zapovednik, has a faunal diversity characteristic of the taiga, with 39 recorded species of mammal recorded, including pika [*Ochotona hyperborea*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Ochotona&SpcName=hyperborea), Siberian chipmunk [*Eutamias sibiricus*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Eutamias&SpcName=sibiricus), marmot [*Marmota baibacina*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Marmota&SpcName=baibacina), Siberian flying squirrel [*Pteromys volans*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Pteromys&SpcName=volans), fox [*Vulpes vulpes*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Vulpes&SpcName=vulpes), brown bear [*Ursus arctos*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Ursus&SpcName=arctos), ermine *Mustela* [*erminea*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Mustela&SpcName=erminea), and mountain, common and Kolinsky weasels [*Mustela altaia*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Mustela&SpcName=altaia), [*M. nivalis*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Mustela&SpcName=nivalis) and [*M. sibirica*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Mustela&SpcName=sibirica), Eurasian otter [*Lutra lutra*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Lutra&SpcName=lutra), large numbers of sable [*Martes zibellina*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Martes&SpcName=zibellina) *princeps,* noted for its exceptionally valuable fur, wolverine [*Gulo gulo*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Gulo&SpcName=gulo), Pallas’s cat *Otocolobus manul*, a local race of musk deer [*Moschus moschiferus*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Moschus&SpcName=moschiferus) (VU), Siberian red deer [*Cervus elaphus*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Cervus&SpcName=elaphus) *sibiricus*, elk [*Alces alces*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Alces&SpcName=alces), reindeer [*Rangifer tarandus*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Rangifer&SpcName=tarandus) and Siberian ibex *Capra sibirica.* The avifauna includes 261 bird species, among them the Siberian crane *Grus leucogeranus* (CR), swan goose *Anser cygnoides* (VU), eastern imperial eagle *Aquila heliaca* (VU), Asian dowitcher *Limnodromus semipalmatus*, corncrake *Crex crex,* white-tailed eagle [*Haliaeetus albicilla*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Haliaeetus&SpcName=albicilla) and capercaillie [*Tetrao urogallus*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Tetrao&SpcName=urogallus). Numbers of breeding *Anatidae* can reach 138,000. On migration, 5-7 million waders and waterbirds pass through the Selenga delta (Ramsar, 1997). The clouds of summer insects are as nourishing as the invertebrate life of the water.
 
-To the south, in the Baikalskiy Zapovednik, there are 37 mammal species and 260 species of birds. Many of them are the same species found in the northern part of the basin but also include long-tailed gopher *Citellus undulatus,* steppe polecat *Mustela eversmanii* and Siberian weasel *M. sibirica*, lynx *[Lynx](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Felis&SpcName=lynx) lynx*, wild pig [*Sus scrofa*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Sus&SpcName=scrofa) and roe deer [*Capreolus capreolus*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Caprolus&SpcName=capreolus). Birds include black stork *Ciconia nigra,* Bewick’s swan *Cygnus columbianus bewickii,* swan goose (VU), eastern imperial eagle (VU), golden eagle *A. chrysaetos,* white-tailed eagle *Haliaeetus albicilla*, peregrine falcon *Falco peregrinus,* gyrfalcon *F. rusticolus*, saker falcon *F. cherrug* (VU), oriental honey buzzard [*Pernis ptilorhyncus*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Pernis&SpcName=ptilorhyncus), black kite [*Milvus migrans*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Milvus&SpcName=migrans), hawk owl [*Sunia ulula*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Sunia&SpcName=ulula), rock ptarmigan [*Lagopus mutus*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Lagopus&SpcName=mutus), hazel grouse [*Tetrastes bonasia*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Tetrastes&SpcName=bonasia), capercaillie *[Tetrao urogallus](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Tetrao&SpcName=urogallus),* Siberian crane (CR), great bustard [*Otis tarda*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Otis&SpcName=tarda) (VU) and Asian dowitcher (VU) (Borodin, 1983; LakeNet, 2004).
+To the south, in the Baikalskiy Zapovednik, there are 37 mammal species and 260 species of birds. Many of them are the same species found in the northern part of the basin but also include long-tailed gopher *Citellus undulatus,* steppe polecat *Mustela eversmanii* and Siberian weasel *M. sibirica*, lynx [*Lynx*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Felis&SpcName=lynx) *lynx*, wild pig [*Sus scrofa*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Sus&SpcName=scrofa) and roe deer [*Capreolus capreolus*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Caprolus&SpcName=capreolus). Birds include black stork *Ciconia nigra,* Bewick’s swan *Cygnus columbianus bewickii,* swan goose (VU), eastern imperial eagle (VU), golden eagle *A. chrysaetos,* white-tailed eagle *Haliaeetus albicilla*, peregrine falcon *Falco peregrinus,* gyrfalcon *F. rusticolus*, saker falcon *F. cherrug* (VU), oriental honey buzzard [*Pernis ptilorhyncus*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Pernis&SpcName=ptilorhyncus), black kite [*Milvus migrans*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Milvus&SpcName=migrans), hawk owl [*Sunia ulula*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Sunia&SpcName=ulula), rock ptarmigan [*Lagopus mutus*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Lagopus&SpcName=mutus), hazel grouse [*Tetrastes bonasia*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Tetrastes&SpcName=bonasia), capercaillie [*Tetrao urogallus*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Tetrao&SpcName=urogallus), Siberian crane (CR), great bustard [*Otis tarda*](http://quin.unep-wcmc.org/isdb/taxonomy/tax-gs-search2.cfm?GenName=Otis&SpcName=tarda) (VU) and Asian dowitcher (VU) (Borodin, 1983; LakeNet, 2004).
 
 There are 53 species of fish, most of them edible. 27 are endemic, including Baikal sturgeon *Acipencer schrenskii* and *A. baeri baicalensis*, the omul salmon *Coregonus autumnalis migratorius*, Baikal black grayling *Thymallus arcticus baicalensis,* 32 species of bullhead *Ictalurus* spp. and the viviparous large and small oilfish *golumyankam, Comephoridae baicalensis* and the transparent *gobi, C. dubowski* (Global Nature, 2002). The *golumyanka* forms the main diet of the Baikal seal.
 

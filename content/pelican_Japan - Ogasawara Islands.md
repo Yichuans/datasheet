@@ -2,7 +2,7 @@ Title: OGASAWARA ISLANDS
 Tags: JAPAN
 Author: UNEP-WCMC
 Year: 2011
-Date: 2017-04-20 14:28:35
+Date: 2017-05-18 15:38:38
 
 OGASAWARA ISLANDS
 =================
@@ -92,27 +92,27 @@ Area of the Ogasawara Islands property (including peripheral reefs)
 <table>
 <thead>
 <tr class="header">
-<th><strong>Name</strong></th>
-<th><strong>Area (ha)</strong></th>
+<th align="left"><strong>Name</strong></th>
+<th align="left"><strong>Area (ha)</strong></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>Ogasawara Archipelago</p>
+<td align="left"><p>Ogasawara Archipelago</p>
 <p>(Mukojima Island group 543 ha, Chichijima Island group 4,039 ha, Hahajima Island Group 2,415 ha)</p></td>
-<td>6,997</td>
+<td align="left">6,997</td>
 </tr>
 <tr class="even">
-<td>Kazan Island Group</td>
-<td>912</td>
+<td align="left">Kazan Island Group</td>
+<td align="left">912</td>
 </tr>
 <tr class="odd">
-<td>Nishino Island</td>
-<td>30</td>
+<td align="left">Nishino Island</td>
+<td align="left">30</td>
 </tr>
 <tr class="even">
-<td>Whole Ogasawara Islands</td>
-<td>7,939</td>
+<td align="left">Whole Ogasawara Islands</td>
+<td align="left">7,939</td>
 </tr>
 </tbody>
 </table>

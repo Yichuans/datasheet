@@ -2,7 +2,7 @@ Title: GARAMBA NATIONAL PARK
 Tags: DEMOCRATIC REPUBLIC OF THE CONGO
 Author: UNEP-WCMC
 Year: 1980
-Date: 2017-04-20 14:28:30
+Date: 2017-05-18 15:38:35
 
 GARAMBA NATIONAL PARK
 =====================
@@ -12,7 +12,7 @@ DEMOCRATIC REPUBLIC OF THE CONGO
 
 *Immense savannahs, grasslands and woodlands, threaded with gallery forests and swampy depressions, protect a wide range of animals, especially the four large mammals, elephant, giraffe, hippopotamus and the critically endangered northern white rhinoceros. This is much larger than the black rhino, and less than thirty individuals remain in the wild. It is one of the world’s twelve most threatened large animals.*
 
-*Threats to the Site: The Park was placed on the List of the World Heritage in Danger between 1984 and 1992 because of a serious decline in the rhinoceros population. After measures taken by the World Heritage Committee, IUCN, WWF, the Frankfort Zoological Society and the national authorities, the population recovered from 15 to around 35 animals. Since 1996 civil disorder in the east of the country has led to widespread attacks on the Park. Equipment was looted, outposts destroyed and several staff deserted. The site was returned to the [in Danger](file:///D:\toc\mainf4.htm) list. Poachers from the Sudan and Uganda are still very destructive but the remaining staff retain control of the southern third of the Park. Threats to the animal populations will not cease until adequate funding permits the enforcement of law and order.*
+*Threats to the Site: The Park was placed on the List of the World Heritage in Danger between 1984 and 1992 because of a serious decline in the rhinoceros population. After measures taken by the World Heritage Committee, IUCN, WWF, the Frankfort Zoological Society and the national authorities, the population recovered from 15 to around 35 animals. Since 1996 civil disorder in the east of the country has led to widespread attacks on the Park. Equipment was looted, outposts destroyed and several staff deserted. The site was returned to the*[ *in Danger*](file:///D:\toc\mainf4.htm) *list. Poachers from the Sudan and Uganda are still very destructive but the remaining staff retain control of the southern third of the Park. Threats to the animal populations will not cease until adequate funding permits the enforcement of law and order.*
 
 COUNTRY
 -------

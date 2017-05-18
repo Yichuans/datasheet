@@ -2,7 +2,7 @@ Title: IGUAZÚ NATIONAL PARK
 Tags: ARGENTINA
 Author: UNEP-WCMC
 Year: 1984
-Date: 2017-04-20 14:28:22
+Date: 2017-05-18 15:38:30
 
 IGUAZÚ NATIONAL PARK
 ====================
@@ -38,14 +38,14 @@ IUCN MANAGEMENT CATEGORY
 <table>
 <thead>
 <tr class="header">
-<th>Iguazú National Park:</th>
-<th>II National Park</th>
+<th align="left">Iguazú National Park:</th>
+<th align="left">II National Park</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Iguazú National Reserve:</td>
-<td>VI National Reserve</td>
+<td align="left">Iguazú National Reserve:</td>
+<td align="left">VI National Reserve</td>
 </tr>
 </tbody>
 </table>

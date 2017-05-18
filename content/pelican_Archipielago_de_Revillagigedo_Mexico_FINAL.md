@@ -2,7 +2,7 @@ Title: Archipiélago de Revillagigedo
 Tags: Mexico
 Author: UNEP-WCMC
 Year: 2016
-Date: 2017-04-20 14:28:22
+Date: 2017-05-18 15:38:30
 
 Archipiélago de Revillagigedo
 =============================
@@ -118,30 +118,30 @@ The property has four component parts:
 <table>
 <thead>
 <tr class="header">
-<th><strong>Component part</strong></th>
-<th><strong>Area (ha)</strong></th>
+<th align="left"><strong>Component part</strong></th>
+<th align="left"><strong>Area (ha)</strong></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Isla Socorro</td>
-<td>225,701</td>
+<td align="left">Isla Socorro</td>
+<td align="left">225,701</td>
 </tr>
 <tr class="even">
-<td>Isla Clarión</td>
-<td>161,345</td>
+<td align="left">Isla Clarión</td>
+<td align="left">161,345</td>
 </tr>
 <tr class="odd">
-<td>Isla San Benedicto</td>
-<td>137,002</td>
+<td align="left">Isla San Benedicto</td>
+<td align="left">137,002</td>
 </tr>
 <tr class="even">
-<td>Isla Roca Partida</td>
-<td>112,636</td>
+<td align="left">Isla Roca Partida</td>
+<td align="left">112,636</td>
 </tr>
 <tr class="odd">
-<td>Total</td>
-<td>636,685</td>
+<td align="left">Total</td>
+<td align="left">636,685</td>
 </tr>
 </tbody>
 </table>

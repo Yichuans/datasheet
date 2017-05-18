@@ -2,7 +2,7 @@ Title: PENÍNSULA VALDÉS
 Tags: ARGENTINA
 Author: UNEP-WCMC
 Year: 1999
-Date: 2017-04-20 14:28:22
+Date: 2017-05-18 15:38:30
 
 PENÍNSULA VALDÉS
 ================
@@ -44,40 +44,40 @@ IUCN MANAGEMENT CATEGORIES
 <table>
 <tbody>
 <tr class="odd">
-<td>Coastal Zona Intangible</td>
-<td>Ia Strict Natural Reserve</td>
+<td align="left">Coastal Zona Intangible</td>
+<td align="left">Ia Strict Natural Reserve</td>
 </tr>
 <tr class="even">
-<td>Golfo San José Marine Park</td>
-<td>II Provincial Park</td>
+<td align="left">Golfo San José Marine Park</td>
+<td align="left">II Provincial Park</td>
 </tr>
 <tr class="odd">
-<td>Carlos Ameghino Isthmus Nature Reserve</td>
-<td>IV Wildlife Reserve</td>
+<td align="left">Carlos Ameghino Isthmus Nature Reserve</td>
+<td align="left">IV Wildlife Reserve</td>
 </tr>
 <tr class="even">
-<td>Punta Norte Touristic Nature Reserve</td>
-<td>IV Wildlife Reserve</td>
+<td align="left">Punta Norte Touristic Nature Reserve</td>
+<td align="left">IV Wildlife Reserve</td>
 </tr>
 <tr class="odd">
-<td>Isla de los Pájaros Touristic Nature Reserve</td>
-<td>IV Wildlife Reserve</td>
+<td align="left">Isla de los Pájaros Touristic Nature Reserve</td>
+<td align="left">IV Wildlife Reserve</td>
 </tr>
 <tr class="even">
-<td>Puerto Pirámide Touristic Nature Reserve</td>
-<td>IV Wildlife Reserve</td>
+<td align="left">Puerto Pirámide Touristic Nature Reserve</td>
+<td align="left">IV Wildlife Reserve</td>
 </tr>
 <tr class="odd">
-<td>Punta Cantor (Caleta Valdés) Touristic Nature Reserve</td>
-<td>IV Wildlife Reserve</td>
+<td align="left">Punta Cantor (Caleta Valdés) Touristic Nature Reserve</td>
+<td align="left">IV Wildlife Reserve</td>
 </tr>
 <tr class="even">
-<td>Punta Delgada Touristic Nature Reserve</td>
-<td>IV Wildlife Reserve</td>
+<td align="left">Punta Delgada Touristic Nature Reserve</td>
+<td align="left">IV Wildlife Reserve</td>
 </tr>
 <tr class="odd">
-<td>Península Valdés Integral Objective Touristic Nature Reserve</td>
-<td>VI Nature Reserve</td>
+<td align="left">Península Valdés Integral Objective Touristic Nature Reserve</td>
+<td align="left">VI Nature Reserve</td>
 </tr>
 </tbody>
 </table>

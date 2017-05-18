@@ -2,7 +2,7 @@ Title: WADI RUM PROTECTED AREA
 Tags: JORDAN
 Author: UNEP-WCMC
 Year: 2011
-Date: 2017-04-20 14:28:35
+Date: 2017-05-18 15:38:39
 
 WADI RUM PROTECTED AREA
 =======================
@@ -44,7 +44,7 @@ Widespread petroglyphs, inscriptions and archaeological remains testify to 12,00
 
 **Criterion (v)**: The variety of landforms at Wadi Rum has played an essential role in fostering human settlement and, as a result, the development of sophisticated intellectual activity that is documented by abundant petroglyphs and rock inscriptions. This graphic testimony to diverse cultural traditions and civilizations over millennia is one of the world's richest sources of documentation. Nowhere else in the world can one find such a wealth of information that enables the study and understanding of the continuum of settled and mobile lifestyles in a desert landscape illustrating the adaptability and ingenuity of human communities who have made the most of scarce resources to sustain continuous presence after the climate became dryer in the Bronze Age.
 
-[[]{#OLE_LINK2 .anchor}]{#OLE_LINK1 .anchor}**Criterion (vii)**: Wadi Rum is recognised globally as an iconic desert landscape, renowned for its spectacular series of sandstone mountains and valleys, natural arches, and the range of narrow gorges, towering cliffs, massive landslides, and dramatic cavernous weathering forms displayed. Key attributes of the aesthetic values of the property include the diversity and sheer size of its landforms, together with the mosaic of colours, vistas into both narrow canyons and very large wadis, and the scale of the cliffs. The property displays, in a protected setting, an exceptional combination of landforms resulting from drainage incision, severe weathering by salt, biological and other processes, and the undermining of steep sandstone cliffs by these weathering processes, together with the world’s most spectacular networks of honeycomb weathering features. Its associations with the writings of T.E. Lawrence, stressed strongly in the nomination, have ensured a high profile for the property and have reinforced its reputation of the area as a classic desert landscape both globally and within the Arab States.
+<span id="OLE_LINK1" class="anchor"><span id="OLE_LINK2" class="anchor"></span></span>**Criterion (vii)**: Wadi Rum is recognised globally as an iconic desert landscape, renowned for its spectacular series of sandstone mountains and valleys, natural arches, and the range of narrow gorges, towering cliffs, massive landslides, and dramatic cavernous weathering forms displayed. Key attributes of the aesthetic values of the property include the diversity and sheer size of its landforms, together with the mosaic of colours, vistas into both narrow canyons and very large wadis, and the scale of the cliffs. The property displays, in a protected setting, an exceptional combination of landforms resulting from drainage incision, severe weathering by salt, biological and other processes, and the undermining of steep sandstone cliffs by these weathering processes, together with the world’s most spectacular networks of honeycomb weathering features. Its associations with the writings of T.E. Lawrence, stressed strongly in the nomination, have ensured a high profile for the property and have reinforced its reputation of the area as a classic desert landscape both globally and within the Arab States.
 
 **Integrity**
 

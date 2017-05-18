@@ -2,7 +2,7 @@ Title: TE WAHIPOUNAMU – SOUTH WEST NEW ZEALAND
 Tags: NEW ZEALAND
 Author: UNEP-WCMC
 Year: 1990
-Date: 2017-04-20 14:28:39
+Date: 2017-05-18 15:38:41
 
 TE WAHIPOUNAMU – SOUTH WEST NEW ZEALAND
 =======================================
@@ -93,34 +93,34 @@ National Park
 <table>
 <thead>
 <tr class="header">
-<th>1.</th>
-<th>Fiordland</th>
-<th>1952</th>
-<th>1,212,000</th>
-<th>II</th>
+<th align="left">1.</th>
+<th align="left">Fiordland</th>
+<th align="left">1952</th>
+<th align="left">1,212,000</th>
+<th align="left">II</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>2.</td>
-<td>Mount Aspiring</td>
-<td>1964</td>
-<td>355,543</td>
-<td>II</td>
+<td align="left">2.</td>
+<td align="left">Mount Aspiring</td>
+<td align="left">1964</td>
+<td align="left">355,543</td>
+<td align="left">II</td>
 </tr>
 <tr class="even">
-<td>3.</td>
-<td>Aoraki/Mount Cook</td>
-<td>1953</td>
-<td>70,699</td>
-<td>II</td>
+<td align="left">3.</td>
+<td align="left">Aoraki/Mount Cook</td>
+<td align="left">1953</td>
+<td align="left">70,699</td>
+<td align="left">II</td>
 </tr>
 <tr class="odd">
-<td>4.</td>
-<td>Westland/Tai Poutini</td>
-<td>1960</td>
-<td>117,547</td>
-<td>II</td>
+<td align="left">4.</td>
+<td align="left">Westland/Tai Poutini</td>
+<td align="left">1960</td>
+<td align="left">117,547</td>
+<td align="left">II</td>
 </tr>
 </tbody>
 </table>
@@ -130,20 +130,20 @@ Nature Reserve
 <table>
 <thead>
 <tr class="header">
-<th>5.</th>
-<th>Waitangiroto</th>
-<th>1957/1976/1986</th>
-<th>1,230</th>
-<th>Ia</th>
+<th align="left">5.</th>
+<th align="left">Waitangiroto</th>
+<th align="left">1957/1976/1986</th>
+<th align="left">1,230</th>
+<th align="left">Ia</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>6.</td>
-<td>Wilderness</td>
-<td>1964/1980</td>
-<td>88</td>
-<td>Ia</td>
+<td align="left">6.</td>
+<td align="left">Wilderness</td>
+<td align="left">1964/1980</td>
+<td align="left">88</td>
+<td align="left">Ia</td>
 </tr>
 </tbody>
 </table>
@@ -153,27 +153,27 @@ Scientific Reserve
 <table>
 <thead>
 <tr class="header">
-<th>7.</th>
-<th>Gorge Hill</th>
-<th>Pending</th>
-<th>2,188</th>
-<th>III</th>
+<th align="left">7.</th>
+<th align="left">Gorge Hill</th>
+<th align="left">Pending</th>
+<th align="left">2,188</th>
+<th align="left">III</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>8.</td>
-<td>Ramparts</td>
-<td>1972</td>
-<td>4.5</td>
-<td>Ia</td>
+<td align="left">8.</td>
+<td align="left">Ramparts</td>
+<td align="left">1972</td>
+<td align="left">4.5</td>
+<td align="left">Ia</td>
 </tr>
 <tr class="even">
-<td>9.</td>
-<td>Te Anau</td>
-<td>1973</td>
-<td>0.02</td>
-<td>Ia</td>
+<td align="left">9.</td>
+<td align="left">Te Anau</td>
+<td align="left">1973</td>
+<td align="left">0.02</td>
+<td align="left">Ia</td>
 </tr>
 </tbody>
 </table>
@@ -183,97 +183,97 @@ Scenic Reserve
 <table>
 <thead>
 <tr class="header">
-<th>10.</th>
-<th>Jacobs River</th>
-<th>1973</th>
-<th>120</th>
-<th>III</th>
+<th align="left">10.</th>
+<th align="left">Jacobs River</th>
+<th align="left">1973</th>
+<th align="left">120</th>
+<th align="left">III</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>11.</td>
-<td>Karangarua Bridge</td>
-<td>1950/1977</td>
-<td>24</td>
-<td>III</td>
+<td align="left">11.</td>
+<td align="left">Karangarua Bridge</td>
+<td align="left">1950/1977</td>
+<td align="left">24</td>
+<td align="left">III</td>
 </tr>
 <tr class="even">
-<td>12.</td>
-<td>Lake Moeraki</td>
-<td>1964</td>
-<td>243</td>
-<td>III</td>
+<td align="left">12.</td>
+<td align="left">Lake Moeraki</td>
+<td align="left">1964</td>
+<td align="left">243</td>
+<td align="left">III</td>
 </tr>
 <tr class="odd">
-<td>13.</td>
-<td>Lake Paringa</td>
-<td>1950</td>
-<td>307</td>
-<td>III</td>
+<td align="left">13.</td>
+<td align="left">Lake Paringa</td>
+<td align="left">1950</td>
+<td align="left">307</td>
+<td align="left">III</td>
 </tr>
 <tr class="even">
-<td>14.</td>
-<td>Lake Rotokino</td>
-<td>1930</td>
-<td>255</td>
-<td>III</td>
+<td align="left">14.</td>
+<td align="left">Lake Rotokino</td>
+<td align="left">1930</td>
+<td align="left">255</td>
+<td align="left">III</td>
 </tr>
 <tr class="odd">
-<td>15.</td>
-<td>Mahitahi</td>
-<td>1952/1981</td>
-<td>22</td>
-<td>III</td>
+<td align="left">15.</td>
+<td align="left">Mahitahi</td>
+<td align="left">1952/1981</td>
+<td align="left">22</td>
+<td align="left">III</td>
 </tr>
 <tr class="even">
-<td>16.</td>
-<td>Okuru</td>
-<td>1981</td>
-<td>46</td>
-<td>III</td>
+<td align="left">16.</td>
+<td align="left">Okuru</td>
+<td align="left">1981</td>
+<td align="left">46</td>
+<td align="left">III</td>
 </tr>
 <tr class="odd">
-<td>17.</td>
-<td>Paringa Bridge</td>
-<td>1950/1968</td>
-<td>103</td>
-<td>III</td>
+<td align="left">17.</td>
+<td align="left">Paringa Bridge</td>
+<td align="left">1950/1968</td>
+<td align="left">103</td>
+<td align="left">III</td>
 </tr>
 <tr class="even">
-<td>18.</td>
-<td>Rohutu</td>
-<td>1911/1974</td>
-<td>492</td>
-<td>III</td>
+<td align="left">18.</td>
+<td align="left">Rohutu</td>
+<td align="left">1911/1974</td>
+<td align="left">492</td>
+<td align="left">III</td>
 </tr>
 <tr class="odd">
-<td>19.</td>
-<td>Saltwater Lagoon</td>
-<td>1928/1981</td>
-<td>1,300</td>
-<td>III</td>
+<td align="left">19.</td>
+<td align="left">Saltwater Lagoon</td>
+<td align="left">1928/1981</td>
+<td align="left">1,300</td>
+<td align="left">III</td>
 </tr>
 <tr class="even">
-<td>20.</td>
-<td>The Exile</td>
-<td>1905</td>
-<td>56</td>
-<td>III</td>
+<td align="left">20.</td>
+<td align="left">The Exile</td>
+<td align="left">1905</td>
+<td align="left">56</td>
+<td align="left">III</td>
 </tr>
 <tr class="odd">
-<td>21.</td>
-<td>Toarona Creek</td>
-<td>1978</td>
-<td>97</td>
-<td>III</td>
+<td align="left">21.</td>
+<td align="left">Toarona Creek</td>
+<td align="left">1978</td>
+<td align="left">97</td>
+<td align="left">III</td>
 </tr>
 <tr class="even">
-<td>22.</td>
-<td>Waitangitaona</td>
-<td>1961</td>
-<td>118</td>
-<td>III</td>
+<td align="left">22.</td>
+<td align="left">Waitangitaona</td>
+<td align="left">1961</td>
+<td align="left">118</td>
+<td align="left">III</td>
 </tr>
 </tbody>
 </table>
@@ -281,14 +281,16 @@ Scenic Reserve
 Private Protected Land
 
 <table>
-<tbody>
-<tr class="odd">
-<td>23.</td>
-<td>Chapman Reserve</td>
-<td>1989</td>
-<td>20</td>
-<td>IV</td>
+<thead>
+<tr class="header">
+<th align="left">23.</th>
+<th align="left">Chapman Reserve</th>
+<th align="left">1989</th>
+<th align="left">20</th>
+<th align="left">IV</th>
 </tr>
+</thead>
+<tbody>
 </tbody>
 </table>
 
@@ -297,34 +299,34 @@ Wildlife Management Reserve
 <table>
 <thead>
 <tr class="header">
-<th>24.</th>
-<th>Diamond Lake/Lake Reid</th>
-<th>1970</th>
-<th>283</th>
-<th>?</th>
+<th align="left">24.</th>
+<th align="left">Diamond Lake/Lake Reid</th>
+<th align="left">1970</th>
+<th align="left">283</th>
+<th align="left">?</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>25.</td>
-<td>Lake Pratt</td>
-<td>1978</td>
-<td>25</td>
-<td>IV</td>
+<td align="left">25.</td>
+<td align="left">Lake Pratt</td>
+<td align="left">1978</td>
+<td align="left">25</td>
+<td align="left">IV</td>
 </tr>
 <tr class="even">
-<td>26.</td>
-<td>Okarito Lagoon</td>
-<td>1983</td>
-<td>173</td>
-<td>IV</td>
+<td align="left">26.</td>
+<td align="left">Okarito Lagoon</td>
+<td align="left">1983</td>
+<td align="left">173</td>
+<td align="left">IV</td>
 </tr>
 <tr class="odd">
-<td>27.</td>
-<td>White Heron Lagoon</td>
-<td>1984</td>
-<td>172</td>
-<td>?</td>
+<td align="left">27.</td>
+<td align="left">White Heron Lagoon</td>
+<td align="left">1984</td>
+<td align="left">172</td>
+<td align="left">?</td>
 </tr>
 </tbody>
 </table>
@@ -334,41 +336,41 @@ Ecological Area
 <table>
 <thead>
 <tr class="header">
-<th>28.</th>
-<th>Diggers Ridge</th>
-<th>1982</th>
-<th>4,235</th>
-<th>?</th>
+<th align="left">28.</th>
+<th align="left">Diggers Ridge</th>
+<th align="left">1982</th>
+<th align="left">4,235</th>
+<th align="left">?</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>29.</td>
-<td>Lillburn</td>
-<td>1982</td>
-<td>2,670</td>
-<td>?</td>
+<td align="left">29.</td>
+<td align="left">Lillburn</td>
+<td align="left">1982</td>
+<td align="left">2,670</td>
+<td align="left">?</td>
 </tr>
 <tr class="even">
-<td>30.</td>
-<td>Saltwater Lagoon</td>
-<td>1981/1984/1985</td>
-<td>1,483</td>
-<td>III</td>
+<td align="left">30.</td>
+<td align="left">Saltwater Lagoon</td>
+<td align="left">1981/1984/1985</td>
+<td align="left">1,483</td>
+<td align="left">III</td>
 </tr>
 <tr class="odd">
-<td>31.</td>
-<td>Oroko Swamp</td>
-<td>1981</td>
-<td>173</td>
-<td>III</td>
+<td align="left">31.</td>
+<td align="left">Oroko Swamp</td>
+<td align="left">1981</td>
+<td align="left">173</td>
+<td align="left">III</td>
 </tr>
 <tr class="even">
-<td>32.</td>
-<td>Waikoau</td>
-<td>1983</td>
-<td>329?</td>
-<td>III</td>
+<td align="left">32.</td>
+<td align="left">Waikoau</td>
+<td align="left">1983</td>
+<td align="left">329?</td>
+<td align="left">III</td>
 </tr>
 </tbody>
 </table>
@@ -378,41 +380,41 @@ National Park Special Areas
 <table>
 <thead>
 <tr class="header">
-<th>33.</th>
-<th>Secretary Island</th>
-<th>1973</th>
-<th>8,890</th>
-<th>Ia</th>
+<th align="left">33.</th>
+<th align="left">Secretary Island</th>
+<th align="left">1973</th>
+<th align="left">8,890</th>
+<th align="left">Ia</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>34.</td>
-<td>Sinbad Gully Stream</td>
-<td>1974</td>
-<td>2,160</td>
-<td>Ia</td>
+<td align="left">34.</td>
+<td align="left">Sinbad Gully Stream</td>
+<td align="left">1974</td>
+<td align="left">2,160</td>
+<td align="left">Ia</td>
 </tr>
 <tr class="even">
-<td>35.</td>
-<td>Solander Island</td>
-<td>1973</td>
-<td>120</td>
-<td>Ia</td>
+<td align="left">35.</td>
+<td align="left">Solander Island</td>
+<td align="left">1973</td>
+<td align="left">120</td>
+<td align="left">Ia</td>
 </tr>
 <tr class="odd">
-<td>36.</td>
-<td>Takahe Fiordland</td>
-<td>1953</td>
-<td>77,252</td>
-<td>Ia</td>
+<td align="left">36.</td>
+<td align="left">Takahe Fiordland</td>
+<td align="left">1953</td>
+<td align="left">77,252</td>
+<td align="left">Ia</td>
 </tr>
 <tr class="even">
-<td>37.</td>
-<td>Slip Stream</td>
-<td>1973</td>
-<td>18,000</td>
-<td>Ia</td>
+<td align="left">37.</td>
+<td align="left">Slip Stream</td>
+<td align="left">1973</td>
+<td align="left">18,000</td>
+<td align="left">Ia</td>
 </tr>
 </tbody>
 </table>
@@ -422,20 +424,20 @@ National Park Wilderness Areas
 <table>
 <thead>
 <tr class="header">
-<th>38.</th>
-<th>Glaisnock</th>
-<th>1974</th>
-<th>124,800</th>
-<th>Ib</th>
+<th align="left">38.</th>
+<th align="left">Glaisnock</th>
+<th align="left">1974</th>
+<th align="left">124,800</th>
+<th align="left">Ib</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>39.</td>
-<td>Pembroke</td>
-<td>1974</td>
-<td>18,000</td>
-<td>Ib</td>
+<td align="left">39.</td>
+<td align="left">Pembroke</td>
+<td align="left">1974</td>
+<td align="left">18,000</td>
+<td align="left">Ib</td>
 </tr>
 </tbody>
 </table>
@@ -445,20 +447,20 @@ Wilderness Area (Conservation Land)
 <table>
 <thead>
 <tr class="header">
-<th>40.</th>
-<th>Hooker/Landsborough</th>
-<th>1990</th>
-<th>41,000</th>
-<th>Ib</th>
+<th align="left">40.</th>
+<th align="left">Hooker/Landsborough</th>
+<th align="left">1990</th>
+<th align="left">41,000</th>
+<th align="left">Ib</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>41.</td>
-<td>Olivine</td>
-<td>1997</td>
-<td>83,000</td>
-<td>Ib</td>
+<td align="left">41.</td>
+<td align="left">Olivine</td>
+<td align="left">1997</td>
+<td align="left">83,000</td>
+<td align="left">Ib</td>
 </tr>
 </tbody>
 </table>

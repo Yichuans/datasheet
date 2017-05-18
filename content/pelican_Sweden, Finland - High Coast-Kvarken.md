@@ -2,7 +2,7 @@ Title: HIGH COAST / KVARKEN ARCHIPELAGO
 Tags: SWEDEN,FINLAND
 Author: UNEP-WCMC
 Year: 2000
-Date: 2017-04-20 14:28:44
+Date: 2017-05-18 15:38:44
 
 HIGH COAST / KVARKEN ARCHIPELAGO 
 =================================
@@ -53,64 +53,64 @@ Nature Reserves:
 <table>
 <tbody>
 <tr class="odd">
-<td>Balesudden</td>
-<td>Ia Strict Nature Reserve</td>
-<td>Halsviksravinen</td>
-<td>IV Habitat/Species Management Area</td>
+<td align="left">Balesudden</td>
+<td align="left">Ia Strict Nature Reserve</td>
+<td align="left">Halsviksravinen</td>
+<td align="left">IV Habitat/Species Management Area</td>
 </tr>
 <tr class="even">
-<td>Högbonden</td>
-<td>Ia Strict Nature Reserve</td>
-<td>Rotsidan</td>
-<td>IV Habitat/Species Management Area</td>
+<td align="left">Högbonden</td>
+<td align="left">Ia Strict Nature Reserve</td>
+<td align="left">Rotsidan</td>
+<td align="left">IV Habitat/Species Management Area</td>
 </tr>
 <tr class="odd">
-<td>Ögeltjärn</td>
-<td>Ia Strict Nature Reserve</td>
-<td>Skuleskogen</td>
-<td>IV Habitat/Species Management Area</td>
+<td align="left">Ögeltjärn</td>
+<td align="left">Ia Strict Nature Reserve</td>
+<td align="left">Skuleskogen</td>
+<td align="left">IV Habitat/Species Management Area</td>
 </tr>
 <tr class="even">
-<td>Omneberget</td>
-<td>Ia Strict Nature Reserve</td>
-<td>Storön</td>
-<td>IV Habitat/Species Management Area</td>
+<td align="left">Omneberget</td>
+<td align="left">Ia Strict Nature Reserve</td>
+<td align="left">Storön</td>
+<td align="left">IV Habitat/Species Management Area</td>
 </tr>
 <tr class="odd">
-<td>Södra Ulvön</td>
-<td>Ia Strict Nature Reserve</td>
-<td>Vilmyran</td>
-<td>IV Habitat/Species Management Area</td>
+<td align="left">Södra Ulvön</td>
+<td align="left">Ia Strict Nature Reserve</td>
+<td align="left">Vilmyran</td>
+<td align="left">IV Habitat/Species Management Area</td>
 </tr>
 <tr class="even">
-<td>Trysunda</td>
-<td>Ia Strict Nature Reserve</td>
-<td>Herrestaberget</td>
-<td>Unassigned</td>
+<td align="left">Trysunda</td>
+<td align="left">Ia Strict Nature Reserve</td>
+<td align="left">Herrestaberget</td>
+<td align="left">Unassigned</td>
 </tr>
 <tr class="odd">
-<td>Gnäggen</td>
-<td>III Natural Monument</td>
-<td>Storholmen</td>
-<td>Unassigned</td>
+<td align="left">Gnäggen</td>
+<td align="left">III Natural Monument</td>
+<td align="left">Storholmen</td>
+<td align="left">Unassigned</td>
 </tr>
 <tr class="even">
-<td>Mjältön</td>
-<td>III Natural Monument</td>
-<td>Storsand</td>
-<td>Unassigned</td>
+<td align="left">Mjältön</td>
+<td align="left">III Natural Monument</td>
+<td align="left">Storsand</td>
+<td align="left">Unassigned</td>
 </tr>
 <tr class="odd">
-<td>Norrfällsviken</td>
-<td>III Natural Monument</td>
-<td></td>
-<td></td>
+<td align="left">Norrfällsviken</td>
+<td align="left">III Natural Monument</td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td>Skuleberget</td>
-<td>III Natural Monument</td>
-<td></td>
-<td></td>
+<td align="left">Skuleberget</td>
+<td align="left">III Natural Monument</td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 </tbody>
 </table>
@@ -205,14 +205,14 @@ The total includes the following protected areas:
 <table>
 <thead>
 <tr class="header">
-<th>Skuleskogen National Park:</th>
-<th>2,950 ha (including 300 ha of sea)</th>
+<th align="left">Skuleskogen National Park:</th>
+<th align="left">2,950 ha (including 300 ha of sea)</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Nordingrå Nature Conservation Area:</td>
-<td>6,000 ha.</td>
+<td align="left">Nordingrå Nature Conservation Area:</td>
+<td align="left">6,000 ha.</td>
 </tr>
 </tbody>
 </table>
@@ -222,60 +222,60 @@ Nature Reserves:
 <table>
 <thead>
 <tr class="header">
-<th>Balesudden</th>
-<th>934 ha</th>
-<th>Skuleskogen</th>
-<th>97 ha</th>
+<th align="left">Balesudden</th>
+<th align="left">934 ha</th>
+<th align="left">Skuleskogen</th>
+<th align="left">97 ha</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Trysunda</td>
-<td>932 ha</td>
-<td>Ögeltjärn</td>
-<td>72 ha</td>
+<td align="left">Trysunda</td>
+<td align="left">932 ha</td>
+<td align="left">Ögeltjärn</td>
+<td align="left">72 ha</td>
 </tr>
 <tr class="even">
-<td>Högbonden</td>
-<td>335 ha</td>
-<td>Halsviksravinen</td>
-<td>63 ha</td>
+<td align="left">Högbonden</td>
+<td align="left">335 ha</td>
+<td align="left">Halsviksravinen</td>
+<td align="left">63 ha</td>
 </tr>
 <tr class="odd">
-<td>Storön</td>
-<td>302 ha</td>
-<td>Omneberget</td>
-<td>27 ha</td>
+<td align="left">Storön</td>
+<td align="left">302 ha</td>
+<td align="left">Omneberget</td>
+<td align="left">27 ha</td>
 </tr>
 <tr class="even">
-<td>Norrfällsviken</td>
-<td>227 ha</td>
-<td>Storsand</td>
-<td>12 ha</td>
+<td align="left">Norrfällsviken</td>
+<td align="left">227 ha</td>
+<td align="left">Storsand</td>
+<td align="left">12 ha</td>
 </tr>
 <tr class="odd">
-<td>Skuleberget</td>
-<td>226 ha</td>
-<td>Herrestaberget</td>
-<td>9 ha</td>
+<td align="left">Skuleberget</td>
+<td align="left">226 ha</td>
+<td align="left">Herrestaberget</td>
+<td align="left">9 ha</td>
 </tr>
 <tr class="even">
-<td>Södra Ulvön</td>
-<td>200 ha</td>
-<td>Storholmen</td>
-<td>9 ha</td>
+<td align="left">Södra Ulvön</td>
+<td align="left">200 ha</td>
+<td align="left">Storholmen</td>
+<td align="left">9 ha</td>
 </tr>
 <tr class="odd">
-<td>Mjältön</td>
-<td>147 ha</td>
-<td>Vilmyran</td>
-<td>5 ha</td>
+<td align="left">Mjältön</td>
+<td align="left">147 ha</td>
+<td align="left">Vilmyran</td>
+<td align="left">5 ha</td>
 </tr>
 <tr class="even">
-<td>Rotsidan</td>
-<td>112 ha</td>
-<td>Gnäggen</td>
-<td>2 ha</td>
+<td align="left">Rotsidan</td>
+<td align="left">112 ha</td>
+<td align="left">Gnäggen</td>
+<td align="left">2 ha</td>
 </tr>
 </tbody>
 </table>

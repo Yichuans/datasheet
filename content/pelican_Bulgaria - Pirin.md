@@ -2,7 +2,7 @@ Title: PIRIN NATIONAL PARK
 Tags: BULGARIA
 Author: UNEP-WCMC
 Year: 1983
-Date: 2017-04-20 14:28:26
+Date: 2017-05-18 15:38:33
 
 PIRIN NATIONAL PARK
 ===================
@@ -75,22 +75,22 @@ Includes:
 <table>
 <thead>
 <tr class="header">
-<th>Yulen Reserve</th>
-<th>Ib Strict Nature Reserve</th>
+<th align="left">Yulen Reserve</th>
+<th align="left">Ib Strict Nature Reserve</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Bayuvi Dupki-Dzindziritza Reserve</td>
-<td>Ib Strict Nature Reserve</td>
+<td align="left">Bayuvi Dupki-Dzindziritza Reserve</td>
+<td align="left">Ib Strict Nature Reserve</td>
 </tr>
 <tr class="even">
-<td>Tissata Strict Nature Reserve</td>
-<td>Ib Strict Nature Reserve</td>
+<td align="left">Tissata Strict Nature Reserve</td>
+<td align="left">Ib Strict Nature Reserve</td>
 </tr>
 <tr class="odd">
-<td>Malka Djindjiritza-Segmentepe</td>
-<td>Unassigned</td>
+<td align="left">Malka Djindjiritza-Segmentepe</td>
+<td align="left">Unassigned</td>
 </tr>
 </tbody>
 </table>
@@ -264,7 +264,7 @@ Pirin National Park Directorate (PNPD)(2007). *Pirin National Park Republic of B
 
 Rashev, B. (2003). Alternative Economic Valuation of Pirin National Park, Bulgaria: Application of Contingent Valuation and Travel Cost Method. Master’s thesis, Brandenburg Univ.of Technology, Cottbus, Germany. [http://www-1.tucottbus.de/BTU/Fak4/AllgOeko/erm/thesis/rashev-master.pdf](http://www-1.tu-cottbus.de/BTU/Fak4/AllgOeko/erm/thesis/rashev-master.pdf)
 
-Save Pirin (2006). Bansko ski zone. Crime against UNESCO site: Potential NATURA 2000 site. Accessed online 18 June 2007*: <http://www.bluelink.net/savepirin/REPORT_PIRIN.pdf>*
+Save Pirin (2006). Bansko ski zone. Crime against UNESCO site: Potential NATURA 2000 site. Accessed online 18 June 2007: [*http://www.bluelink.net/savepirin/REPORT\_PIRIN.pdf*](http://www.bluelink.net/savepirin/REPORT_PIRIN.pdf)
 
 ---------- (2007). Ski tracks – a history of the problem. Bansko ski zone – a crime without punishment. *Pirin News,* February. [www.bluelink.net/savepirin/en/index.shtml](http://www.bluelink.net/savepirin/en/index.shtml)
 

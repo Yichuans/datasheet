@@ -2,7 +2,7 @@ Title: NEW ZEALAND SUB-ANTARCTIC ISLANDS
 Tags: NEW ZEALAND
 Author: UNEP-WCMC
 Year: 1998
-Date: 2017-04-20 14:28:39
+Date: 2017-05-18 15:38:41
 
 NEW ZEALAND SUB-ANTARCTIC ISLANDS
 =================================
@@ -44,34 +44,34 @@ IUCN MANAGEMENT CATEGORY
 <table>
 <thead>
 <tr class="header">
-<th>Auckland Islands National Nature Reserve</th>
-<th>Ia Strict Nature Reserve</th>
+<th align="left">Auckland Islands National Nature Reserve</th>
+<th align="left">Ia Strict Nature Reserve</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Campbell Islands National Nature Reserve</td>
-<td>Ia Strict Nature Reserve</td>
+<td align="left">Campbell Islands National Nature Reserve</td>
+<td align="left">Ia Strict Nature Reserve</td>
 </tr>
 <tr class="even">
-<td>Antipodes Islands National Nature Reserve</td>
-<td>Ia Strict Nature Reserve</td>
+<td align="left">Antipodes Islands National Nature Reserve</td>
+<td align="left">Ia Strict Nature Reserve</td>
 </tr>
 <tr class="odd">
-<td>Snares Islands National Nature Reserve</td>
-<td>Ia Strict Nature Reserve</td>
+<td align="left">Snares Islands National Nature Reserve</td>
+<td align="left">Ia Strict Nature Reserve</td>
 </tr>
 <tr class="even">
-<td>Bounty Islands National Nature Reserve</td>
-<td>Ia Strict Nature Reserve</td>
+<td align="left">Bounty Islands National Nature Reserve</td>
+<td align="left">Ia Strict Nature Reserve</td>
 </tr>
 <tr class="odd">
-<td>Auckland Islands Marine Mammal Sanctuary</td>
-<td>Unassigned</td>
+<td align="left">Auckland Islands Marine Mammal Sanctuary</td>
+<td align="left">Unassigned</td>
 </tr>
 <tr class="even">
-<td>Auckland Islands / Motu Maha Marine Reserve</td>
-<td>Unassigned</td>
+<td align="left">Auckland Islands / Motu Maha Marine Reserve</td>
+<td align="left">Unassigned</td>
 </tr>
 </tbody>
 </table>

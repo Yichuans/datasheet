@@ -2,7 +2,7 @@ Title: PUTORANA PLATEAU
 Tags: RUSSIAN FEDERATION
 Author: UNEP-WCMC
 Year: 2010
-Date: 2017-04-20 14:28:41
+Date: 2017-05-18 15:38:43
 
 PUTORANA PLATEAU
 ================
@@ -217,7 +217,7 @@ Natural Heritage Protection Fund & Putoransky State Nature Reserve (2006). *Nomi
 
 *Nature Chronicles* for 2002-2005, Norilsk.
 
-Kidder, D. & Worsley, T. (2004). Causes and consequences of extreme Permo-Triassic warming to globally equable climate and relation to the Permo-Triassic extinction and recovery. Dept.of Geological Sciences, Ohio University, Athens, Ohio, U.S.A.*[Palaeogeography, Palaeoclimatology, Palaeoecology](http://www.sciencedirect.com/science/journal/00310182)**, ***303 (3-4): 207-237.
+Kidder, D. & Worsley, T. (2004). Causes and consequences of extreme Permo-Triassic warming to globally equable climate and relation to the Permo-Triassic extinction and recovery. Dept.of Geological Sciences, Ohio University, Athens, Ohio, U.S.A.[*Palaeogeography, Palaeoclimatology, Palaeoecology*](http://www.sciencedirect.com/science/journal/00310182), 303 (3-4): 207-237.
 
 Romanov, A. (2004). *Vertebrate Fauna of the Putorana Plateau*. Moscow. 475 pp.
 

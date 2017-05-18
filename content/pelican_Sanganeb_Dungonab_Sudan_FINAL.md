@@ -2,7 +2,7 @@ Title: Sanganeb Marine National Park and Dungonab Bay - Mukkawar Island Marine N
 Tags: Sudan
 Author: UNEP-WCMC
 Year: 2016
-Date: 2017-04-20 14:28:42
+Date: 2017-05-18 15:38:43
 
 Sanganeb Marine National Park and Dungonab Bay - Mukkawar Island Marine National Park
 =====================================================================================
@@ -100,22 +100,22 @@ The property is divided into two component parts:
 <table>
 <thead>
 <tr class="header">
-<th><strong>Component part</strong></th>
-<th><strong>Area (ha)</strong></th>
+<th align="left"><strong>Component part</strong></th>
+<th align="left"><strong>Area (ha)</strong></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Sanganeb Marine National Park</td>
-<td>692</td>
+<td align="left">Sanganeb Marine National Park</td>
+<td align="left">692</td>
 </tr>
 <tr class="even">
-<td>Dungonab Bay – Mukkawar Island Marine National Park</td>
-<td>198,832</td>
+<td align="left">Dungonab Bay – Mukkawar Island Marine National Park</td>
+<td align="left">198,832</td>
 </tr>
 <tr class="odd">
-<td><strong>Total</strong></td>
-<td><strong>199,524</strong></td>
+<td align="left"><strong>Total</strong></td>
+<td align="left"><strong>199,524</strong></td>
 </tr>
 </tbody>
 </table>

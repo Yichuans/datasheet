@@ -2,7 +2,7 @@ Title: VIRGIN KOMI FORESTS
 Tags: RUSSIAN FEDERATION
 Author: UNEP-WCMC
 Year: 1995
-Date: 2017-04-20 14:28:41
+Date: 2017-05-18 15:38:43
 
 VIRGIN KOMI FORESTS
 ===================
@@ -43,18 +43,18 @@ IUCN MANAGEMENT CATEGORY
 <table>
 <thead>
 <tr class="header">
-<th>Pechoro-Ilychsky Reserve:</th>
-<th>Ia Strict Nature Reserve</th>
+<th align="left">Pechoro-Ilychsky Reserve:</th>
+<th align="left">Ia Strict Nature Reserve</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Yugyd Va National Park:</td>
-<td>II National Park</td>
+<td align="left">Yugyd Va National Park:</td>
+<td align="left">II National Park</td>
 </tr>
 <tr class="even">
-<td>Pechoro-Ilychskogo Buffer zone and Forestry Farms:</td>
-<td>Unassigned</td>
+<td align="left">Pechoro-Ilychskogo Buffer zone and Forestry Farms:</td>
+<td align="left">Unassigned</td>
 </tr>
 </tbody>
 </table>

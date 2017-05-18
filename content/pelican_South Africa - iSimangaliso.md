@@ -2,7 +2,7 @@ Title: iSIMANGALISO WETLAND PARK
 Tags: SOUTH AFRICA
 Author: UNEP-WCMC
 Year: 1999
-Date: 2017-04-20 14:28:43
+Date: 2017-05-18 15:38:44
 
 iSIMANGALISO WETLAND PARK
 =========================
@@ -40,7 +40,7 @@ The iSimangaliso Wetland Park is one of the outstanding natural wetland and coas
 
 **Criterion (ix):** The combination of fluvial, marine and aeolian processes initiated in the early Pleistocene in iSimangaliso has resulted in a variety of landforms and continues to the present day. The Park’s transitional geographic location between sub-tropical and tropical Africa as well as the coastal setting have resulted in exceptional species diversity. Past speciation events in the Maputaland Centre of Endemism are also ongoing and contribute another element to the diversity and interplay of evolutionary processes at work in iSimangaliso. In the marine component of the site, the sediments being transported by the Agulhas current are trapped by submarine canyons on the continental shelf allowing for remarkably clear waters for the development of coral reefs. The interplay of this environmental heterogeneity is further complicated by major floods and coastal storms, events which are regularly experienced in iSimangaliso. The site is also of sufficient size and retains most of the key elements that are essential for long-term functioning of the ecosystems.
 
-**Criterion (x):** The five interlinked ecosystems found in iSimangaliso provide habitat for a significant diversity of African biota, including a large number of threatened and/or endemic species. The species lists for iSimangaliso are the lengthiest in the region and population sizes for most of them are viable. Of the over 6,500 plant and animal (including 521 bird) species recorded from the Park[]{#_ftnref1 .anchor}, populations of species of conservation importance include 11 species endemic to the park, 108 species endemic to South Africa, while 467 species are listed as threatened in South Africa. The outstanding diversity of habitats (terrestrial, wetland, coastal and aquatic) supports a wide variety of animal species, some at the northern and many at the southern limit of their range.
+**Criterion (x):** The five interlinked ecosystems found in iSimangaliso provide habitat for a significant diversity of African biota, including a large number of threatened and/or endemic species. The species lists for iSimangaliso are the lengthiest in the region and population sizes for most of them are viable. Of the over 6,500 plant and animal (including 521 bird) species recorded from the Park<span id="_ftnref1" class="anchor"></span>, populations of species of conservation importance include 11 species endemic to the park, 108 species endemic to South Africa, while 467 species are listed as threatened in South Africa. The outstanding diversity of habitats (terrestrial, wetland, coastal and aquatic) supports a wide variety of animal species, some at the northern and many at the southern limit of their range.
 
 **Integrity**
 
@@ -128,49 +128,49 @@ The total area of these 13 protected areas is 239,566 ha, including the marine a
 <table>
 <thead>
 <tr class="header">
-<th>Sodwana State Forest</th>
-<th>47,127 ha</th>
-<th>False Bay Park (Seal Island)</th>
-<th>2,247 ha</th>
+<th align="left">Sodwana State Forest</th>
+<th align="left">47,127 ha</th>
+<th align="left">False Bay Park (Seal Island)</th>
+<th align="left">2,247 ha</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>St Lucia Game Reserve</td>
-<td>36,826 ha</td>
-<td>Nyalazi State Forest</td>
-<td>1,367 ha</td>
+<td align="left">St Lucia Game Reserve</td>
+<td align="left">36,826 ha</td>
+<td align="left">Nyalazi State Forest</td>
+<td align="left">1,367 ha</td>
 </tr>
 <tr class="even">
-<td>Kosi Bay/Coastal Forest Reserve</td>
-<td>21,772 ha</td>
-<td>Sodwana Bay National Park</td>
-<td>1,155 ha</td>
+<td align="left">Kosi Bay/Coastal Forest Reserve</td>
+<td align="left">21,772 ha</td>
+<td align="left">Sodwana Bay National Park</td>
+<td align="left">1,155 ha</td>
 </tr>
 <tr class="odd">
-<td>Eastern Shores State Forest</td>
-<td>12,873 ha</td>
-<td>Maphelane Nature Reserve</td>
-<td>1,103 ha</td>
+<td align="left">Eastern Shores State Forest</td>
+<td align="left">12,873 ha</td>
+<td align="left">Maphelane Nature Reserve</td>
+<td align="left">1,103 ha</td>
 </tr>
 <tr class="even">
-<td>Cape Vidal State Forest</td>
-<td>11,313 ha</td>
-<td></td>
-<td></td>
+<td align="left">Cape Vidal State Forest</td>
+<td align="left">11,313 ha</td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="odd">
-<td>St Lucia Park</td>
-<td>12,545 ha</td>
-<td>St Lucia Marine Reserve</td>
-<td>44,280 ha</td>
+<td align="left">St Lucia Park</td>
+<td align="left">12,545 ha</td>
+<td align="left">St Lucia Marine Reserve</td>
+<td align="left">44,280 ha</td>
 </tr>
 <tr class="even">
-<td>Lake Sibayi Freshwater Reserve</td>
-<td>7,218 ha</td>
-<td><p>Maputaland Marine</p>
+<td align="left">Lake Sibayi Freshwater Reserve</td>
+<td align="left">7,218 ha</td>
+<td align="left"><p>Maputaland Marine</p>
 <p>Protected Area</p></td>
-<td>39,740 ha</td>
+<td align="left">39,740 ha</td>
 </tr>
 </tbody>
 </table>
@@ -220,7 +220,7 @@ FAUNA
 
 The outstanding diversity of habitats, terrestrial, wetland, coastal and aquatic, supports a wide variety of animal species, some at the northern and many at the southern limit of their range. The fringing coral reefs are among the southernmost in the world. The lakes, swamps and shallows comprise the most productive estuarine prawn nursery and marine nursery of the South African coast.
 
-There are 97 species of terrestrial mammals in the Park including the internationally threatened (reintroduced) [[]{#OLE_LINK2 .anchor}]{#OLE_LINK1 .anchor}south-central black rhinoceros *Diceros bicornis minor* (CR: 13 in the Eastern Shores with 95 in the adjoining Mkusi Game Reserve), and 150 southern white rhinoceros *Ceratotherium simum simum*. The Park has the largest single populations in South Africa of hippopotamus *Hippopotamus amphibius* (VU: about 700), the endemic Natal red duiker *Cephalophus natalensis natalensis* and southern reedbuck *Redunca arudinum*. It also has the largest publicly protected populations in KwaZulu-Natal of the endemic Tonga red bush squirrel *Paraxerus palliatus tongensis*, greater cane rat *Thryonomys swinderianus* and four-toed elephant shrew *Petrodromus tetradactylus,* thicktailed bushbaby *Otolemur crassicaudatus*, Stairs’ white-collared monkey C*ercopithecus mitis erythrarcus* (VU), sidestriped jackal *Canis adustus*, banded mongoose *Mungus mungo*, brown hyaena, *Hyaena brunnea* and bushbuck *Tragelaphus scriptus*, The cheetah *Acinonyx jubatus* (VU) was reintroduced in 2003 and the African wild dog *Lycaon pictus* (EN) was reintroduced to neighboring Mkuzi Reserve in 2005.
+There are 97 species of terrestrial mammals in the Park including the internationally threatened (reintroduced) <span id="OLE_LINK1" class="anchor"><span id="OLE_LINK2" class="anchor"></span></span>south-central black rhinoceros *Diceros bicornis minor* (CR: 13 in the Eastern Shores with 95 in the adjoining Mkusi Game Reserve), and 150 southern white rhinoceros *Ceratotherium simum simum*. The Park has the largest single populations in South Africa of hippopotamus *Hippopotamus amphibius* (VU: about 700), the endemic Natal red duiker *Cephalophus natalensis natalensis* and southern reedbuck *Redunca arudinum*. It also has the largest publicly protected populations in KwaZulu-Natal of the endemic Tonga red bush squirrel *Paraxerus palliatus tongensis*, greater cane rat *Thryonomys swinderianus* and four-toed elephant shrew *Petrodromus tetradactylus,* thicktailed bushbaby *Otolemur crassicaudatus*, Stairs’ white-collared monkey C*ercopithecus mitis erythrarcus* (VU), sidestriped jackal *Canis adustus*, banded mongoose *Mungus mungo*, brown hyaena, *Hyaena brunnea* and bushbuck *Tragelaphus scriptus*, The cheetah *Acinonyx jubatus* (VU) was reintroduced in 2003 and the African wild dog *Lycaon pictus* (EN) was reintroduced to neighboring Mkuzi Reserve in 2005.
 
 The Park is also the only protected area in KwaZulu-Natal known to have populations of nine species of bat: Eygptian fruit *Rousettus aegyptiacus,* Geoffroy's horseshoe *Rhinolophus clivosus*, Percival’s trident *Cloeotis percivali* (VU), butterfly *Glauconycteris variegatus*, Schlieffen's *Nycticeinops schlieffeni*, lesser woolly *Kerivoula lanosa,* Ansorge's freetailed *Tadarida ansorgei*, Angolan freetailed *T. condylura* and the hairy slitfaced bat *Nycteris hispida*, the last being endemic to South Africa. There are also two shrews, the lesser red musk shrew *Crocidura hirta* and greater dwarf shrew *Suncus lixus*, and two gerbils, bushveld *Gerbilliscus leucogaster* and highveld *G. brantsii*. The Park also contains populations of two other species endemic to South Africa: Hottentot golden mole *Amblysomus hottentotus* and Natal red rock hare *Pronolagus crassicaudatus*.
 

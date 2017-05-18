@@ -2,7 +2,7 @@ Title: KOMODO NATIONAL PARK
 Tags: INDONESIA
 Author: UNEP-WCMC
 Year: 1991
-Date: 2017-04-20 14:28:34
+Date: 2017-05-18 15:38:38
 
 KOMODO NATIONAL PARK
 ====================
@@ -41,18 +41,18 @@ IUCN MANAGEMENT CATEGORY
 <table>
 <thead>
 <tr class="header">
-<th>Komodo National Park:</th>
-<th>II National Park</th>
+<th align="left">Komodo National Park:</th>
+<th align="left">II National Park</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Wae Wuul &amp; Mburak Nature Recreation Parks:</td>
-<td>Ia Strict Nature Reserves</td>
+<td align="left">Wae Wuul &amp; Mburak Nature Recreation Parks:</td>
+<td align="left">Ia Strict Nature Reserves</td>
 </tr>
 <tr class="even">
-<td>Mbeliling &amp; Ngorang Protection Forests:</td>
-<td>VI Resource Reserves</td>
+<td align="left">Mbeliling &amp; Ngorang Protection Forests:</td>
+<td align="left">VI Resource Reserves</td>
 </tr>
 </tbody>
 </table>

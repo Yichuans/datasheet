@@ -2,7 +2,7 @@ Title: PITONS MANAGEMENT AREA
 Tags: SAINT LUCIA
 Author: UNEP-WCMC
 Year: 2004
-Date: 2017-04-20 14:28:42
+Date: 2017-05-18 15:38:43
 
 PITONS MANAGEMENT AREA
 ======================
@@ -107,7 +107,7 @@ FAUNA
 
 Twenty-seven bird species have been recorded on Gros Piton, including five endemic birds: the St.Lucia oriole *Icterus laudabilis*, St.Lucia black finch *Melanospiza richardsoni* (EN), St.Lucia flycatcher *Myiarchus oberi sanctae-luceae,* St.Lucia peewee *Contopus oberi* and St.Lucia house wren *Troglodytes aedon sanctae-luceae;* also the white-breasted thrasher *Ramphocinclus brachyurus* (EN). There are the indigenous black-eared opossum *Didelphis marsupialis,* 3 species of bat, 3 rodents, 8 reptiles including the endemic St.Lucia anole lizard *Anolis luciae* and 3 amphibians; and many butterflies among the numerous invertebrate species which have not yet been completely surveyed.
 
-The coral reefs are healthy and diverse, comprised of fringing and patch reefs, covering almost 60% of the Marine Management Area. A short survey to a depth of 20 meters revealed 168 species of finfish, 60 species of cnidaria, including corals, 8 molluscs, 14 sponges, 11 echinoderms, 15 arthropods and 8 annelid worms. Hawksbill turtles *Eretmochelys imbricata* (CR) are seen inshore; whale sharks *Rhincodon typus* (VU) and short-finned pilot whales *[Globicephala macrorhynchus](http://www.redlist.org/search/details.php?species=9249),* are seen offshore. A comprehensive survey would almost certainly reveal greater diversity.
+The coral reefs are healthy and diverse, comprised of fringing and patch reefs, covering almost 60% of the Marine Management Area. A short survey to a depth of 20 meters revealed 168 species of finfish, 60 species of cnidaria, including corals, 8 molluscs, 14 sponges, 11 echinoderms, 15 arthropods and 8 annelid worms. Hawksbill turtles *Eretmochelys imbricata* (CR) are seen inshore; whale sharks *Rhincodon typus* (VU) and short-finned pilot whales [*Globicephala macrorhynchus*](http://www.redlist.org/search/details.php?species=9249), are seen offshore. A comprehensive survey would almost certainly reveal greater diversity.
 
 CONSERVATION VALUE
 ------------------

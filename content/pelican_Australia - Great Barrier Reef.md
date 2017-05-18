@@ -2,7 +2,7 @@ Title: GREAT BARRIER REEF
 Tags: AUSTRALIA
 Author: UNEP-WCMC
 Year: 1981
-Date: 2017-04-20 14:28:23
+Date: 2017-05-18 15:38:31
 
 GREAT BARRIER REEF
 ==================
@@ -223,7 +223,7 @@ GBRMPA (1978). *Workshop on the Northern Sector of the Great Barrier Reef.* Grea
 
 ---------- (1994). *1993-1994 Annual Report*. Great Barrier Reef Marine Park Authority, Townsville, Queensland.
 
----------- (2000). *[Fauna and Flora of the Great Barrier Reef World Heritage Area](http://www.gbrmpa.gov.au/__data/assets/pdf_file/0004/7807/fauna_flora_full.pdf).
+---------- (2000). [*Fauna and Flora of the Great Barrier Reef World Heritage Area*](http://www.gbrmpa.gov.au/__data/assets/pdf_file/0004/7807/fauna_flora_full.pdf).
 
 ---------- (2001). *The State of Conservation of the World Heritage Properties in the Asia-Pacific Region. Australia, the Great Barrier Reef*. Great Barrier Reef Marine Park Authority, Townsville, Queensland.
 
@@ -233,7 +233,7 @@ Hillman, S. (1996). The state of the Great Barrier Reef World Heritage Area repo
 
 Hilton-Taylor, C. (compiler) (2007). *IUCN Red List of Threatened Species*. IUCN, Gland, Switzerland/ Cambridge U.K.
 
-Lucas, P, Webb, T., Valentine, P. & Marsh, H, (1997). *[The Outstanding Universal Value of the Great Barrier Reef World Heritage Area](http://www.gbrmpa.gov.au/corp_site/info_services/publications/wha).*
+Lucas, P, Webb, T., Valentine, P. & Marsh, H, (1997). [*The Outstanding Universal Value of the Great Barrier Reef World Heritage Area*](http://www.gbrmpa.gov.au/corp_site/info_services/publications/wha).
 
 McPhail, I. (1996). *Managing the Great Barrier Reef Marine Park: The Changing Environment of Managing Use in the Great Barrier Reef World Heritage Area.* Paper presented at the ABARE Outlook '99 conference, Melbourne 1996.
 

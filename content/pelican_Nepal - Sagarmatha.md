@@ -2,7 +2,7 @@ Title: SAGARMATHA NATIONAL PARK
 Tags: NEPAL
 Author: UNEP-WCMC
 Year: 1979
-Date: 2017-04-20 14:28:38
+Date: 2017-05-18 15:38:41
 
 SAGARMATHA NATIONAL PARK
 ========================
@@ -247,7 +247,7 @@ Milne, R. (1997) *Mission Report: South Asia Meeting to Review Status Conservati
 
 Nepal, S. (2000). Tourism in protected areas: The Nepalese Himalaya. *Annals of Tourism Research.* Vol. 27 (3): 661-681.
 
----------- (2005). Tourism and remote mountain settlements: spatial and temporal development of tourist infrastructure in the Mt Everest region, Nepal. *Tourism Geographies* Vol.7 (2): 205-227.
+---------- (2005). Tourism and remote mountain settlements: spatial and temporal development of tourist infrastructure in the Mt Everest region, Nepal. *Tourism Geographies* Vol.7 (2): 205-227. [](http://www.informaworld.com/smpp/title%7Econtent=t713709512%7Edb=all%7Etab=issueslist%7Ebranches=7#v7)
 
 Rajbhandari, K.,Uprety, V., Manandhar, K. & Maden, B (2004). *Botanical Expedition in the Sagarmatha National Park, East Nepal.* Department of Plant Resources, Ministry of Forests and Soil Conservation, Kathmandu, Nepal
 

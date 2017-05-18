@@ -2,7 +2,7 @@ Title: DISCOVERY COAST ATLANTIC FOREST RESERVES
 Tags: BRAZIL
 Author: UNEP-WCMC
 Year: 1999
-Date: 2017-04-20 14:28:25
+Date: 2017-05-18 15:38:32
 
 DISCOVERY COAST ATLANTIC FOREST RESERVES
 ========================================
@@ -51,36 +51,36 @@ IUCN MANAGEMENT CATEGORY
 <table>
 <tbody>
 <tr class="odd">
-<td>Descobrimento National Park</td>
-<td>II National Park</td>
+<td align="left">Descobrimento National Park</td>
+<td align="left">II National Park</td>
 </tr>
 <tr class="even">
-<td>Monte Pascoal National Park</td>
-<td>II National Park</td>
+<td align="left">Monte Pascoal National Park</td>
+<td align="left">II National Park</td>
 </tr>
 <tr class="odd">
-<td>Pau-Brasil National Park</td>
-<td>II National Park</td>
+<td align="left">Pau-Brasil National Park</td>
+<td align="left">II National Park</td>
 </tr>
 <tr class="even">
-<td>Una Biological Reserve</td>
-<td>Ia Strict Nature Reserve</td>
+<td align="left">Una Biological Reserve</td>
+<td align="left">Ia Strict Nature Reserve</td>
 </tr>
 <tr class="odd">
-<td>Sooretama Biological Reserve</td>
-<td>Ia Ecological Station</td>
+<td align="left">Sooretama Biological Reserve</td>
+<td align="left">Ia Ecological Station</td>
 </tr>
 <tr class="even">
-<td>Pau-Brasil CEPLAC Experimental Station</td>
-<td>Ia Ecological Station</td>
+<td align="left">Pau-Brasil CEPLAC Experimental Station</td>
+<td align="left">Ia Ecological Station</td>
 </tr>
 <tr class="odd">
-<td>Vale do Rio Doce Natural Reserve (Linhares Forest Reserve)</td>
-<td>Ia Private Reserve</td>
+<td align="left">Vale do Rio Doce Natural Reserve (Linhares Forest Reserve)</td>
+<td align="left">Ia Private Reserve</td>
 </tr>
 <tr class="even">
-<td>Veracel Station Private Natural Heritage Reserve</td>
-<td>Ia Private Reserve</td>
+<td align="left">Veracel Station Private Natural Heritage Reserve</td>
+<td align="left">Ia Private Reserve</td>
 </tr>
 </tbody>
 </table>
@@ -127,129 +127,110 @@ AREA
 <table>
 <thead>
 <tr class="header">
-<th><strong>Site </strong></th>
-<th><strong>Area</strong></th>
-<th><strong>Coordinates</strong></th>
+<th align="left"><strong>Site </strong></th>
+<th align="left"><strong>Area</strong></th>
+<th align="left"><strong>Coordinates</strong></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td>Sooretama Biological Reserve</td>
-<td>24,000 ha</td>
-<td>18 <sup>o</sup>53’ to 19 <sup>o</sup>05’S</td>
-<td>39 <sup>o</sup>55’ to 40 <sup>o</sup>15’W</td>
+<td align="left">Sooretama Biological Reserve</td>
+<td align="left">24,000 ha</td>
+<td align="left">18 <sup>o</sup>53’ to 19 <sup>o</sup>05’S</td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td><p>Vale do Rio Doce Natural Reserve</p>
+<td align="left"><p>Vale do Rio Doce Natural Reserve</p>
 <p>(formerly Linhares Forest Reserve)</p></td>
-<td>22,777 ha</td>
-<td>19<sup>o</sup>06’ to 19 <sup>o</sup>18’S</td>
-<td>39 <sup>o</sup>45’ to 40 <sup>o</sup>19’W</td>
+<td align="left">22,777 ha</td>
+<td align="left">19<sup>o</sup>06’ to 19 <sup>o</sup>18’S</td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td>Descobrimento National Park</td>
-<td>21,129 ha</td>
-<td>16 <sup>o</sup> 55 to 17 <sup>o</sup>15’S</td>
-<td>39 <sup>o</sup>25’ to 40 <sup>o</sup>10’W</td>
+<td align="left">Descobrimento National Park</td>
+<td align="left">21,129 ha</td>
+<td align="left">16 <sup>o</sup> 55 to 17 <sup>o</sup>15’S</td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td>Monte Pascoal National Park</td>
-<td>13,872.5 ha*</td>
-<td>16 <sup>o</sup>45’ to 16 <sup>o</sup>55’S</td>
-<td>39 <sup>o</sup>08’ to 39 <sup>o</sup>30’W</td>
+<td align="left">Monte Pascoal National Park</td>
+<td align="left">13,872.5 ha*</td>
+<td align="left">16 <sup>o</sup>45’ to 16 <sup>o</sup>55’S</td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td>Pau-Brasil National Park</td>
-<td>11,538 ha</td>
-<td>16 <sup>o</sup>25’ to 16 <sup>o</sup>35’S</td>
-<td>39 <sup>o</sup>10’ to 39 <sup>o</sup>22’W</td>
+<td align="left">Pau-Brasil National Park</td>
+<td align="left">11,538 ha</td>
+<td align="left">16 <sup>o</sup>25’ to 16 <sup>o</sup>35’S</td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td>Una Biological Reserve</td>
-<td>11,400 ha</td>
-<td>15 <sup>o</sup>10’ to 15 <sup>o</sup>18’S</td>
-<td>39 <sup>o</sup>00’ to 39 <sup>o</sup>15’W</td>
+<td align="left">Una Biological Reserve</td>
+<td align="left">11,400 ha</td>
+<td align="left">15 <sup>o</sup>10’ to 15 <sup>o</sup>18’S</td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td>Veracel Station Private Natural Heritage Reserve</td>
-<td>6,069 ha</td>
-<td>16 <sup>o</sup> 05 to 16 <sup>o</sup>15’S</td>
-<td>39 <sup>o</sup>05’ to 39 <sup>o</sup>10’W</td>
+<td align="left">Veracel Station Private Natural Heritage Reserve</td>
+<td align="left">6,069 ha</td>
+<td align="left">16 <sup>o</sup> 05 to 16 <sup>o</sup>15’S</td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td>Pau-Brasil CEPLAC Experimental Station</td>
-<td>1,142 ha</td>
-<td>adjoining Pau NP</td>
-<td></td>
+<td align="left">Pau-Brasil CEPLAC Experimental Station</td>
+<td align="left">1,142 ha</td>
+<td align="left">adjoining Pau NP</td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td><strong>TOTAL</strong></td>
-<td><strong>111,927.5 ha</strong></td>
-<td></td>
-<td></td>
+<td align="left"><strong>TOTAL</strong></td>
+<td align="left"><strong>111,927.5 ha</strong></td>
+<td align="left"></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 <tr class="even">
-<td>*26,606 ha (WDPA, 2009), 22,500 ha (Management Plan, 1995). The above excludes the Pataxó Indian reserve.</td>
+<td align="left">*26,606 ha (WDPA, 2009), 22,500 ha (Management Plan, 1995). The above excludes the Pataxó Indian reserve.</td>
 </tr>
 </tbody>
 </table>

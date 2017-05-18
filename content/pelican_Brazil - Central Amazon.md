@@ -2,7 +2,7 @@ Title: CENTRAL AMAZON CONSERVATION COMPLEX
 Tags: BRAZIL
 Author: UNEP-WCMC
 Year: 2000
-Date: 2017-04-20 14:28:25
+Date: 2017-05-18 15:38:32
 
 CENTRAL AMAZON CONSERVATION COMPLEX
 ===================================
@@ -59,22 +59,22 @@ IUCN MANAGEMENT CATEGORIES
 <table>
 <thead>
 <tr class="header">
-<th>Jaú National Park:</th>
-<th>II National Park</th>
+<th align="left">Jaú National Park:</th>
+<th align="left">II National Park</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Mamirauá Sustainable Development Reserve:</td>
-<td>VI Managed Resource Protected Area</td>
+<td align="left">Mamirauá Sustainable Development Reserve:</td>
+<td align="left">VI Managed Resource Protected Area</td>
 </tr>
 <tr class="even">
-<td>Amanã Sustainable Development Reserve:</td>
-<td>V Protected Landscape</td>
+<td align="left">Amanã Sustainable Development Reserve:</td>
+<td align="left">V Protected Landscape</td>
 </tr>
 <tr class="odd">
-<td>Anavilhanas Ecological Station:</td>
-<td>Ia Strict Nature Reserve</td>
+<td align="left">Anavilhanas Ecological Station:</td>
+<td align="left">Ia Strict Nature Reserve</td>
 </tr>
 </tbody>
 </table>
@@ -147,22 +147,22 @@ The areas given in the nomination documents total 5,232,086 ha:
 <table>
 <thead>
 <tr class="header">
-<th>Amanã Sustainable Development Reserve:</th>
-<th>2,350,000 ha</th>
+<th align="left">Amanã Sustainable Development Reserve:</th>
+<th align="left">2,350,000 ha</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Jau National Park:</td>
-<td>2,272,000 ha</td>
+<td align="left">Jau National Park:</td>
+<td align="left">2,272,000 ha</td>
 </tr>
 <tr class="even">
-<td>Anavilhanas Ecological Station:</td>
-<td>350,086 ha</td>
+<td align="left">Anavilhanas Ecological Station:</td>
+<td align="left">350,086 ha</td>
 </tr>
 <tr class="odd">
-<td>Mamirauá State Ecological Station:</td>
-<td>260,000 ha (Focal or Demonstration zone only)</td>
+<td align="left">Mamirauá State Ecological Station:</td>
+<td align="left">260,000 ha (Focal or Demonstration zone only)</td>
 </tr>
 </tbody>
 </table>

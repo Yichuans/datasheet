@@ -1,14 +1,14 @@
-Title: MALOTI - DRAKENSBERG PARK
-Tags: SOUTH AFRICA,LESOTHO
+Title: Maloti-Drakensberg Park
+Tags: South Africa & Lesotho
 Author: UNEP-WCMC
 Year: 2000
-Date: 2017-04-20 14:28:36
+Date: 2017-05-18 15:38:39
 
- MALOTI - DRAKENSBERG PARK
-==========================
+1.   MALOTI - DRAKENSBERG PARK
+    ==========================
 
-SOUTH AFRICA & LESOTHO
-======================
+    SOUTH AFRICA & LESOTHO
+    ======================
 
 *The Maloti-Drakensberg Park formerly uKhahlamba-Drakensberg Park extends along 200 kilometres of a mountain range of spectacular natural beauty, which is a also a major centre of endemism with a great diversity of birdlife and plants. Its double escarpment of sheer basalt cliffs and ramparts of golden sandstone rise above high rolling grasslands, rocky gorges and pristine steep-sided valleys. It also harbours in hundreds of caves and rock shelters, the largest concentration of early rock art in sub-Saharan Africa. These are outstanding in their quality and diversity of subjects, their depiction of animals and human beings, and as a record of the beliefs and way of life over 4,000 years of the Khoisan people who used to inhabit the region. Sehlabathebe National Park over the border in the Maloti Mountains of Lesotho is a continuation to the south of the great escarpment in yet higher cliffs and a remote alpine plateau in the highest country in southern Africa.*
 
@@ -85,34 +85,34 @@ II: National Park, Nature Reserves, State Forests and Game Reserve:
 <table>
 <thead>
 <tr class="header">
-<th>Royal Natal National Park</th>
-<th>Mkhomazi State Forest</th>
+<th align="left">Royal Natal National Park</th>
+<th align="left">Mkhomazi State Forest</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Sehlabathebe National Park</td>
-<td>Cathedral Peak State Forest</td>
+<td align="left">Sehlabathebe National Park</td>
+<td align="left">Cathedral Peak State Forest</td>
 </tr>
 <tr class="even">
-<td>Loteni Nature Reserve</td>
-<td>Garden Castle State Forest</td>
+<td align="left">Loteni Nature Reserve</td>
+<td align="left">Garden Castle State Forest</td>
 </tr>
 <tr class="odd">
-<td>Kamberg Nature Reserve</td>
-<td>Cobham State Forest</td>
+<td align="left">Kamberg Nature Reserve</td>
+<td align="left">Cobham State Forest</td>
 </tr>
 <tr class="even">
-<td>Vergelegen Nature Reserve</td>
-<td>Highmoor State Forest</td>
+<td align="left">Vergelegen Nature Reserve</td>
+<td align="left">Highmoor State Forest</td>
 </tr>
 <tr class="odd">
-<td>Rugged Glen Nature Reserve</td>
-<td>Monk’s Cowl State Forest</td>
+<td align="left">Rugged Glen Nature Reserve</td>
+<td align="left">Monk’s Cowl State Forest</td>
 </tr>
 <tr class="even">
-<td>Giant’s Castle Game Reserve</td>
-<td></td>
+<td align="left">Giant’s Castle Game Reserve</td>
+<td align="left"></td>
 </tr>
 </tbody>
 </table>
@@ -187,8 +187,10 @@ LAND TENURE
 
 Both parks are state owned. The Drakensberg section is administered by the KwaZulu-Natal Nature Conservation Service (KNNCS). Sehlabathebe is managed by the Director of Parks under the Lesotho Ministry of Tourism, Environment and Culture.
 
-AREAS
------
+1.  
+
+    AREAS
+    -----
 
 The total area of the Conservation Area is 249,313 ha. It comprises the following protected areas:
 
@@ -197,48 +199,48 @@ National Park, Nature Reserves and State Forests (excluding Wilderness Areas):
 <table>
 <thead>
 <tr class="header">
-<th>Royal Natal National Park</th>
-<th>8,094 ha</th>
-<th>Mkhomazi State Forest</th>
-<th>49,156 ha</th>
+<th align="left">Royal Natal National Park</th>
+<th align="left">8,094 ha</th>
+<th align="left">Mkhomazi State Forest</th>
+<th align="left">49,156 ha</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Sehlabathebe National Park</td>
-<td>6,500 ha</td>
-<td>Cathedral Peak State Forest</td>
-<td>32,246 ha</td>
+<td align="left">Sehlabathebe National Park</td>
+<td align="left">6,500 ha</td>
+<td align="left">Cathedral Peak State Forest</td>
+<td align="left">32,246 ha</td>
 </tr>
 <tr class="even">
-<td>Loteni Nature Reserve</td>
-<td>3,984 ha</td>
-<td>Garden Castle State Forest</td>
-<td>30,766 ha</td>
+<td align="left">Loteni Nature Reserve</td>
+<td align="left">3,984 ha</td>
+<td align="left">Garden Castle State Forest</td>
+<td align="left">30,766 ha</td>
 </tr>
 <tr class="odd">
-<td>Kamberg Nature Reserve</td>
-<td>2,980 ha</td>
-<td>Cobham State Forest</td>
-<td>30,498 ha</td>
+<td align="left">Kamberg Nature Reserve</td>
+<td align="left">2,980 ha</td>
+<td align="left">Cobham State Forest</td>
+<td align="left">30,498 ha</td>
 </tr>
 <tr class="even">
-<td>Vergelegen Nature Reserve</td>
-<td>1,159 ha</td>
-<td>Highmoor State Forest</td>
-<td>28,151 ha</td>
+<td align="left">Vergelegen Nature Reserve</td>
+<td align="left">1,159 ha</td>
+<td align="left">Highmoor State Forest</td>
+<td align="left">28,151 ha</td>
 </tr>
 <tr class="odd">
-<td>Rugged Glen Nature Reserve</td>
-<td>762 ha</td>
-<td>Monk’s Cowl State Forest</td>
-<td>20,379 ha</td>
+<td align="left">Rugged Glen Nature Reserve</td>
+<td align="left">762 ha</td>
+<td align="left">Monk’s Cowl State Forest</td>
+<td align="left">20,379 ha</td>
 </tr>
 <tr class="even">
-<td>Giant’s Castle Game Reserve</td>
-<td>34,638 ha</td>
-<td></td>
-<td></td>
+<td align="left">Giant’s Castle Game Reserve</td>
+<td align="left">34,638 ha</td>
+<td align="left"></td>
+<td align="left"></td>
 </tr>
 </tbody>
 </table>
@@ -248,26 +250,28 @@ Wilderness Areas within State Forests (117,764 ha, 48.5%):
 <table>
 <thead>
 <tr class="header">
-<th>Mkhomazi Wilderness Area</th>
-<th>56,155 ha</th>
-<th>Mzimkulu Wilderness Area</th>
-<th>28,340 ha</th>
+<th align="left">Mkhomazi Wilderness Area</th>
+<th align="left">56,155 ha</th>
+<th align="left">Mzimkulu Wilderness Area</th>
+<th align="left">28,340 ha</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Mdedelelo Wilderness Area</td>
-<td>27,000 ha</td>
-<td>Mlambonja Wilderness Area</td>
-<td>6,270 ha</td>
+<td align="left">Mdedelelo Wilderness Area</td>
+<td align="left">27,000 ha</td>
+<td align="left">Mlambonja Wilderness Area</td>
+<td align="left">6,270 ha</td>
 </tr>
 </tbody>
 </table>
 
 Sehlabathebe Range Management Area is a buffer zone, outside the World Heritage site, of 46,630 ha.
 
-ALTITUDE
---------
+1.  
+
+    ALTITUDE
+    --------
 
 Drakensberg Mountains: 1,280m to 3,446m (Mafadi). The Sehlabathebe plateau averages 2,450m.
 
@@ -287,8 +291,10 @@ The Drakensberg is dominated by the influence of subtropical anticyclones and is
 
 The mean annual temperature of all of the sites is about 16°C, but both seasonal and diurnal variations are considerable. The highest temperatures (up to 35°C) occur during summer on north-facing slopes at lower latitudes, while the lowest temperatures (down to -20°C) occur during winter nights on the summit plateau. There are about 180 days of frost between mid April and October at higher elevations, but the local topography controls its distribution and intensity. It also occurs lower down, when cold air from the high plateaus drains into lower valleys. Sehlabathebe is cooler, with temperatures averaging 21.2°C in summer and 8.2°C in winter.
 
-VEGETATION 
------------
+1.  
+
+    VEGETATION 
+    -----------
 
 The flora is very rich. The Drakensberg Alpine Centre cites over 2,800 species for the Drakensberg area, including 450 endemic angiosperms (16%). It is a mixture of the floras of the Cape, Afromontane, and Afroalpine regions with, at lower levels, subtropical biota, in a much dissected terrain of great topographic diversity, with wetlands, a large altitudinal range and strong climatic gradients. The infertile slightly acid upland soils may limit the growth of competing grasses and shrubs, and the land has long been used lightly. All of these features favor a wide range of habitats, species isolation and consequent speciation. The Park is known as a centre of plant diversity and endemism, and the Maloti Drakensberg is a key hotspot for the protection of globally threatened plant species. There are 1,390 plant species in the southern Drakensberg, approximately 30% of which - concentrated at high altitudes - are endemic. Some of these endemics are relicts of species more widely distributed under earlier climatic conditions. 317 plants are restricted to montane and submontane areas.
 
