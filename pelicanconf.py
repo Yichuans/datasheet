@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'International Union for Conservation of Nature'
-SITENAME = u'Datasheet'
+SITENAME = u'World Heritage Datasheet'
 SITEURL = ''
 
 PATH = 'content'
@@ -62,3 +62,4 @@ DIRECT_TEMPLATES = ('index', 'tags', 'search')
 
 LOAD_CONTENT_CACHE = False
 
+GOOGLE_ANALYTICS = 'UA-61833965-5'

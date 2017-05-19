@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en" prefix="og: http://ogp.me/ns# fb: https://www.facebook.com/2008/fbml">
 <head>
-    <title>SUNDARBANS NATIONAL PARK - Datasheet</title>
+    <title>SUNDARBANS NATIONAL PARK - World Heritage Datasheet</title>
     <!-- Using the latest rendering mode for IE -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta charset="utf-8">
@@ -15,7 +15,7 @@
         <meta name="keywords" content="INDIA" />
         <meta name="description" content="SUNDARBANS NATIONAL PARK INDIA The Sundarbans lie across the outer deltas of the Ganges, Brahmaputra and Meghna rivers. At 10,000 sq.km, it forms the largest estuarine mangrove forest in the world, 40% in India, 60% in Bangladesh. The adjacent World Heritage sites in India and Bangladesh cover just …" />
 
-        <meta property="og:site_name" content="Datasheet" />
+        <meta property="og:site_name" content="World Heritage Datasheet" />
         <meta property="og:type" content="article"/>
         <meta property="og:title" content="SUNDARBANS NATIONAL PARK"/>
         <meta property="og:url" content="https://yichuans.github.io/datasheet/output/sundarbans-national-park.html"/>
@@ -35,22 +35,56 @@
     <link rel="stylesheet" href="https://yichuans.github.io/datasheet/output/theme/css/style.css" type="text/css"/>
 
         <link href="https://yichuans.github.io/datasheet/output/feeds/all.atom.xml" type="application/atom+xml" rel="alternate"
-              title="Datasheet ATOM Feed"/>
+              title="World Heritage Datasheet ATOM Feed"/>
 
 
 
         <link href="https://yichuans.github.io/datasheet/output/feeds/misc.atom.xml" type="application/atom+xml" rel="alternate"
-              title="Datasheet misc ATOM Feed"/>
+              title="World Heritage Datasheet misc ATOM Feed"/>
 
-        <style type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:700|Roboto:400,400i" rel="stylesheet">
+    <style type="text/css">
+        body {
+            font-family: 'Roboto', sans-serif;
+            letter-spacing: 0.05px;
+            line-height: 24px;
+            margin: 0;
+            font-size: 16px;
+            margin-bottom: 24px;
+        }
+
+        h1, h2 {
+            font-family: 'Roboto Slab', serif;
+            font-weight: 700;
+        }
+    </style>
+
+    <style type="text/css">
+        /*scrollpy*/
+        body {
+            position: relative;
+        }
+
+        /*back to top hover effect*/
+        div#back-to-top {
+            position:fixed;
+            height:25px;
+            width:40px;
+            bottom:0;
+            right:0;
+            overflow: hidden;
+            transition: width 0.5s;
+        }
+
+        div#back-to-top:hover {
+            width:100px;
+        }
+
         div.entry-content h1 {
             display: none
         }
 
-        #toc {
-            margin-top: 50px;
-        }
-
+        /*toc*/
         div#toc>ul {
             list-style-type: none;
             padding: 0;
@@ -65,7 +99,113 @@
             padding-top: 30px;
             padding-left: 5px;
         }
-        </style>
+
+        div#toc li a.toc-href {
+            padding: 2px 2px;
+        }
+        /*sidebar*/
+        #sidebar-affix li {
+            list-style-type: none;
+        }
+
+        #sidebar-affix li.active {
+          border:0 #577492 solid;
+          border-right-width:2px;
+          background: #f8f8f8;
+        }
+/*
+        #sidebar li.active a {
+          color: #315171;
+          font-size:14px;
+        }*/
+
+        /*side bar desktop view*/
+        @media (min-width: 769px) {
+
+            #toc {
+                margin-top: 50px;
+            }
+
+            #sidebar-affix.affix-top {
+                position: static;
+                margin-top:3px;
+                width:228px;
+              }
+              
+            #sidebar-affix.affix {
+                position: fixed;
+                top:70px;
+                width:228px;
+              }
+
+            #sidebar-affix.affix-bottom {
+                position: absolute;
+                width:228px;
+            }
+        }
+
+        /*side bar tablet view*/
+        @media (min-width: 426px) and (max-width: 768px) {
+            #toc {
+                margin-top: 50px;
+            }
+
+            #sidebar-affix.affix-top {
+                position: static;
+                margin-top:3px;
+                width:175px;
+              }
+              
+            #sidebar-affix.affix {
+                position: fixed;
+                top:70px;
+                width:175px;
+              }
+
+            #sidebar-affix.affix-bottom {
+                position: absolute;
+                width:175px;
+            }
+
+        }
+
+
+        /*side bar mobile view*/
+        @media (max-width: 425px) {
+
+            #sidebar-affix {
+                position: relative;
+            }
+
+            div#toc>ul>li>a {
+                /*this element will reappar*/
+                display: block;
+                font-size: 20px;
+                text-align: center;
+                text-decoration: underline;
+                font-weight: bold;
+            }
+
+            #content h1 {
+                display: none;
+            }
+
+        }
+
+        /*search width*/
+        @media (max-width:767px) {
+            #tipue_search_input {
+                width: 100%;
+            }
+        }
+
+        /*content*/
+        #content h2 {
+            font-size: 24px;
+        }
+
+}
+    </style>
 </head>
 <body>
 
@@ -79,7 +219,7 @@
                 <span class="icon-bar"></span>
             </button>
             <a href="https://yichuans.github.io/datasheet/output/" class="navbar-brand">
-Datasheet            </a>
+World Heritage Datasheet            </a>
         </div>
         <div class="collapse navbar-collapse navbar-ex1-collapse">
             <ul class="nav navbar-nav">
@@ -278,12 +418,12 @@ Datasheet            </a>
    <div class="container">
       <hr>
       <div class="row">
-         <div class="col-xs-10">&copy; 2017 International Union for Conservation of Nature
+         <div class="col-xs-12">&copy; 2017 International Union for Conservation of Nature
             &middot; Powered by <a href="https://github.com/getpelican/pelican-themes/tree/master/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
             <a href="http://docs.getpelican.com/" target="_blank">Pelican</a>,
             <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>         </div>
-         <div class="col-xs-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
       </div>
+      <div id='back-to-top'><a role='button' href="#" ><i class="fa fa-arrow-up"></i> Back to top</a></div>
    </div>
 </footer>
 <script src="https://yichuans.github.io/datasheet/output/theme/js/jquery.min.js"></script>
@@ -294,11 +434,104 @@ Datasheet            </a>
 <!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
 <script src="https://yichuans.github.io/datasheet/output/theme/js/respond.min.js"></script>
 
+    <!-- Google Analytics -->
+    <script type="text/javascript">
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-61833965-5']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script');
+            ga.type = 'text/javascript';
+            ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+    <!-- End Google Analytics Code -->
 
 <script type="text/javascript">
+    // content h2 text-decoration
+    $('#content h2').after('<hr>');
+
+    // capitalise
+    $.fn.capitalise = function() {
+    return this.each(function() {
+        var $this = $(this),
+            text = $this.text(),
+            split = text.split(" "),
+            res = [],
+            i,
+            len,
+            component;
+        for (i = 0, len = split.length; i < len; i++) {
+            component = split[i];
+            if (component=='IUCN'){
+                res.push(component);
+                res.push(" ");
+            } else if (component.toUpperCase()=='AND' || component.toUpperCase()=='OF') {
+                res.push(component.toLowerCase());
+                res.push(" ");
+            }
+            else {
+            res.push(component.substring(0,1,1).toUpperCase());
+            res.push(component.substring(1).toLowerCase());
+            res.push(" "); // put space back in
+            }
+        }
+        $this.text(res.join(""));
+        });
+    };
+    // h2 heading
+    $('#content h1').capitalise()
+    $('#content h2').capitalise()
+    // toc a
+    $('a.toc-href').capitalise()
+
     // make tables bootstrap responsive
     $('table').addClass('table table-striped table-hover');
     $('table').wrap("<div class='table-responsive'></div>");
+
+    // sidebar affix
+    $('div#toc>ul ul').attr('id', 'sidebar-affix');
+    $('#sidebar-affix').affix({offset: {
+    top: 100,
+    bottom: function () {
+      return (this.bottom = $('footer').outerHeight(true))
+        }
+    }
+    })
+
+    // scollspy, need to target the parent
+    $('div#toc>ul ul').addClass('nav');
+    $('div#toc>ul>li').attr('id', 'sidebar-affix-parent');
+    $('body').attr('data-spy', 'scroll')
+
+    /* compensate navbar */
+    var $body   = $(document.body);
+    var navHeight = $('.navbar').outerHeight(true) +10;
+
+    $body.scrollspy({
+        target: '#sidebar-affix-parent',
+        offset: navHeight
+    });
+
+    /* smooth scrolling sections */
+    $('a[href*=#]:not([href=#])').click(function() {
+        if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+          var target = $(this.hash);
+          target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+          if (target.length) {
+            $('html,body').animate({
+              scrollTop: target.offset().top - 50
+            }, 1000);
+            return false;
+          }
+        }
+    });
+
 
 </script>
 </body>
