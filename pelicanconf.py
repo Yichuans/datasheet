@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = u'International Union for Conservation of Nature'
+AUTHOR = u'International Union for Conservation of Nature and UN Environment World Conservation Monitoring Centre'
 SITENAME = u'World Heritage Datasheet'
 SITEURL = ''
 
@@ -32,15 +32,15 @@ AUTHOR_FEED_RSS = None
 DEFAULT_PAGINATION = False
 
 # additional ========
-# ARTICLE_URL = 'sites/{wdpaid}/'
-# ARTICLE_SAVE_AS = 'sites/{wdpaid}/index.html'
+ARTICLE_URL = 'site/{slug}'
+ARTICLE_SAVE_AS = 'site/{slug}/index.html'
 
 HIDE_SIDEBAR = True
 DISPLAY_CATEGORIES_ON_MENU = False
 
 # A list of tuples (Title, URL) for additional menu items to appear at the beginning of the main menu.
 COLLAPSE_NAVBAR = True
-MENUITEMS = [('country', SITEURL + '/tags')]
+MENUITEMS = [('Country', SITEURL + '/tags')]
 
 JINJA_EXTENSIONS = ['jinja2.ext.i18n']
 
@@ -61,5 +61,7 @@ TOC = {
 DIRECT_TEMPLATES = ('index', 'tags', 'search')
 
 LOAD_CONTENT_CACHE = False
+
+TYPOGRIFY = True
 
 GOOGLE_ANALYTICS = 'UA-61833965-5'

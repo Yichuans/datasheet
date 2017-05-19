@@ -161,7 +161,8 @@
         }*/
 
         /*side bar desktop view*/
-        @media (min-width: 769px) {
+
+        @media (min-width: 992px) {
 
             #toc {
                 margin-top: 50px;
@@ -182,11 +183,35 @@
             #sidebar-affix.affix-bottom {
                 position: absolute;
                 width:228px;
+            }
+        }
+
+        @media (min-width: 768px) and (max-width: 991px) {
+
+            #toc {
+                margin-top: 50px;
+            }
+
+            #sidebar-affix.affix-top {
+                position: static;
+                margin-top:3px;
+                width:175px;
+              }
+              
+            #sidebar-affix.affix {
+                position: fixed;
+                top:70px;
+                width:175px;
+              }
+
+            #sidebar-affix.affix-bottom {
+                position: absolute;
+                width:175px;
             }
         }
 
         /*side bar tablet view*/
-        @media (min-width: 426px) and (max-width: 768px) {
+/*        @media (min-width: 426px) and (max-width: 768px) {
             #toc {
                 margin-top: 50px;
             }
@@ -209,10 +234,10 @@
             }
 
         }
-
+*/
 
         /*side bar mobile view*/
-        @media (max-width: 425px) {
+        @media (max-width: 767px) {
 
             #sidebar-affix {
                 position: relative;
@@ -307,7 +332,8 @@
     $('#sidebar-affix').affix({offset: {
     top: 100,
     bottom: function () {
-      return (this.bottom = $('footer').outerHeight(true))
+    // last footer to calculate offset
+      return (this.bottom = $('footer:last').outerHeight(true))
         }
     }
     })
