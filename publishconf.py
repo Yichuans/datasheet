@@ -14,7 +14,7 @@ SITEURL = 'https://yichuans.github.io/datasheet/output'
 # SITEURL = 'http://human-footprint.yichuans.me/output'
 SEARCH_URL = SITEURL + '/search'
 
-MENUITEMS = [('country', SITEURL + '/tags')]
+MENUITEMS = [('Country', SITEURL + '/tags')]
 
 RELATIVE_URLS = False
 
