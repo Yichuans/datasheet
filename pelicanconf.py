@@ -62,6 +62,4 @@ DIRECT_TEMPLATES = ('index', 'tags', 'search')
 
 LOAD_CONTENT_CACHE = False
 
-TYPOGRIFY = True
-
 GOOGLE_ANALYTICS = 'UA-61833965-5'

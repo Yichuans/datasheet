@@ -25,8 +25,10 @@ This initiative is part of the new thinking to deliver information digitally at 
 
 Many people have contributed to the making and maintenance of these datasheets in the past few decades.
 
+Here is a list of people (in alphabetical order) who have contributed in the past:
+Alice Haughan, Bastian Bertzky, Edward Lewis, Elise Belle, Tilman Jaeger and Yichuan Shi
 [THE LONG LIST OF PEOPLE WHO HAVE CONTRIBUTED]
 
-Special thanks go to John Ady, for his passion and dedication to the World Heritage Datasheets, at the age of 80.
+Special thanks go to John Ady, for his passion and unrelenting dedication to the World Heritage Datasheets, into his 80s.
 
 We would also like to take this opportunity to thank other contributors who have helped us to develop, improve and maintain the datasheets, including IUCN mission teams, IUCN, UNEP-WCMC and UNESCO staff, as well countless local experts as well as NGO practitioners.
